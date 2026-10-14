@@ -1,0 +1,636 @@
+{
+ "generado": "2026-10-14T19:07:43.363059+00:00",
+ "modo": "cierre",
+ "activos": [
+  {
+   "ticker": "BTC-USD",
+   "name": "Bitcoin",
+   "group": "Cripto",
+   "key": true,
+   "level": false,
+   "fuente": "Coinbase",
+   "calidad": "sin contraste",
+   "last": 81572.97,
+   "date": "2026-10-14",
+   "chg_1d": -0.018399318716675772,
+   "chg_5d": -0.011772286800692644,
+   "chg_1m": -0.0332471697999166,
+   "chg_3m": 0.28640210358589857,
+   "vol20_ann": 0.21013187174272163,
+   "ma50": 81163.23000000001,
+   "ma200": 72204.07415,
+   "dist_ma50": 0.005048345168125801,
+   "dist_ma200": 0.12975577846946185,
+   "rsi14": 46.617118606756414,
+   "from_high": -0.2620235704183641,
+   "from_low": 0.3938395798094898,
+   "z_1d": -0.792629100521307,
+   "trend": "lateral",
+   "flags": []
+  },
+  {
+   "ticker": "ETH-USD",
+   "name": "Ethereum",
+   "group": "Cripto",
+   "key": false,
+   "level": false,
+   "fuente": "Coinbase",
+   "calidad": "sin contraste",
+   "last": 2419.8,
+   "date": "2026-10-14",
+   "chg_1d": -0.030462811970366488,
+   "chg_5d": -0.02632754312478114,
+   "chg_1m": -0.09839486117114027,
+   "chg_3m": 0.28877976555051976,
+   "vol20_ann": 0.2959294158254188,
+   "ma50": 2555.4966000000004,
+   "ma200": 2140.4545,
+   "dist_ma50": -0.053099894556697946,
+   "dist_ma200": 0.1305075627629555,
+   "rsi14": 37.73777065089997,
+   "from_high": -0.38048679329334323,
+   "from_low": 0.5460103885151324,
+   "z_1d": -0.9295857792494929,
+   "trend": "lateral",
+   "flags": []
+  },
+  {
+   "ticker": "SOL-USD",
+   "name": "Solana",
+   "group": "Cripto",
+   "key": false,
+   "level": false,
+   "fuente": "Coinbase",
+   "calidad": "sin contraste",
+   "last": 103.86,
+   "date": "2026-10-14",
+   "chg_1d": -0.026890283893937994,
+   "chg_5d": -0.04750550256786501,
+   "chg_1m": -0.09679102530654837,
+   "chg_3m": 0.3745367919534144,
+   "vol20_ann": 0.37715196892708464,
+   "ma50": 109.39359999999999,
+   "ma200": 87.13105,
+   "dist_ma50": -0.05058431206213154,
+   "dist_ma200": 0.19199757147423324,
+   "rsi14": 37.29130383296938,
+   "from_high": -0.44658176586561515,
+   "from_low": 0.6711182622687049,
+   "z_1d": -0.771136050243789,
+   "trend": "lateral",
+   "flags": []
+  }
+ ],
+ "titulares": [
+  {
+   "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+   "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T19:04:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Resumen diario: El aumento de la inflación presiona a los mercados y los semiconductores sufren las mayores caídas (14.10.2026)",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUGJLS01GUTh1OFQ0U0JFSmVjeVJ4cWpaVTNmTHZKaGpWMmRlRUtZSWt4dDc3MDBBajFPcWp0WnRQWTBqMC1KX3U0bGt3MlZTUnBHblN1RTJnOG45Vl9vaEM3R1Y2OXp2S042UVVORnV0Tm5nSGpZWkxHVEpLMnR4LW5ZMDNMd1ZCeVJ5dTVLa1lZV1Y4TlNIcU03LUF1X2p3MWdzUzh4SlJVY0p5VWIwbjd1dzVqUUVTTVZEMm9ZMEs5SjVXMVlwemM1QnhMRG1Mb3BQX2VvLV9jSmU5QktYVjBRR2VuWHpQSWlvb19QbWFXTjVaMlI5dUF0V2ZRUGtIQUlvck5PTDM5SFB4TXVVdzV0Q0ZMdw?oc=5",
+   "source": "XTB.com",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T18:57:39+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Prices increased sharply in September in last inflation report ahead of elections",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDN2VFVqajVYaktjTE5GTmFOVE1ZSmRYNW1kQjBKQV8wdWFraFJfZHJUZVRvRGNjNVdsa0xsUDJlNFdDMXBvdFJ4cU1SWkZwOGRoVzhVZ3pBT1p1Q3RSOUV1aHNfdWRDOHNsY2MwSEtublVxYkIwZVZiXzNLckswWVY1Yl9JdVlGRncyMGppTFFucTgzeDM1UG5QQ3hoUkhQTFhZQUN6WU9jNDQ5TXNVbnFRdFZaNWM?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:56:19+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+   "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T18:53:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Soaring Energy Prices Push Inflation Higher",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
+   "source": "The New York Times",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:45:05+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US stocks drop toward their worst day since June as inflation worsens | National News | 2news.com",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajROS215cDlDbGpNcUlLcHc0bnlNQ01yV2FKeXVabHhIa0E4ZDd0VlNXbHdyd2o0c0FBY1BxSnNKMGZycjVJdmJ2VXMtbDh4YnBhWXRZcllEdVZGM2NDckFKT2dQNEdEM0tPaW9mRmU0ekp1Ml9Cd1B6OEZQR0g2RUh3eGlZVTQtY3NPQ0doOXNibGZxOTR1T1ZmWVlXUnUtaF9QdWZjaklmMDR4Qkc3cE9QWDN0RUhUT1E0dTNTdjNwbV9fcXhCMms4MVNpV0JaZkV4WVFEek1PY2NZRkl6am5Na0gycXI1?oc=5",
+   "source": "KTVN",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:43:57+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US stocks drop toward their worst day since June as inflation worsens",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+   "source": "AP News",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:43:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US Inflation 3.7%: The Level That Counts for Bitcoin",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSnoyQ0tlS2oxdWZkekJIWG1rMV9mdWpyYjlGYXROZzNkaEFRVUdjbkJ3Y2ZRQTlaeE04R1UtNlVIV3RNRnVNaWJJdEF1bGNFR2R3NmJXa3JGMzNPVjVuQ0VRTW4zcHp4dFpCQTZkUlljZw?oc=5",
+   "source": "CryptoTicker",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T18:40:36+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Vanguard Economist Says: Fed Rate Hikes Won't Hurt Stock Prices (Yet)",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDVjeEo3dHVPMWtkM05LMEpNVWlCTGdJT0pQU2tlTGoxOEdpWkZRMW1zNVFNTVpaZkpFbTZBRm1IWWhtN0k4d1RPWlo3TEdyZDJnbFVPWmNyWDJ4eVlCVXlheWJ0NWMxblZqYUpFdFUzblhvRTlUZTZfQW1tODFEZ1Mwc2hneEhQVmtEZjdDNXNqWkNhOEVqOFV1enVvUQ?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:35:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Hot inflation report increases odds of October rate hike",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODMxakZuZExoUnpYTUUybXdwQURocUlqMjl4SVdoSmxNVnpacTZQQ21kRTRXRm9UMmo2N19SUXBSTi0wRkFrTlR6QnY1cE0zdjVvRjZYQ1J6bzAzakJ5b0xTbnl3OW95WXl3RlBnME14SnhaS1ZKWmlwOGJYR0VOTlFLNjhlWWQ0VWFfNTRFWVhxRlRQd0tuSzJlZXBHc3M?oc=5",
+   "source": "RealEstateNews.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:30:53+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "New Mexico lawmakers grapple with proposal to help retirees combat soaring inflation",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXltWVVHaFU5N1FVRmN4UGJNZ2RrVkRpVmJhaEdFeFpqNU5Sdmt1c0J4V1RZOGs5QVN1Z0c5eFM0eW1HbThMTFcwYTMtaTYzSV83aDZYbHV5a1Vnbk8tdXB5bXJvXzJUajlwZXJLQm12TXNtNGhBWi1QdEVWLTNBS2FTcVp6RTV6dG02WjhBbEltTDhKOWZHTGtfc0FhNUpDWFROSTNvSDZBLVpVS0Q5MkhIT3lnSVZB?oc=5",
+   "source": "Source New Mexico",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:29:04+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed survey shows price pressures intensifying amid rise in fuel costs",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEdOeFlfWGYxQkFEMFV0MXNoZm5NdXpHRVRCUko5Mi1ONURfc0l6dXJSV253QzN4NFF2cjNmbFRvZ3NzaGt2MHV1MnZkTjMySDRJa2hyOTRyN0RHbjduT3FMWjhpQjBjZmdvTHQ3VVdqZUNTbzhKak0yTHd0Ymx4U00zcnlqNE9MQjdLUU5UejNIR2cxLVczQTh1SWdyLUY2SlZRUmhYMVBkR0NMc21PeA?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:25:43+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Social Security checks will go up by about $75 a month to offset inflation",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHctWllWT3NDZnRyWktPakhUTDA0Nnpua1V5dmRCTV80TUZ4RGFNM0dHX0hiWkx6a01tOUNLdU5VYUVuUzBDZ0hVT1NMZExPZm9FVWJuWlhKbzFaRXpVd2luanVCVzlXLTRzSHBzaVAxR0NhbHp1SkJDakt6TVVKQk5hVHhoalFPQWd4Q19fNVdXcld4TzBTVS1lbEl0My1kQVI0M0FralJmY1Vna2pyUkJ2RjU?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:23:57+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Wall Street tumbles as hot inflation data feeds worries about Fed rate hikes",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:17:40+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "A 29% spike in gasoline prices fuels higher inflation in Denver",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42LW85d3BYNjJ5OUxHQ1ZiRlMwUTVfUWFmdHhHOVlYRERheG1pZWJqeFNHbnFTaUxGckRMRExTclhoTzFYdVRmTll0TEthdjhKNVFxb3puS0QzWWVtUG9OeEVCUUw5QWNqYVhXQUh4Tm5SU3dNSF9PdVAwcw?oc=5",
+   "source": "The Denver Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:13:11+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US consumer inflation hotter than expected as midterms loom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVdBcWFNWlJkbEFCbHNDX29WRDJvTW9Ra0VVZVBMNHA2Y25URnBzVVhsN0VmeW43S1ltcjFqT3VWM200NWFWd2Vfc2E0bnhEY21WVS1zQkcxTVZGNjJHbU5EdHFEUDhPd0V1WHRJNlE0cHp1cm1EU21oZmFZX20xclJubXF0LXVWY29SWDhKN05sMmlmdWdob1lpZmNBUDZDZ1E?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T18:06:04+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin drops below $82,000 after U.S. inflation hits 3.7%",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVYV0hOSEZKelYwcVc4SHphZ3BycmM1cF92dnhtbkNKMmtwaW5zZ0s4VXJYZGZmNVR1X2hWR2JfX3RTRmtEZW41ZjRlaThDTkREUzdNZGNvN2pDd01nekJDLTFqUko1Ti02TEpZcnByRlNOSmJQbkxib1hzeDhzRDFIWTIwQXBBYnZpZHJvS0FlNVNZZUE?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T18:01:49+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Will mortgage rates stay above 7% in 2027?",
+   "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T18:01:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNV1NkdG0yYWt2R3huUy16OFRWOE1YeW10dlJEekVCdW5kN184SndiRXJGREFYemRwTll6ZTZuYmpJLWNrSVBXWk9JSUtWMVdXeFdpRXF2djJwVTJmV1c3X2RMX0ZwaWxYaVFabEVBOXVWNmlldW5yUDFoem9OajBwd0RkMmFjQ1JhU2dRMlFXSzJ5Q3JOM3VrUUNhaUdtVTNydG5aaVlsem50aUNPaGpWWFJ3dkE1RUEtb3VmdVpScmd0cGFobDJmempBaW9KWDFwQ1BPNVhWVS12bGVMclAwOVE1RVRWQ0ZqdENGb2NjSWFmanpWNFNFaENENGdwWXlOekJVWWU5TTdjTzNWMkYxbEFIVjM2aHUwTHR3Zk4wZ2NicUZQZzZKejVOdUozaW5ETFJTdjVuRGdnTm0xV1lzUmVqMlFWQlcycTdkMnBabTRsTEtfYlRnQjd6S1k0TXBLeWNocVhlVENhZw?oc=5",
+   "source": "WZTV",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:57:36+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Update: Equities Fall Intraday as Traders Parse Inflation Data, Bank of America's Earnings Miss",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2hENG1ESkVJZTlxTFB6SnkzWkx3SE1TR2JubkdSeVdGMW03RzczZVQ0bjNfM0RCU1lkcWdOSWRYaC1sNC13X202a3dWNUtJbUJkSjBpRDBsT0Ywc0ZJMUo0cGFXdnNoSXAxekgxeXVBMUZ1T2ZoTGtBQUFjdVp5TlN1Z2ZLdEtVdHVoMmZ4LTJ4OVpTQTltRFF4a280NDRhN24w?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:56:54+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "U.S. stocks sink as inflation gets worse",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHlXTGhDa0ptQ1VVeVFjZUFMZmd0bDNTU215SmJ3cmc5MUIyTzZRQVFUZE93SGJBYUlNdGpIancwNHpYbXZ5bHQ3LXFkbV9WM2kyTWhiQ2dLelc2VVMtYzk5SXpMZUJpWlZJU2pMTTBzTVdMQzFqYnVFTEF6aTA4d0I3emhWMHlVOXAwam5LM1NMb0RnY2tZa1ZBaGdFNENOVFQ1cnN0VmxNb0ZGMmU0?oc=5",
+   "source": "Pittsburgh Post-Gazette",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:54:54+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin price loses $82,000 after hot CPI: Can $80,000 support hold?",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aldRRndUZzNoQW4tMlBOVWQ1SDd6TW9mbERCT0NvaUQ4NERjejRUaU1HOGVOWU5wdTREQkQ0X1MzVGRVR09CTjRQU1cxX291aG9uOHExWGxhelU4RnlJbVhpN1lNMy1xY2NHLUx2Q1lJcjhjNnZTaE5pQQ?oc=5",
+   "source": "Crypto News",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T17:43:16+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlV0MnV6SXBYOUF1ZEl6UHpJanhsc01iWlhNaUFqOXJadG9abWpra3NjU2NMTTFscElqa2N2YkZLWjV2Qy1Rcm9zRFpLbUVCTnFUNHU4VjlFbUVfUnpoQS04dVF5dFpOVHRTQnU4NmhpUUMxcHlfRGI1ckVBQ1FreHUyNHpnVVZhWmZXN3FHSEJvNzJJRjd5aVdaa3J2S01Ca1hob1RLTUtNMU5MTWdVM19vdV9mUQ?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:43:06+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT?oc=5",
+   "source": "StoneX",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:40:38+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "CPI inflation: Lauren Simonetti warns of rising energy and healthcare costs",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdmlVY0x2Q3lOY2kyN0NEVEhrU0p3cFM5VXNERDZ0c3YzTjYwWW9FWTlPM3ZFY0hnRVFCSEdlbVNvcUdPdUJoVi1Xd290bnBRYktqUkhTT0dtekU?oc=5",
+   "source": "Fox Business",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:38:49+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "This tool calculates your inflation number | CNN Business",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWwya2I0Z3dja3B3TURCaVdMeE16cGJIUnl5VGRSaHRPZks4ajhaeDhtUUlKdEtmTjFqVTZxV1Y3UjFZZmtfajNBZFRzRkFES3plTmhSUnc3RzNVOWhRS0xNVWFSYXUwcFNKWGJYVVIwTml4eURjQUM5c3RNNGYyTDd6UkdfdmdSdnRHM3BmVnY?oc=5",
+   "source": "CNN",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:35:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Dividend Stocks Are Rising as Hot Inflation Hits the Market. Here’s What to Buy.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmpnN1ByeTNtSEpxWkJxamFnUy1EMm1KQTBlWHBWX2M3eDFidmJFWVl3Uzl4Y19UeHc3NDNLaHd3UTltaWFUd0JKcFJaTVZ0Sm84bDJnRXRCYVBCZjhuZlBxM3d6eFBNQi1QQW5OTnA5N1ZEU2IzRmltU2tYOF9ud0MxMklERzY0bDdyOTJR?oc=5",
+   "source": "Barron's",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:33:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US inflation heats up in September; Fed rate hike this month back on table",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:25:53+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Strive raises $369M via warrant exercises, pushes bitcoin treasury past 35,000 BTC",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0dtTzUxSTg1bXNxTFNsM3BkYS1YTlFZUl9hQS1nNWJBX1JXV2RPMlZaNHM5WWRyUW9KZHJaaW9xdnZnRjVObTdVMVQ3R19tTUM2NXZuZ3lwUUFqcjBScUk4cDlCa0lJcVVjU2tnNWJFTGdKVEdPRFcxQ21qY3o4MjFPWVZaZHJuN3ZVMFJNS1Q0cmoySVYzQzNVcWZFQ29ZOUJ5b0VnTmhZN2t0TXBtdHI3Qlo?oc=5",
+   "source": "Dealroom",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T17:22:19+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Inflation up in final report before midterms",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2NxbXVodmJKdFdMVUp6eU5JbEVIWHJzeURJN2hkY1o1Z1FPV01zLXIzVzk5aEFURWVCcUJKczlsLUtoZ2E2RnVfblY4dTZtWm9EcU9LcGtyNFRhN1h5d0dMT0R5OHhVTHVRaUdxWlhuVVg2T25QYWRTSUtSczBIQi1LUQ?oc=5",
+   "source": "CNN",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:20:34+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin Falls To $81K After Hotter-Than-Expected US Inflation Breaks BTC Below Tight Trading Range",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNmQ4LW8wbENXZGVsUHFwTFliRDRGNHloZkU0T1dTVnRlZFdsOTBtM1ZLbkZfYWVXUWw0WDNTRFRDcl8yR3pUV2cxLVdQaEFoSlpFaWVDSVZFZkpwRzhFWm5uQ25WT1FXY3Q0dUdJRGNsYk53UHNhc3hlWkJMaUtNMGJreTRMWjlLM3BMck84WlFXWFZFQ1BGTG5YNnNUZDlaVnZ6eDVtV2cwNVR0cHFRT0RlSENhcjJBaTNuVmo2U2p3Q2NvQ2phLUx5WTdScVd6VXFPQVRienZqQkN6cV8zUm5odUNPb0RuaWFSU09zc0tvZG5rYzZLSUU5amR3R2M?oc=5",
+   "source": "Stocktwits",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T17:19:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+   "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-14T17:12:20+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Energy, gas costs push inflation higher. Paychecks are lagging behind",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUURwWmlxNThWbWhsN2pqeFRaOUxrMHI5bmpTbkt5bV9rSTE2QlBWQnkxZ2ZxYkNaU1RsQVd5YndGSFprXzN1cUxZbzYtclpiLTh3X0YzSHZleVdyQ2FScGgxYWlCU2xoNndERVpnZFhuVnJqMEVVTTAzaVNTWFZxczZ0LWE1a2FyU1Fxamx2QjZVbDVNTmtnVnMwR0VIcldvSENQdEVBcjVQRjdqbzRqOHlxMy1vX1I0eU5iRHUwVWtQYmgwS0xHQkowRGhreG55cHc?oc=5",
+   "source": "USA Today",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:05:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Who’s right about inflation: You or the economists?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkppbjZOcVg0UGYtNGF3TmRJS3ltWEw2VlZmREZRemZpdEFmSDhYWTlxVWRvS0NWd1dQMng3S2FaS1VFNFp4MGUwN3pkY0Y5WmdTWktqVUVBTlllNFM2N0lsMUpMU0h1bzJ5X1pJTC1GeXVTcjdBa0NILTZNdWxzUXFjNVFKOVF0NWFBLWZIcVA?oc=5",
+   "source": "Orange County Register",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T17:00:18+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US Inflation Rate Jumps to 3.7%",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMGhYXzVtV1JBd1VDcERKNGI1OW1veDV4TkNzNUNFZW9WbjF3SFkzVEJaQWNhN2RIdFBJWDB4eHltbUtXVXJUYVM2UFlzclNZcHZsMkV5cXhCeHhIUXc?oc=5",
+   "source": "New Jersey Business & Industry Association",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:52:30+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLUlwek84bmpLaEdvRW5oMWVyY19YNWt1eDFBTHpqc0R6UmZNeENvbjZ4VTN0Wk1RNFhsQU43a0tqZDFyc09GQ2hIbDZrT1dpbWI1MnI1ODJsNUtWcElORHBaMFdEenZ5dnk2d2duOE1MMzRVYVlvYThaVXZldjA3S1J6WGQ2T1pCbVNkZjZ5WjYzRzRjWWtNSjZOd25JZzVMTHZheEpGYVJLSzhUSG95MHl6VkxPTm1Na3lJRkZCa3hqRU1udTFMOWhJbUR2VzlIcUd4U1R5QWRkSjkyTk5kdg?oc=5",
+   "source": "The Block",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T16:51:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "3 things that are driving inflation higher",
+   "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T16:50:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Wall St tumbles as hot CPI boosts rate-hike bets; banks, AI stocks weigh",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:49:48+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "How high inflation became a 'fact of life' in the U.S.",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKRTItTVVKcFEteEhCNWJwdG90cHZVTkVqMHpwSGszbmxmbmYxVjZQNlR4MVV4QVJWQ180aFBLUklsa01JLXktNXpoMjBiaHcyMFNxUWY1Ujhhc0stN1gtamNGNGxhWVRXbXVTNXR1dHFyWWtaRjhF0gF8QVVfeXFMTkVVaThocGI3cW00b25FU01ER1B3Nk9BMXFLckdXWEpuMXhWYW9faU9ZbE9veVAxODBZdEM2REpBR0dqeXNFeXEweS1EY1VmMGdoUXZFMDhkUkRFaTVGSGFrd1VRbUhlYTZiSDFBV2tLZlFNOWtCM0lZZHBxWA?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:49:18+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "La bolsa sube el 0,1 % pese a caer Wall Street tras crecer la inflación en Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUC1aTUpxSE1zdVlZQ09Pa3JvVHpyQ0ZkVE1rMXA5WEJVYlUzSWRPZmdmSHZENGY1R1FwZjFyNGY3N3A4SWFBdm54a19sNzhDRGl3ZGFvTUZaSjNtVkRaeWY4VjNXcW9Ed2hMWUNqLU5LQ3dHSWVfS2NldG1nMlJqMlNBajJfYno0blZUT0hxS2RfUQ?oc=5",
+   "source": "ABC",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T16:49:10+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The Fed faces a politically fraught rate decision on the eve of an election for the third time in a row",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNkZ6SmdKZEkzMUI5c0J4TVJUQ3Q3Ry1UQjdOVTVGc0E5UDhpaDNtZUlraUlZTWQ1bWpLb2tYSzM4b2ZKQkkzYk02bDFrYnZIUExYN0tlMjFxcGM2TmlYOUpPSmFNbVJJLV9uU1VHRmtYUHVxTE5yUG95UEsxU2V6MmEtNWpsRENfWVhmM2xfdV8wNHh2MGQybkpuNXBKT0JpUmhNRlpjelE5Z0ZUNlM5QkIwQW5VQ18tbG5oM0l3OEdSZTZ6eVcxaEUxZHJnTVVUbE5fZWFrOEE4T2FOUVR0WEpZMTlET3VfVTZySkhTVzJzZGFsWjRmT1V4VQ?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:44:56+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "How far will the Fed go?",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzFNd19JSG9sdTlrT3VVdWhPOVhVSXgzQTBORTZMcEl2ckF3ZFcwODhhOTJHa2tHUGlYX053RFdkanM1NTZJSlpoOXZVUENMZkZ6dUgyblVZQU5vRlQtQmg4Z2cyMkZDaUVEWEdEQlM3NTBUaXQyU0N0dDdvY0dtZWJTd09nQl9ld0IwQTBTYXVDbUdET0liZU9MLTgzZzQtUngzSGJWeVJnYzZmMnk0?oc=5",
+   "source": "T. Rowe Price",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:44:24+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Inflation surges as Iran war drives prices higher across economy",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNblJwUThJT1kwenlOTllrdTNIX1pxX1E0dGd5Z0NEakIzWFhpSl9nanZoTGQtSjBqY09vQTVtWGhPS1RaUUdnNGVEOTVxNTBYUENMY2NrdnN6VnJFTndOOFhWNXlpbFZFMFZwWFkxNHJqYmtjQTR1MGE4VjM2c0gwS1lRN1o0dXBYZlR5cXV4X3FXb3EwOHlmNUtyMFdZVm40dVU0X21mUWowNEN1ZjctV3NTaV8weDFoTzVkd3QxT2xBS0l5YUU3QjZvZFFieUpGMkZ3cG9rd095NzE0QmlsdzF4ZXNyTGU1TnM3ZmluTFB4ejlpaDNLVDVDZ25GQUpyYkpja3BXYWhHOUE?oc=5",
+   "source": "WBFF",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:34:28+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+   "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-14T16:34:24+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "El Ibex cede ante el repunte de la inflación",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWElWczJmWVRVZDZDUWl3dXk3aXJmUGtyanhkejBnQkVhUW1PQlFjZ2dIYWdIdFUxVEVOUC1CVm15NUpfZHh2MTVPZ0ZERzByWk5jYWJnMm1LdE5ZVW04VlJkLXRQMFVYTWYxczYyaW9WUS1ES2s5UGppUXpUM0RQd1dTLUxEYTFQRWpCcnNWLUNvUnh0aWpSLXZDeDA2d3VUUFF1N09pal8wOC1sS3NlYXZn0gGyAUFVX3lxTE1YSVZzMmZZVFVkNkNRaXd1eTdpcmZQa3JqeGR6MGdCRWFRbU9CUWNnZ0hhZ0h0VTFURU5QLUJWbXk1Sl9keHYxNU9nRkRHMHJaTmNhYmcybUt0TllVbThWUmQtdFAwVVhNZjFzNjJpb1ZRLURLazlQamlRelQzRFB3V1MtTERhMVBFakJyc1YtQ29SeHRpalItdkN4MDZ3dVRQUXU3T2lqXzA4LWxLc2Vhdmc?oc=5",
+   "source": "La Razón",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T16:29:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Powered by spikes in energy prices, inflation surges to 3.7%",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2tJZ3RpQkRCSXBFQi1zSDVaWkNYV3BhVTZidXRDV2Y4NmZNOW5wNHZoQkRJeUI5dUxBaXhDcmx3Mi1reTFTazdXUmk0ZUZZNkFuZXIxSDUwNHNuWS1KbTBaUFZyUjFROGJsQnBRNEMwZ2l5N2FEeFFKUGxTLTZTdjBOckQ0X3FSeHZycXplbkpqX0Z2Qm1jZXZRSGE1cGRuTlNrbzhwdlBjRzVUbjNrbkRESkhKbngwdEI5NlQ5WlhwOHV6RDFzX2JMT1E?oc=5",
+   "source": "Stateline",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:28:34+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+   "link": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-14T16:27:12+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTVtY21OXzJHcEpRTndrNTdUSVdFX24zcklZeGxHTWVDZEk1YkVYalVhYkRsLUk2cC00cVU4THJOQ3hicmd2dFo2ekxBZUxvczY3QWREQzJPQk9hOGZnQVBuM2dHdV9RLUtWZ1ZvZ2RMU1BhY1N2S01Ed1FnVjdiSjlpUUxZOUkwV3U3bXpNVVJkY1RzeTJ2Q2c5NGIzT3UtRmJxTER2d2U5MHN1aVN4dmxNUHBRRDRzOWE4UnZ5TkJlc2ptZHc?oc=5",
+   "source": "MarketWatch",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:27:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bolsa e Ibex 35 hoy, en directo | La inflación pone en alerta a Wall Street pero no evita el rebote de las bolsas europeas",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdNZS1MRnVaWVI3elpOeklybVR0QlZtUVJkeGo0RUpLeG1RMjRpUVNXb0ZtLVpXbTlXX1BKRHhaQ0ozUkdwNloxRDZrS2luZHdKSTMtTEl3dUk1Z3VXaEZCQnlGQ3FCT3F0UDhYYlY0dzN2b3V6VVppdWZtVXdkUWVQM0hPVXlscEstQXBUb0hxOEpu?oc=5",
+   "source": "El Confidencial",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T16:20:02+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T16:20:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Inflation hits 3.7% as energy prices climb",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05eVo4Qk41SGlzaXN6RmtVNEc3STBiOEppa05WeUQwMzVoamJGQUQ0VTlob195WWlRN2VHYXM2ZnN0RGg3a2NFMFYtUGkwNnoyalJOU3ZqMGxkWWREd0dIZlpHWjRURlJsTUVEVlkwa1VfOXNI?oc=5",
+   "source": "WBUR",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:18:10+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Crypto Market Slips as Hotter-Than-Expected Inflation Raises Rate Hike Bets",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm5TbTljZE1JSEFDWTZTY2U2V2cybU9ZX1BnZDZyVDh2ck1lbHZBQWNiYXpXZ0x5eC1DLVd6VjhqcjJCTkdkMDMzbkZ3LWZfdTl4ZUp2eF8xUWExRVR4dXpqeG5mNVAxVTh2R1ZWaFk0R3NDYWZ2N0FMME5NV3oyaVJHNUhFR3lpdURXVC1SQUVYY0Zxa25VR2RJWlllbUttOUE?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T16:16:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2OXA5blhFSVhQWC1HOGpGeDJCdkQxV0xyUHYxck1nUVlEa1QxMm5HV1lacEYxR09WNUM4cVhBTy1rZlNhalZ3WVVORkxMLWZMNGxIUnFMYVpEOWtZSXlRd3Z2TmExRUdqT0pBRHY5UGJFZFI4SldfUUd3?oc=5",
+   "source": "The New York Times",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:12:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Consumer inflation rose faster than expected in September, CPI report shows",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaHQ2QXpTc2tfWlJ1ZmdvN3NuZl92TkVEbWU5dTdFaVpvQnk4ejFaWnpoU29ZeDBTWXV5OFZzUUVUN2tfUkNuR0x5c1oxTWdMRE1VdVk0T3RTRGVtOTMzVVg0TEd5d28xMkN1UGxtWmd1d9IBd0FVX3lxTFBUSXR0LVdEYnpVWUtIcFpJa2k5RW1ZM2VVZFluSVV0NHhPVXVvQUZFOVBNTll1ZW1nX1NJZUFzMlphakFUVW1SMkhHUktUZlM4bnVVRTBEMHhrbUdzWU81M2FKNWQ3LXB1cktseTlCcUI4TS1FZ1ZB?oc=5",
+   "source": "Fox Business",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:12:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "El IPC de EEUU y el rebote de los bonos frenan al Ibex 35, que acaba casi plano en los 19.200",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGJzZkJHZWF3T0MtUmNpdXZxTXZyZzhCdGhBaHl3MTg1ODNZNkNqR3NSY1A1SHQ1YWNEeHZiRUNoZkVIQ0dNaGlnWHdxUk5YNDZYZkNTZk5nQU84eWFndEo3d29oY01ITUhiYUh1TFRadFNYamRnQmpkbndjNGJLOHY5T1RGS0Vudi10X2tUankyQmM1cFh5STBqemM5VHJ6bVN2OUV4b0NwYUVDODk1RVlzR1hJVTh0eDRMVEpwb0ZleWIyU1HSAcsBQVVfeXFMTnRzRFpEUGVDVV9VemhKeVBGMENTUkFtYUtoOU1mamhLc0JUeWhibDczb3RURklMeUZzcDQzWGh6QTgxeUpYNkROV0tPTkZVLXhKZ3MzbUY2Rjd0akEwWm9jeDR1ZWFnRGtyRV80cTJqbzU3S1ZRMUNvNXdyXzBWQmJUM3VZb19WZmFTWEdWbVhfRUE5bk9QdzFQMVZVVXg1dERHOUd2OHRMLUxtTnptOTgxdmI3T2xmRDVQbEQ5SUV6cEJUUXg1cGlkZVE?oc=5",
+   "source": "Demócrata",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T16:10:55+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "El IPC de EEUU y el repunte de los bonos diluyen el avance del Ibex 35, que cierra plano en los 19.200",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONExfd3lpcm5vUmtGaGx6T2c3MFpBendUQTcyNUVnLV93cTlhNTdCTDM4MllNaFd6cFc3STdyeWdpQ1p5cUxkdTlsSG5LVGkxVmVQbklvVGJBcjBxQTAzQnhsZmJPRmx5Y1R0dTJKc0JieXJ0QTdDVDFXaGY3SEJLVFdCbzZLNHo2ZlZIcEpPX1o4bVNyeHY1U3NnTmJHaUtOOFpZLUlad18zMUlVNG5iT3Z1NVhfbGl4dDVldmxVcFpIblpEWG43S3cwYlpEanhIOWJzd2Z4NA?oc=5",
+   "source": "Forbes España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-14T16:08:58+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
+   "link": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-14T16:07:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Inflation heats up as gas prices surge",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
+   "source": "Axios",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:06:38+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "What hotter-than-expected inflation means for crypto",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1F5amNkSmZDeGRiTTMwd3RXbU15WE15Zm5JMXRCUGVQN0pMNHRwUHVkN0prcDg0dkMxVE5tOUNMQmxIUU9BWEFxQzhvUjJlNHZEMmFwbV93Q2ZaaWVCUXd6Qnk5MlJRRm4yTFpBUXpvTldtZ1I4X1ZwWHM0MEZWZDdUSTF6RTByYmNxRmUxUFZXTmN0WTBLOVdseHc0dms0?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-14T16:06:26+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEx1Q0FoZmpVSGRtUnE4U2hYRGtNeHpEanFrRUM4UFZRUC10NUh5WmZyUWQ3SUJjTUEzb19YR1JFUXZXQ2pnYlpRbk5fWGVJUEdKZUxTQ1UwRXFmSkhpRy1QOGZGb0d2YlhiTlRMSjlwSGI5c2RDeXZTaDFDbGR3Qm1LdktxaHRzeFZRMElqLVRqZ2hrd0w4NjhwbXJKY3lVNUVodUs0RHB1a2dJLUc2Nw?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-14T16:06:00+00:00",
+   "category": "macro",
+   "score": 3
+  }
+ ],
+ "analisis": null,
+ "calidad": {
+  "ok": 0,
+  "sin_contraste": 3,
+  "dudoso": 0,
+  "sin_dato": 22,
+  "fuentes": {
+   "Coinbase": 3
+  }
+ }
+}
