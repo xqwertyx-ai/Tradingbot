@@ -1,0 +1,50 @@
+name: Backtest BTC 5 min
+
+on:
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: "Días de histórico a cubrir (descarga incremental)"
+        default: "14"
+        required: true
+  schedule:
+    - cron: "13 5 * * *"   # cada día ~07:13 hora de Madrid (verano)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backtest
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Descargar datos
+        run: python scripts/descargar.py --dias "${{ github.event.inputs.dias || '14' }}"
+
+      - name: Backtest e informe
+        run: python scripts/backtest.py
+
+      - name: Guardar datos e informe en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          git diff --cached --quiet || git commit -m "Datos e informe $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
