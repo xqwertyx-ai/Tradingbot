@@ -2,7 +2,7 @@
 
 # 📊 Radar de mercados
 
-**miércoles 14 oct 2026 · revisión de cierre · 21:10 (Madrid)**
+**miércoles 14 oct 2026 · revisión de intradía · 21:13 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
@@ -12,14 +12,14 @@
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **S&P 500** | 7.702 | 🔴▼ -1.3% | 🔵▲ +1.5% | ➡️ lateral |
-| **Nasdaq 100** | 29.893 | 🔴▼ -2.2% | 🔵▲ +3.3% | ↗️ alcista |
+| **S&P 500** | 7.704 | 🔴▼ -1.3% | 🔵▲ +1.6% | ➡️ lateral |
+| **Nasdaq 100** | 29.898 | 🔴▼ -2.2% | 🔵▲ +3.3% | ↗️ alcista |
 | **IBEX 35** | 19.231 | 🔵▲ +0.1% | 🔴▼ -1.7% | ➡️ lateral |
-| **Bono EE. UU. 10a (%)** | 5.185 | ▼ -0.03 pts | ▲ +0.19 pts | ↗️ alcista |
+| **Bono EE. UU. 10a (%)** | 5.19 | ▼ -3 pb | ▲ +19 pb | ↗️ alcista |
 | **EUR/USD** | 1.116 | 🔴▼ -0.0% | 🔴▼ -3.4% | ↘️ bajista |
-| **Brent** | 106.12 | 🔵▲ +0.4% | 🔴▼ -2.4% | ➡️ lateral |
+| **Brent** | 106.08 | 🔵▲ +0.4% | 🔴▼ -2.5% | ➡️ lateral |
 | **Oro** | 4.118 | 🔴▼ -1.4% | 🔴▼ -5.0% | ↘️ bajista |
-| **Bitcoin** | 81.591 | 🔴▼ -1.8% | 🔴▼ -3.3% | ➡️ lateral |
+| **Bitcoin** | 81.695 | 🔴▼ -1.7% | 🔴▼ -3.2% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -36,7 +36,7 @@
 
 ## 🎯 Hipótesis de hoy
 
-_Sin análisis con IA no se generan hipótesis._
+_Revisión de intradía: solo observación. Las hipótesis se registran con precios de cierre._
 
 ## 👀 Valores a vigilar
 
@@ -46,7 +46,7 @@ _Sin análisis con IA no se generan hipótesis._
 - **Índice dólar** — en máximos de 52 semanas
 - **Semiconductores (SMH)** — cruza a la baja su media de 50 sesiones
 - **Energía (XLE)** — en máximos de 52 semanas, sobrecompra (RSI 71)
-- **Tecnología (XLK)** — movimiento anómalo hoy (-2.1σ)
+- **Tecnología (XLK)** — movimiento anómalo hoy (-2.0σ)
 - **NVIDIA** — cruza a la baja su media de 50 sesiones
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 74)
@@ -59,27 +59,27 @@ _Sin análisis con IA no se generan hipótesis._
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| S&P 500 | 7.702 | 🔴▼ -1.3% | 🔴▼ -1.3% | 🔵▲ +1.5% | 🔵▲ +2.2% | 48 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Nasdaq 100 | 29.893 | 🔴▼ -2.2% | 🔴▼ -4.1% | 🔵▲ +3.3% | 🔵▲ +3.0% | 44 | ↗️ alcista | — |
+| S&P 500 | 7.704 | 🔴▼ -1.3% | 🔴▼ -1.3% | 🔵▲ +1.6% | 🔵▲ +2.3% | 48 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Nasdaq 100 | 29.898 | 🔴▼ -2.2% | 🔴▼ -4.1% | 🔵▲ +3.3% | 🔵▲ +3.0% | 44 | ↗️ alcista | — |
 | IBEX 35 | 19.231 | 🔵▲ +0.1% | 🔵▲ +0.6% | 🔴▼ -1.7% | 🔵▲ +0.1% | 45 | ➡️ lateral | — |
 | Euro Stoxx 50 | 6.190 | 🔵▲ +0.4% | 🔵▲ +0.2% | 🔴▼ -0.7% | 🔴▼ -0.6% | 44 | ➡️ lateral | — |
 | Russell 2000 | 2.723 | 🔴▼ -2.2% | 🔴▼ -2.5% | 🔴▼ -5.1% | 🔴▼ -8.5% | 27 | ↘️ bajista | movimiento anómalo hoy (-2.6σ), sobreventa (RSI 27) |
-| Bono EE. UU. 10a (%) | 5.185 | ▼ -0.03 pts | ▼ -0.09 pts | ▲ +0.19 pts | ▲ +0.62 pts | 58 | ↗️ alcista | — |
+| Bono EE. UU. 10a (%) | 5.19 | ▼ -3 pb | ▼ -9 pb | ▲ +19 pb | ▲ +62 pb | 59 | ↗️ alcista | — |
 | EUR/USD | 1.116 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔴▼ -3.4% | 🔴▼ -2.5% | 20 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 20) |
-| Índice dólar | 102.55 | 🔵▲ +0.4% | 🔵▲ +0.3% | 🔵▲ +2.9% | 🔵▲ +1.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 106.12 | 🔵▲ +0.4% | 🔵▲ +5.9% | 🔴▼ -2.4% | 🔵▲ +26.0% | 60 | ➡️ lateral | — |
+| Índice dólar | 102.56 | 🔵▲ +0.4% | 🔵▲ +0.3% | 🔵▲ +2.9% | 🔵▲ +1.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 106.08 | 🔵▲ +0.4% | 🔵▲ +5.9% | 🔴▼ -2.5% | 🔵▲ +25.9% | 60 | ➡️ lateral | — |
 | Oro | 4.118 | 🔴▼ -1.4% | 🔴▼ -0.6% | 🔴▼ -5.0% | 🔵▲ +3.1% | 36 | ↘️ bajista | — |
-| Bitcoin | 81.591 | 🔴▼ -1.8% | 🔴▼ -1.2% | 🔴▼ -3.3% | 🔵▲ +28.7% | 47 | ➡️ lateral | — |
-| Ethereum | 2.424 | 🔴▼ -2.9% | 🔴▼ -2.5% | 🔴▼ -9.7% | 🔵▲ +29.1% | 38 | ➡️ lateral | — |
-| Solana | 104.02 | 🔴▼ -2.5% | 🔴▼ -4.7% | 🔴▼ -9.5% | 🔵▲ +37.7% | 37 | ➡️ lateral | — |
-| Semiconductores (SMH) | 564.21 | 🔴▼ -4.1% | 🔴▼ -9.7% | 🔵▲ +4.1% | 🔴▼ -0.8% | 38 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Financieras (XLF) | 54.40 | 🔴▼ -0.8% | 🔵▲ +1.2% | 🔴▼ -4.3% | 🔴▼ -4.1% | 43 | ➡️ lateral | — |
-| Energía (XLE) | 67.58 | 🔵▲ +0.6% | 🔵▲ +6.7% | 🔵▲ +2.5% | 🔵▲ +18.5% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
-| Tecnología (XLK) | 189.94 | 🔴▼ -3.2% | 🔴▼ -5.7% | 🔵▲ +3.4% | 🔵▲ +7.0% | 42 | ↗️ alcista | movimiento anómalo hoy (-2.1σ) |
-| NVIDIA | 219.99 | 🔴▼ -3.7% | 🔴▼ -7.4% | 🔵▲ +3.7% | 🔵▲ +6.1% | 43 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Apple | 342.78 | 🔵▲ +0.4% | 🔵▲ +1.8% | 🔵▲ +3.5% | 🔵▲ +2.9% | 62 | ↗️ alcista | en máximos de 52 semanas |
-| Microsoft | 532.87 | 🔴▼ -1.9% | 🔵▲ +0.6% | 🔵▲ +7.2% | 🔵▲ +32.9% | 62 | ↗️ alcista | — |
-| ASML | 1.676 | 🔴▼ -2.4% | 🔴▼ -7.1% | 🔵▲ +5.3% | 🔴▼ -6.1% | 40 | ➡️ lateral | — |
+| Bitcoin | 81.695 | 🔴▼ -1.7% | 🔴▼ -1.0% | 🔴▼ -3.2% | 🔵▲ +28.9% | 47 | ➡️ lateral | — |
+| Ethereum | 2.427 | 🔴▼ -2.8% | 🔴▼ -2.4% | 🔴▼ -9.6% | 🔵▲ +29.2% | 38 | ➡️ lateral | — |
+| Solana | 104.12 | 🔴▼ -2.4% | 🔴▼ -4.6% | 🔴▼ -9.4% | 🔵▲ +37.9% | 38 | ➡️ lateral | — |
+| Semiconductores (SMH) | 564.60 | 🔴▼ -4.0% | 🔴▼ -9.7% | 🔵▲ +4.1% | 🔴▼ -0.8% | 38 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Financieras (XLF) | 54.39 | 🔴▼ -0.8% | 🔵▲ +1.2% | 🔴▼ -4.3% | 🔴▼ -4.2% | 43 | ➡️ lateral | — |
+| Energía (XLE) | 67.61 | 🔵▲ +0.6% | 🔵▲ +6.7% | 🔵▲ +2.5% | 🔵▲ +18.6% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
+| Tecnología (XLK) | 190.05 | 🔴▼ -3.2% | 🔴▼ -5.6% | 🔵▲ +3.4% | 🔵▲ +7.1% | 43 | ↗️ alcista | movimiento anómalo hoy (-2.0σ) |
+| NVIDIA | 220.21 | 🔴▼ -3.6% | 🔴▼ -7.3% | 🔵▲ +3.8% | 🔵▲ +6.2% | 43 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Apple | 343.16 | 🔵▲ +0.6% | 🔵▲ +1.9% | 🔵▲ +3.6% | 🔵▲ +3.0% | 62 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 532.72 | 🔴▼ -2.0% | 🔵▲ +0.6% | 🔵▲ +7.2% | 🔵▲ +32.8% | 62 | ↗️ alcista | — |
+| ASML | 1.675 | 🔴▼ -2.5% | 🔴▼ -7.2% | 🔵▲ +5.2% | 🔴▼ -6.2% | 40 | ➡️ lateral | — |
 | Banco Santander | 12.13 | 🔴▼ -0.4% | 🔴▼ -1.1% | 🔴▼ -4.2% | 🔵▲ +2.7% | 45 | ➡️ lateral | — |
 | BBVA | 23.13 | 🔴▼ -0.4% | 🔴▼ -1.3% | 🔴▼ -7.1% | 🔵▲ +4.8% | 37 | ➡️ lateral | — |
 | Inditex | 54.34 | 🔵▲ +0.4% | 🔵▲ +1.9% | 🔵▲ +3.3% | 🔵▲ +1.1% | 53 | ➡️ lateral | — |

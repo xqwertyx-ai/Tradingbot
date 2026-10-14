@@ -1,4 +1,4 @@
-.........                                                                [100%]
+..........                                                               [100%]
 ==================================== PASSES ====================================
 _______________________________ test_end_to_end ________________________________
 ----------------------------- Captured stdout call -----------------------------
@@ -22,9 +22,10 @@ PASSED tests/test_backtest.py::test_never_uses_price_before_signal
 PASSED tests/test_backtest.py::test_parse_event
 PASSED tests/test_backtest.py::test_report_writes
 PASSED tests/test_portada.py::test_end_to_end
+PASSED tests/test_portada.py::test_intraday_mode
 PASSED tests/test_portada.py::test_ledger_evaluation
 PASSED tests/test_portada.py::test_parse_google_news
-9 passed in 18.09s
+10 passed in 18.75s
 Precios...
   yfinance: 25/25 series
   25/25 activos con datos
