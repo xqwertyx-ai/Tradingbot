@@ -1,0 +1,61 @@
+name: Backtest del agente
+
+on:
+  workflow_dispatch:
+    inputs:
+      desde:
+        description: "Primera sesión (AAAA-MM-DD)"
+        default: "2026-07-01"
+        required: true
+      hasta:
+        description: "Última sesión (vacío = ayer)"
+        default: ""
+        required: false
+      solo_noticias:
+        description: "Solo descargar titulares (sin llamar a la IA)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar backtest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          ARGS="--desde ${{ inputs.desde }}"
+          [ -n "${{ inputs.hasta }}" ] && ARGS="$ARGS --hasta ${{ inputs.hasta }}"
+          [ "${{ inputs.solo_noticias }}" = "true" ] && ARGS="$ARGS --solo-noticias"
+          python scripts/backtest_agente.py $ARGS 2>&1 | tee ci.log
+
+      - name: Guardar resultados (también si falla a medias)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data/agent_bt && cp ci.log data/agent_bt/ultima-ejecucion.log || true
+          git add data/agent_bt reports || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Backtest del agente $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push

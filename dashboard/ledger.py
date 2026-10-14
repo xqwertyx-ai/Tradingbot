@@ -32,7 +32,8 @@ def save(df: pd.DataFrame, path: str = LEDGER) -> None:
     df.reindex(columns=COLS).to_csv(path, index=False)
 
 
-def add(df: pd.DataFrame, hyps: list[dict], date: str, ref_prices: dict) -> pd.DataFrame:
+def add(df: pd.DataFrame, hyps: list[dict], date: str, ref_prices: dict,
+        version: str = VERSION) -> pd.DataFrame:
     rows = []
     for i, h in enumerate(hyps):
         price = ref_prices.get(h["ticker"])
@@ -40,7 +41,7 @@ def add(df: pd.DataFrame, hyps: list[dict], date: str, ref_prices: dict) -> pd.D
             continue
         vence = (pd.Timestamp(date) + pd.offsets.BDay(h["horizonte_dias"])).date().isoformat()
         rows.append({
-            "id": f"{date}-{i + 1}", "fecha": date, "version": VERSION,
+            "id": f"{date}-{i + 1}", "fecha": date, "version": version,
             "ticker": h["ticker"], "direccion": h["direccion"],
             "horizonte_dias": h["horizonte_dias"], "vence": vence, "tesis": h.get("tesis", ""),
             "disparador": h.get("disparador", ""), "invalidacion_pct": h["invalidacion_pct"],

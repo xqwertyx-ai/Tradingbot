@@ -69,7 +69,8 @@ def _fmt(x, pct=True):
 
 
 def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open_hyps: list[dict]) -> str:
-    lines = [f"Fecha: {date} · Revisión: {mode}", "",
+    lines = [f"Fecha: {date} · Revisión: {mode}",
+             "Usa solo la información de este mensaje: no recurras a lo que sepas de fechas posteriores.", "",
              "PRECIOS (último cierre disponible; cambios 1d / 5d / 1m; tendencia; señales):"]
     for a in table:
         m = a["m"]

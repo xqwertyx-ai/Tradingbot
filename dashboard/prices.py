@@ -54,12 +54,12 @@ def _coinbase(pair: str) -> pd.DataFrame:
 _YF: dict[str, pd.DataFrame] = {}
 
 
-def prefetch_yfinance(tickers: list[str]) -> None:
+def prefetch_yfinance(tickers: list[str], period: str = "1y") -> None:
     """Descarga en bloque con la librería yfinance (gestiona cookies de Yahoo,
     que la petición directa no tiene y que Yahoo exige desde servidores)."""
     try:
         import yfinance as yf
-        raw = yf.download(tickers, period="1y", interval="1d", group_by="ticker",
+        raw = yf.download(tickers, period=period, interval="1d", group_by="ticker",
                           auto_adjust=False, progress=False, threads=True)
     except Exception as e:
         print(f"  yfinance falló ({e.__class__.__name__}: {str(e)[:120]})")
