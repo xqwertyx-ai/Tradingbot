@@ -71,6 +71,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          cp ci.log data/dashboard/ultima-ejecucion.log
           git add README.md assets data/dashboard
           git diff --cached --quiet && exit 0
           git commit -m "Portada $(date -u +%Y-%m-%dT%H:%MZ)"

@@ -40,9 +40,10 @@ def test_end_to_end(tmp_path, monkeypatch=None):
     import portada
     cwd = os.getcwd()
     os.chdir(tmp_path)
-    orig = (prices.fetch, prices.check_source, news.fetch_news, analysis.analyze)
+    orig = (prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance)
     try:
         counter = iter(range(100))
+        prices.prefetch_yfinance = lambda tickers: None
         prices.fetch = lambda a: (fake_series(next(counter)), "Yahoo")
         prices.check_source = lambda a, df, s: "ok"
         news.fetch_news = lambda: ([{"title": "La Fed sube tipos", "link": "https://x", "source": "Test",
@@ -62,7 +63,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         portada.main("cierre")  # reejecutar el mismo día no duplica hipótesis
         assert len(ledger.load()) == 1
     finally:
-        prices.fetch, prices.check_source, news.fetch_news, analysis.analyze = orig
+        prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance = orig
         os.chdir(cwd)
 
 

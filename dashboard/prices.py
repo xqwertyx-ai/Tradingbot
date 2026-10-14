@@ -51,8 +51,36 @@ def _coinbase(pair: str) -> pd.DataFrame:
     return pd.DataFrame(rows).sort_values("date")
 
 
+_YF: dict[str, pd.DataFrame] = {}
+
+
+def prefetch_yfinance(tickers: list[str]) -> None:
+    """Descarga en bloque con la librería yfinance (gestiona cookies de Yahoo,
+    que la petición directa no tiene y que Yahoo exige desde servidores)."""
+    try:
+        import yfinance as yf
+        raw = yf.download(tickers, period="1y", interval="1d", group_by="ticker",
+                          auto_adjust=False, progress=False, threads=True)
+    except Exception as e:
+        print(f"  yfinance falló ({e.__class__.__name__}: {str(e)[:120]})")
+        return
+    for t in tickers:
+        try:
+            sub = raw[t] if len(tickers) > 1 else raw
+            df = pd.DataFrame({"date": [d.date() for d in sub.index], "close": sub["Close"].values,
+                               "high": sub["High"].values, "low": sub["Low"].values})
+            df = df.dropna(subset=["close"])
+            if len(df) >= 30:
+                _YF[t] = df.reset_index(drop=True)
+        except Exception:
+            continue
+    print(f"  yfinance: {len(_YF)}/{len(tickers)} series")
+
+
 def fetch(asset: dict) -> tuple[pd.DataFrame | None, str]:
     """Devuelve (serie, fuente). Serie None si ninguna fuente funciona."""
+    if asset["yahoo"] in _YF:
+        return _YF[asset["yahoo"]], "Yahoo"
     attempts = [("Yahoo", lambda: _yahoo(asset["yahoo"]))]
     if asset.get("coinbase"):
         attempts.append(("Coinbase", lambda: _coinbase(asset["coinbase"])))

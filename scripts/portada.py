@@ -24,6 +24,7 @@ def main(mode: str) -> None:
     series, rows, quality, fuentes = {}, [], Counter(), Counter()
 
     print("Precios...")
+    prices.prefetch_yfinance([a["yahoo"] for a in ASSETS])
     for a in ASSETS:
         df, src = prices.fetch(a)
         if df is None:

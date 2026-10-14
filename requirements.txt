@@ -3,3 +3,4 @@ numpy>=1.26
 requests>=2.31
 pytest>=8
 matplotlib>=3.8
+yfinance>=0.2.50
