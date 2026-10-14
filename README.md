@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**jueves 15 oct 2026 · revisión de cierre · 01:25 (Madrid)**
+**jueves 15 oct 2026 · revisión de cierre · 01:30 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🔴 risk-off (aversión al riesgo)  
-> El IPC de septiembre en EE. UU. (3,7%, mayor del año en cuatro meses y por encima de lo esperado, impulsado por la energía) devolvió a la mesa una subida de tipos de la Fed este mes y provocó el peor día de Wall Street desde julio. Lideraron las caídas los semiconductores y la IA (SMH -4,0%, NVDA -3,2%, ASML -3,9%), con el dólar en máximos de 52 semanas y cripto a la baja. Energía y Apple resistieron. Los titulares mencionan también temores de crédito ligado a la IA y tensión Irán-EE. UU.  
-> **Decisión:** no operar hoy — Es un choque macro de un solo día, ya reflejado en gran parte en los precios, con señales mixtas (^TNX a la baja, Fed matizando, rebote técnico posible en sobreventa) y riesgo de gap en Europa y por Irán, así que ninguna idea alcanza confianza ≥60.
+> El IPC de septiembre (3,7%) sorprendió al alza, impulsado por la energía. Con ello vuelve a la mesa una subida de tipos de la Fed este mes, y Wall Street tuvo su peor día desde julio (S&P -1,1%, Nasdaq 100 -2,0%). El castigo se concentró en semiconductores e IA (SMH -4,0%), con el temor añadido por la deuda de la IA. Las energéticas y el dólar resistieron y el oro cayó.  
+> **Decisión:** no operar hoy — Ninguna hipótesis alcanza confianza 60: el dato ya está parcialmente descontado, el 10 años no confirma la narrativa de subida de tipos y los mensajes de la Fed son cautos.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -18,44 +18,65 @@
 | **Nasdaq 100** | 29.951 | 🔴▼ -2.0% | 🔵▲ +3.5% | ↗️ alcista |
 | **IBEX 35** | 19.211 | 🔴▼ -0.4% | 🔴▼ -1.8% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 5.19 | ▼ -3 pb | ▲ +19 pb | ↗️ alcista |
-| **EUR/USD** | 1.118 | 🔴▼ -0.2% | 🔴▼ -3.1% | ↘️ bajista |
+| **EUR/USD** | 1.119 | 🔴▼ -0.2% | 🔴▼ -3.1% | ↘️ bajista |
 | **Brent** | 105.64 | 🔴▼ -0.0% | 🔴▼ -2.9% | ➡️ lateral |
 | **Oro** | 4.125 | 🔴▼ -1.3% | 🔴▼ -4.8% | ↘️ bajista |
-| **Bitcoin** | 81.461 | 🔴▼ -2.0% | 🔴▼ -3.5% | ➡️ lateral |
+| **Bitcoin** | 81.395 | 🔴▼ -2.0% | 🔴▼ -3.5% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
 ## 📰 Noticias clave
 
 - **[macro]** [US inflation heats up in September; Fed rate hike this month back on table](https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5) <sub>Reuters · 14/10 23:45 · ●●●●●</sub>  
-  Sorpresa: el IPC superó las expectativas (3,7%, máximo en cuatro meses), según Reuters, CNN y otros, y reabre la subida de tipos este mes. **Impacto:** Renta variable de crecimiento y duración larga (NDX, XLK, SMH, RUT) cae porque se descuentan tipos más altos durante más tiempo. El dólar sube (DX-Y.NYB +0,3%) y cripto y oro sufren por el endurecimiento de condiciones financieras.
-- **[macro]** [EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5) <sub>Reuters · 15/10 00:09 · ●●●●</sub>  
-  Matiza la sorpresa: Daly dice que probablemente hagan falta subidas, pero sin urgencia. Goolsbee (ids 29, 49) tilda el dato de 'desalentador' pero prefiere esperar más datos. Es una exclusiva de Reuters, no un comunicado oficial. **Impacto:** Si el tono de la Fed es gradual, el riesgo de una subida inmediata se modera. La volatilidad de ^TNX y los índices dependerá de la próxima comunicación oficial. Impacto direccional ambiguo a corto plazo.
+  Sorpresa: la inflación superó lo esperado (3,7%, máximo en cuatro meses), y reabre la posibilidad de subida de tipos este mes. **Impacto:** Más probabilidad de subida de la Fed implica descuento más alto para activos de larga duración (NDX, XLK, SMH, cripto), dólar firme y presión sobre oro y small caps (^RUT). Dirección: bajista en renta variable de crecimiento; horizonte de días hasta la reunión de la Fed.
+- **[macro]** [Soaring Energy Prices Push Inflation Higher](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5) <sub>The New York Times · 15/10 00:11 · ●●●●</sub>  
+  Parcialmente esperada: el Brent subió un 5,4% en 5 días, pero el IPC lo confirma como motor del dato. **Impacto:** Un IPC liderado por la energía sostiene a XLE y a BZ=F, y presiona a consumo y márgenes. Sin embargo, un shock de oferta puede no justificar tantas subidas de tipos.
 - **[sectorial]** [US chip stocks slide as inflation and AI debt fears unsettle investors](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV010dndEUEEtbWpidDZDc3dSbk1wMnNqdmV6V1QxN3VqektkZ2dlY010cVhrOXgzQkJrRWhxdXk1WVg4VlBId2lTNVFMRXowVTlBZGJKeHhpWDhjOER6NlZmdGZFWnc1SmhVSTRvTzJpbmdfTmk1d2xYWHg1N0VFUXFTaUY?oc=5) <sub>Financial Times · 14/10 21:33 · ●●●●</sub>  
-  Parcialmente nueva: junto a la inflación, el FT cita temores de deuda/crédito ligados a la IA como catalizador adicional; no se detalla en los titulares. **Impacto:** NVDA, ASML, SMH y XLK caen más que el mercado, y NVDA y SMH cruzan a la baja su media de 50 sesiones. Combina el efecto de tipos sobre valoraciones con riesgo de financiación del capex en IA.
-- **[geopolítica]** [Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked](https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html) <sub>CNBC · 14/10 19:12 · ●●●●</sub>  
-  Posible sorpresa: Irán amenaza a buques de guerra de EE. UU. y se informa de ataques a instalaciones de Saudi Aramco (CNBC). Los titulares no dan detalle ni confirmación independiente. **Impacto:** Riesgo alcista para Brent y XLE por el suministro. Sin embargo Brent cerró plano en el día (-0,0%), lo que sugiere que el mercado ya lo descontaba o no lo valora como interrupción real.
-- **[sectorial]** [Soaring Energy Prices Push Inflation Higher](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5) <sub>The New York Times · 15/10 00:11 · ●●●</sub>  
-  Parcialmente esperada: Brent ya subía +5,4% en 5 días y XLE está en máximos de 52 semanas, así que la energía ya estaba descontada en parte. **Impacto:** La energía explica el impulso de la inflación general. Mantiene a XLE firme (+0,6%), pero con RSI 71 el potencial adicional es menor. Presiona el consumo y los márgenes de sectores sensibles al coste de combustible.
-- **[cripto]** [Bitcoin drops below the $82,000 threshold; Fed rate hike expectations weigh on sentiment, yet analysts remain bullish.](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWlfODNDTlhoeUgyRkl3bzBOV0JoY1FnQldMXzFuVFpYcXM4eVQxbDc3dzVnTGpPVEl2czhGTTM4bHhVYnppX3hiOEFONkYwQUtha2hHanh1RUpCN0lGalRaQS05Q0ZjdlhUSHU0d3BmeXJKVEhIQ3VwWjJMS1A2YnFTY01JenVHWmJUcHB2YlVBRnZiMTZMT1hrVmdrT3I5WnA2c1Y0QTltUnUtbXEw?oc=5) <sub>Moomoo · 15/10 00:35 · ●●●</sub>  
-  Esperada en dirección: BTC perdía el rango tras un IPC alto y expectativas de subida de la Fed. El mercado ya vendía cripto en el último mes. **Impacto:** BTC (-2,0%), ETH (-3,2%) y SOL (-2,2%) caen por la mayor tasa libre de riesgo y menor apetito por riesgo. ETH y SOL tienen más beta.
+  Sorpresa parcial: a los tipos se suma el temor al crédito/deuda de la IA, que explica por qué los semis caen más que el índice. **Impacto:** Presión sobre SMH, NVDA y ASML, con NVDA y SMH cruzando a la baja su media de 50 sesiones. El mecanismo es la financiación más cara y la duda sobre el retorno del capex de IA. Dirección: bajista a corto plazo.
+- **[macro]** [EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5) <sub>Reuters · 15/10 00:09 · ●●●</sub>  
+  Matiza el dato: Daly ve probables subidas pero 'sin urgencia', y Goolsbee (34, 53) prefiere esperar a más datos. **Impacto:** Modera el descuento de una subida inmediata. Un tono menos agresivo de la Fed podría frenar el castigo a renta variable y dólar. Dirección: neutral/alcista para riesgo si se confirma la cautela.
+- **[macro]** [Fed’s Beige Book Shows Price Pressures May Be Intensifying](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFAyR29VRUEyVURBTHFnWkEyay1WNlF3aEJkUHFuWFBzTmduc3BRdzBVeDhPZ1VHZi1VMllCOUthemR4NEpJdlVGUUlkaGIzeUxrS1lpNV9MSmFiWmdPQXp4emYyOVhVVS1Ob1lRaGJfT1FJT1JMX01hZDFNNUp3cWk5OEdHd19MVDI4dlA3ZVpsNFI2V0wwSm5SVG1GMWZBejdySzhNRGlXZw?oc=5) <sub>WSJ · 14/10 21:06 · ●●</sub>  
+  Confirma la presión de precios (Beige Book) que ya refleja el IPC, por lo que aporta poca información nueva. **Impacto:** Refuerza la narrativa de inflación persistente por costes de combustible. Respalda dólar y energía, y es negativa para duración larga.
+- **[cripto]** [Bitcoin drops below the $82,000 threshold; Fed rate hike expectations weigh on sentiment, yet analysts remain bullish.](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWlfODNDTlhoeUgyRkl3bzBOV0JoY1FnQldMXzFuVFpYcXM4eVQxbDc3dzVnTGpPVEl2czhGTTM4bHhVYnppX3hiOEFONkYwQUtha2hHanh1RUpCN0lGalRaQS05Q0ZjdlhUSHU0d3BmeXJKVEhIQ3VwWjJMS1A2YnFTY01JenVHWmJUcHB2YlVBRnZiMTZMT1hrVmdrT3I5WnA2c1Y0QTltUnUtbXEw?oc=5) <sub>Moomoo · 15/10 00:35 · ●●</sub>  
+  Reacción esperable al IPC: el cripto se comporta como activo de riesgo sensible a tipos. **Impacto:** BTC (-2,0%) y sobre todo ETH (-3,3%) y SOL (-2,4%) caen por la expectativa de subida de tipos. Las altcoins amplifican el movimiento.
 
-**Divergencias precio-noticia:** El bono a 10 años (^TNX) bajó 0,03 puntos en el día pese a un IPC más alto y a la posibilidad de subida de tipos; apunta a refugio en bonos por el miedo a la IA/crédito o a ya haber descontado la subida. Sin datos intradía no es concluyente. · El oro cae -1,3% pese a la inflación alta y a los titulares de Irán/Aramco; es coherente con dólar fuerte y tipos reales al alza, pero va contra el patrón de refugio geopolítico. · Brent plano en el día (-0,0%) pese a titulares sobre ataques a instalaciones de Aramco; el 5d (+5,4%) sugiere que gran parte del riesgo ya estaba incorporado. · AAPL sube +0,5% (máximos de 52 semanas) mientras NDX cae -2,0% y XLK -3,0%; actúa como valor defensivo dentro de la tecnología. · Los datos de IBEX y Euro Stoxx son del 13-oct y no reflejan la sesión del 14; EFE (id 53) indica que la bolsa española subía un 0,1% a media sesión. Hay riesgo de gap de apertura europea el 15-oct. · Los bancos publican resultados fuertes (id 2) pero sus acciones caen; XLF solo cede -0,5%, relativamente resistente frente al mercado.
+**Divergencias precio-noticia:** El Tesoro a 10 años cae 3 pb (5,19%) en un día de IPC caliente y miedo a subidas. Parte de la caída puede ser refugio por la venta de IA, pero no confirma un repunte de tipos. · El Brent no se mueve en el día (0,0%) pese a un IPC liderado por la energía, mientras XLE sube un 0,6% hasta máximos de 52 semanas con RSI 71. · El oro cae un 1,3% pese a la inflación alta: domina el dólar fuerte y la perspectiva de tipos reales más altos sobre la cobertura inflacionaria. · Los bancos caen (XLF -0,5%) pese a buenos resultados (8), lo que sugiere que el mercado mira el riesgo macro y de crédito, no los beneficios. · Apple sube un 0,5% hasta máximos con el Nasdaq 100 en -2,0%: rotación dentro de tecnología, de semis/IA a megacaps defensivas. · Los datos del IBEX y Euro Stoxx llevan fecha del 13-oct. EFE (57) da el IBEX +0,1% el 14, así que Europa no ha descontado del todo la caída posterior de Wall Street.
 
 ## 🎯 Hipótesis de hoy
 
-_Ninguna oportunidad supera los filtros: **no operar hoy**._
+| Activo | Idea | Plazo | Invalidación | Confianza |
+|---|---|--:|--:|--:|
+| 🔵▲ **Índice dólar** | El dato de inflación eleva la probabilidad de subida de la Fed y mantiene el diferencial de tipos a favor del dólar, que ya cotiza en máximos de 52 semanas. | 5 ses. | −1.0% | 50 👀 |
+| 🔴▼ **Euro Stoxx 50** | Europa solo ha reflejado parte de la venta de Wall Street (último dato disponible del 13-oct), por lo que puede haber un ajuste a la baja, sobre todo por semis y tecnología (ASML). | 2 ses. | −1.5% | 42 👀 |
+| 🔴▼ **Semiconductores (SMH)** | Los semis combinan sensibilidad a tipos con miedo a la deuda de IA y rompen la media de 50 sesiones, lo que puede atraer más ventas técnicas si no hay rebote. | 5 ses. | −4.0% | 38 👀 |
+| 🔵▲ **Energía (XLE)** | La inflación está impulsada por la energía: si el petróleo se mantiene alto, el sector conserva su momentum y actúa de cobertura relativa frente a la caída de tecnología. | 5 ses. | −2.5% | 40 👀 |
+
+<details><summary>Disparadores y argumentos en contra</summary>
+
+- **Índice dólar** · disparador: Cierre del 15-oct de DX-Y.NYB igual o superior a 102.5  
+  En contra: El 10 años cayó en el día y Daly y Goolsbee piden paciencia. Tras +2,9% en un mes, el dólar puede estar extendido y corregir. Sesgos: Sesgo de momentum y de anclaje en la narrativa del IPC. La reacción del dólar ayer fue pequeña (+0,3%).
+- **Euro Stoxx 50** · disparador: Cierre del 15-oct de ^STOXX50E por debajo de 6167  
+  En contra: El IBEX cerró +0,1% el 14 según EFE, así que parte del dato ya estaba en precio. El futuro de EE. UU. puede rebotar en la apertura europea. Sesgos: Dato de precio desfasado: no veo el cierre europeo del 14-oct. Hay riesgo de sesgo narrativo.
+- **Semiconductores (SMH)** · disparador: Cierre del 15-oct de SMH por debajo de 564.7  
+  En contra: Ya cae un 9,6% en 5 días y es probable un rebote técnico. Si la Fed confirma cautela, el castigo se revierte. Sesgos: Perseguir un movimiento ya hecho. La volatilidad alta hace que el stop sea poco informativo.
+- **Energía (XLE)** · disparador: Cierre del 15-oct de XLE igual o superior a 67.63  
+  En contra: Está en máximos de 52 semanas con RSI 71 (sobrecompra) y el Brent no se movió hoy. Un día risk-off fuerte puede arrastrar también a la energía. Sesgos: Sesgo de confirmación con la narrativa energía-inflación. La subida de 5 días ya cotiza buena parte de ella.
+
+</details>
+
+<sub>✅ confianza ≥ 60: se opera en simulación · 👀 solo vigilancia</sub>
 
 ## 👀 Valores a vigilar
 
-- **Semiconductores (SMH)** — Cruce a la baja de la media de 50 sesiones y -9,6% en 5 días; ver si se estabiliza o prolonga la caída tras el choque de tipos/IA.
-- **Bono EE. UU. 10a (%)** — Su reacción a la comunicación de la Fed (Daly/Goolsbee) y su nivel de 5,19% definirán la valoración de crecimiento.
-- **Brent** — Confirmación o no de la escalada Irán/Aramco; en 105,6 y con +5,4% en 5 días puede moverse con gap.
-- **Russell 2000** — Sobreventa (RSI 28) y movimiento de -2,3σ; posible rebote técnico, pero en tendencia bajista y sensible a tipos.
-- **Índice dólar** — En máximos de 52 semanas; su continuidad presiona a oro, cripto y EUR/USD (mínimos de 52 semanas).
+- **Bono EE. UU. 10a (%)** — Si el 10 años no sube con la inflación caliente, el movimiento es más de huida de IA/crecimiento que de repricing de tipos.
+- **Brent** — Su dirección determina si la inflación energética persiste y si XLE mantiene su momentum.
+- **Russell 2000** — Movimiento de -2,3σ y RSI 28: busca rebote o capitulación según los mensajes de la Fed.
+- **NVIDIA** — Cruce bajista de la media de 50 sesiones; clave para el sentimiento sobre IA.
+- **Oro** — Cae con dólar fuerte pese a la inflación; vigila si los tipos reales siguen mandando.
 - **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 28)
+- **Índice dólar** — en máximos de 52 semanas
+- **Semiconductores (SMH)** — cruza a la baja su media de 50 sesiones
 - **Energía (XLE)** — en máximos de 52 semanas, sobrecompra (RSI 71)
-- **NVIDIA** — cruza a la baja su media de 50 sesiones
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — sobrecompra (RSI 72)
 
@@ -73,13 +94,13 @@ _Ninguna oportunidad supera los filtros: **no operar hoy**._
 | Euro Stoxx 50 | 6.167 | 🔴▼ -0.6% | 🔴▼ -1.7% | 🔴▼ -1.5% | 🔴▼ -1.9% | 41 | ➡️ lateral | — |
 | Russell 2000 | 2.730 | 🔴▼ -1.9% | 🔴▼ -2.3% | 🔴▼ -4.9% | 🔴▼ -8.2% | 28 | ↘️ bajista | movimiento anómalo hoy (-2.3σ), sobreventa (RSI 28) |
 | Bono EE. UU. 10a (%) | 5.19 | ▼ -3 pb | ▼ -9 pb | ▲ +19 pb | ▲ +62 pb | 59 | ↗️ alcista | — |
-| EUR/USD | 1.118 | 🔴▼ -0.2% | 🔴▼ -0.2% | 🔴▼ -3.1% | 🔴▼ -2.1% | 28 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 28) |
+| EUR/USD | 1.119 | 🔴▼ -0.2% | 🔴▼ -0.1% | 🔴▼ -3.1% | 🔴▼ -2.1% | 28 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 28) |
 | Índice dólar | 102.53 | 🔵▲ +0.3% | 🔵▲ +0.3% | 🔵▲ +2.9% | 🔵▲ +1.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
 | Brent | 105.64 | 🔴▼ -0.0% | 🔵▲ +5.4% | 🔴▼ -2.9% | 🔵▲ +25.4% | 59 | ➡️ lateral | — |
 | Oro | 4.125 | 🔴▼ -1.3% | 🔴▼ -0.4% | 🔴▼ -4.8% | 🔵▲ +3.3% | 36 | ↘️ bajista | — |
-| Bitcoin | 81.461 | 🔴▼ -2.0% | 🔴▼ -1.3% | 🔴▼ -3.5% | 🔵▲ +28.5% | 46 | ➡️ lateral | — |
-| Ethereum | 2.417 | 🔴▼ -3.2% | 🔴▼ -2.8% | 🔴▼ -10.0% | 🔵▲ +28.7% | 38 | ➡️ lateral | — |
-| Solana | 104.37 | 🔴▼ -2.2% | 🔴▼ -4.4% | 🔴▼ -9.2% | 🔵▲ +38.2% | 38 | ➡️ lateral | — |
+| Bitcoin | 81.395 | 🔴▼ -2.0% | 🔴▼ -1.4% | 🔴▼ -3.5% | 🔵▲ +28.4% | 46 | ➡️ lateral | — |
+| Ethereum | 2.413 | 🔴▼ -3.3% | 🔴▼ -2.9% | 🔴▼ -10.1% | 🔵▲ +28.5% | 37 | ➡️ lateral | — |
+| Solana | 104.18 | 🔴▼ -2.4% | 🔴▼ -4.5% | 🔴▼ -9.4% | 🔵▲ +37.9% | 38 | ➡️ lateral | — |
 | Semiconductores (SMH) | 564.74 | 🔴▼ -4.0% | 🔴▼ -9.6% | 🔵▲ +4.2% | 🔴▼ -0.7% | 38 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
 | Financieras (XLF) | 54.52 | 🔴▼ -0.5% | 🔵▲ +1.4% | 🔴▼ -4.1% | 🔴▼ -3.9% | 44 | ➡️ lateral | — |
 | Energía (XLE) | 67.63 | 🔵▲ +0.6% | 🔵▲ +6.7% | 🔵▲ +2.6% | 🔵▲ +18.6% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
@@ -97,7 +118,7 @@ _Ninguna oportunidad supera los filtros: **no operar hoy**._
 
 ## ✅ Historial de hipótesis
 
-Registradas: **0** · abiertas: **0** · cerradas: **0**
+Registradas: **4** · abiertas: **4** · cerradas: **0**
 
 <sub>Fase 0 (rodaje): con menos de 30 hipótesis cerradas el acierto no es estadísticamente informativo.</sub>
 

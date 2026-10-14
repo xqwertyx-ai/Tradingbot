@@ -18,9 +18,9 @@ _______________________ test_agent_backtest_no_lookahead _______________________
   2026-08-19: 1 hipótesis · decisión: operar
   2026-08-20: 1 hipótesis · decisión: operar
   2026-08-21: 1 hipótesis · decisión: operar
-# Backtest del agente de noticias
+# Backtest del agente de noticias (v1.3)
 
-Generado: 2026-10-14 23:25 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+Generado: 2026-10-14 23:30 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
 
 ## Cómo se hizo
 - 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
@@ -79,9 +79,9 @@ Si la confianza significa algo, el acierto debería subir con ella.
   2026-08-19: 1 hipótesis · decisión: operar
   2026-08-20: 1 hipótesis · decisión: operar
   2026-08-21: 1 hipótesis · decisión: operar
-# Backtest del agente de noticias
+# Backtest del agente de noticias (v1.3)
 
-Generado: 2026-10-14 23:25 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+Generado: 2026-10-14 23:30 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
 
 ## Cómo se hizo
 - 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
@@ -150,12 +150,12 @@ PASSED tests/test_portada.py::test_end_to_end
 PASSED tests/test_portada.py::test_intraday_mode
 PASSED tests/test_portada.py::test_ledger_evaluation
 PASSED tests/test_portada.py::test_parse_google_news
-11 passed in 16.63s
+11 passed in 12.63s
 Precios...
   yfinance: 25/25 series
   25/25 activos con datos
 Titulares...
   60 titulares; {'Google News · mercados ES': 'ok (100)', 'Google News · markets': 'ok (100)', 'Google News · crypto': 'ok (100)', 'CNBC': 'ok (30)', 'MarketWatch': 'ok (10)', 'CoinDesk': 'ok (25)', 'Expansión': 'ok (50)'}
 Análisis...
-Uso de la API: 6259 tokens de entrada, 3770 de salida, ~0.0502 USD
+Uso de la API: 6333 tokens de entrada, 5714 de salida, ~0.0698 USD
 Portada generada.
