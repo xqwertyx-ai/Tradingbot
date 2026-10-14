@@ -55,7 +55,9 @@ def add(df: pd.DataFrame, hyps: list[dict], date: str, ref_prices: dict) -> pd.D
 
 
 def evaluate(df: pd.DataFrame, series: dict[str, pd.DataFrame]) -> pd.DataFrame:
-    df = df.copy()
+    # columnas vacías se leen como float; con pandas 2 no admiten texto después
+    df = df.astype({"estado": object, "fecha_cierre": object, "acierto": object,
+                    "precio_cierre": object, "retorno": object})
     for idx, h in df[df["estado"] == "ABIERTA"].iterrows():
         s = series.get(h["ticker"])
         if s is None:
