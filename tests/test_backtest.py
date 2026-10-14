@@ -55,11 +55,14 @@ def test_no_edge_fails_and_planted_edge_passes():
     assert not res["siempre_up"]["passed"]
 
 
-def test_stale_price_is_skipped():
+def test_never_uses_price_before_signal():
     m, p, b = synthetic(10)
-    p["t"] = p["t"] - (C.MAX_PRICE_AGE_SECONDS + 60)
+    p["t"] = p["start_ts"] + 60 * 2 - 1  # todos los precios, 1 s antes de la señal del minuto 2
     df = build_features(m, p, b)
     assert df["pm_up2"].isna().all()
+    p["t"] = p["start_ts"] + 60 * 2 + 15
+    df = build_features(m, p.drop_duplicates(["start_ts", "t"]), b)
+    assert df["pm_up2"].notna().all() and (df["delay2"] == 15).all()
 
 
 def test_parse_event():

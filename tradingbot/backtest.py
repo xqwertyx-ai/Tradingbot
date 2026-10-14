@@ -38,20 +38,27 @@ def build_features(markets: pd.DataFrame, prices: pd.DataFrame, btc: pd.DataFram
     for k in (1, 2, 3):
         df[f"ret_intra{k}"] = at(s + 60 * k) / p0 - 1
 
-    # precio de "Up" en Polymarket en cada minuto de entrada
+    # Precio de ejecución: el PRIMER precio de Polymarket igual o posterior al
+    # momento de la señal. Usar el último precio anterior (hasta ~40 s más viejo
+    # que la señal de BTC) crea una ventaja ficticia: el 14-oct dio +11 ¢/operación
+    # que desaparecía al corregirlo.
     pr = prices.sort_values(["start_ts", "t"])
     groups = {k: g for k, g in pr.groupby("start_ts")}
     for k in (0, 1, 2, 3):
-        vals = []
+        vals, delays = [], []
         for st in s:
             g = groups.get(st)
             te = st + 60 * k
-            if g is None:
+            if g is not None:
+                g = g[(g["t"] >= te) & (g["t"] <= te + C.MAX_EXEC_DELAY_SECONDS)]
+            if g is None or not len(g):
                 vals.append(np.nan)
+                delays.append(np.nan)
                 continue
-            g = g[(g["t"] <= te) & (g["t"] >= te - C.MAX_PRICE_AGE_SECONDS)]
-            vals.append(g["p_up"].iloc[-1] if len(g) else np.nan)
+            vals.append(g["p_up"].iloc[0])
+            delays.append(g["t"].iloc[0] - te)
         df[f"pm_up{k}"] = vals
+        df[f"delay{k}"] = delays
     return df
 
 

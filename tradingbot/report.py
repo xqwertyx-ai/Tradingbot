@@ -53,6 +53,9 @@ def write_report(df: pd.DataFrame, path: str = C.REPORT_PATH) -> str:
         f"(≈ {100 * C.FEE_RATE * .25:.2f} céntimos a p = 0,50).",
         f"- Deslizamiento: {C.SLIPPAGE * 100:.0f} céntimo por acción sobre el precio de referencia.",
         "- Cada operación: 1 acción; paga 1 USDC si acierta.",
+        "- Ejecución: primer precio de Polymarket igual o posterior a la señal "
+        f"(retraso medio: {df[['delay1', 'delay2', 'delay3']].stack().mean():.0f} s). "
+        "Nunca se usa un precio anterior a la señal.",
         "",
         "## Criterio de aprobado (fijado antes de ver los datos)",
         f"Una estrategia pasa solo si en el periodo de prueba tiene ≥ {C.MIN_TRADES_TEST} "
@@ -99,6 +102,9 @@ def write_report(df: pd.DataFrame, path: str = C.REPORT_PATH) -> str:
         "## Limitaciones",
         "- El precio histórico de Polymarket es un precio de referencia, no el precio al que "
         "realmente se habría ejecutado; el deslizamiento lo aproxima.",
+        "- El histórico tiene ~1 precio por minuto, así que la ejecución simulada llega "
+        "~20 s después de la señal. Un bot más rápido vería otros precios; esa ventaja "
+        "de velocidad es justo la que tienen los bots de alta frecuencia.",
         "- No se modela la profundidad del libro: con importes grandes el coste sería mayor.",
         "- Las señales usan BTC-USD de Coinbase; el mercado resuelve con Chainlink. "
         "El resultado sí es el oficial de Polymarket.",

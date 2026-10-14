@@ -16,8 +16,9 @@ FEE_RATE = 0.07
 # da un precio de referencia, no el ask real; esto lo compensa de forma conservadora.
 SLIPPAGE = 0.01
 
-# Un precio de referencia más antiguo que esto respecto al momento de entrada se descarta.
-MAX_PRICE_AGE_SECONDS = 120
+# Se ejecuta al primer precio de Polymarket igual o posterior a la señal; si no hay
+# ninguno en este margen, no se opera. Nunca usar un precio anterior a la señal.
+MAX_EXEC_DELAY_SECONDS = 60
 
 # Fracción cronológica de datos usada para "explorar"; el resto es la prueba final.
 TRAIN_FRACTION = 0.7
