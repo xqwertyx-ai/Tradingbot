@@ -20,7 +20,7 @@ E = html.escape
 def _pct(x, level=False, digits=1):
     if x is None:
         return "—"
-    return f"{x:+.2f} pts" if level else f"{100 * x:+.{digits}f}%".replace(".", ",")
+    return f"{100 * x:+.0f} pb" if level else f"{100 * x:+.{digits}f}%".replace(".", ",")
 
 
 def _cls(x):
@@ -231,8 +231,8 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
                + E(" · ".join(ai["divergencias"])) + "</p>")
 
     hyps = ai.get("hipotesis") or [] if ok_ai else []
-    if ctx["mode"] == "apertura":
-        hyp_html = '<p class="empty">Revisión de apertura: solo observación. Las hipótesis se registran con precios de cierre.</p>'
+    if ctx["mode"] in ("apertura", "intradía"):
+        hyp_html = f'<p class="empty">Revisión de {ctx["mode"]}: solo observación. Las hipótesis se registran con precios de cierre.</p>'
     elif not ok_ai:
         hyp_html = '<p class="empty">Sin análisis con IA no se generan hipótesis.</p>'
     elif not hyps:

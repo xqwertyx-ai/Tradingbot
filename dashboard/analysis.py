@@ -80,8 +80,8 @@ def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open
     if open_hyps:
         lines += ["", "HIPÓTESIS ABIERTAS (no dupliques la misma idea):"]
         lines += [f"- {h['ticker']} {h['direccion']} hasta {h['vence']}: {h['tesis']}" for h in open_hyps]
-    if mode == "apertura":
-        lines += ["", "Revisión de APERTURA: solo observación. Devuelve \"hipotesis\": [] "
+    if mode in ("apertura", "intradía"):
+        lines += ["", f"Revisión de {mode.upper()}: solo observación. Devuelve \"hipotesis\": [] "
                   "(las decisiones se toman con precios de cierre)."]
     return "\n".join(lines)
 

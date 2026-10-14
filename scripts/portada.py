@@ -10,6 +10,7 @@ import json
 import os
 import sys
 from collections import Counter
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -19,8 +20,18 @@ from dashboard.render import render  # noqa: E402
 from dashboard.universe import ASSETS  # noqa: E402
 
 
+def effective_mode(mode: str, now: dt.datetime) -> str:
+    """Regla R-1014-3: solo se decide con precios de cierre. Si se pide 'cierre'
+    con Wall Street todavía abierto, la revisión pasa a ser de observación."""
+    ny = now.astimezone(ZoneInfo("America/New_York"))
+    if mode == "cierre" and ny.weekday() < 5 and dt.time(9, 30) <= ny.time() < dt.time(16, 15):
+        return "intradía"
+    return mode
+
+
 def main(mode: str) -> None:
     now = dt.datetime.now(dt.timezone.utc)
+    mode = effective_mode(mode, now)
     series, rows, quality, fuentes = {}, [], Counter(), Counter()
 
     print("Precios...")

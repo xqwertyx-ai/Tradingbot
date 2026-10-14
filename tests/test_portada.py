@@ -44,6 +44,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
     try:
         counter = iter(range(100))
         prices.prefetch_yfinance = lambda tickers: None
+        real_mode, portada.effective_mode = portada.effective_mode, (lambda m, now: m)  # sin depender de la hora
         prices.fetch = lambda a: (fake_series(next(counter)), "Yahoo")
         prices.check_source = lambda a, df, s: "ok"
         news.fetch_news = lambda: ([{"title": "La Fed sube tipos", "link": "https://x", "source": "Test",
@@ -64,7 +65,16 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         assert len(ledger.load()) == 1
     finally:
         prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance = orig
+        portada.effective_mode = real_mode
         os.chdir(cwd)
+
+
+def test_intraday_mode():
+    import portada
+    utc = dt.timezone.utc
+    assert portada.effective_mode("cierre", dt.datetime(2026, 10, 14, 19, 10, tzinfo=utc)) == "intradía"
+    assert portada.effective_mode("cierre", dt.datetime(2026, 10, 14, 20, 35, tzinfo=utc)) == "cierre"
+    assert portada.effective_mode("cierre", dt.datetime(2026, 10, 17, 19, 0, tzinfo=utc)) == "cierre"  # sábado
 
 
 def test_ledger_evaluation():

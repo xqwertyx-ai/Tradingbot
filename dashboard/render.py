@@ -16,7 +16,7 @@ def _chg(x, level=False):
     if x is None:
         return "—"
     if level:
-        return f"{'▲' if x >= 0 else '▼'} {x:+.2f} pts"
+        return f"{'▲' if x >= 0 else '▼'} {100 * x:+.0f} pb"
     return f"{'🔵▲' if x >= 0 else '🔴▼'} {100 * x:+.1f}%"
 
 
@@ -100,8 +100,8 @@ def render(ctx: dict) -> str:
     # --- Hipótesis
     L += ["## 🎯 Hipótesis de hoy", ""]
     hyps = ai.get("hipotesis") or []
-    if ctx["mode"] == "apertura":
-        L.append("_Revisión de apertura: solo observación. Las hipótesis se registran con precios de cierre._")
+    if ctx["mode"] in ("apertura", "intradía"):
+        L.append(f"_Revisión de {ctx['mode']}: solo observación. Las hipótesis se registran con precios de cierre._")
     elif not ai or ai.get("error"):
         L.append("_Sin análisis con IA no se generan hipótesis._")
     elif not hyps:

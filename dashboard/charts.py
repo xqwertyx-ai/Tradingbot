@@ -96,7 +96,7 @@ def trends(panels: list[dict], theme: str, path: str) -> None:
         ax.scatter([x.iloc[-1]], [df["close"].iloc[-1]], s=22, color=t["line"],
                    edgecolors=t["surface"], linewidths=1.5, zorder=3)
         chg = p["chg_1m"]
-        sub = "" if chg is None else (f"{chg:+.2f} pts 1m" if p.get("level") else f"{100 * chg:+.1f}% 1m")
+        sub = "" if chg is None else (f"{100 * chg:+.0f} pb 1m" if p.get("level") else f"{100 * chg:+.1f}% 1m")
         ax.set_title(f"{p['name']}", loc="left", color=t["ink"], fontsize=10, pad=14)
         ax.text(0, 1.02, f"{p['trend']} · {sub}", transform=ax.transAxes, fontsize=8, color=t["ink2"])
         ax.tick_params(axis="x", labelsize=7)
