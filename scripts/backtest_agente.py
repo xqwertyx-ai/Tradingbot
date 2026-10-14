@@ -26,9 +26,10 @@ from dashboard import analysis, ledger, prices  # noqa: E402
 from dashboard.indicators import metrics, nan_to_none  # noqa: E402
 from dashboard.universe import ASSETS  # noqa: E402
 
-OUT = "data/agent_bt"
+VER = analysis.ALGO_VERSION
+OUT = f"data/agent_bt/{VER}"
 LEDGER = f"{OUT}/hipotesis.csv"
-REPORT = "reports/agente-backtest.md"
+REPORT = f"reports/agente-backtest-{VER}.md"
 CLEAN_FROM = dt.date(2026, 8, 1)
 COST = {"Cripto": 0.002, "Macro": 0.0004}  # ida y vuelta; resto 0,1%
 
@@ -102,7 +103,7 @@ def run(desde, hasta, solo_noticias):
         cost += (ai.get("uso") or {}).get("coste_usd", 0)
         if not (book["fecha"] == day.isoformat()).any():
             book = ledger.add(book, ai.get("hipotesis", []), day.isoformat(), ref_prices(day, series),
-                              version="bt-1.0")
+                              version=f"bt-{VER}")
             ledger.save(book, LEDGER)  # permite reanudar si se corta
         print(f"  {day}: {len(ai.get('hipotesis', []))} hipótesis · decisión: {ai.get('decision')}")
     if solo_noticias:
@@ -161,7 +162,7 @@ def report(book, series, days, cost):
     base = momentum_baseline(book[pd.to_datetime(book["fecha"]).dt.date >= CLEAN_FROM], series)
     no_trade = sum(1 for d in days if os.path.exists(f"{OUT}/ai/{d}.json")
                    and json.load(open(f"{OUT}/ai/{d}.json", encoding="utf-8")).get("decision") == "no operar hoy")
-    L = ["# Backtest del agente de noticias", "",
+    L = [f"# Backtest del agente de noticias ({VER})", "",
          f"Generado: {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · modelo {analysis.MODEL} · "
          f"coste total de la API ≈ {cost:.2f} USD. Simulación; no es asesoramiento financiero.", "",
          "## Cómo se hizo",

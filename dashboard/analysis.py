@@ -15,6 +15,7 @@ import re
 from tradingbot.http import make_session
 
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5")
+ALGO_VERSION = "v1.3"  # ver bitácora: R-1015-1 (registrar también hipótesis de confianza < 60)
 API_URL = "https://api.anthropic.com/v1/messages"
 # USD por millón de tokens (entrada, salida). Fuente: platform.claude.com/docs/en/models/overview (14-oct-2026)
 PRICES = {"claude-sonnet-5-5": (2.0, 10.0), "claude-opus-5-5": (4.0, 20.0)}
@@ -38,8 +39,11 @@ Proceso obligatorio:
 
 Reglas: no inventes datos, precios ni noticias. Separa hecho, interpretación y predicción.
 Nada de certezas. Considera liquidez, costes, horario de mercado y riesgo de gap.
-Hipótesis con la misma idea de fondo cuentan como una. Si nada supera el umbral (confianza >= 60),
-"no operar hoy" es una respuesta válida: no fuerces operaciones. Escribe en español."""
+Hipótesis con la misma idea de fondo cuentan como una. Solo se opera (en simulación) lo que tenga
+confianza >= 60; si nada llega, la decisión es "no operar hoy", y es una respuesta válida.
+Aun así, propón SIEMPRE entre 2 y 4 hipótesis, las mejores del día, con una confianza honesta
+aunque sea baja: las de menos de 60 se registran solo para medir si tu confianza está bien calibrada.
+No subas la confianza para que se operen. Escribe en español."""
 
 SCHEMA = """Responde SOLO con un objeto JSON válido con esta forma:
 {
@@ -55,7 +59,7 @@ SCHEMA = """Responde SOLO con un objeto JSON válido con esta forma:
                  "disparador": "condición con precio de cierre",
                  "invalidacion_pct": <movimiento adverso al cierre en %, p. ej. 3>,
                  "confianza": 0-100, "contra": "mejor argumento en contra",
-                 "sesgos": "sesgos posibles"} ],  // máximo 4; puede ser []
+                 "sesgos": "sesgos posibles"} ],  // entre 2 y 4 (vacío solo en apertura/intradía)
  "vigilar": [ {"ticker": "<ticker de la tabla>", "motivo": "1 frase"} ],  // máximo 5
  "decision": "operar" | "no operar hoy",
  "decision_motivo": "1 frase"
@@ -125,7 +129,7 @@ def analyze(date, mode, table, news, open_hyps) -> dict | None:
     r = s.post(API_URL, timeout=180, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json",
     }, json={
-        "model": MODEL, "max_tokens": 4000, "system": SYSTEM,
+        "model": MODEL, "max_tokens": 8000, "system": SYSTEM,
         "messages": [{"role": "user", "content": prompt + "\n\n" + SCHEMA}],
     })
     if r.status_code != 200:

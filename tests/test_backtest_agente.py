@@ -47,12 +47,12 @@ def test_agent_backtest_no_lookahead(tmp_path):
         analysis.analyze = fake_analyze
         bt.run(dt.date(2026, 8, 3), dt.date(2026, 8, 21), False)
         assert len(seen) == 15
-        book = pd.read_csv("data/agent_bt/hipotesis.csv")
+        book = pd.read_csv(bt.LEDGER)
         assert len(book) == 15 and (book["estado"] != "ABIERTA").all()
-        assert "Desde agosto" in open("reports/agente-backtest.md", encoding="utf-8").read()
+        assert "Desde agosto" in open(bt.REPORT, encoding="utf-8").read()
         n_calls = len(seen)
         bt.run(dt.date(2026, 8, 3), dt.date(2026, 8, 21), False)  # caché: no repite llamadas
-        assert len(seen) == n_calls and len(pd.read_csv("data/agent_bt/hipotesis.csv")) == 15
+        assert len(seen) == n_calls and len(pd.read_csv(bt.LEDGER)) == 15
     finally:
         prices.prefetch_yfinance, bt.headlines, analysis.analyze = orig
         prices._YF.clear()

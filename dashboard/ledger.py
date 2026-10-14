@@ -17,7 +17,7 @@ LEDGER = "data/dashboard/hipotesis.csv"
 COLS = ["id", "fecha", "version", "ticker", "direccion", "horizonte_dias", "vence", "tesis",
         "disparador", "invalidacion_pct", "confianza", "operada", "precio_ref",
         "estado", "acierto", "fecha_cierre", "precio_cierre", "retorno"]
-VERSION = "auto-1.0"
+VERSION = "v1.3"
 OPERATE_THRESHOLD = 60
 
 
