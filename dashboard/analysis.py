@@ -8,6 +8,7 @@ que no estén en la entrada (se valida al recibir la respuesta).
 from __future__ import annotations
 
 import json
+import math
 import os
 import re
 
@@ -15,6 +16,8 @@ from tradingbot.http import make_session
 
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5")
 API_URL = "https://api.anthropic.com/v1/messages"
+# USD por millón de tokens (entrada, salida). Fuente: platform.claude.com/docs/en/models/overview (14-oct-2026)
+PRICES = {"claude-sonnet-5-5": (2.0, 10.0), "claude-opus-5-5": (4.0, 20.0)}
 
 SYSTEM = """Eres un agente de análisis de mercados en un proyecto de I+D. Lees las noticias de la jornada,
 estimas su impacto probable en activos cotizados y propones hipótesis evaluables en simulación
@@ -135,4 +138,10 @@ def analyze(date, mode, table, news, open_hyps) -> dict | None:
         return {"error": "La respuesta del modelo no era JSON válido."}
     out = validate(out, {a["ticker"] for a in table}, len(news), mode)
     out["modelo"] = MODEL
+    u = r.json().get("usage", {})
+    pin, pout = PRICES.get(MODEL, (math.nan, math.nan))
+    tin, tout = u.get("input_tokens", 0), u.get("output_tokens", 0)
+    out["uso"] = {"tokens_entrada": tin, "tokens_salida": tout,
+                  "coste_usd": round(tin / 1e6 * pin + tout / 1e6 * pout, 4)}
+    print(f"Uso de la API: {tin} tokens de entrada, {tout} de salida, ~{out['uso']['coste_usd']} USD")
     return out

@@ -309,7 +309,7 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
 <footer>
 <p>Proyecto de I+D. Todo es simulación (paper trading); nada de esto es asesoramiento financiero.</p>
 <p>Precios: {q["ok"]} contrastados con dos fuentes, {q["sin_contraste"]} con una sola, {q["dudoso"]} dudosos, {q["sin_dato"]} sin dato
-({E(", ".join(f"{k} {v}" for k, v in q["fuentes"].items()))}). Análisis: {E(ai.get("modelo", "desactivado") if ok_ai else "desactivado")}.</p>
+({E(", ".join(f"{k} {v}" for k, v in q["fuentes"].items()))}). Análisis: {E(ai.get("modelo", "desactivado") if ok_ai else "desactivado")}{f' (coste ~{ai["uso"]["coste_usd"]:.3f} USD)' if ok_ai and ai.get("uso") else ""}.</p>
 <p>Tendencia alcista: precio sobre sus medias de 50 y 200 sesiones y subiendo en el mes; bajista, al revés; si no, lateral.</p>
 <p><a href="https://github.com/xqwertyx-ai/Tradingbot">Código y datos en GitHub</a></p>
 </footer></div>
