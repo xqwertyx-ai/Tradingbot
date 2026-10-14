@@ -31,7 +31,7 @@ CATEGORIES = [
 ]
 IMPORTANT = r"\b(fed|bce|ecb|ipc|cpi|inflation|inflaci|tipos|rates|record|récord|crash|desplome|plunge|surge|dispara|hundi|tariff|arancel|guerra|war|earnings|resultados)"
 
-_s = make_session()
+_s = make_session(retries=2, backoff=0.5)
 
 
 def _parse_date(s: str | None):

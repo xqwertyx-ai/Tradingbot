@@ -3,11 +3,11 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 
-def make_session() -> requests.Session:
+def make_session(retries: int = 6, backoff: float = 1.5) -> requests.Session:
     s = requests.Session()
     retry = Retry(
-        total=6,
-        backoff_factor=1.5,
+        total=retries,
+        backoff_factor=backoff,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=("GET",),
         respect_retry_after_header=True,
