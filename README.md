@@ -2,7 +2,7 @@
 
 # 📊 Radar de mercados
 
-**miércoles 14 oct 2026 · revisión de cierre · 21:07 (Madrid)**
+**miércoles 14 oct 2026 · revisión de cierre · 21:10 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
@@ -12,7 +12,14 @@
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **Bitcoin** | 81.573 | 🔴▼ -1.8% | 🔴▼ -3.3% | ➡️ lateral |
+| **S&P 500** | 7.702 | 🔴▼ -1.3% | 🔵▲ +1.5% | ➡️ lateral |
+| **Nasdaq 100** | 29.893 | 🔴▼ -2.2% | 🔵▲ +3.3% | ↗️ alcista |
+| **IBEX 35** | 19.231 | 🔵▲ +0.1% | 🔴▼ -1.7% | ➡️ lateral |
+| **Bono EE. UU. 10a (%)** | 5.185 | ▼ -0.03 pts | ▲ +0.19 pts | ↗️ alcista |
+| **EUR/USD** | 1.116 | 🔴▼ -0.0% | 🔴▼ -3.4% | ↘️ bajista |
+| **Brent** | 106.12 | 🔵▲ +0.4% | 🔴▼ -2.4% | ➡️ lateral |
+| **Oro** | 4.118 | 🔴▼ -1.4% | 🔴▼ -5.0% | ↘️ bajista |
+| **Bitcoin** | 81.591 | 🔴▼ -1.8% | 🔴▼ -3.3% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -21,11 +28,11 @@
 - **[macro]** [What to expect at the next Fed meeting now that rate-hike odds are rising](https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories) <sub>MarketWatch · 14/10 21:04</sub>
 - **[macro]** [Resumen diario: El aumento de la inflación presiona a los mercados y los semiconductores sufren las mayores caídas (14.10.2026)](https://news.google.com/rss/articles/CBMilgJBVV95cUxNUGJLS01GUTh1OFQ0U0JFSmVjeVJ4cWpaVTNmTHZKaGpWMmRlRUtZSWt4dDc3MDBBajFPcWp0WnRQWTBqMC1KX3U0bGt3MlZTUnBHblN1RTJnOG45Vl9vaEM3R1Y2OXp2S042UVVORnV0Tm5nSGpZWkxHVEpLMnR4LW5ZMDNMd1ZCeVJ5dTVLa1lZV1Y4TlNIcU03LUF1X2p3MWdzUzh4SlJVY0p5VWIwbjd1dzVqUUVTTVZEMm9ZMEs5SjVXMVlwemM1QnhMRG1Mb3BQX2VvLV9jSmU5QktYVjBRR2VuWHpQSWlvb19QbWFXTjVaMlI5dUF0V2ZRUGtIQUlvck5PTDM5SFB4TXVVdzV0Q0ZMdw?oc=5) <sub>XTB.com · 14/10 20:57</sub>
 - **[macro]** [Prices increased sharply in September in last inflation report ahead of elections](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDN2VFVqajVYaktjTE5GTmFOVE1ZSmRYNW1kQjBKQV8wdWFraFJfZHJUZVRvRGNjNVdsa0xsUDJlNFdDMXBvdFJ4cU1SWkZwOGRoVzhVZ3pBT1p1Q3RSOUV1aHNfdWRDOHNsY2MwSEtublVxYkIwZVZiXzNLckswWVY1Yl9JdVlGRncyMGppTFFucTgzeDM1UG5QQ3hoUkhQTFhZQUN6WU9jNDQ5TXNVbnFRdFZaNWM?oc=5) <sub>The Washington Post · 14/10 20:56</sub>
+- **[macro]** [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://news.google.com/rss/articles/CBMiekFVX3lxTFA2OXA5blhFSVhQWC1HOGpGeDJCdkQxV0xyUHYxck1nUVlEa1QxMm5HV1lacEYxR09WNUM4cVhBTy1rZlNhalZ3WVVORkxMLWZMNGxIUnFMYVpEOWtZSXlRd3Z2TmExRUdqT0pBRHY5UGJFZFI4SldfUUd3?oc=5) <sub>The New York Times · 14/10 20:54</sub>
 - **[macro]** [Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.](https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories) <sub>MarketWatch · 14/10 20:53</sub>
+- **[macro]** [Inflation heats up in September; Fed rate hike this month back on table](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDQtanRhdFhUc19hcFZhNS1hdk1MNTRMTmd6OXVxV2dmNTE5R0hPUDdMV0Q3cTBURWdyQU9qYThGZWhudEEzOEFlQ1NRdmtMdU92Nk93R2k0VzRPZDFIX0JBRDJmRE9DdmtrWE9RVTNxUS1pTi1OQXVvSkNKcmNaWFotVW4xVGVLci1zdWRHcXBUWWdQUkJfUmxmeENxR1NjeW0tTmpoRnl6TFJTenFtOUJNZw?oc=5) <sub>KSL News · 14/10 20:52</sub>
 - **[macro]** [Soaring Energy Prices Push Inflation Higher](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5) <sub>The New York Times · 14/10 20:45</sub>
 - **[macro]** [US stocks drop toward their worst day since June as inflation worsens | National News | 2news.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajROS215cDlDbGpNcUlLcHc0bnlNQ01yV2FKeXVabHhIa0E4ZDd0VlNXbHdyd2o0c0FBY1BxSnNKMGZycjVJdmJ2VXMtbDh4YnBhWXRZcllEdVZGM2NDckFKT2dQNEdEM0tPaW9mRmU0ekp1Ml9Cd1B6OEZQR0g2RUh3eGlZVTQtY3NPQ0doOXNibGZxOTR1T1ZmWVlXUnUtaF9QdWZjaklmMDR4Qkc3cE9QWDN0RUhUT1E0dTNTdjNwbV9fcXhCMms4MVNpV0JaZkV4WVFEek1PY2NZRkl6am5Na0gycXI1?oc=5) <sub>KTVN · 14/10 20:43</sub>
-- **[macro]** [US stocks drop toward their worst day since June as inflation worsens](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5) <sub>AP News · 14/10 20:43</sub>
-- **[macro]** [US Inflation 3.7%: The Level That Counts for Bitcoin](https://news.google.com/rss/articles/CBMickFVX3lxTFBaSnoyQ0tlS2oxdWZkekJIWG1rMV9mdWpyYjlGYXROZzNkaEFRVUdjbkJ3Y2ZRQTlaeE04R1UtNlVIV3RNRnVNaWJJdEF1bGNFR2R3NmJXa3JGMzNPVjVuQ0VRTW4zcHp4dFpCQTZkUlljZw?oc=5) <sub>CryptoTicker · 14/10 20:40</sub>
 
 ## 🎯 Hipótesis de hoy
 
@@ -33,7 +40,16 @@ _Sin análisis con IA no se generan hipótesis._
 
 ## 👀 Valores a vigilar
 
-_Nada destacable por reglas hoy._
+- **S&P 500** — cruza a la baja su media de 50 sesiones
+- **Russell 2000** — movimiento anómalo hoy (-2.6σ), sobreventa (RSI 27)
+- **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 20)
+- **Índice dólar** — en máximos de 52 semanas
+- **Semiconductores (SMH)** — cruza a la baja su media de 50 sesiones
+- **Energía (XLE)** — en máximos de 52 semanas, sobrecompra (RSI 71)
+- **Tecnología (XLK)** — movimiento anómalo hoy (-2.1σ)
+- **NVIDIA** — cruza a la baja su media de 50 sesiones
+- **Apple** — en máximos de 52 semanas
+- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 74)
 
 ## 📈 Tendencias (6 meses)
 
@@ -43,9 +59,31 @@ _Nada destacable por reglas hoy._
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| Bitcoin | 81.573 | 🔴▼ -1.8% | 🔴▼ -1.2% | 🔴▼ -3.3% | 🔵▲ +28.6% | 47 | ➡️ lateral | — |
-| Ethereum | 2.420 | 🔴▼ -3.0% | 🔴▼ -2.6% | 🔴▼ -9.8% | 🔵▲ +28.9% | 38 | ➡️ lateral | — |
-| Solana | 103.86 | 🔴▼ -2.7% | 🔴▼ -4.8% | 🔴▼ -9.7% | 🔵▲ +37.5% | 37 | ➡️ lateral | — |
+| S&P 500 | 7.702 | 🔴▼ -1.3% | 🔴▼ -1.3% | 🔵▲ +1.5% | 🔵▲ +2.2% | 48 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Nasdaq 100 | 29.893 | 🔴▼ -2.2% | 🔴▼ -4.1% | 🔵▲ +3.3% | 🔵▲ +3.0% | 44 | ↗️ alcista | — |
+| IBEX 35 | 19.231 | 🔵▲ +0.1% | 🔵▲ +0.6% | 🔴▼ -1.7% | 🔵▲ +0.1% | 45 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.190 | 🔵▲ +0.4% | 🔵▲ +0.2% | 🔴▼ -0.7% | 🔴▼ -0.6% | 44 | ➡️ lateral | — |
+| Russell 2000 | 2.723 | 🔴▼ -2.2% | 🔴▼ -2.5% | 🔴▼ -5.1% | 🔴▼ -8.5% | 27 | ↘️ bajista | movimiento anómalo hoy (-2.6σ), sobreventa (RSI 27) |
+| Bono EE. UU. 10a (%) | 5.185 | ▼ -0.03 pts | ▼ -0.09 pts | ▲ +0.19 pts | ▲ +0.62 pts | 58 | ↗️ alcista | — |
+| EUR/USD | 1.116 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔴▼ -3.4% | 🔴▼ -2.5% | 20 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 20) |
+| Índice dólar | 102.55 | 🔵▲ +0.4% | 🔵▲ +0.3% | 🔵▲ +2.9% | 🔵▲ +1.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 106.12 | 🔵▲ +0.4% | 🔵▲ +5.9% | 🔴▼ -2.4% | 🔵▲ +26.0% | 60 | ➡️ lateral | — |
+| Oro | 4.118 | 🔴▼ -1.4% | 🔴▼ -0.6% | 🔴▼ -5.0% | 🔵▲ +3.1% | 36 | ↘️ bajista | — |
+| Bitcoin | 81.591 | 🔴▼ -1.8% | 🔴▼ -1.2% | 🔴▼ -3.3% | 🔵▲ +28.7% | 47 | ➡️ lateral | — |
+| Ethereum | 2.424 | 🔴▼ -2.9% | 🔴▼ -2.5% | 🔴▼ -9.7% | 🔵▲ +29.1% | 38 | ➡️ lateral | — |
+| Solana | 104.02 | 🔴▼ -2.5% | 🔴▼ -4.7% | 🔴▼ -9.5% | 🔵▲ +37.7% | 37 | ➡️ lateral | — |
+| Semiconductores (SMH) | 564.21 | 🔴▼ -4.1% | 🔴▼ -9.7% | 🔵▲ +4.1% | 🔴▼ -0.8% | 38 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Financieras (XLF) | 54.40 | 🔴▼ -0.8% | 🔵▲ +1.2% | 🔴▼ -4.3% | 🔴▼ -4.1% | 43 | ➡️ lateral | — |
+| Energía (XLE) | 67.58 | 🔵▲ +0.6% | 🔵▲ +6.7% | 🔵▲ +2.5% | 🔵▲ +18.5% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
+| Tecnología (XLK) | 189.94 | 🔴▼ -3.2% | 🔴▼ -5.7% | 🔵▲ +3.4% | 🔵▲ +7.0% | 42 | ↗️ alcista | movimiento anómalo hoy (-2.1σ) |
+| NVIDIA | 219.99 | 🔴▼ -3.7% | 🔴▼ -7.4% | 🔵▲ +3.7% | 🔵▲ +6.1% | 43 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Apple | 342.78 | 🔵▲ +0.4% | 🔵▲ +1.8% | 🔵▲ +3.5% | 🔵▲ +2.9% | 62 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 532.87 | 🔴▼ -1.9% | 🔵▲ +0.6% | 🔵▲ +7.2% | 🔵▲ +32.9% | 62 | ↗️ alcista | — |
+| ASML | 1.676 | 🔴▼ -2.4% | 🔴▼ -7.1% | 🔵▲ +5.3% | 🔴▼ -6.1% | 40 | ➡️ lateral | — |
+| Banco Santander | 12.13 | 🔴▼ -0.4% | 🔴▼ -1.1% | 🔴▼ -4.2% | 🔵▲ +2.7% | 45 | ➡️ lateral | — |
+| BBVA | 23.13 | 🔴▼ -0.4% | 🔴▼ -1.3% | 🔴▼ -7.1% | 🔵▲ +4.8% | 37 | ➡️ lateral | — |
+| Inditex | 54.34 | 🔵▲ +0.4% | 🔵▲ +1.9% | 🔵▲ +3.3% | 🔵▲ +1.1% | 53 | ➡️ lateral | — |
+| Iberdrola | 21.71 | 🔵▲ +0.7% | 🔵▲ +3.7% | 🔵▲ +8.3% | 🔵▲ +2.2% | 74 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 74) |
 
 </details>
 
@@ -61,8 +99,8 @@ Registro completo: [`data/dashboard/hipotesis.csv`](data/dashboard/hipotesis.csv
 
 <details><summary>Fuentes y calidad de datos</summary>
 
-- Precios: 0 contrastados, 3 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 22 sin dato.
-- Fuentes de precio usadas: Coinbase (3).
+- Precios: 3 contrastados, 22 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 0 sin dato.
+- Fuentes de precio usadas: Yahoo (25).
 - Titulares: Google News · mercados ES: ok (100); Google News · markets: ok (100); Google News · crypto: ok (100); CNBC: ok (30); MarketWatch: ok (10); CoinDesk: ok (25); Expansión: ok (50).
 - Análisis: desactivado.
 - Reglas de tendencia: alcista si el precio está sobre sus medias de 50 y 200 sesiones y sube en el mes; bajista al revés; si no, lateral.
