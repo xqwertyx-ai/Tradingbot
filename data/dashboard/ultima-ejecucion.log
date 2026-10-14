@@ -1,5 +1,129 @@
-..........                                                               [100%]
+...........                                                              [100%]
 ==================================== PASSES ====================================
+_______________________ test_agent_backtest_no_lookahead _______________________
+----------------------------- Captured stdout call -----------------------------
+15 sesiones de 2026-08-03 a 2026-08-21
+  2026-08-03: 1 hipótesis · decisión: operar
+  2026-08-04: 1 hipótesis · decisión: operar
+  2026-08-05: 1 hipótesis · decisión: operar
+  2026-08-06: 1 hipótesis · decisión: operar
+  2026-08-07: 1 hipótesis · decisión: operar
+  2026-08-10: 1 hipótesis · decisión: operar
+  2026-08-11: 1 hipótesis · decisión: operar
+  2026-08-12: 1 hipótesis · decisión: operar
+  2026-08-13: 1 hipótesis · decisión: operar
+  2026-08-14: 1 hipótesis · decisión: operar
+  2026-08-17: 1 hipótesis · decisión: operar
+  2026-08-18: 1 hipótesis · decisión: operar
+  2026-08-19: 1 hipótesis · decisión: operar
+  2026-08-20: 1 hipótesis · decisión: operar
+  2026-08-21: 1 hipótesis · decisión: operar
+# Backtest del agente de noticias
+
+Generado: 2026-10-14 19:43 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+
+## Cómo se hizo
+- 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
+- Hipótesis evaluadas con las reglas de la bitácora: FALLO si un cierre toca la invalidación; al vencer, se puntúa por el signo del retorno.
+- Retorno neto: descontando costes simulados (0,1% ida y vuelta en acciones, 0,04% divisas, 0,2% cripto).
+- **Lo que cuenta es desde el 01-08-2026.** El conocimiento fiable del modelo llega a junio de 2026; julio se muestra aparte por si supiera algo de esas semanas.
+
+## Resultados (hipótesis cerradas)
+
+| Grupo | n | Acierto | IC 95% | Retorno neto medio |
+|---|--:|--:|--:|--:|
+| Desde agosto · todas | 15 | 47% | 25–70% | -0.32% |
+| Desde agosto · operadas (confianza ≥ 60) | 15 | 47% | 25–70% | -0.32% |
+| Desde agosto · solo vigilancia (< 60) | 0 | — | — | — |
+| Julio (posible contaminación) | 0 | — | — | — |
+
+**Referencia ingenua** (mismas fechas, activos y plazos, dirección = tendencia del último mes): 53% de acierto (IC 95% 30–75%, n = 15). Si el agente no la supera, las noticias no están aportando nada.
+
+## Calibración (desde agosto)
+
+Si la confianza significa algo, el acierto debería subir con ella.
+
+| Confianza | n | Acierto |
+|---|--:|--:|
+| 0–49 | 0 | — |
+| 50–59 | 0 | — |
+| 60–69 | 15 | 47% |
+| 70–100 | 0 | — |
+
+## Por activo (desde agosto, n ≥ 3)
+
+| Activo | n | Acierto |
+|---|--:|--:|
+| ^GSPC | 15 | 47% |
+
+## Notas
+- Registradas 15, cerradas 15, aún abiertas 0.
+- Días con decisión "no operar hoy": 0 de 15.
+- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.
+- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.
+- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.
+
+15 sesiones de 2026-08-03 a 2026-08-21
+  2026-08-03: 1 hipótesis · decisión: operar
+  2026-08-04: 1 hipótesis · decisión: operar
+  2026-08-05: 1 hipótesis · decisión: operar
+  2026-08-06: 1 hipótesis · decisión: operar
+  2026-08-07: 1 hipótesis · decisión: operar
+  2026-08-10: 1 hipótesis · decisión: operar
+  2026-08-11: 1 hipótesis · decisión: operar
+  2026-08-12: 1 hipótesis · decisión: operar
+  2026-08-13: 1 hipótesis · decisión: operar
+  2026-08-14: 1 hipótesis · decisión: operar
+  2026-08-17: 1 hipótesis · decisión: operar
+  2026-08-18: 1 hipótesis · decisión: operar
+  2026-08-19: 1 hipótesis · decisión: operar
+  2026-08-20: 1 hipótesis · decisión: operar
+  2026-08-21: 1 hipótesis · decisión: operar
+# Backtest del agente de noticias
+
+Generado: 2026-10-14 19:43 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+
+## Cómo se hizo
+- 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
+- Hipótesis evaluadas con las reglas de la bitácora: FALLO si un cierre toca la invalidación; al vencer, se puntúa por el signo del retorno.
+- Retorno neto: descontando costes simulados (0,1% ida y vuelta en acciones, 0,04% divisas, 0,2% cripto).
+- **Lo que cuenta es desde el 01-08-2026.** El conocimiento fiable del modelo llega a junio de 2026; julio se muestra aparte por si supiera algo de esas semanas.
+
+## Resultados (hipótesis cerradas)
+
+| Grupo | n | Acierto | IC 95% | Retorno neto medio |
+|---|--:|--:|--:|--:|
+| Desde agosto · todas | 15 | 47% | 25–70% | -0.32% |
+| Desde agosto · operadas (confianza ≥ 60) | 15 | 47% | 25–70% | -0.32% |
+| Desde agosto · solo vigilancia (< 60) | 0 | — | — | — |
+| Julio (posible contaminación) | 0 | — | — | — |
+
+**Referencia ingenua** (mismas fechas, activos y plazos, dirección = tendencia del último mes): 53% de acierto (IC 95% 30–75%, n = 15). Si el agente no la supera, las noticias no están aportando nada.
+
+## Calibración (desde agosto)
+
+Si la confianza significa algo, el acierto debería subir con ella.
+
+| Confianza | n | Acierto |
+|---|--:|--:|
+| 0–49 | 0 | — |
+| 50–59 | 0 | — |
+| 60–69 | 15 | 47% |
+| 70–100 | 0 | — |
+
+## Por activo (desde agosto, n ≥ 3)
+
+| Activo | n | Acierto |
+|---|--:|--:|
+| ^GSPC | 15 | 47% |
+
+## Notas
+- Registradas 15, cerradas 15, aún abiertas 0.
+- Días con decisión "no operar hoy": 0 de 15.
+- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.
+- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.
+- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.
+
 _______________________________ test_end_to_end ________________________________
 ----------------------------- Captured stdout call -----------------------------
 Precios...
@@ -21,16 +145,17 @@ PASSED tests/test_backtest.py::test_no_edge_fails_and_planted_edge_passes
 PASSED tests/test_backtest.py::test_never_uses_price_before_signal
 PASSED tests/test_backtest.py::test_parse_event
 PASSED tests/test_backtest.py::test_report_writes
+PASSED tests/test_backtest_agente.py::test_agent_backtest_no_lookahead
 PASSED tests/test_portada.py::test_end_to_end
 PASSED tests/test_portada.py::test_intraday_mode
 PASSED tests/test_portada.py::test_ledger_evaluation
 PASSED tests/test_portada.py::test_parse_google_news
-10 passed in 11.71s
+11 passed in 20.65s
 Precios...
   yfinance: 25/25 series
   25/25 activos con datos
 Titulares...
   60 titulares; {'Google News · mercados ES': 'ok (100)', 'Google News · markets': 'ok (100)', 'Google News · crypto': 'ok (100)', 'CNBC': 'ok (30)', 'MarketWatch': 'ok (10)', 'CoinDesk': 'ok (25)', 'Expansión': 'ok (50)'}
 Análisis...
-Uso de la API: 6218 tokens de entrada, 3032 de salida, ~0.0428 USD
+Uso de la API: 6256 tokens de entrada, 3075 de salida, ~0.0433 USD
 Portada generada.
