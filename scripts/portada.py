@@ -13,7 +13,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from dashboard import analysis, charts, ledger, news, prices  # noqa: E402
+from dashboard import analysis, charts, ledger, news, prices, site  # noqa: E402
 from dashboard.indicators import crossed_ma, metrics, nan_to_none  # noqa: E402
 from dashboard.render import render  # noqa: E402
 from dashboard.universe import ASSETS  # noqa: E402
@@ -73,6 +73,7 @@ def main(mode: str) -> None:
                        "fuentes": dict(fuentes)}}
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(render(ctx))
+    site.build(ctx, series)
 
     os.makedirs("data/dashboard", exist_ok=True)
     snap = {"generado": now.isoformat(), "modo": mode, "activos": rows, "titulares": items,

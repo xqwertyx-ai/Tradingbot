@@ -16,6 +16,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: repo-write
@@ -37,13 +39,33 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Tests
-        run: python -m pytest -q
+        run: |
+          set -o pipefail
+          python -m pytest -q -rA 2>&1 | tee ci.log
 
       - name: Generar portada
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MODO: ${{ github.event.inputs.modo || (github.event.schedule == '40 6 * * 1-5' && 'apertura') || 'cierre' }}
-        run: python scripts/portada.py --modo "$MODO"
+        run: |
+          set -o pipefail
+          python scripts/portada.py --modo "$MODO" 2>&1 | tee -a ci.log
+
+      - name: Guardar el log del fallo (rama ci-log)
+        if: failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan ci-log
+          git rm -rfq --cached .
+          git add -f ci.log
+          git commit -qm "Log del fallo $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -f origin ci-log
+
+      - name: Preparar la web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
 
       - name: Guardar en el repo
         run: |
@@ -54,3 +76,14 @@ jobs:
           git commit -m "Portada $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase origin main
           git push
+
+  web:
+    needs: run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Publicar en GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

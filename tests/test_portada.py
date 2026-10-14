@@ -53,6 +53,8 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         readme = open("README.md", encoding="utf-8").read()
         assert "Radar de mercados" in readme and "La Fed sube tipos" in readme
         assert "INVENTADO" not in readme
+        page = open("site/index.html", encoding="utf-8").read()
+        assert "La Fed sube tipos" in page and 'class="thermo"' in page and "Más suben" in page
         book = ledger.load()
         assert len(book) == 1 and book.iloc[0]["operada"] == 1
         for f in ("mapa-light.png", "mapa-dark.png", "tendencias-light.png"):
