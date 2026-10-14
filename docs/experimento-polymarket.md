@@ -11,7 +11,7 @@ Proyecto de I+D. Todo es **simulación con datos históricos públicos**; nada d
 2. Descarga velas de 1 min de BTC-USD (Coinbase) para calcular señales.
 3. Simula 8 reglas fijadas de antemano (ver `tradingbot/backtest.py`), comprando 1 acción por mercado.
 4. Divide los datos en el tiempo: 70% exploración, 30% prueba. **Solo cuenta la prueba.**
-5. Escribe el informe en [`reports/informe.md`](reports/informe.md).
+5. Escribe el informe en [`reports/informe.md`](../reports/informe.md).
 
 **Criterio de aprobado (fijado antes de ver datos):** ≥ 200 operaciones en prueba y límite inferior del IC 95% del P&L medio > 0.
 
@@ -19,13 +19,19 @@ Proyecto de I+D. Todo es **simulación con datos históricos públicos**; nada d
 - Comisión taker de Polymarket en cripto: `0,07 × p × (1 − p)` por acción (1,75 ¢ a p = 0,50), según la [documentación oficial](https://docs.polymarket.com/trading/fees).
 - Deslizamiento: 1 ¢ por acción.
 
+## Resultado (14-oct-2026, 4.033 mercados)
+
+Ninguna regla supera el criterio. Las reglas de "continuación" aciertan un 65-74%, pero el mercado ya cobra ese lado lo bastante caro como para que, tras comisión y deslizamiento, todas pierdan entre 1 y 3 ¢ por operación. El mercado está bien calibrado.
+
+Una primera versión del backtest daba +7 a +11 ¢ por operación: usaba un precio de Polymarket ~40 s anterior a la señal de BTC (sesgo de anticipación). Corregido: se ejecuta siempre al primer precio posterior a la señal.
+
 ## Cómo ejecutarlo desde el móvil
 
 1. Pestaña **Actions** → **Backtest BTC 5 min** → **Run workflow**.
 2. Elige los días de histórico (por defecto 14) y lánzalo.
 3. Cuando termine, abre `reports/informe.md`.
 
-También se ejecuta solo cada mañana y añade los mercados nuevos. La descarga es incremental: ampliar los días solo baja lo que falta.
+También se ejecuta solo cada domingo y añade los mercados nuevos. La descarga es incremental: ampliar los días solo baja lo que falta.
 
 ## En local
 

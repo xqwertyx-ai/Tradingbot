@@ -1,0 +1,56 @@
+name: Portada diaria
+
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "cierre (decide con precios de cierre) o apertura (solo observación)"
+        default: "cierre"
+        required: true
+  push:
+    branches: [main]
+    paths: ["dashboard/**", "scripts/portada.py", ".github/workflows/portada.yml"]
+  schedule:
+    - cron: "40 6 * * 1-5"    # apertura ~08:40 Madrid (verano)
+    - cron: "35 20 * * 1-5"   # cierre ~22:35 Madrid (verano), tras el cierre de Wall Street
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Generar portada
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODO: ${{ github.event.inputs.modo || (github.event.schedule == '40 6 * * 1-5' && 'apertura') || 'cierre' }}
+        run: python scripts/portada.py --modo "$MODO"
+
+      - name: Guardar en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets data/dashboard
+          git diff --cached --quiet && exit 0
+          git commit -m "Portada $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push
