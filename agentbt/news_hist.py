@@ -11,6 +11,7 @@ import datetime as dt
 import json
 import os
 import re
+import time
 import urllib.parse
 from zoneinfo import ZoneInfo
 
@@ -49,27 +50,35 @@ def _google(day: dt.date, prev: dt.date) -> list[dict]:
     return out
 
 
+GDELT_QUERIES = [
+    '(stocks OR "wall street" OR inflation OR "federal reserve" OR treasury OR earnings) sourcelang:english',
+    "(bitcoin OR crypto OR oil OR gold OR dollar) sourcelang:english",
+    "(bolsa OR ibex OR mercados OR inflación OR BCE) sourcelang:spanish",
+]
+
+
 def _gdelt(start: dt.datetime, end: dt.datetime) -> list[dict]:
-    params = {
-        "query": '(stocks OR "wall street" OR inflation OR fed OR bitcoin OR oil) sourcelang:english',
-        "mode": "artlist", "format": "json", "maxrecords": 150, "sort": "hybridrel",
-        "startdatetime": start.strftime("%Y%m%d%H%M%S"), "enddatetime": end.strftime("%Y%m%d%H%M%S"),
-    }
-    try:
-        r = _s.get(GDELT, params=params, timeout=30)
-        r.raise_for_status()
-        arts = r.json().get("articles", [])
-    except Exception as e:
-        print(f"  GDELT: {e.__class__.__name__}")
-        return []
+    """GDELT da la hora exacta en que vio cada artículo: permite cortar en el cierre."""
     out = []
-    for a in arts:
+    for q in GDELT_QUERIES:
+        params = {"query": q, "mode": "artlist", "format": "json", "maxrecords": 100, "sort": "hybridrel",
+                  "startdatetime": start.strftime("%Y%m%d%H%M%S"),
+                  "enddatetime": end.strftime("%Y%m%d%H%M%S")}
         try:
-            pub = dt.datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=dt.timezone.utc)
-        except (KeyError, ValueError):
-            continue
-        out.append({"title": a.get("title", "").strip(), "link": a.get("url", ""),
-                    "source": a.get("domain", "GDELT"), "feed": "GDELT", "published": pub})
+            r = _s.get(GDELT, params=params, timeout=30)
+            r.raise_for_status()
+            arts = r.json().get("articles", []) if r.text.strip().startswith("{") else []
+        except Exception as e:
+            print(f"  GDELT: {e.__class__.__name__}")
+            arts = []
+        for a in arts:
+            try:
+                pub = dt.datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=dt.timezone.utc)
+            except (KeyError, ValueError):
+                continue
+            out.append({"title": a.get("title", "").strip(), "link": a.get("url", ""),
+                        "source": a.get("domain", "GDELT"), "feed": "GDELT", "published": pub})
+        time.sleep(5)  # GDELT pide no más de una petición cada 5 s
     return out
 
 
@@ -81,11 +90,16 @@ def headlines(day: dt.date, prev: dt.date, limit: int = 60) -> list[dict]:
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     start, end = close_utc(prev), close_utc(day)
-    items = _google(day, prev)
-    src = "google"
-    if len([i for i in items if i["published"] and start <= i["published"] < end]) < 15:
-        items += _gdelt(start, end)
-        src = "google+gdelt"
+    items = _gdelt(start, end)
+    src = "gdelt"
+    if len(items) < 15:
+        # Google News con fechas solo da el día, no la hora: un titular "del día" puede ser
+        # posterior al cierre. Por prudencia, de Google solo se usa lo fechado el día anterior.
+        g = [i for i in _google(prev, prev) if i["published"] and i["published"].date() <= prev]
+        for i in g:
+            i["published"] = max(i["published"], start)
+        items += g
+        src = "gdelt+google(día anterior)"
     seen, out = set(), []
     for it in items:
         p = it["published"]
