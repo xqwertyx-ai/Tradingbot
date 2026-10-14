@@ -25,11 +25,12 @@ PASSED tests/test_portada.py::test_end_to_end
 PASSED tests/test_portada.py::test_intraday_mode
 PASSED tests/test_portada.py::test_ledger_evaluation
 PASSED tests/test_portada.py::test_parse_google_news
-10 passed in 18.75s
+10 passed in 11.71s
 Precios...
   yfinance: 25/25 series
   25/25 activos con datos
 Titulares...
   60 titulares; {'Google News · mercados ES': 'ok (100)', 'Google News · markets': 'ok (100)', 'Google News · crypto': 'ok (100)', 'CNBC': 'ok (30)', 'MarketWatch': 'ok (10)', 'CoinDesk': 'ok (25)', 'Expansión': 'ok (50)'}
 Análisis...
+Uso de la API: 6218 tokens de entrada, 3032 de salida, ~0.0428 USD
 Portada generada.
