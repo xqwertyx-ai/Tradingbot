@@ -20,13 +20,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: repo-write
+  group: agente-bt
   cancel-in-progress: false
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
 
@@ -46,7 +46,7 @@ jobs:
           ARGS="--desde ${{ inputs.desde }}"
           [ -n "${{ inputs.hasta }}" ] && ARGS="$ARGS --hasta ${{ inputs.hasta }}"
           [ "${{ inputs.solo_noticias }}" = "true" ] && ARGS="$ARGS --solo-noticias"
-          python scripts/backtest_agente.py $ARGS 2>&1 | tee ci.log
+          python -u scripts/backtest_agente.py $ARGS 2>&1 | tee ci.log
 
       - name: Guardar resultados (también si falla a medias)
         if: always()

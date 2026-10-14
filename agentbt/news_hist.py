@@ -20,7 +20,7 @@ from tradingbot.http import make_session
 
 NY = ZoneInfo("America/New_York")
 CACHE = "data/agent_bt/news"
-_s = make_session(retries=3, backoff=1.0)
+_s = make_session(retries=1, backoff=2.0)
 
 GOOGLE_QUERIES = [
     ("es", "ES", "bolsa OR ibex OR mercados"),
@@ -61,24 +61,29 @@ def _gdelt(start: dt.datetime, end: dt.datetime) -> list[dict]:
     """GDELT da la hora exacta en que vio cada artículo: permite cortar en el cierre."""
     out = []
     for q in GDELT_QUERIES:
-        params = {"query": q, "mode": "artlist", "format": "json", "maxrecords": 100, "sort": "hybridrel",
-                  "startdatetime": start.strftime("%Y%m%d%H%M%S"),
-                  "enddatetime": end.strftime("%Y%m%d%H%M%S")}
+        out += _gdelt_one(q, start, end) or (time.sleep(12) or _gdelt_one(q, start, end))
+    return out
+
+
+def _gdelt_one(q: str, start: dt.datetime, end: dt.datetime) -> list[dict]:
+    params = {"query": q, "mode": "artlist", "format": "json", "maxrecords": 100, "sort": "hybridrel",
+              "startdatetime": start.strftime("%Y%m%d%H%M%S"), "enddatetime": end.strftime("%Y%m%d%H%M%S")}
+    try:
+        r = _s.get(GDELT, params=params, timeout=20)
+        r.raise_for_status()
+        arts = r.json().get("articles", []) if r.text.strip().startswith("{") else []
+    except Exception as e:
+        print(f"  GDELT: {e.__class__.__name__}")
+        arts = []
+    time.sleep(6)  # GDELT pide no más de una petición cada 5 s
+    out = []
+    for a in arts:
         try:
-            r = _s.get(GDELT, params=params, timeout=30)
-            r.raise_for_status()
-            arts = r.json().get("articles", []) if r.text.strip().startswith("{") else []
-        except Exception as e:
-            print(f"  GDELT: {e.__class__.__name__}")
-            arts = []
-        for a in arts:
-            try:
-                pub = dt.datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=dt.timezone.utc)
-            except (KeyError, ValueError):
-                continue
-            out.append({"title": a.get("title", "").strip(), "link": a.get("url", ""),
-                        "source": a.get("domain", "GDELT"), "feed": "GDELT", "published": pub})
-        time.sleep(5)  # GDELT pide no más de una petición cada 5 s
+            pub = dt.datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=dt.timezone.utc)
+        except (KeyError, ValueError):
+            continue
+        out.append({"title": a.get("title", "").strip(), "link": a.get("url", ""),
+                    "source": a.get("domain", "GDELT"), "feed": "GDELT", "published": pub})
     return out
 
 
