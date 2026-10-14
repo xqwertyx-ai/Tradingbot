@@ -1,0 +1,515 @@
+  yfinance: 25/25 series
+73 sesiones de 2026-07-01 a 2026-10-13
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  2026-07-01: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6548 tokens de entrada, 3871 de salida, ~0.0518 USD
+  2026-07-01: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-07-02: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6459 tokens de entrada, 2994 de salida, ~0.0429 USD
+  2026-07-02: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 4599 tokens de entrada, 2747 de salida, ~0.0367 USD
+  2026-07-06: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6805 tokens de entrada, 3424 de salida, ~0.0479 USD
+  2026-07-07: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6723 tokens de entrada, 3194 de salida, ~0.0454 USD
+  2026-07-08: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6152 tokens de entrada, 2879 de salida, ~0.0411 USD
+  2026-07-09: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6567 tokens de entrada, 2970 de salida, ~0.0428 USD
+  2026-07-10: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6697 tokens de entrada, 3845 de salida, ~0.0518 USD
+  2026-07-13: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6561 tokens de entrada, 3773 de salida, ~0.0509 USD
+  2026-07-14: 1 hipótesis · decisión: no operar hoy
+Uso de la API: 6791 tokens de entrada, 3908 de salida, ~0.0527 USD
+  2026-07-15: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-07-16: 60 titulares (gdelt)
+Uso de la API: 6674 tokens de entrada, 3987 de salida, ~0.0532 USD
+  2026-07-16: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6984 tokens de entrada, 3083 de salida, ~0.0448 USD
+  2026-07-17: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6915 tokens de entrada, 2937 de salida, ~0.0432 USD
+  2026-07-20: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 3225 tokens de entrada, 2809 de salida, ~0.0345 USD
+  2026-07-21: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6715 tokens de entrada, 3791 de salida, ~0.0513 USD
+  2026-07-22: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6508 tokens de entrada, 3242 de salida, ~0.0454 USD
+  2026-07-23: 0 hipótesis · decisión: no operar hoy
+Respuesta no válida: Expecting ',' delimiter: line 83 column 4 (char 5455)
+{
+ "resumen": "Jornada mixta. El Nasdaq (-1,1%) y los semiconductores (SMH -3,3%) caen por las dudas sobre el gasto en IA tras los resultados de Alphabet y Tesla, mientras el S&P 500 cierra plano y Europa sube (IBEX +1,7%, con banca fuerte). El Brent tocó los 100 $ en un contexto de guerra con Irán y ataques en el Mar Rojo, y cierra en 96,78 (-3,9% en el día, +31% en un mes), con presión sobre la inflación y los tipos antes de la decisión de la Fed de la semana próxima.",
+ "clima": "mixto",
+ "no
+  2026-07-24: análisis fallido (La respuesta del modelo no era JSON válido.)
+Respuesta no válida: Expecting ',' delimiter: line 67 column 143 (char 5138)
+{
+ "resumen": "Jornada de contrastes: la pausa de los ataques EE. UU.-Irán provoca una caída del Brent del 8,7% (aún +17,4% en un mes), pero los índices amplios apenas se mueven (S&P 0,0%). Dentro del mercado hay rotación: semiconductores e IA de infraestructura caen con fuerza (NVDA -5,0%, ASML -5,8%, SMH -2,3%), mientras financieras, bancos españoles, Apple y Microsoft suben. Todo ocurre con la decisión de la Fed inminente y una tregua frágil, lo que eleva el riesgo de gap.",
+ "clima": "mixto"
+  2026-07-27: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-07-28: 60 titulares (gdelt)
+Uso de la API: 6771 tokens de entrada, 3936 de salida, ~0.0529 USD
+  2026-07-28: 0 hipótesis · decisión: no operar hoy
+Uso de la API: 6577 tokens de entrada, 3512 de salida, ~0.0483 USD
+  2026-07-29: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  2026-07-30: 60 titulares (gdelt)
+Uso de la API: 6708 tokens de entrada, 3424 de salida, ~0.0477 USD
+  2026-07-30: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-07-31: 60 titulares (gdelt)
+Uso de la API: 6720 tokens de entrada, 3477 de salida, ~0.0482 USD
+  2026-07-31: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-03: 60 titulares (gdelt)
+Uso de la API: 6786 tokens de entrada, 3953 de salida, ~0.0531 USD
+  2026-08-03: 1 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-04: 60 titulares (gdelt)
+Uso de la API: 6957 tokens de entrada, 3700 de salida, ~0.0509 USD
+  2026-08-04: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-05: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6438 tokens de entrada, 3174 de salida, ~0.0446 USD
+  2026-08-05: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-08-06: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6666 tokens de entrada, 3198 de salida, ~0.0453 USD
+  2026-08-06: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-07: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6647 tokens de entrada, 3778 de salida, ~0.0511 USD
+  2026-08-07: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-10: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6172 tokens de entrada, 3286 de salida, ~0.0452 USD
+  2026-08-10: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-11: 60 titulares (gdelt)
+Uso de la API: 6340 tokens de entrada, 3071 de salida, ~0.0434 USD
+  2026-08-11: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-08-12: 60 titulares (gdelt)
+Uso de la API: 6506 tokens de entrada, 3350 de salida, ~0.0465 USD
+  2026-08-12: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-13: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6129 tokens de entrada, 2931 de salida, ~0.0416 USD
+  2026-08-13: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-08-14: 60 titulares (gdelt)
+Uso de la API: 6731 tokens de entrada, 3857 de salida, ~0.052 USD
+  2026-08-14: 1 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-08-17: 60 titulares (gdelt)
+Uso de la API: 6725 tokens de entrada, 3753 de salida, ~0.051 USD
+  2026-08-17: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-08-18: 20 titulares (gdelt)
+Uso de la API: 4177 tokens de entrada, 3089 de salida, ~0.0392 USD
+  2026-08-18: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-19: 60 titulares (gdelt)
+Uso de la API: 6587 tokens de entrada, 3504 de salida, ~0.0482 USD
+  2026-08-19: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-20: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6210 tokens de entrada, 3600 de salida, ~0.0484 USD
+  2026-08-20: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-08-21: 60 titulares (gdelt)
+Uso de la API: 6443 tokens de entrada, 3239 de salida, ~0.0453 USD
+  2026-08-21: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-24: 60 titulares (gdelt)
+Uso de la API: 6733 tokens de entrada, 3112 de salida, ~0.0446 USD
+  2026-08-24: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-25: 60 titulares (gdelt)
+Uso de la API: 6649 tokens de entrada, 3706 de salida, ~0.0504 USD
+  2026-08-25: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-26: 60 titulares (gdelt+google(día anterior))
+Respuesta no válida: Expecting ',' delimiter: line 24 column 21 (char 2977)
+{
+ "resumen": "Jornada plana en renta variable (S&P 500 -0,0%, Nasdaq 100 +0,1%, IBEX +0,1% en máximos de 52 semanas), con el mercado digiriendo un tono más duro de los bancos centrales (actas de la Fed, Schnabel). El petróleo cae por la orientación de EE. UU. hacia presión económica sobre Irán, y el 'debasement trade' y la euforia cripto (BTC superó brevemente los 80.000 $) dominan el flujo informativo. La mayoría de titulares es cripto repetido; el precio de BTC es del 25-ago, un día más antig
+  2026-08-26: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-08-27: 60 titulares (gdelt)
+Uso de la API: 6689 tokens de entrada, 3671 de salida, ~0.0501 USD
+  2026-08-27: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-08-28: 18 titulares (gdelt)
+Respuesta no válida: Expecting ',' delimiter: line 89 column 123 (char 6190)
+{
+ "resumen": "Jornada de dos velocidades. El IBEX y el Euro Stoxx cierran al alza (IBEX en máximos de 52 semanas, apoyado por la banca) tras recuperar los 20.000 puntos a la espera de Warsh en Jackson Hole. En EE. UU. dominan el dólar fuerte (DXY +0,5%), el 10 años al alza y las caídas del oro (-2,9%), los semiconductores (SMH -3,5%) y el Russell (-1,4%), compatibles con la lectura de que Warsh ha elevado las expectativas de subida de tipos en septiembre (titular 17). No hay un desajuste claro 
+  2026-08-28: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-08-31: 60 titulares (gdelt)
+Uso de la API: 6496 tokens de entrada, 3931 de salida, ~0.0523 USD
+  2026-08-31: 1 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-01: 60 titulares (gdelt)
+Uso de la API: 6708 tokens de entrada, 3212 de salida, ~0.0455 USD
+  2026-09-01: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-02: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6424 tokens de entrada, 3607 de salida, ~0.0489 USD
+  2026-09-02: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-03: 60 titulares (gdelt)
+Uso de la API: 6575 tokens de entrada, 3609 de salida, ~0.0492 USD
+  2026-09-03: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-04: 60 titulares (gdelt)
+Uso de la API: 6613 tokens de entrada, 3861 de salida, ~0.0518 USD
+  2026-09-04: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-09-08: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6342 tokens de entrada, 3397 de salida, ~0.0467 USD
+  2026-09-08: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-09-09: 60 titulares (gdelt)
+Uso de la API: 6464 tokens de entrada, 3609 de salida, ~0.049 USD
+  2026-09-09: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-10: 60 titulares (gdelt)
+Uso de la API: 6847 tokens de entrada, 3447 de salida, ~0.0482 USD
+  2026-09-10: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-11: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6469 tokens de entrada, 3537 de salida, ~0.0483 USD
+  2026-09-11: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-14: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6411 tokens de entrada, 3101 de salida, ~0.0438 USD
+  2026-09-14: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-15: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6133 tokens de entrada, 3387 de salida, ~0.0461 USD
+  2026-09-15: 1 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-16: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6322 tokens de entrada, 3766 de salida, ~0.0503 USD
+  2026-09-16: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-17: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6193 tokens de entrada, 3131 de salida, ~0.0437 USD
+  2026-09-17: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-18: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6165 tokens de entrada, 3295 de salida, ~0.0453 USD
+  2026-09-18: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-21: 60 titulares (gdelt)
+Uso de la API: 6854 tokens de entrada, 3150 de salida, ~0.0452 USD
+  2026-09-21: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-09-22: 60 titulares (gdelt)
+Uso de la API: 6565 tokens de entrada, 3449 de salida, ~0.0476 USD
+  2026-09-22: 0 hipótesis · decisión: no operar hoy
+  2026-09-23: 60 titulares (gdelt)
+Uso de la API: 6653 tokens de entrada, 3843 de salida, ~0.0517 USD
+  2026-09-23: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-24: 60 titulares (gdelt)
+Uso de la API: 6418 tokens de entrada, 4000 de salida, ~0.0528 USD
+  2026-09-24: 2 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-09-25: 60 titulares (gdelt)
+Respuesta no válida: Expecting ',' delimiter: line 68 column 122 (char 5423)
+{
+ "resumen": "La jornada estuvo dominada por una venta global de bonos: el 30 años de EE. UU. marcó máximos desde 2004 y el 10 años (TNX) cerró en 5,18%, máximo de 52 semanas. Pese a ello, el S&P 500 y el Nasdaq 100 cerraron en máximos con alivio el viernes (+0,5% y +0,4%), ayudados por la caída del Brent (-2,1%) ante las esperanzas de distensión en Ormuz y las conversaciones EE. UU.-Irán. El crudo sigue +18,8% en un mes y el mercado de renta fija continúa tensionado, lo que deja una divergenci
+  2026-09-25: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-09-28: 22 titulares (gdelt)
+Uso de la API: 4460 tokens de entrada, 3554 de salida, ~0.0445 USD
+  2026-09-28: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  2026-09-29: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6403 tokens de entrada, 3709 de salida, ~0.0499 USD
+  2026-09-29: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-09-30: 60 titulares (gdelt+google(día anterior))
+Respuesta no válida: Expecting ',' delimiter: line 79 column 4 (char 5324)
+{
+ "resumen": "Jornada dominada por la presión de los bonos: el 10 años de EE. UU. está en 5,29% (máximos de 52 semanas) y el 30 años en máximos desde 2002. El dólar sube y las financieras y las small caps sufren, mientras Nasdaq y semiconductores resisten. El petróleo sigue alto (Brent 103,5) pese a que los flujos de Oriente Medio se normalizan, y la lectura del PCE, prevista para este miércoles 30, añade riesgo de evento sin que tengamos su resultado.",
+ "clima": "mixto",
+ "noticias": [
+  {
+  
+  2026-09-30: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-10-01: 60 titulares (gdelt)
+Uso de la API: 6729 tokens de entrada, 3721 de salida, ~0.0507 USD
+  2026-10-01: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: RetryError
+  GDELT: RetryError
+  2026-10-02: 60 titulares (gdelt)
+Respuesta no válida: Expecting ',' delimiter: line 82 column 4 (char 5358)
+{
+ "resumen": "Jornada de cierre del viernes con renta variable de EE. UU. en máximos, liderada por semiconductores y tecnología (SMH +2.1%, ASML +3.3%). Al mismo tiempo, el bono a 10 años está en máximos de 52 semanas (5.28%) y el dólar en máximos de 17 meses, con el euro hundido. La atención del mercado está en la renta fija, el dólar y los datos de empleo de EE. UU., sin ninguna noticia propia que dé una ventaja clara.",
+ "clima": "mixto",
+ "noticias": [
+  {
+   "id": 39,
+   "categoria": "macr
+  2026-10-02: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-10-05: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6551 tokens de entrada, 3797 de salida, ~0.0511 USD
+  2026-10-05: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-10-06: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6671 tokens de entrada, 3367 de salida, ~0.047 USD
+  2026-10-06: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-10-07: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6541 tokens de entrada, 3379 de salida, ~0.0469 USD
+  2026-10-07: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-10-08: 60 titulares (gdelt+google(día anterior))
+Respuesta no válida: Expecting ',' delimiter: line 51 column 120 (char 5569)
+{
+ "resumen": "Los titulares son de la tarde del 7-oct y los precios del cierre del 8-oct, así que los movimientos del 8-oct (Brent +4,1%, SMH -2,8%) no se explican del todo con las noticias. El mercado sigue marcado por un Fed que ha subido tipos y señala otra subida este año, por el 10 años de EE. UU. en máximos de 24 años (5,23%) y por un Brent en 104 con la guerra de Irán de fondo. El S&P 500 sigue cerca de máximos, pero con rotación defensiva y presión sobre tecnología, semiconductores y bo
+  2026-10-08: análisis fallido (La respuesta del modelo no era JSON válido.)
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  2026-10-09: 60 titulares (gdelt+google(día anterior))
+Uso de la API: 6366 tokens de entrada, 3739 de salida, ~0.0501 USD
+  2026-10-09: 0 hipótesis · decisión: no operar hoy
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  2026-10-12: 49 titulares (gdelt)
+Uso de la API: 5812 tokens de entrada, 3672 de salida, ~0.0483 USD
+  2026-10-12: 0 hipótesis · decisión: no operar hoy
+  GDELT: RetryError
+  GDELT: ConnectionError
+  GDELT: ConnectionError
+  GDELT: RetryError
+  GDELT: ConnectionError
+  2026-10-13: 60 titulares (gdelt+google(día anterior))
+Respuesta no válida: Expecting ',' delimiter: line 83 column 4 (char 5354)
+{
+ "resumen": "Jornada de espera ante el IPC de EE. UU. del miércoles 14. El S&P 500 queda plano en máximos mientras caen semis, small caps, Europa y cripto. Pesan una Fed con sesgo restrictivo (Hammack), un Brent a 105,7 con tensión en Ormuz y Ucrania, un dólar fuerte y un 10 años en 5,22%. Entre los titulares y los precios hay desfases de calendario (titulares del 12-oct, cierre del 13-oct) y no hay una diferencia clara entre lo que el mercado descuenta y lo que implican las noticias.",
+ "clim
+  2026-10-13: análisis fallido (La respuesta del modelo no era JSON válido.)
+# Backtest del agente de noticias
+
+Generado: 2026-10-14 23:08 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 3.04 USD. Simulación; no es asesoramiento financiero.
+
+## Cómo se hizo
+- 73 sesiones, de 2026-07-01 a 2026-10-13. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
+- Hipótesis evaluadas con las reglas de la bitácora: FALLO si un cierre toca la invalidación; al vencer, se puntúa por el signo del retorno.
+- Retorno neto: descontando costes simulados (0,1% ida y vuelta en acciones, 0,04% divisas, 0,2% cripto).
+- **Lo que cuenta es desde el 01-08-2026.** El conocimiento fiable del modelo llega a junio de 2026; julio se muestra aparte por si supiera algo de esas semanas.
+
+## Resultados (hipótesis cerradas)
+
+| Grupo | n | Acierto | IC 95% | Retorno neto medio |
+|---|--:|--:|--:|--:|
+| Desde agosto · todas | 6 | 50% | 19–81% | -1.90% |
+| Desde agosto · operadas (confianza ≥ 60) | 0 | — | — | — |
+| Desde agosto · solo vigilancia (< 60) | 6 | 50% | 19–81% | -1.90% |
+| Julio (posible contaminación) | 1 | 100% | 21–100% | +0.12% |
+
+**Referencia ingenua** (mismas fechas, activos y plazos, dirección = tendencia del último mes): 67% de acierto (IC 95% 30–90%, n = 6). Si el agente no la supera, las noticias no están aportando nada.
+
+## Calibración (desde agosto)
+
+Si la confianza significa algo, el acierto debería subir con ella.
+
+| Confianza | n | Acierto |
+|---|--:|--:|
+| 0–49 | 6 | 50% |
+| 50–59 | 0 | — |
+| 60–69 | 0 | — |
+| 70–100 | 0 | — |
+
+## Por activo (desde agosto, n ≥ 3)
+
+| Activo | n | Acierto |
+|---|--:|--:|
+| XLE | 4 | 50% |
+
+## Notas
+- Registradas 7, cerradas 7, aún abiertas 0.
+- Días con decisión "no operar hoy": 64 de 73.
+- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.
+- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.
+- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.
+
