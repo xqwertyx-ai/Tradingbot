@@ -119,7 +119,7 @@ def stats(x: pd.Series) -> dict:
     x = x.dropna()
     n = len(x)
     if n == 0:
-        return {"n": 0}
+        return {"n": 0, "media": math.nan, "lo": math.nan, "hi": math.nan, "acierto": math.nan, "fb": math.nan}
     m = x.mean()
     se = x.std(ddof=1) / math.sqrt(n) if n > 1 else math.nan
     gains, losses = x[x > 0].sum(), -x[x < 0].sum()
