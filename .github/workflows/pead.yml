@@ -51,7 +51,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
           mkdir -p data/pead && cp ci.log data/pead/ultima-ejecucion.log || true
-          git add data/pead/*.csv* data/pead/ultima-ejecucion.log reports/pead.md assets/pead-* || true
+          git add -A data/pead reports assets
           git diff --cached --quiet && exit 0
           git commit -m "Experimento PEAD $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase origin main
