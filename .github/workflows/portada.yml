@@ -12,17 +12,11 @@ on:
   push:
     branches: [main]
     paths: ["dashboard/**", "scripts/portada.py", ".github/workflows/portada.yml"]
-  # Seis revisiones al día (dashboard/sesiones.py). Las horas van en UTC y hay una línea para el horario
-  # de verano y otra para el de invierno: el script decide qué revisión toca y las demás no hacen nada.
+  # Seis revisiones al día (dashboard/sesiones.py). GitHub retrasa o se salta a menudo los cron
+  # programados, así que se comprueba cada media hora: el script decide si toca alguna revisión
+  # pendiente y, si no, el trabajo termina en segundos sin hacer nada.
   schedule:
-    - cron: "20 0 * * 1-5"    # apertura Asia (Tokio 09:00)
-    - cron: "20 7 * * 1-5"    # apertura Europa (verano)
-    - cron: "20 8 * * 1-5"    # apertura Europa (invierno)
-    - cron: "35 8 * * 1-5"    # cierre Asia (Hong Kong 16:10)
-    - cron: "50 13 * * 1-5"   # apertura EE. UU. (verano)
-    - cron: "50 14 * * 1-5"   # apertura EE. UU. (invierno)
-    - cron: "55 15 * * 1-5"   # cierre Europa (verano)
-    - cron: "55 16 * * 1-5"   # cierre Europa (invierno)
+    - cron: "7,37 * * * 1-5"
   workflow_run:               # cierre EE. UU.: justo después del test en vivo PEAD
     workflows: ["Test en vivo PEAD"]
     types: [completed]
@@ -51,6 +45,8 @@ jobs:
           EVENTO: ${{ github.event.inputs.evento || (github.event_name == 'push' && 'manual') || 'auto' }}
         run: |
           if [ "$EVENTO" = auto ]; then EVENTO=$(python3 scripts/evento.py); fi
+          # tras el test PEAD se regenera siempre la portada, aunque el cierre ya se hiciera antes
+          if [ -z "$EVENTO" ] && [ "${{ github.event_name }}" = workflow_run ]; then EVENTO=manual; fi
           echo "evento=$EVENTO" >> "$GITHUB_OUTPUT"
           echo "Revisión: ${EVENTO:-ninguna pendiente a esta hora}"
 

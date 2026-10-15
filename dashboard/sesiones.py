@@ -20,11 +20,11 @@ DIR = "data/dashboard/dias"
 
 # id, etiqueta, zona de la bolsa, hora local del evento, ventana para hacer la revisión (horas)
 EVENTOS = [
-    ("asia-apertura", "apertura Asia", "Asia/Tokyo", dt.time(9, 0), 3),
-    ("asia-cierre", "cierre Asia", "Asia/Hong_Kong", dt.time(16, 10), 3),
-    ("europa-apertura", "apertura Europa", "Europe/Madrid", dt.time(9, 0), 3),
-    ("europa-cierre", "cierre Europa", "Europe/Madrid", dt.time(17, 35), 3),
-    ("usa-apertura", "apertura EE. UU.", "America/New_York", dt.time(9, 30), 3),
+    ("asia-apertura", "apertura Asia", "Asia/Tokyo", dt.time(9, 0), 4),
+    ("asia-cierre", "cierre Asia", "Asia/Hong_Kong", dt.time(16, 10), 4),
+    ("europa-apertura", "apertura Europa", "Europe/Madrid", dt.time(9, 0), 4),
+    ("europa-cierre", "cierre Europa", "Europe/Madrid", dt.time(17, 35), 4),
+    ("usa-apertura", "apertura EE. UU.", "America/New_York", dt.time(9, 30), 4),
     ("usa-cierre", "cierre EE. UU.", "America/New_York", dt.time(16, 0), 7),
 ]
 MARGEN = dt.timedelta(minutes=15)  # se espera un poco tras el evento para que haya precios
