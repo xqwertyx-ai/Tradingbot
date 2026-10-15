@@ -75,3 +75,16 @@ def registrar(d: dt.date, entrada: dict) -> list[dict]:
     entradas.sort(key=lambda e: e["hora"])
     guardar(d, entradas)
     return entradas
+
+
+def agenda(now: dt.datetime, entradas: list[dict]) -> list[dict]:
+    """Las seis revisiones del día en orden: hecha (con su entrada), perdida (pasó su ventana sin
+    hacerse, p. ej. porque GitHub no lanzó el cron) o pendiente."""
+    d, hechas = dia(now), {e["id"]: e for e in entradas}
+    out = []
+    for t, ev_id, ventana in sorted((instante(e[0], d), e[0], e[4]) for e in EVENTOS):
+        estado = ("hecha" if ev_id in hechas else
+                  "perdida" if now > t + dt.timedelta(hours=ventana) else "pendiente")
+        out.append({"id": ev_id, "etiqueta": ETIQUETA[ev_id], "estado": estado, "entrada": hechas.get(ev_id),
+                    "prevista": (t + MARGEN).astimezone(MAD).strftime("%H:%M")})
+    return out

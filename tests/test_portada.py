@@ -69,7 +69,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         for f in ("mapa-light.png", "mapa-dark.png", "tendencias-light.png"):
             assert os.path.getsize(os.path.join("assets", f)) > 5000
         assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
-        assert "1 previas" in readme and "Pendientes hoy" in readme
+        assert "1 previas" in readme and ("prevista ~" in readme or "no se hizo" in readme)
         assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
         portada.main("usa-cierre")  # reejecutar el mismo día no duplica hipótesis ni revisiones
         assert len(ledger.load()) == 1

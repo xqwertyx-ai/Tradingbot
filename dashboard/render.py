@@ -4,7 +4,7 @@ from __future__ import annotations
 import datetime as dt
 from zoneinfo import ZoneInfo
 
-from dashboard.sesiones import EVENTOS
+from dashboard.sesiones import agenda
 
 MAD = ZoneInfo("Europe/Madrid")
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
@@ -81,7 +81,7 @@ def render(ctx: dict) -> str:
 
     # --- Hoy, sesión a sesión
     if ctx["now"].astimezone(MAD).weekday() < 5:
-        L += dia_section(ctx.get("dia") or [])
+        L += dia_section(ctx.get("dia") or [], ctx["now"])
 
     # --- Noticias
     L += ["## 📰 Noticias clave", ""]
@@ -197,21 +197,20 @@ def render(ctx: dict) -> str:
 ICONO_CLIMA = {"risk-on": "🟢", "risk-off": "🔴", "mixto": "🟡"}
 
 
-def dia_section(entradas: list[dict]) -> list[str]:
-    """Las revisiones del día (apertura y cierre de Asia, Europa y EE. UU.) con su resumen."""
+def dia_section(entradas: list[dict], now) -> list[str]:
+    """Las seis revisiones del día en orden (apertura y cierre de Asia, Europa y EE. UU.) con su resumen."""
     L = ["## 🕒 Hoy, sesión a sesión", ""]
-    if not entradas:
-        L += ["_Aún no hay revisiones hoy._"]
     final = next((e["resumen_dia"] for e in entradas if e.get("resumen_dia")), None)
     if final:
         L += [f"> **Resumen del día:** {final}", ""]
-    for e in entradas:
-        L.append(f"- **{e['hora_madrid']} · {e['etiqueta']}** {ICONO_CLIMA.get(e.get('clima'), '')} "
-                 f"{e.get('resumen') or '_sin análisis con IA_'}")
-    hechas = {e["id"] for e in entradas}
-    falta = [n for i, n, *_ in EVENTOS if i not in hechas]
-    if falta:
-        L += ["", f"<sub>Pendientes hoy: {', '.join(falta)}</sub>"]
+    for a in agenda(now, entradas):
+        e = a["entrada"]
+        if e:
+            L.append(f"- **{e['hora_madrid']} · {a['etiqueta']}** {ICONO_CLIMA.get(e.get('clima'), '')} "
+                     f"{e.get('resumen') or '_sin análisis con IA_'}")
+        else:
+            nota = "no se hizo" if a["estado"] == "perdida" else f"prevista ~{a['prevista']}"
+            L.append(f"- <sub>{a['etiqueta']} · {nota}</sub>")
     L.append("")
     return L
 

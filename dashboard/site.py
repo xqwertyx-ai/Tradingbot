@@ -12,7 +12,7 @@ import os
 from zoneinfo import ZoneInfo
 
 from .render import DIAS, MESES, _hora, _price
-from .sesiones import EVENTOS
+from .sesiones import agenda
 
 MAD = ZoneInfo("Europe/Madrid")
 E = html.escape
@@ -210,14 +210,19 @@ def _cap(t: str) -> str:
     return t[:1].upper() + t[1:]
 
 
-def dia_html(entradas: list[dict]) -> str:
-    """Las seis revisiones del día con su resumen; las que faltan aparecen en gris."""
-    hechas = {e["id"]: e for e in entradas}
+def dia_html(entradas: list[dict], now) -> str:
+    """Las seis revisiones del día en orden, con su resumen; las que faltan aparecen en gris."""
     final = next((e["resumen_dia"] for e in entradas if e.get("resumen_dia")), None)
-    items = [f'<li class="{E(e.get("clima") or "")}"><div class="w">{E(_cap(e["etiqueta"]))}<small>{E(e["hora_madrid"])}</small></div>'
-             f'<p>{E(e.get("resumen") or "Sin análisis con IA.")}</p></li>' for e in entradas]
-    items += [f'<li class="pend"><div class="w">{E(_cap(n))}<small>pendiente</small></div></li>'
-              for i, n, *_ in EVENTOS if i not in hechas]
+    items = []
+    for a in agenda(now, entradas):
+        e = a["entrada"]
+        if e:
+            items.append(f'<li class="{E(e.get("clima") or "")}"><div class="w">{E(_cap(a["etiqueta"]))}'
+                         f'<small>{E(e["hora_madrid"])}</small></div>'
+                         f'<p>{E(e.get("resumen") or "Sin análisis con IA.")}</p></li>')
+        else:
+            nota = "no se hizo" if a["estado"] == "perdida" else f'prevista ~{a["prevista"]}'
+            items.append(f'<li class="pend"><div class="w">{E(_cap(a["etiqueta"]))}<small>{nota}</small></div></li>')
     top = f'<p class="dayfinal"><b>Resumen del día.</b> {E(final)}</p>' if final else ""
     return f'<h2>Hoy, sesión a sesión</h2>{top}<ol class="day">{"".join(items)}</ol>'
 
@@ -353,7 +358,7 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
 {movers(rows)}
 <p class="caption" id="pick" aria-live="polite">Cada punto es un activo, colocado según cuánto ha subido o bajado en su última sesión. Toca un punto para ver cuál es.</p>
 {decision}</section>
-{dia_html(ctx.get("dia") or []) if now.weekday() < 5 else ""}
+{dia_html(ctx.get("dia") or [], ctx["now"]) if now.weekday() < 5 else ""}
 <h2>Lo esencial</h2><div class="tiles">{"".join(tiles)}</div>
 <p class="note">Línea: últimos 3 meses · discontinua: media de 50 sesiones.</p>
 <h2>Noticias clave</h2><ol class="news">{"".join(news_html) or '<li class="empty">No se pudieron descargar titulares.</li>'}</ol>{div}
