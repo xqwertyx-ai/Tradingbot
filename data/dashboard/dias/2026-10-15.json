@@ -1,0 +1,16 @@
+[
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-15T15:48:59+00:00",
+  "hora_madrid": "17:48",
+  "clima": "risk-off",
+  "resumen": "Revisión de apertura de EE. UU. con el PPI de septiembre mucho más alto de lo esperado (máximo en cuatro años, por la gasolina), lo que alimenta las apuestas de más subidas de la Fed (UBS añade una subida en marzo; Daly y Lavorgna ven más subidas, pero no en octubre). Asia cerró con caídas (Shanghái -1,6%, Hang Seng -1,0%, Kospi -8% según CoinDesk) y Europa cotiza a la baja de forma moderada. Los futuros de EE. UU. apuntan a otra jornada débil para la tecnología y los semiconductores.",
+  "titulares": [
+   "Wholesale Inflation Hit 4-Year High in September",
+   "UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise",
+   "Fed's Mary Daly says more rate hikes likely, not urgent in October"
+  ],
+  "coste_usd": 0.0366
+ }
+]
