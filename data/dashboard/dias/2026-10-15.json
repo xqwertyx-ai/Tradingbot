@@ -26,5 +26,20 @@
    "Fed's Mary Daly says more rate hikes likely, not urgent in October"
   ],
   "coste_usd": 0.0368
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-15T21:00:56+00:00",
+  "hora_madrid": "23:00",
+  "clima": "mixto",
+  "resumen": "Cierre de EE. UU. con el S&P 500 en máximos (+0,3%) a pesar del PPI de septiembre, el más alto en cuatro años. El Russell sube +1,4% y las financieras +1,4%, mientras la tecnología cae menos que durante la sesión europea (SMH -1,0%, XLK -0,7%, frente a -2,1% y -1,3% en la revisión anterior). El bono a 10 años baja (-0,10, -2,2σ), el dólar cae -0,6% y el oro rebota +2,0%: el mercado trata la jornada más como aversión al riesgo que como miedo a la inflación.",
+  "titulares": [
+   "Wholesale Inflation Hit Four-Year High in September",
+   "Fed may skip October but pull rate hike trigger in December",
+   "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears"
+  ],
+  "coste_usd": 0.0786,
+  "resumen_dia": "Asia abrió la jornada a la baja (Kospi -8% según CoinDesk, Shanghái y Hang Seng en rojo) tras el PPI de septiembre, que fue mucho más alto de lo esperado y dio apoyo a las apuestas de subidas de la Fed (la Fed podría saltarse octubre y subir en diciembre). Europa cerró con caídas moderadas (Euro Stoxx -0,4%, IBEX -0,3%, DAX +0,3%) y sin capitulación. En EE. UU. la tecnología y los semis siguieron débiles (NVDA -1,8%, SMH -1,0%, con el miedo a la deuda de IA como segundo factor), pero el S&P 500 acabó en máximos gracias a financieras, small caps y Microsoft. El rendimiento del bono baja, el dólar cede y el oro sube, lo que apunta a un movimiento de refugio y no a una repreciación puramente inflacionista. Bitcoin tocó 80.000 $ (mínimo de un mes) y rebotó hasta cerrar +0,5%."
  }
 ]

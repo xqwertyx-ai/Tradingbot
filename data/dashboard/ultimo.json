@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-15T20:58:37.917662+00:00",
- "modo": "actualización",
- "evento": "manual",
+ "generado": "2026-10-15T21:00:56.851219+00:00",
+ "modo": "cierre",
+ "evento": "usa-cierre",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -277,21 +277,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.1224603652954102,
-   "date": "2026-10-15",
-   "chg_1d": 0.0017958291524811099,
-   "chg_5d": 0.0020765470232753103,
-   "chg_1m": -0.02712994717339212,
-   "chg_3m": -0.017768641509567806,
-   "vol20_ann": 0.04470951470756164,
-   "ma50": 1.1483519625663758,
-   "ma200": 1.1589016515016555,
-   "dist_ma50": -0.02254674360733644,
-   "dist_ma200": -0.03144467536052453,
-   "rsi14": 33.239155226088286,
-   "from_high": -0.06598953351355785,
-   "from_low": 0.005769361413769047,
-   "z_1d": 0.6153528969751445,
+   "last": 1.1218308210372925,
+   "date": "2026-10-16",
+   "chg_1d": 0.0020753672436344406,
+   "chg_5d": 0.00047118023739112225,
+   "chg_1m": -0.02193175825521243,
+   "chg_3m": -0.01750053219683856,
+   "vol20_ann": 0.04457116860274443,
+   "ma50": 1.1476800799369813,
+   "ma200": 1.1586671084165574,
+   "dist_ma50": -0.02252305267954824,
+   "dist_ma200": -0.031791950519425405,
+   "rsi14": 33.275855086219266,
+   "from_high": -0.06651338357043146,
+   "from_low": 0.005205264590357306,
+   "z_1d": 0.7116403842765812,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -305,21 +305,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.98899841308594,
+   "last": 101.98500061035156,
    "date": "2026-10-15",
-   "chg_1d": -0.005470547264525449,
-   "chg_5d": -0.0014783726009871545,
-   "chg_1m": 0.016738120779151933,
-   "chg_3m": 0.012297750998371493,
-   "vol20_ann": 0.04994084739462709,
-   "ma50": 100.30877975463868,
-   "ma200": 99.45399505615234,
-   "dist_ma50": 0.01675046454116158,
-   "dist_ma200": 0.02548920589366288,
-   "rsi14": 58.515444188918224,
-   "from_high": -0.005761390206856398,
-   "from_low": 0.05995632009139418,
-   "z_1d": -1.7676186459670125,
+   "chg_1d": -0.005509531200316831,
+   "chg_5d": -0.0015175130235274281,
+   "chg_1m": 0.016698266299721487,
+   "chg_3m": 0.012258070574209023,
+   "vol20_ann": 0.05000674383696276,
+   "ma50": 100.30869979858399,
+   "ma200": 99.45397506713867,
+   "dist_ma50": 0.016711419997802013,
+   "dist_ma200": 0.025449214488453276,
+   "rsi14": 58.45793602735019,
+   "from_high": -0.005800362742077847,
+   "from_low": 0.05991477152889502,
+   "z_1d": -1.7802149600953767,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -333,21 +333,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 105.7699966430664,
+   "last": 105.77999877929688,
    "date": "2026-10-15",
-   "chg_1d": -0.0027343100339703996,
-   "chg_5d": 0.014288433843608228,
-   "chg_1m": -0.000566996002552056,
-   "chg_3m": 0.20056751957987573,
-   "vol20_ann": 0.32397490309642635,
-   "ma50": 97.8645994567871,
-   "ma200": 89.66829986572266,
-   "dist_ma50": 0.08077892547621368,
-   "dist_ma200": 0.17956955581243172,
-   "rsi14": 58.75558246274198,
-   "from_high": -0.10629490488591331,
-   "from_low": 0.7951459594378281,
-   "z_1d": -0.08661353617067136,
+   "chg_1d": -0.002640003637018662,
+   "chg_5d": 0.014384349995771206,
+   "chg_1m": -0.00047248465362059733,
+   "chg_3m": 0.2006810512076136,
+   "vol20_ann": 0.32396201863925245,
+   "ma50": 97.86479949951172,
+   "ma200": 89.66834987640381,
+   "dist_ma50": 0.08087891990035345,
+   "dist_ma200": 0.17968044382550685,
+   "rsi14": 58.78262244214915,
+   "from_high": -0.1062103916931848,
+   "from_low": 0.7953157173560443,
+   "z_1d": -0.08362623391817431,
    "trend": "lateral",
    "flags": []
   },
@@ -359,21 +359,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4191.0,
+   "last": 4190.89990234375,
    "date": "2026-10-15",
-   "chg_1d": 0.020229338501855265,
-   "chg_5d": 0.008178975222516316,
-   "chg_1m": -0.04478632478632483,
-   "chg_3m": 0.042848598855294684,
-   "vol20_ann": 0.19034150368716923,
-   "ma50": 4377.201982421875,
-   "ma200": 4541.827999267578,
-   "dist_ma50": -0.04253904278798004,
-   "dist_ma200": -0.07724378803515963,
-   "rsi14": 44.380108845454686,
-   "from_high": -0.21198103246183486,
-   "from_low": 0.058199722257290754,
-   "z_1d": 1.501945751278087,
+   "chg_1d": 0.020204971390039184,
+   "chg_5d": 0.008154895921036909,
+   "chg_1m": -0.04480913906695161,
+   "chg_3m": 0.042823691506077566,
+   "vol20_ann": 0.1903031678782211,
+   "ma50": 4377.19998046875,
+   "ma200": 4541.827498779297,
+   "dist_ma50": -0.04256147284937384,
+   "dist_ma200": -0.07726572542217092,
+   "rsi14": 44.37042923800316,
+   "from_high": -0.2119998534715536,
+   "from_low": 0.05817444826252993,
+   "z_1d": 1.500136592760139,
    "trend": "bajista",
    "flags": []
   },
@@ -385,21 +385,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 81975.2734375,
+   "last": 81956.5078125,
    "date": "2026-10-15",
-   "chg_1d": 0.005060920024992255,
-   "chg_5d": -0.011300542318613438,
-   "chg_1m": -0.028487980208360297,
-   "chg_3m": 0.29294109354988085,
-   "vol20_ann": 0.21015612573768508,
-   "ma50": 81223.67015625,
-   "ma200": 72285.0688671875,
-   "dist_ma50": 0.00925350060892538,
-   "dist_ma200": 0.1340554103658218,
-   "rsi14": 48.10120817726401,
-   "from_high": -0.2838864128942602,
-   "from_low": 0.399878247500445,
-   "z_1d": 0.2168074567835315,
+   "chg_1d": 0.004830843374601823,
+   "chg_5d": -0.011526873533900028,
+   "chg_1m": -0.028710376907778556,
+   "chg_3m": 0.29264511591307385,
+   "vol20_ann": 0.21006741697460188,
+   "ma50": 81223.29484375,
+   "ma200": 72284.9750390625,
+   "dist_ma50": 0.009027126640952954,
+   "dist_ma200": 0.13379727624186133,
+   "rsi14": 48.03312009574728,
+   "from_high": -0.2840503442661181,
+   "from_low": 0.39955779001202574,
+   "z_1d": 0.20695108023735212,
    "trend": "lateral",
    "flags": []
   },
@@ -411,21 +411,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2450.340087890625,
+   "last": 2449.4599609375,
    "date": "2026-10-15",
-   "chg_1d": 0.013287967583162308,
-   "chg_5d": -0.021440554076059826,
-   "chg_1m": -0.0881782057486622,
-   "chg_3m": 0.30061112541246704,
-   "vol20_ann": 0.3050117964333832,
-   "ma50": 2554.4554541015623,
-   "ma200": 2142.786185913086,
-   "dist_ma50": -0.04075834089953079,
-   "dist_ma200": 0.1435299069965228,
-   "rsi14": 40.96295635952966,
-   "from_high": -0.41069109707615303,
-   "from_low": 0.5658959708020406,
-   "z_1d": 0.40264886452547843,
+   "chg_1d": 0.012924009104110956,
+   "chg_5d": -0.02179203856911005,
+   "chg_1m": -0.08850571903611704,
+   "chg_3m": 0.30014396458337766,
+   "vol20_ann": 0.3047331174598193,
+   "ma50": 2554.4378515625,
+   "ma200": 2142.7817852783205,
+   "dist_ma50": -0.04109627899570423,
+   "dist_ma200": 0.1431215151100167,
+   "rsi14": 40.87793206254719,
+   "from_high": -0.41090276836690287,
+   "from_low": 0.5653335234680954,
+   "z_1d": 0.39162028040173763,
    "trend": "lateral",
    "flags": []
   },
@@ -437,21 +437,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 105.5199966430664,
+   "last": 105.4800033569336,
    "date": "2026-10-15",
-   "chg_1d": 0.013889566979438772,
-   "chg_5d": -0.041024016769491856,
-   "chg_1m": -0.09818995959930932,
-   "chg_3m": 0.38518910005834917,
-   "vol20_ann": 0.3415633958487026,
-   "ma50": 109.46797164916993,
-   "ma200": 87.25033782958984,
-   "dist_ma50": -0.03606511518050459,
-   "dist_ma200": 0.20939355958895378,
-   "rsi14": 40.379279186897456,
-   "from_high": -0.4724755200137676,
-   "from_low": 0.6967411010358786,
-   "z_1d": 0.39980984882568066,
+   "chg_1d": 0.013505291232193795,
+   "chg_5d": -0.04138747964015099,
+   "chg_1m": -0.0985317559235187,
+   "chg_3m": 0.3846640975394988,
+   "vol20_ann": 0.34125414547439425,
+   "ma50": 109.46717178344727,
+   "ma200": 87.25013786315918,
+   "dist_ma50": -0.03642341682492045,
+   "dist_ma200": 0.20893795632008794,
+   "rsi14": 40.30247782409095,
+   "from_high": -0.4726754578278438,
+   "from_low": 0.696098016743746,
+   "z_1d": 0.38874850842242514,
    "trend": "lateral",
    "flags": []
   },
@@ -814,6 +814,15 @@
    "score": 3
   },
   {
+   "title": "Trump trade chief denies tariffs behind inflation ahead of midterms",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXVfbG5YNlNpS0hlWmRzRnNEdmVHMWtuVnR4eDVydGJ6Rm5sc3U3SmFabWI5RGoyY1ZGSWdKN25VOTB2RFo4dVV4aFpDRXpzMDlWTG1rc2VDdTF6YUNfTGpYb1AxcTVYTEhSLVJzeVBZWnBWRmF1QkYtakVXc05HU016OFBOX1NwTG1RN2pOeUIzRWxoQXkxX3dmOENyMF90?oc=5",
+   "source": "Deseret News",
+   "feed": "Google News · markets",
+   "published": "2026-10-15T20:02:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
    "source": "NBC News",
@@ -958,15 +967,6 @@
    "score": 3
   },
   {
-   "title": "Fed Moves to Overhaul Bank Supervision Structure, Signals Further Deregulatory Steps Ahead",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRyT1NySXc0VXFPSzRIbi1KUUQwdHZoQnp3ckpXZXQ2b3dSRDdzUi1vNm1kczl4Wm5qSktfclE5bmFFUjFvdG5OZm9BNHhZOWI5R2pKU3doRnppRFNJY1ZmYVQyUUpWVGM2WmpIT3JCZnRvY3k5SFRZSmVac1ZkdkxaVEo2OGE5?oc=5",
-   "source": "JD Supra",
-   "feed": "Google News · markets",
-   "published": "2026-10-15T17:34:37+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Hyperscale Data Stock Surges Beyond Bitcoin Mining Growth",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0UyQXVFR2V2SEFpUWk3d1loVTdvWkZJSjk0bnZROGlYajBnQVRvbXBvY0hQNjFlWkV3dzgzT0h3dkhqeXQ2WUtvbmRGQ2N4Y1czNUVXcmd0QUJrc19ta0dEYURNd1lObDNwbU5wUHhfZ1VOSWZhZU15bThWQUxuLVpYS3ZFWkdQUE5IU2tMdkxmS3Y3YTFKNmFwTFpfMEJKR09KOVhORHBnelUwRVJ5VnBic3FYb3VNVkE?oc=5",
    "source": "Benzinga",
@@ -1009,6 +1009,15 @@
    "feed": "Google News · mercados ES",
    "published": "2026-10-15T17:12:51+00:00",
    "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Gold Lost $100 an Ounce in Hours After the Inflation Report",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzU1WVphWkhpelBDcmZONHczTENETTBDMVpZSExoODlBdm9tZVBfaF90TjNuOEt5MkpyYmJ0U19abGxYNFVxTDRfTEhkWGtieW1RVzhyLXVVcUlSal9fY1ZVMnUxcHlPWWRRTDMwMGs1aWZmelY0T082V1dFVnI4T0NCV2wyRmkyczlHRzBRMTdFeWZ2QWp6bER1bw?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-15T17:10:34+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -1075,11 +1084,29 @@
    "score": 3
   },
   {
+   "title": "Crypto Weekly: Sector scrutiny may surge, Securitize launches stock",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wcGpVYnpzaU52ZW9tdmV6V1FFQnpvWUNNczhZQTZFUm9WV1VmVTEzNVZuYnNhSkRPeEMtZ2RrRVhteklsbzBFUGxKVGFUTGhIMDYyN3EzeFN1Rl9heVFzT0J4eDkzaU0?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · crypto",
+   "published": "2026-10-15T15:56:15+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
    "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBva2xweFEyc0hMTEQ1Y1M1aWt0X0Z2cllkUVNTell2UllvdVBRRU1zOWFBZWNzN05ZRVA4UWZrYlFMckZaOTV1Nm9CQ1lnQ3B3T2JDdENsTDlBdmNLT2IycC1DdnlDYkdmOU85RG5SWWVvcVRyS3BEMm9WeHBSQTg?oc=5",
    "source": "Bitcoin Magazine",
    "feed": "Google News · crypto",
    "published": "2026-10-15T15:53:12+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOG4tejRNdGU2WG12QjJMeVVwQzdMNXVxU3dQOEsweEtwOXYzX2l0VWRtWDFDaWZ1RHJzbTZ1eDM2SVNySDgxRjdoTER4SGlSX2QyZW9DSVZhTXlZX0p1RFpNSGpyWGFIUVJwQ2R4dG02Vk5ReFpsREtaazJGTDJkLTVUTERQV3ZXaTJnQUoxOXZRRVZVcDN2VHlaRVplMkxlbkNWRGtiSEZKX0xQN2d0WndjSnRkNEV6aWc?oc=5",
+   "source": "Investing.com",
+   "feed": "Google News · crypto",
+   "published": "2026-10-15T15:52:57+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1147,20 +1174,20 @@
    "score": 3
   },
   {
+   "title": "Data Insights: Rising rates and energy-driven inflation impact global hedge funds",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3pzR1Q1VHA2QVpVMnM5Z2dZVnRXLUNOSHRDcjhmZnRibDJvY01JU1d1NUY5M0JwY0x1M3k4Zmw3ZWhYTERkVTlrdUZPOHlWTW1FQVF4VmFTVlBzV0FLOXBKYVVVcUxUTlR1cDNVYTI2Q3Vkc2ZxME05MUJQeW5Mb2VDbVBRUmpZWDFOZ2FaSEhQc2NQcFBzNGRmQXB3NXM?oc=5",
+   "source": "Securities Finance Times",
+   "feed": "Google News · markets",
+   "published": "2026-10-15T14:28:03+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Tech Stocks Drop For Second Day Amid AI Debt Fears, Hotter-Than-Expected Inflation Data",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmJVWTVaX3lfbGppV0szR2YwYnRXX0RlMFZRQlpiSnlkaUlUWjJ2TExhSEFESUxZeEJJOVdnMS1oOXp3ZUpzMnN4bF9kQTdXcUxSOTRfZG93Vl9uQkZqZ0ViNXFQLU03a2lxdjd4QzBnbU16MmxSSllaN3Jqa1Fuel9CaTBtMURDQ0k2dTN6TU1EeFZVNms0SkNLNmJHS1pFekpMSnNDdlFyNmd6bU5FNg?oc=5",
    "source": "Forbes",
    "feed": "Google News · markets",
    "published": "2026-10-15T14:16:45+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Data Insights: Rising rates and energy-driven inflation impact global hedge funds",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3pzR1Q1VHA2QVpVMnM5Z2dZVnRXLUNOSHRDcjhmZnRibDJvY01JU1d1NUY5M0JwY0x1M3k4Zmw3ZWhYTERkVTlrdUZPOHlWTW1FQVF4VmFTVlBzV0FLOXBKYVVVcUxUTlR1cDNVYTI2Q3Vkc2ZxME05MUJQeW5Mb2VDbVBRUmpZWDFOZ2FaSEhQc2NQcFBzNGRmQXB3NXM?oc=5",
-   "source": "Securities Finance Times",
-   "feed": "Google News · markets",
-   "published": "2026-10-15T14:08:28+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1201,15 +1228,6 @@
    "score": 3
   },
   {
-   "title": "Fixed Income Outlook 4Q 2026: Walking the Line Between Rates and Inflation Risk",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXo4bzRjVGNiVEhfLWZmalVaWGQyd3lMUzZIR09ieS1IcEw3UEc3cnJmZEhVR3JwZzh6blZ6M042MC1zU1YwSTkzRXZDYXdpU1NXMWtRalV3TkpNZzYwT0RTRmE5ckJTZFFwUldLUzE0bFJGNjdQSVVidGNTMEdqZUg1ejc1Si12N3lQbjZ3TlU4NW5fUFRlWTQ2bkFZQXBCNDk0ekNqTkNFdlVPT0E?oc=5",
-   "source": "Neuberger Berman",
-   "feed": "Google News · markets",
-   "published": "2026-10-15T14:02:02+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Bitcoin & XRP Slip as US PPI Inflation Comes in Hot at 6.3%, Eyes on Fed Kevin Warsh’s Speech",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTMyT0tYTjlVNy1RTXRzSmh3TFlnOURTa0lUYVkxS3JGOGp6ekVZTFpvUVFrVktxMkJLR1VEMndFRmc1ZjdIc0ZMSkFrcTBEVW1EV21yNU1SSFBXT01VQ1VQZFprTWMwVkZ0ME5fenVXcHVUVlkzdHhON2dENFk2aW9JZGswRXBVU0Z6bHZfX0JPZw?oc=5",
    "source": "Yahoo Finance",
@@ -1228,21 +1246,21 @@
    "score": 3
   },
   {
+   "title": "Polymarket Odds Today: Fed Hike, Bitcoin, Apple vs Nvidia, World Series",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamYyUUlfT0I3V1Q3VFo1ejh5WXJEaHBUS2cxS0VpRXpBb0hUbjBTTWlqYnFVenMzLWs4M1JNLXNNOVV3Q2Q5Um9zWkdtczJEaWgyelV6X2x1dWZrazRHVVVlUTZHSVhOaG5CbFZFWTJ2ZFJDYVBWWkpvZTFENWFCUnlVTXcxdGRsZ1htUUJmb3p0THZoSC13Ykc0T3FkTll2RTlCdGhfa3JyRUgtTFlzenFMUXBsZ0hxa3hFUzNEUQ?oc=5",
+   "source": "RG.org",
+   "feed": "Google News · crypto",
+   "published": "2026-10-15T13:32:50+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "French crypto unicorn Ledger warns of AI security risks - People & Profit",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXYzN1YxandPNHlhdXFsdi1vSmdJS0l2WU4ybFhBNDM0bzJWaWRpbk1uMTRXckJHR1pSNlhZMU5WVGxjaDFjbTZyUkF0YVhyQVY2ZW5MbHJ5QXFUbkxXdXJBaFNYTWxIUlk3SG5hMkVaWjdjWUN0bjBMS1FNRTh0Yldmakg3VDRucVFuNGptMUUxNXp0MVlDMGJfZ2JSTE51bDVTZjNwbDh1elI5bjh6ajAtLUpvQQ?oc=5",
    "source": "France 24",
    "feed": "Google News · crypto",
    "published": "2026-10-15T13:31:22+00:00",
    "category": "geopolítica",
-   "score": 3
-  },
-  {
-   "title": "Polymarket Odds Today: Fed Hike, Bitcoin, Apple vs Nvidia, World Series",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamYyUUlfT0I3V1Q3VFo1ejh5WXJEaHBUS2cxS0VpRXpBb0hUbjBTTWlqYnFVenMzLWs4M1JNLXNNOVV3Q2Q5Um9zWkdtczJEaWgyelV6X2x1dWZrazRHVVVlUTZHSVhOaG5CbFZFWTJ2ZFJDYVBWWkpvZTFENWFCUnlVTXcxdGRsZ1htUUJmb3p0THZoSC13Ykc0T3FkTll2RTlCdGhfa3JyRUgtTFlzenFMUXBsZ0hxa3hFUzNEUQ?oc=5",
-   "source": "RG.org",
-   "feed": "Google News · crypto",
-   "published": "2026-10-15T13:30:00+00:00",
-   "category": "macro",
    "score": 3
   },
   {
@@ -1298,117 +1316,147 @@
    "published": "2026-10-15T12:38:55+00:00",
    "category": "macro",
    "score": 3
-  },
-  {
-   "title": "Warsh's quest for quiet Fed gets vocal pushback",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-15T12:01:34+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Trump disputes CPI data, says \"we don't have inflation\" at latest rally",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3NVaHQ3Z1AzN1BWaWt0U0xWdWtpXzBTdXJzOXpHQzVzaEExQUZYc0l6ZjNuSXdoNk5kcTJCTk1BbzF4QnhhSG9raTNuS0ZIdWExbG5xZ1dIdkpWa2VGQmowUl96Vmd6NkxCX2FMWDJyb2wybHN1TnJqZkc4WVBJc0ZhWW5sUnh1VW5NVmVOUDhZZXZSMWVLQnNnOC1RSjg?oc=5",
-   "source": "CBS News",
-   "feed": "Google News · markets",
-   "published": "2026-10-15T11:02:00+00:00",
-   "category": "macro",
-   "score": 3
   }
  ],
  "analisis": {
-  "resumen": "Con el cierre de EE. UU. se ve que la reacción al PPI de septiembre (máximo en cuatro años) se ha suavizado respecto a la apertura. El S&P 500 sube un 0,3%, el Russell un 1,4% y las financieras un 1,4%, y la caída de SMH y XLK es menor que en la revisión anterior (SMH -1,0%, XLK -0,7%). El rendimiento del bono a 10 años baja, el dólar cede un 0,5% y el oro sube un 2,0%, lo que se parece más a una rotación y a cierta cautela que a un risk-off puro.",
-  "resumen_dia": "",
+  "resumen": "Cierre de EE. UU. con el S&P 500 en máximos (+0,3%) a pesar del PPI de septiembre, el más alto en cuatro años. El Russell sube +1,4% y las financieras +1,4%, mientras la tecnología cae menos que durante la sesión europea (SMH -1,0%, XLK -0,7%, frente a -2,1% y -1,3% en la revisión anterior). El bono a 10 años baja (-0,10, -2,2σ), el dólar cae -0,6% y el oro rebota +2,0%: el mercado trata la jornada más como aversión al riesgo que como miedo a la inflación.",
+  "resumen_dia": "Asia abrió la jornada a la baja (Kospi -8% según CoinDesk, Shanghái y Hang Seng en rojo) tras el PPI de septiembre, que fue mucho más alto de lo esperado y dio apoyo a las apuestas de subidas de la Fed (la Fed podría saltarse octubre y subir en diciembre). Europa cerró con caídas moderadas (Euro Stoxx -0,4%, IBEX -0,3%, DAX +0,3%) y sin capitulación. En EE. UU. la tecnología y los semis siguieron débiles (NVDA -1,8%, SMH -1,0%, con el miedo a la deuda de IA como segundo factor), pero el S&P 500 acabó en máximos gracias a financieras, small caps y Microsoft. El rendimiento del bono baja, el dólar cede y el oro sube, lo que apunta a un movimiento de refugio y no a una repreciación puramente inflacionista. Bitcoin tocó 80.000 $ (mínimo de un mes) y rebotó hasta cerrar +0,5%.",
   "clima": "mixto",
   "noticias": [
    {
-    "id": 1,
+    "id": 57,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Sorpresa: el PPI sube al ritmo más rápido desde 2022, muy por encima de lo esperado, según varios titulares.",
-    "impacto": "Eleva las apuestas de subidas de la Fed y presiona a la tecnología y los semis por tipos. Aun así, el cierre muestra un S&P al alza y el bono a la baja, así que parte del golpe ya se ha digerido.",
-    "importancia": 5
-   },
-   {
-    "id": 30,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Matiza el dato: el mercado ve la Fed en pausa en octubre y posible subida en diciembre, lo que acota el riesgo inmediato.",
-    "impacto": "Reduce la probabilidad de una sorpresa de tipos a corto plazo y explica el rebote de cíclicos, financieras y small caps. Mantiene un riesgo de cola para diciembre sobre la tecnología y las cripto.",
-    "importancia": 4
-   },
-   {
-    "id": 4,
-    "categoria": "política/regulación",
-    "rumor": false,
-    "novedad": "Es un evento esperado: el discurso de Warsh es un catalizador conocido, con riesgo de que dé pistas sobre la senda de tipos.",
-    "impacto": "Puede mover el dólar, el oro, el bono y la tecnología. Su impacto sobre los precios de hoy es incierto porque el titular es previo al discurso.",
-    "importancia": 4
+    "novedad": "Sorpresa: el PPI de septiembre es el más alto en cuatro años, muy por encima de lo previsto.",
+    "impacto": "Eleva la probabilidad de subidas de la Fed y presiona a tecnología, semis y small caps; la reacción del bono a 10 años (a la baja) y del S&P (al alza) no cuadra con ese mensaje."
    },
    {
     "id": 31,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Sorpresa en la reacción: los rendimientos del Tesoro y de la zona euro caen pese a la inflación, porque el temor a un shock de crecimiento y la aversión al riesgo pesan más.",
-    "impacto": "El bono a 10 años baja 0,10 (-2,2σ), el dólar cede un 0,5% y el oro sube un 2,0%. Es la señal clave de que el mercado descuenta más riesgo de crecimiento que de inflación.",
-    "importancia": 4
+    "novedad": "Parcialmente esperada: se descuenta que la Fed se salte octubre, pero la posible subida en diciembre es nueva.",
+    "impacto": "Un sesgo restrictivo mantiene al dólar con apoyo y es negativo para activos de duración larga (tecnología, small caps, oro, cripto)."
    },
    {
-    "id": 41,
-    "categoria": "sectorial",
+    "id": 32,
+    "categoria": "macro",
     "rumor": false,
-    "novedad": "El miedo a la deuda de IA se añade al dato de inflación y es un factor previo que sigue vigente.",
-    "impacto": "Presiona a NVDA (-1,8%), SMH (-1,0%) y XLK (-0,7%), con un 5d muy negativo en semis (-8%). MSFT en máximos indica que no todo el sector se vende.",
-    "importancia": 3
+    "novedad": "Novedad respecto al guion de inflación: la aversión al riesgo domina y los rendimientos bajan.",
+    "impacto": "Los bonos de EE. UU. y la zona euro actúan como refugio; apoya al oro y limita la subida del dólar."
    },
    {
-    "id": 44,
+    "id": 47,
     "categoria": "geopolítica",
     "rumor": false,
-    "novedad": "Sorpresa de Asia: el Kospi cae un 8% (según CoinDesk), un movimiento extremo.",
-    "impacto": "Sugiere estrés en semis y tecnología asiáticos (dato de CoinDesk, no confirmado por la tabla de precios). Bitcoin rebota cerca de 80.000 pero las altcoins caen más.",
-    "importancia": 3
+    "novedad": "Sorpresa: el Kospi cae un 8%, un movimiento de pánico regional.",
+    "impacto": "Contagio a bolsas asiáticas y a cripto (altcoins caen más); refuerza la aversión al riesgo, y los semis son sensibles por la cadena de suministro."
+   },
+   {
+    "id": 45,
+    "categoria": "sectorial",
+    "rumor": false,
+    "novedad": "Los temores sobre la deuda de IA son un segundo factor sobre la tecnología, no solo la inflación.",
+    "impacto": "Presión sobre NVDA, SMH y XLK; la dispersión (MSFT al alza) sugiere rotación y no una venta general."
+   },
+   {
+    "id": 36,
+    "categoria": "cripto",
+    "rumor": false,
+    "novedad": "Bitcoin toca un mínimo de un mes en 80.000 $ por las apuestas de subida de tipos.",
+    "impacto": "Cripto se comporta como activo de riesgo sensible a tipos; el rebote al cierre sugiere que 80.000 $ actúa de soporte a corto plazo."
    }
   ],
   "divergencias": [
-   "El PPI es el más alto en cuatro años, pero el S&P 500 sube y cotiza en máximos de 52 semanas, y el Russell sube un 1,4%: el mercado ve más dato que Fed inminente.",
-   "El bono a 10 años baja y el oro sube un 2% a pesar de las apuestas de subidas de la Fed: es la respuesta de crecimiento/refugio, no de inflación.",
-   "XLK y SMH caen, pero MSFT sube un 1,1% hasta máximos de 52 semanas y AAPL está cerca de máximos: la debilidad se concentra en semis (NVDA, ASML) y no es generalizada.",
-   "Las financieras suben un 1,4% mientras SAN.MC y BBVA.MC caen: diferencia entre banca de EE. UU. y española, probablemente por curva y exposición local.",
-   "El petróleo apenas cambia (Brent -0,3%) pero XLE cae un 1,6%: no sigue al crudo en el día."
+   "PPI muy caliente y apuestas de subida de la Fed, pero el rendimiento del bono a 10 años cae 10 pb (-2,2σ) y el dólar cede un 0,6% desde máximos de 52 semanas.",
+   "El S&P 500 cierra en máximos y el Russell 2000 sube un 1,4% (financieras +1,4%) pese a un dato inflacionista adverso para activos sensibles a tipos.",
+   "El titular [26] dice que el oro perdió 100 $ en horas tras el dato de inflación, pero la tabla muestra GC=F +2,0% en el día: el rebote revierte la caída anterior.",
+   "XLE cae un 1,6% con el Brent casi plano (-0,3%), una divergencia que pone en duda la hipótesis abierta de cobertura energética."
   ],
-  "hipotesis": [],
-  "vigilar": [
+  "hipotesis": [
    {
-    "ticker": "SMH",
-    "motivo": "Con la caída de la semana y la señal técnica, comprobar si el rebote intradía de hoy se sostiene o vuelven las ventas."
-   },
-   {
-    "ticker": "DX-Y.NYB",
-    "motivo": "El dólar cede un 0,5% desde máximos de 52 semanas: ver si sigue el retroceso o se frena con el discurso de Warsh."
+    "ticker": "^RUT",
+    "direccion": "bajista",
+    "horizonte_dias": 5,
+    "tesis": "El rebote de +1,4% en un índice bajista ocurre contra un PPI muy caliente que encarece la financiación de las small caps, y puede revertirse si el rendimiento del bono deja de bajar.",
+    "disparador": "Cierre del 16-oct por debajo de 2767 (el cierre de hoy) sin que el S&P 500 marque nuevos máximos.",
+    "objetivo_pct": 2.5,
+    "invalidacion_pct": 1.5,
+    "confianza": 42,
+    "confluencia": [
+     "PPI caliente y probabilidad creciente de subida de la Fed en diciembre",
+     "Tendencia bajista del índice (-3,2% en un mes) y rebote de 1,75σ en un día"
+    ],
+    "contra": "El rebote lo impulsa la caída del rendimiento del bono y la rotación a financieras; si la caída de tipos continúa, el Russell puede seguir subiendo.",
+    "sesgos": "Sesgo de reversión a la media y de anclaje en la tendencia bajista; el objetivo es ajustado, así que la ventaja es pequeña.",
+    "ev_pct": 0.08,
+    "operable": false
    },
    {
     "ticker": "GC=F",
-    "motivo": "Rebote del 2% con el bono a la baja; sigue en tendencia bajista y -4,5% en el mes."
+    "direccion": "bajista",
+    "horizonte_dias": 5,
+    "tesis": "El rebote de +2,0% (1,7σ) revierte parte de la caída tras el dato de inflación; si la Fed sube tipos en diciembre, el oro pierde atractivo frente a activos con rendimiento.",
+    "disparador": "Cierre del 16-oct por debajo de 4191 y rendimiento del bono a 10 años estabilizado o al alza.",
+    "objetivo_pct": 3.0,
+    "invalidacion_pct": 2.0,
+    "confianza": 40,
+    "confluencia": [
+     "Tendencia bajista (-4,5% en un mes) y rebote reciente",
+     "Narrativa de subida de tipos con dólar cerca de máximos de 52 semanas"
+    ],
+    "contra": "La caída del rendimiento del bono y la aversión al riesgo (Kospi -8%) apoyan al oro; el dólar ya cede un 0,6%, lo que invalida parte de la tesis.",
+    "sesgos": "Sesgo de contrarian sobre un movimiento grande; la volatilidad del oro es alta y puede saltar el stop por ruido.",
+    "ev_pct": -0.06,
+    "operable": false
    },
    {
-    "ticker": "^RUT",
-    "motivo": "Rebote del 1,4% en tendencia bajista; ver si se confirma con las financieras."
+    "ticker": "MSFT",
+    "direccion": "alcista",
+    "horizonte_dias": 5,
+    "tesis": "Microsoft sube +1,1% y +10% en un mes mientras los semis caen, lo que sugiere rotación hacia software y calidad dentro de la tecnología; la tendencia en máximos de 52 semanas puede continuar.",
+    "disparador": "Cierre del 16-oct por encima de 535 (sin perder la ruptura de máximos).",
+    "objetivo_pct": 3.0,
+    "invalidacion_pct": 2.0,
+    "confianza": 40,
+    "confluencia": [
+     "Fuerza relativa y máximos de 52 semanas con rotación desde semis",
+     "Caída del rendimiento del bono a 10 años que favorece a valores de crecimiento"
+    ],
+    "contra": "XLK cruza a la baja su media de 50 sesiones y el temor a la deuda de IA puede alcanzar también a Microsoft; tras +10% en un mes, el riesgo de toma de beneficios es alto.",
+    "sesgos": "Sesgo de momentum y de persecución de precio; ya ha subido mucho, así que parte del movimiento puede estar descontado.",
+    "ev_pct": -0.1,
+    "operable": false
+   }
+  ],
+  "vigilar": [
+   {
+    "ticker": "^TNX",
+    "motivo": "Si el rendimiento rebota tras la caída de -2,2σ, vuelve la lectura inflacionista y se refuerzan las hipótesis sobre dólar y semis."
+   },
+   {
+    "ticker": "DX-Y.NYB",
+    "motivo": "Hipótesis abierta alcista: hoy cae -0,6% desde máximos de 52 semanas, y un cierre bajo la zona de ruptura la debilitaría."
+   },
+   {
+    "ticker": "SMH",
+    "motivo": "Hipótesis abierta bajista: hoy cae menos (-1,0%) que en la sesión europea, así que hay que ver si lidera nuevas caídas o rebota."
    },
    {
     "ticker": "XLE",
-    "motivo": "Cae un 1,6% mientras el Brent está casi plano: esa divergencia puede indicar rotación fuera de energía."
+    "motivo": "Hipótesis abierta alcista: cae -1,6% con el Brent plano, lo que cuestiona la cobertura energética."
+   },
+   {
+    "ticker": "BTC-USD",
+    "motivo": "Rebote desde 80.000 $ tras un mínimo de un mes; una pérdida de ese nivel con volumen indicaría más ventas."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Revisión de actualización: es solo observación y no se proponen hipótesis.",
+  "decision_motivo": "Las hipótesis nuevas tienen una asimetría de 1,5 a 1,7 veces y probabilidades de 40-42%, por lo que su valor esperado neto queda por debajo del 1% requerido y p < 55.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 9144,
-   "tokens_salida": 2709,
-   "coste_usd": 0.0454
+   "tokens_entrada": 9148,
+   "tokens_salida": 6026,
+   "coste_usd": 0.0786
   }
  },
  "calidad": {
