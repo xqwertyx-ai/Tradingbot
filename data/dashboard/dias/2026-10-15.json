@@ -12,5 +12,19 @@
    "Fed's Mary Daly says more rate hikes likely, not urgent in October"
   ],
   "coste_usd": 0.0366
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-15T15:51:50+00:00",
+  "hora_madrid": "17:51",
+  "clima": "risk-off",
+  "resumen": "Cierre de Europa en tono moderadamente bajista (Euro Stoxx -0,4%, IBEX -0,3%, DAX +0,3%), por debajo de la caída de Asia y sin capitulación pese al PPI de septiembre, que fue el más alto en cuatro años. La novedad frente a la revisión anterior es que el rendimiento del bono a 10 años baja (-0,10 pb, -2,2σ) y el dólar retrocede desde máximos, aunque la narrativa de subidas de la Fed sigue vigente. La tecnología y los semis siguen siendo el foco de debilidad (SMH -2,1%, XLK -1,3%), mientras el oro rebota +1,6%.",
+  "titulares": [
+   "Wholesale inflation jumped last month by most in four years as gas prices soared",
+   "Tech Stocks Drop For Second Day Amid AI Debt Fears, Hotter-Than-Expected Inflation Data",
+   "Fed's Mary Daly says more rate hikes likely, not urgent in October"
+  ],
+  "coste_usd": 0.0368
  }
 ]
