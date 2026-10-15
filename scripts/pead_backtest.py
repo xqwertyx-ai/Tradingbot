@@ -1,4 +1,4 @@
-"""Experimento 2 (PEAD). Uso: python scripts/pead.py [--max-empresas N]
+"""Experimento 2 (PEAD). Uso: python scripts/pead_backtest.py [--max-empresas N]
 
 Descarga (con caché) universo, fechas de resultados y precios; construye eventos y
 escribe reports/pead.md y data/pead/eventos.csv.gz. Reglas: docs/pead-preregistro.md.

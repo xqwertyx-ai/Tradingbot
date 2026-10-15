@@ -43,7 +43,7 @@ jobs:
       - name: Ejecutar experimento
         run: |
           set -o pipefail
-          python -u scripts/pead.py --max-empresas "${{ inputs.max_empresas }}" 2>&1 | tee ci.log
+          python -u scripts/pead_backtest.py --max-empresas "${{ inputs.max_empresas }}" 2>&1 | tee ci.log
 
       - name: Guardar resultados (también si falla a medias)
         if: always()
