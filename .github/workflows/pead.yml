@@ -1,0 +1,58 @@
+name: Experimento PEAD
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_empresas:
+        description: "0 = todas; un número pequeño para una prueba rápida"
+        default: "0"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pead
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recuperar datos descargados (caché)
+        uses: actions/cache@v4
+        with:
+          path: data/pead/raw
+          key: pead-raw-${{ github.run_id }}
+          restore-keys: pead-raw-
+
+      - name: Tests del experimento
+        run: python -m pytest -q tests/test_pead.py
+
+      - name: Ejecutar experimento
+        run: |
+          set -o pipefail
+          python -u scripts/pead.py --max-empresas "${{ inputs.max_empresas }}" 2>&1 | tee ci.log
+
+      - name: Guardar resultados (también si falla a medias)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data/pead && cp ci.log data/pead/ultima-ejecucion.log || true
+          git add data/pead/*.csv* data/pead/ultima-ejecucion.log reports/pead.md assets/pead-* || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Experimento PEAD $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push

@@ -5,3 +5,4 @@ __pycache__/
 .env
 site/
 ci.log
+data/pead/raw/
