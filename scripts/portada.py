@@ -66,15 +66,18 @@ def main(mode: str) -> None:
 
     print("Análisis...")
     table = [{"ticker": r["ticker"], "name": r["name"], "level": r["level"], "m": r} for r in rows]
-    ai = analysis.analyze(now.date().isoformat(), mode, table, items, open_h)
+    # Fecha de la sesión de referencia = último cierre del S&P 500 (no la del reloj): una revisión
+    # lanzada de madrugada decide sobre el cierre de ayer y así se evalúa desde el día siguiente.
+    session = next((r["date"] for r in rows if r["ticker"] == "^GSPC"), now.date().isoformat())
+    ai = analysis.analyze(session, mode, table, items, open_h)
     if ai and not ai.get("error") and mode == "cierre":
         refs = {r["ticker"]: r["last"] for r in rows}
-        book = ledger.add(book, ai["hipotesis"], now.date().isoformat(), refs)
+        book = ledger.add(book, ai["hipotesis"], session, refs)
     ledger.save(book)
 
     panels = [{"name": r["name"], "df": series[r["ticker"]], "trend": r["trend"],
                "chg_1m": r["chg_1m"], "level": r["level"]} for r in rows if r["key"]]
-    closed = book[book["estado"].isin(["FALLO", "EXPIRADA"])]
+    closed = book[book["estado"].isin(["ACIERTO", "FALLO", "EXPIRADA"])]
     made = charts.render_all(rows, panels, closed)
 
     ctx = {"now": now, "mode": mode, "rows": rows, "news": items, "feeds": feeds, "ai": ai,

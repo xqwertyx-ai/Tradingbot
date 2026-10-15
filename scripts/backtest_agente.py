@@ -31,7 +31,6 @@ OUT = f"data/agent_bt/{VER}"
 LEDGER = f"{OUT}/hipotesis.csv"
 REPORT = f"reports/agente-backtest-{VER}.md"
 CLEAN_FROM = dt.date(2026, 8, 1)
-COST = {"Cripto": 0.002, "Macro": 0.0004}  # ida y vuelta; resto 0,1%
 
 
 def is_crypto(t):
@@ -125,83 +124,115 @@ def wilson(k, n, z=1.96):
     return c - h, c + h
 
 
+CLOSED = ["ACIERTO", "FALLO", "EXPIRADA"]
+TARGET_NET = 0.01  # objetivo del proyecto: ≥ 1% neto por operación
+
+
 def momentum_baseline(book, series):
-    """Misma fecha, activo, plazo e invalidación, pero dirección = signo del último mes."""
-    hits = []
-    for _, h in book[book["estado"].isin(["FALLO", "EXPIRADA"])].iterrows():
+    """Mismas fechas, activos, objetivos, stops y plazos; dirección = signo del último mes."""
+    rows = []
+    for _, h in book[book["estado"].isin(CLOSED)].iterrows():
         df = series[h["ticker"]]
         d = df[pd.to_datetime(df["date"]) <= pd.Timestamp(h["fecha"])]["close"]
         if len(d) < 22:
             continue
-        mom = "alcista" if d.iloc[-1] >= d.iloc[-22] else "bajista"
         fake = h.copy()
-        fake["direccion"], fake["estado"] = mom, "ABIERTA"
+        fake["direccion"] = "alcista" if d.iloc[-1] >= d.iloc[-22] else "bajista"
+        fake["estado"] = "ABIERTA"
         ev = ledger.evaluate(pd.DataFrame([fake]), {h["ticker"]: df})
         if ev.iloc[0]["estado"] != "ABIERTA":
-            hits.append(int(ev.iloc[0]["acierto"]))
-    return hits
+            rows.append(ev.iloc[0])
+    return pd.DataFrame(rows)
 
 
 def line(label, sub):
     n = len(sub)
     if not n:
-        return f"| {label} | 0 | — | — | — |"
+        return f"| {label} | 0 | — | — | — | — |"
     k = int(sub["acierto"].astype(int).sum())
     lo, hi = wilson(k, n)
-    net = (sub["retorno"].astype(float) - sub["coste"]).mean()
-    return f"| {label} | {n} | {100 * k / n:.0f}% | {100 * lo:.0f}–{100 * hi:.0f}% | {100 * net:+.2f}% |"
+    net = ledger.net_returns(sub)
+    se = net.std(ddof=1) / math.sqrt(n) if n > 1 else math.nan
+    gains, losses = net[net > 0].sum(), -net[net < 0].sum()
+    pf = f"{gains / losses:.2f}" if losses > 0 else "∞"
+    return (f"| {label} | {n} | {100 * k / n:.0f}% ({100 * lo:.0f}–{100 * hi:.0f}%) "
+            f"| {100 * net.mean():+.2f}% (±{196 * se:.2f}) | {pf} | {100 * (sub['estado'] == 'ACIERTO').mean():.0f}% |")
 
 
 def report(book, series, days, cost):
-    group = {a["yahoo"]: a["group"] for a in ASSETS}
-    closed = book[book["estado"].isin(["FALLO", "EXPIRADA"])].copy()
-    closed["coste"] = [COST.get(group.get(t, ""), 0.001) for t in closed["ticker"]]
+    closed = book[book["estado"].isin(CLOSED)].copy()
     closed["fecha_d"] = pd.to_datetime(closed["fecha"]).dt.date
     clean = closed[closed["fecha_d"] >= CLEAN_FROM]
     july = closed[closed["fecha_d"] < CLEAN_FROM]
+    ops = clean[clean["operada"].astype(int) == 1]
     base = momentum_baseline(book[pd.to_datetime(book["fecha"]).dt.date >= CLEAN_FROM], series)
-    no_trade = sum(1 for d in days if os.path.exists(f"{OUT}/ai/{d}.json")
-                   and json.load(open(f"{OUT}/ai/{d}.json", encoding="utf-8")).get("decision") == "no operar hoy")
+    base_ops = base[base["operada"].astype(int) == 1] if len(base) else base
+    decisions = [json.load(open(f"{OUT}/ai/{d}.json", encoding="utf-8")).get("decision")
+                 for d in days if os.path.exists(f"{OUT}/ai/{d}.json")]
+    head = ("| Grupo | n | Acierto (IC 95%) | Retorno neto medio (±IC 95%) | Factor de beneficio | Objetivo tocado |\n"
+            "|---|--:|--:|--:|--:|--:|")
     L = [f"# Backtest del agente de noticias ({VER})", "",
          f"Generado: {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · modelo {analysis.MODEL} · "
          f"coste total de la API ≈ {cost:.2f} USD. Simulación; no es asesoramiento financiero.", "",
          "## Cómo se hizo",
          f"- {len(days)} sesiones, de {days[0]} a {days[-1]}. Cada día, el mismo análisis de cierre que la web, "
          "solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.",
-         "- Hipótesis evaluadas con las reglas de la bitácora: FALLO si un cierre toca la invalidación; "
-         "al vencer, se puntúa por el signo del retorno.",
-         "- Retorno neto: descontando costes simulados (0,1% ida y vuelta en acciones, 0,04% divisas, 0,2% cripto).",
-         f"- **Lo que cuenta es desde el {CLEAN_FROM:%d-%m-%Y}.** El conocimiento fiable del modelo llega a junio de 2026; "
-         "julio se muestra aparte por si supiera algo de esas semanas.", "",
-         "## Resultados (hipótesis cerradas)", "",
-         "| Grupo | n | Acierto | IC 95% | Retorno neto medio |", "|---|--:|--:|--:|--:|",
-         line("Desde agosto · todas", clean),
-         line("Desde agosto · operadas (confianza ≥ 60)", clean[clean["operada"] == 1]),
-         line("Desde agosto · solo vigilancia (< 60)", clean[clean["operada"] == 0]),
-         line("Julio (posible contaminación)", july), ""]
-    if base:
-        lo, hi = wilson(sum(base), len(base))
-        L += [f"**Referencia ingenua** (mismas fechas, activos y plazos, dirección = tendencia del último mes): "
-              f"{100 * sum(base) / len(base):.0f}% de acierto (IC 95% {100 * lo:.0f}–{100 * hi:.0f}%, n = {len(base)}). "
-              "Si el agente no la supera, las noticias no están aportando nada.", ""]
+         "- Cada hipótesis es un plan: objetivo, stop y plazo, todo con precios de cierre. ACIERTO si toca el "
+         "objetivo antes que el stop; FALLO si toca el stop; al vencer, EXPIRADA puntuada por el signo.",
+         f"- Se opera (en simulación) si el valor esperado neto ≥ {analysis.MIN_EV_PCT:.0f}% y la probabilidad "
+         f"≥ {analysis.MIN_PROB}. El resto se registra para medir la calibración.",
+         "- Retorno neto: menos el coste de ida y vuelta (0,10% acciones/índices, 0,06% futuros, "
+         "0,04% divisas, 0,20% cripto). Factor de beneficio = ganancias netas / pérdidas netas.",
+         f"- **Lo que cuenta es desde el {CLEAN_FROM:%d-%m-%Y}.** El conocimiento fiable del modelo llega a junio "
+         "de 2026; julio se muestra aparte por si supiera algo de esas semanas.", "",
+         f"## Resultado frente al objetivo (≥ {100 * TARGET_NET:.0f}% neto por operación)", ""]
+    if len(ops):
+        m = ledger.net_returns(ops).mean()
+        verdict = "lo **cumple**" if m >= TARGET_NET else "**no** lo cumple"
+        L.append(f"Operadas desde agosto: {len(ops)}, retorno neto medio {100 * m:+.2f}% → {verdict}"
+                 + (" (con n < 30 no es concluyente)." if len(ops) < 30 else "."))
+    else:
+        L.append("Ninguna hipótesis pasó el filtro para operarse desde agosto.")
+    L += ["", "## Resultados (hipótesis cerradas)", "", head,
+          line("Desde agosto · operadas", ops),
+          line("Desde agosto · todas", clean),
+          line("Desde agosto · no operadas", clean[clean["operada"].astype(int) == 0]),
+          line("Julio (posible contaminación) · todas", july), ""]
+    if len(base):
+        L += ["**Referencia ingenua** (mismas fechas, activos, objetivos, stops y plazos; dirección = tendencia del "
+              "último mes). Si el agente no la supera, las noticias no aportan nada.", "", head,
+              line("Referencia · mismas que las operadas", base_ops),
+              line("Referencia · todas", base), ""]
     L += ["## Calibración (desde agosto)", "",
-          "Si la confianza significa algo, el acierto debería subir con ella.", "",
-          "| Confianza | n | Acierto |", "|---|--:|--:|"]
-    for lo_, hi_ in ((0, 50), (50, 60), (60, 70), (70, 101)):
-        s = clean[(clean["confianza"].astype(int) >= lo_) & (clean["confianza"].astype(int) < hi_)]
-        acc = f"{100 * s['acierto'].astype(int).mean():.0f}%" if len(s) else "—"
-        L.append(f"| {lo_}–{min(hi_, 100) - (0 if hi_ > 100 else 1)} | {len(s)} | {acc} |")
-    by_t = clean.groupby("ticker").agg(n=("acierto", "size"), acierto=("acierto", lambda x: x.astype(int).mean()))
-    L += ["", "## Por activo (desde agosto, n ≥ 3)", "", "| Activo | n | Acierto |", "|---|--:|--:|"]
+          "La probabilidad declarada debería parecerse a la frecuencia real con la que se toca el objetivo.", "",
+          "| Probabilidad declarada | n | Media declarada | Objetivo tocado | Acierto (incl. expiradas) |",
+          "|---|--:|--:|--:|--:|"]
+    conf = clean["confianza"].astype(int)
+    for lo_, hi_ in ((0, 45), (45, 55), (55, 65), (65, 101)):
+        s_ = clean[(conf >= lo_) & (conf < hi_)]
+        if len(s_):
+            L.append(f"| {lo_}–{min(hi_ - 1, 100)} | {len(s_)} | {s_['confianza'].astype(int).mean():.0f}% "
+                     f"| {100 * (s_['estado'] == 'ACIERTO').mean():.0f}% | {100 * s_['acierto'].astype(int).mean():.0f}% |")
+        else:
+            L.append(f"| {lo_}–{min(hi_ - 1, 100)} | 0 | — | — | — |")
+    if "objetivo_pct" in clean and clean["objetivo_pct"].notna().any():
+        L += ["", f"Objetivo medio {clean['objetivo_pct'].astype(float).mean():.1f}% · stop medio "
+              f"{clean['invalidacion_pct'].astype(float).mean():.1f}% · EV previsto medio de las operadas "
+              f"{ops['ev_pct'].astype(float).mean() if len(ops) else float('nan'):.2f}%."]
+    by_t = clean.assign(net=ledger.net_returns(clean)).groupby("ticker").agg(
+        n=("acierto", "size"), acierto=("acierto", lambda x: x.astype(int).mean()), net=("net", "mean"))
+    L += ["", "## Por activo (desde agosto, n ≥ 3)", "", "| Activo | n | Acierto | Neto medio |", "|---|--:|--:|--:|"]
     for t, r in by_t[by_t["n"] >= 3].sort_values("n", ascending=False).iterrows():
-        L.append(f"| {t} | {int(r['n'])} | {100 * r['acierto']:.0f}% |")
+        L.append(f"| {t} | {int(r['n'])} | {100 * r['acierto']:.0f}% | {100 * r['net']:+.2f}% |")
     st = ledger.stats(book)
     L += ["", "## Notas",
           f"- Registradas {st['registradas']}, cerradas {st['cerradas']}, aún abiertas {st['abiertas']}.",
-          f"- Días con decisión \"no operar hoy\": {no_trade} de {len(days)}.",
+          f"- Días con decisión \"operar\": {decisions.count('operar')} de {len(decisions)} analizados.",
           "- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.",
           "- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.",
-          "- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.", ""]
+          "- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.",
+          "- Este periodo ya se usó para evaluar versiones anteriores: una mejora aquí es una pista, no una prueba. "
+          "La prueba es el test en vivo.", ""]
     os.makedirs("reports", exist_ok=True)
     with open(REPORT, "w", encoding="utf-8") as f:
         f.write("\n".join(L))

@@ -107,17 +107,20 @@ def render(ctx: dict) -> str:
     elif not hyps:
         L.append("_Ninguna oportunidad supera los filtros: **no operar hoy**._")
     else:
-        L += ["| Activo | Idea | Plazo | Invalidación | Confianza |", "|---|---|--:|--:|--:|"]
+        L += ["| Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |", "|---|---|--:|--:|--:|--:|"]
         for h in hyps:
             arrow = "🔵▲" if h["direccion"] == "alcista" else "🔴▼"
-            op = " ✅" if h["confianza"] >= 60 else " 👀"
+            op = " ✅" if h.get("operable") else " 👀"
+            obj = f"+{h['objetivo_pct']:.1f}% / −{h['invalidacion_pct']:.1f}%" if h.get("objetivo_pct") else f"— / −{h['invalidacion_pct']:.1f}%"
+            ev = f"{h['ev_pct']:+.1f}%{op}" if h.get("ev_pct") is not None else op
             L.append(f"| {arrow} **{ctx['names'].get(h['ticker'], h['ticker'])}** | {h.get('tesis', '')} "
-                     f"| {h['horizonte_dias']} ses. | −{h['invalidacion_pct']:.1f}% | {h['confianza']}{op} |")
+                     f"| {h['horizonte_dias']} ses. | {obj} | {h['confianza']}% | {ev} |")
         L += ["", "<details><summary>Disparadores y argumentos en contra</summary>", ""]
         for h in hyps:
             L += [f"- **{ctx['names'].get(h['ticker'], h['ticker'])}** · disparador: {h.get('disparador', '')}  ",
                   f"  En contra: {h.get('contra', '')} Sesgos: {h.get('sesgos', '')}"]
-        L += ["", "</details>", "", "<sub>✅ confianza ≥ 60: se opera en simulación · 👀 solo vigilancia</sub>"]
+        L += ["", "</details>", "", "<sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado "
+              "neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>"]
     L.append("")
 
     # --- Vigilar
@@ -156,7 +159,7 @@ def render(ctx: dict) -> str:
         if s:
             L.append(f"- Acierto ({label}): **{100 * s['acierto']:.0f}%** "
                      f"(IC 95%: {100 * s['lo']:.0f}–{100 * s['hi']:.0f}%, n = {s['n']}) · "
-                     f"retorno medio {100 * s['ret_medio']:+.2f}%")
+                     f"retorno neto medio {100 * s.get('ret_neto_medio', s['ret_medio']):+.2f}%")
     if st["cerradas"] < 30:
         L.append("\n<sub>Fase 0 (rodaje): con menos de 30 hipótesis cerradas el acierto no es estadísticamente "
                  "informativo.</sub>")

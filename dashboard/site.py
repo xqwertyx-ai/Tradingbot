@@ -241,14 +241,15 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
         cards = []
         for h in hyps:
             arrow = "▲ al alza" if h["direccion"] == "alcista" else "▼ a la baja"
-            op = "se opera en simulación" if h["confianza"] >= 60 else "solo vigilancia"
+            op = "se opera en simulación" if h.get("operable") else "solo se mide"
             cards.append(
                 f'<div class="h-card {h["direccion"]}"><div class="h-top"><b>{E(names.get(h["ticker"], h["ticker"]))} '
                 f'<span class="{"up" if h["direccion"] == "alcista" else "down"}">{arrow}</span></b>'
-                f'<span class="conf">{h["confianza"]}<small>/100 · {op}</small></span></div>'
+                f'<span class="conf">{h["confianza"]}%<small> prob. · {op}</small></span></div>'
                 f'<p>{E(h.get("tesis", ""))}</p>'
-                f'<p class="against">Plazo {h["horizonte_dias"]} sesiones · se invalida con −{h["invalidacion_pct"]:.1f}% · '
-                f'disparador: {E(h.get("disparador", ""))}</p>'
+                f'<p class="against">Objetivo +{h.get("objetivo_pct") or 0:.1f}% · stop −{h["invalidacion_pct"]:.1f}% · '
+                f'plazo {h["horizonte_dias"]} sesiones · valor esperado neto {h.get("ev_pct") or 0:+.1f}%</p>'
+                f'<p class="against">Disparador: {E(h.get("disparador", ""))}</p>'
                 f'<p class="against">En contra: {E(h.get("contra", ""))}</p></div>')
         hyp_html = f'<div class="hyp">{"".join(cards)}</div>'
 
@@ -278,7 +279,8 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
         s = st.get(label)
         if s:
             stat_items.append(f'<div><b>{100 * s["acierto"]:.0f}%</b><span>acierto {label} '
-                              f'(IC 95% {100 * s["lo"]:.0f}–{100 * s["hi"]:.0f}%, n={s["n"]})</span></div>')
+                              f'(IC 95% {100 * s["lo"]:.0f}–{100 * s["hi"]:.0f}%, n={s["n"]}) · '
+                              f'neto medio {100 * s.get("ret_neto_medio", s["ret_medio"]):+.2f}% por operación</span></div>')
     phase = ('<p class="note">Fase de rodaje: con menos de 30 hipótesis cerradas el acierto todavía no dice nada.</p>'
              if st["cerradas"] < 30 else "")
 

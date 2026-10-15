@@ -40,3 +40,16 @@ ASSETS = [
 ]
 
 BY_TICKER = {a["yahoo"]: a for a in ASSETS}
+
+# Coste simulado de ida y vuelta, en % (comisión + diferencial). Ver bitácora: costes simulados.
+LEVEL_TICKERS = {a["yahoo"] for a in ASSETS if a.get("level")}  # niveles (rendimiento): no se operan
+
+
+def cost_pct(ticker: str) -> float:
+    if ticker.endswith("-USD"):
+        return 0.20
+    if ticker in ("EURUSD=X", "DX-Y.NYB"):
+        return 0.04
+    if ticker.endswith("=F"):
+        return 0.06
+    return 0.10
