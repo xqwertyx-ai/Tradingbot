@@ -1,22 +1,121 @@
 Universo...
-  25 empresas
+  503 empresas
 Fechas de resultados...
-  resultados: 25 empresas con datos, 0 sin datos
+  resultados: 50/503 (fallos 0)
+  resultados: 100/503 (fallos 0)
+  resultados: 150/503 (fallos 0)
+  resultados: 200/503 (fallos 0)
+  resultados: 250/503 (fallos 0)
+  resultados: 300/503 (fallos 0)
+  resultados: 350/503 (fallos 0)
+  resultados: 400/503 (fallos 0)
+  resultados: 450/503 (fallos 0)
+  resultados: 500/503 (fallos 0)
+  resultados: 503 empresas con datos, 0 sin datos
 Precios...
-  precios: 26/26
-  26 series, 2010-01-04 → 2026-10-14
+  precios: 100/504
+  precios: 200/504
+  precios: 300/504
+  precios: 400/504
+  precios: 500/504
+  precios: 504/504
+  500 series, 2010-01-04 → 2026-10-14
 Eventos y señales...
-  1600 eventos
-Traceback (most recent call last):
-  File "/home/runner/work/Tradingbot/Tradingbot/scripts/pead.py", line 37, in <module>
-    print(report.write(ev, res))
-          ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/Tradingbot/Tradingbot/pead/report.py", line 90, in write
-    top = res[res["prueba_n"].fillna(0) >= 50].sort_values("prueba_media", ascending=False).head(10)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/pandas/core/frame.py", line 8361, in sort_values
-    k = self._get_label_or_level_values(by[0], axis=axis)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/pandas/core/generic.py", line 1764, in _get_label_or_level_values
-    raise KeyError(key)
-KeyError: 'prueba_media'
+  30910 eventos
+# Experimento 2: deriva tras resultados (PEAD)
+
+Generado: 2026-10-15 09:45 UTC. Reglas fijadas antes de ver datos: [pre-registro](../docs/pead-preregistro.md). Simulación; no es asesoramiento financiero.
+
+## Veredicto
+
+**1 combinación(es) pasan el criterio en la prueba** (≥ 1% neto, IC 95% > 0, mejor que la referencia, n ≥ 50 y ya positiva en exploración). Con 48 combinaciones probadas, es una pista que hay que confirmar en vivo:
+- Reacción anormal · compra · 40 sesiones · sola: +2.51% neto por operación (n = 224, IC +0.39% a +4.63%; referencia +0.90%).
+
+## Datos
+- Eventos: 30910 anuncios de 498 empresas, 2010-01-07 → 2026-10-13.
+- Prueba (desde 01-10-2025): 2000 anuncios.
+- Hora del anuncio: antes_apertura 17837, tras_cierre 12795, desconocida 278.
+- Con sorpresa de BPA disponible: 100%.
+- Sesgo de supervivencia: solo empresas que hoy están en los índices. Las comparaciones con la referencia (todos los anuncios del mismo universo) lo compensan en parte.
+
+## Gráfica de deciles
+Si la deriva existe, las barras deberían subir de izquierda a derecha.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/pead-deciles-dark.png"><img alt="Retorno por decil de reacción" src="../assets/pead-deciles-light.png" width="100%"></picture>
+
+## Las 10 mejores en prueba (n ≥ 50)
+
+| Señal | Lado | Plazo | Versión | n prueba | Neto medio prueba (IC 95%) | Acierto | Fact. benef. | Referencia | Neto exploración | Pasa |
+|---|---|--:|---|--:|--:|--:|--:|--:|--:|:-:|
+| Reacción anormal | compra | 40 | sola | 224 | +2.51% (+0.39% a +4.63%) | 53% | 1.54 | +0.90% | +2.96% | ✅ |
+| Sorpresa de BPA | venta | 40 | cubierta | 174 | +1.69% (-0.18% a +3.56%) | 56% | 1.44 | +0.33% | -0.29% | — |
+| Sorpresa de BPA | compra | 40 | sola | 216 | +1.56% (-0.66% a +3.78%) | 50% | 1.30 | +0.90% | +2.64% | — |
+| Reacción anormal | compra | 40 | cubierta | 224 | +1.17% (-0.90% a +3.25%) | 50% | 1.23 | -0.57% | +1.04% | — |
+| Sorpresa de BPA | venta | 20 | cubierta | 175 | +1.04% (-0.34% a +2.41%) | 59% | 1.35 | +0.04% | -0.31% | — |
+| Sorpresa de BPA | venta | 20 | sola | 175 | +0.97% (-0.42% a +2.35%) | 54% | 1.32 | -0.83% | -1.28% | — |
+| Sorpresa de BPA | compra | 20 | sola | 224 | +0.81% (-0.59% a +2.20%) | 50% | 1.24 | +0.63% | +1.39% | — |
+| Sorpresa de BPA | compra | 10 | sola | 224 | +0.76% (-0.31% a +1.83%) | 55% | 1.30 | +0.46% | +0.70% | — |
+| Reacción anormal | compra | 20 | sola | 231 | +0.54% (-0.90% a +1.97%) | 48% | 1.14 | +0.63% | +1.82% | — |
+| Sorpresa de BPA | venta | 40 | sola | 174 | +0.46% (-1.36% a +2.27%) | 57% | 1.10 | -1.10% | -1.93% | — |
+
+<details><summary>Las 48 combinaciones</summary>
+
+| Señal | Lado | Plazo | Versión | n prueba | Neto medio prueba (IC 95%) | Acierto | Fact. benef. | Referencia | Neto exploración | Pasa |
+|---|---|--:|---|--:|--:|--:|--:|--:|--:|:-:|
+| Reacción anormal | compra | 5 | sola | 233 | -0.17% (-0.88% a +0.54%) | 47% | 0.92 | +0.32% | +0.46% | — |
+| Reacción anormal | compra | 5 | cubierta | 233 | -0.61% (-1.33% a +0.10%) | 42% | 0.75 | -0.30% | +0.12% | — |
+| Reacción anormal | compra | 10 | sola | 232 | -0.09% (-1.13% a +0.95%) | 49% | 0.97 | +0.46% | +0.91% | — |
+| Reacción anormal | compra | 10 | cubierta | 232 | -0.54% (-1.54% a +0.45%) | 46% | 0.82 | -0.24% | +0.43% | — |
+| Reacción anormal | compra | 20 | sola | 231 | +0.54% (-0.90% a +1.97%) | 48% | 1.14 | +0.63% | +1.82% | — |
+| Reacción anormal | compra | 20 | cubierta | 231 | -0.05% (-1.46% a +1.35%) | 47% | 0.99 | -0.28% | +0.80% | — |
+| Reacción anormal | compra | 40 | sola | 224 | +2.51% (+0.39% a +4.63%) | 53% | 1.54 | +0.90% | +2.96% | ✅ |
+| Reacción anormal | compra | 40 | cubierta | 224 | +1.17% (-0.90% a +3.25%) | 50% | 1.23 | -0.57% | +1.04% | — |
+| Reacción anormal | venta | 5 | sola | 199 | -0.49% (-1.36% a +0.37%) | 47% | 0.80 | -0.52% | -0.43% | — |
+| Reacción anormal | venta | 5 | cubierta | 199 | -0.05% (-0.88% a +0.78%) | 48% | 0.98 | +0.06% | -0.19% | — |
+| Reacción anormal | venta | 10 | sola | 198 | -0.93% (-2.10% a +0.24%) | 45% | 0.73 | -0.66% | -0.65% | — |
+| Reacción anormal | venta | 10 | cubierta | 198 | -0.37% (-1.49% a +0.75%) | 53% | 0.88 | -0.00% | -0.26% | — |
+| Reacción anormal | venta | 20 | sola | 197 | -1.32% (-2.83% a +0.19%) | 46% | 0.72 | -0.83% | -1.40% | — |
+| Reacción anormal | venta | 20 | cubierta | 197 | -0.60% (-2.10% a +0.90%) | 55% | 0.86 | +0.04% | -0.70% | — |
+| Reacción anormal | venta | 40 | sola | 188 | -1.04% (-3.26% a +1.17%) | 51% | 0.83 | -1.10% | -2.21% | — |
+| Reacción anormal | venta | 40 | cubierta | 188 | +0.25% (-1.94% a +2.44%) | 53% | 1.04 | +0.33% | -0.59% | — |
+| Sorpresa de BPA | compra | 5 | sola | 224 | +0.35% (-0.42% a +1.13%) | 54% | 1.18 | +0.32% | +0.49% | — |
+| Sorpresa de BPA | compra | 5 | cubierta | 224 | -0.41% (-1.17% a +0.35%) | 44% | 0.82 | -0.30% | +0.06% | — |
+| Sorpresa de BPA | compra | 10 | sola | 224 | +0.76% (-0.31% a +1.83%) | 55% | 1.30 | +0.46% | +0.70% | — |
+| Sorpresa de BPA | compra | 10 | cubierta | 224 | -0.04% (-1.09% a +1.01%) | 46% | 0.99 | -0.24% | +0.14% | — |
+| Sorpresa de BPA | compra | 20 | sola | 224 | +0.81% (-0.59% a +2.20%) | 50% | 1.24 | +0.63% | +1.39% | — |
+| Sorpresa de BPA | compra | 20 | cubierta | 224 | -0.34% (-1.75% a +1.07%) | 43% | 0.92 | -0.28% | +0.33% | — |
+| Sorpresa de BPA | compra | 40 | sola | 216 | +1.56% (-0.66% a +3.78%) | 50% | 1.30 | +0.90% | +2.64% | — |
+| Sorpresa de BPA | compra | 40 | cubierta | 216 | -0.12% (-2.32% a +2.09%) | 45% | 0.98 | -0.57% | +0.74% | — |
+| Sorpresa de BPA | venta | 5 | sola | 176 | -0.10% (-0.81% a +0.61%) | 52% | 0.95 | -0.52% | -0.35% | — |
+| Sorpresa de BPA | venta | 5 | cubierta | 176 | +0.15% (-0.59% a +0.89%) | 52% | 1.08 | +0.06% | -0.09% | — |
+| Sorpresa de BPA | venta | 10 | sola | 176 | +0.05% (-0.94% a +1.04%) | 49% | 1.02 | -0.66% | -0.79% | — |
+| Sorpresa de BPA | venta | 10 | cubierta | 176 | +0.19% (-0.85% a +1.23%) | 47% | 1.08 | -0.00% | -0.32% | — |
+| Sorpresa de BPA | venta | 20 | sola | 175 | +0.97% (-0.42% a +2.35%) | 54% | 1.32 | -0.83% | -1.28% | — |
+| Sorpresa de BPA | venta | 20 | cubierta | 175 | +1.04% (-0.34% a +2.41%) | 59% | 1.35 | +0.04% | -0.31% | — |
+| Sorpresa de BPA | venta | 40 | sola | 174 | +0.46% (-1.36% a +2.27%) | 57% | 1.10 | -1.10% | -1.93% | — |
+| Sorpresa de BPA | venta | 40 | cubierta | 174 | +1.69% (-0.18% a +3.56%) | 56% | 1.44 | +0.33% | -0.29% | — |
+| Ambas | compra | 5 | sola | 47 | -0.11% (-1.90% a +1.68%) | 51% | 0.95 | +0.32% | +0.61% | — |
+| Ambas | compra | 5 | cubierta | 47 | -0.63% (-2.46% a +1.21%) | 45% | 0.78 | -0.30% | +0.25% | — |
+| Ambas | compra | 10 | sola | 47 | +0.65% (-2.57% a +3.88%) | 55% | 1.20 | +0.46% | +1.09% | — |
+| Ambas | compra | 10 | cubierta | 47 | +0.01% (-3.05% a +3.06%) | 51% | 1.00 | -0.24% | +0.63% | — |
+| Ambas | compra | 20 | sola | 47 | +0.30% (-3.30% a +3.90%) | 47% | 1.07 | +0.63% | +2.06% | — |
+| Ambas | compra | 20 | cubierta | 47 | -0.89% (-4.47% a +2.70%) | 45% | 0.83 | -0.28% | +1.04% | — |
+| Ambas | compra | 40 | sola | 45 | +2.32% (-2.63% a +7.27%) | 53% | 1.44 | +0.90% | +3.85% | — |
+| Ambas | compra | 40 | cubierta | 45 | +0.52% (-4.40% a +5.44%) | 51% | 1.08 | -0.57% | +1.75% | — |
+| Ambas | venta | 5 | sola | 31 | +0.80% (-1.18% a +2.78%) | 61% | 1.47 | -0.52% | -0.42% | — |
+| Ambas | venta | 5 | cubierta | 31 | +0.83% (-1.16% a +2.82%) | 58% | 1.49 | +0.06% | -0.05% | — |
+| Ambas | venta | 10 | sola | 31 | +2.17% (-0.43% a +4.76%) | 61% | 2.26 | -0.66% | -0.73% | — |
+| Ambas | venta | 10 | cubierta | 31 | +2.20% (-0.39% a +4.78%) | 55% | 2.45 | -0.00% | -0.35% | — |
+| Ambas | venta | 20 | sola | 31 | +1.50% (-2.56% a +5.57%) | 61% | 1.40 | -0.83% | -1.57% | — |
+| Ambas | venta | 20 | cubierta | 31 | +1.81% (-2.24% a +5.85%) | 68% | 1.53 | +0.04% | -0.73% | — |
+| Ambas | venta | 40 | sola | 31 | +0.01% (-5.61% a +5.64%) | 52% | 1.00 | -1.10% | -2.20% | — |
+| Ambas | venta | 40 | cubierta | 31 | +1.33% (-4.32% a +6.97%) | 45% | 1.24 | +0.33% | -0.88% | — |
+
+</details>
+
+## Cómo leerlo
+- Neto: tras 0,10% de comisión ida y vuelta (+0,02% si se cubre con SPY).
+- "Sola": solo la acción. "Cubierta": la acción menos SPY (aísla el efecto de la empresa).
+- Referencia: el mismo lado y plazo comprando (o vendiendo) en todos los anuncios, sin filtrar.
+- Los anuncios del mismo día se solapan: el n efectivo es menor y los IC algo optimistas.
+
