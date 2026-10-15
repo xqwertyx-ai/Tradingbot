@@ -80,7 +80,11 @@ def main(mode: str) -> None:
     closed = book[book["estado"].isin(["ACIERTO", "FALLO", "EXPIRADA"])]
     made = charts.render_all(rows, panels, closed)
 
-    ctx = {"now": now, "mode": mode, "rows": rows, "news": items, "feeds": feeds, "ai": ai,
+    pead_state = None
+    if os.path.exists("data/pead/vivo-estado.json"):
+        with open("data/pead/vivo-estado.json", encoding="utf-8") as f:
+            pead_state = json.load(f)
+    ctx = {"now": now, "mode": mode, "pead": pead_state, "rows": rows, "news": items, "feeds": feeds, "ai": ai,
            "names": {r["ticker"]: r["name"] for r in rows}, "stats": ledger.stats(book),
            "charts": made,
            "quality": {"ok": quality["ok"], "sin_contraste": quality["sin_contraste"],

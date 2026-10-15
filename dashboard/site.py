@@ -93,6 +93,35 @@ def movers(rows: list[dict]) -> str:
             f'<b>Más bajan:</b> {fmt(pts[:3])}</p>')
 
 
+def pead_html(st) -> str:
+    if not st:
+        return ""
+    r = st.get("resumen", {})
+    if r.get("cerradas"):
+        head = (f'<div class="stats"><div><b>{100 * r["neto_medio"]:+.2f}%</b><span>neto medio por operación '
+                f'(±{100 * r["ic"]:.2f}, n={r["cerradas"]})</span></div><div><b>{100 * r["acierto"]:.0f}%</b>'
+                f'<span>aciertos</span></div><div><b>{100 * r["frente_spy"]:+.2f}%</b><span>frente a SPY</span></div>'
+                f'<div><b>{r.get("abiertas", 0)}</b><span>abiertas</span></div></div>')
+    else:
+        head = (f'<p class="empty">Aún sin operaciones cerradas: cada una dura unos 2 meses. '
+                f'Abiertas: {r.get("abiertas", 0)}.</p>')
+    pend = ""
+    if st.get("pendientes"):
+        pend = ('<p><b>Se compran en la próxima sesión:</b> ' + ", ".join(
+            f'{E(p["ticker"])} ({_pct(p["ra"])})' for p in st["pendientes"]) + "</p>")
+    rows = "".join(
+        f'<tr><td>{E(p["ticker"])}</td><td>{p["entrada"]}</td><td>{p["sesiones"]}/40</td>'
+        f'<td class="{_cls(p["ret"])}">{_pct(p["ret"], digits=1)}</td><td class="{_cls(p["spy"])}">{_pct(p["spy"], digits=1)}</td></tr>'
+        for p in sorted(st.get("abiertas", []), key=lambda p: p["entrada"], reverse=True))
+    table = ('<div class="scroll"><table><thead><tr><th>Empresa</th><th>Entrada</th><th>Sesiones</th>'
+             f'<th>Resultado</th><th>SPY</th></tr></thead><tbody>{rows}</tbody></table></div>') if rows else ""
+    return (f'<h2>Test en vivo: deriva tras resultados</h2>'
+            f'<p class="note">Regla congelada desde el {st["inicio"]}: comprar al cierre del día siguiente a una reacción '
+            'a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. '
+            '<a href="https://github.com/xqwertyx-ai/Tradingbot/blob/main/reports/pead.md">Por qué esta regla</a>.</p>'
+            f'{head}{pend}{table}')
+
+
 CSS = """
 :root{--bg:#eef1ef;--paper:#f8faf8;--ink:#17202b;--ink2:#4d5965;--muted:#7d8791;--rule:#d5dbd8;
 --up:#2a78d6;--down:#d63f3e;--upbg:#e3eefb;--downbg:#fbe6e5;--hl:#17202b}
@@ -304,6 +333,7 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
 <h2>Noticias clave</h2><ol class="news">{"".join(news_html) or '<li class="empty">No se pudieron descargar titulares.</li>'}</ol>{div}
 <h2>Hipótesis de hoy</h2>{hyp_html}
 <h2>A vigilar</h2>{watch_html}
+{pead_html(ctx.get("pead"))}
 <h2>Todos los activos</h2><div class="scroll"><table>
 <thead><tr><th>Activo</th><th>Último</th><th>Día</th><th>Semana</th><th>Mes</th><th>3 meses</th><th>RSI</th><th>Tendencia</th><th>Señales</th></tr></thead>
 <tbody>{"".join(trs)}</tbody></table></div>

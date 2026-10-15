@@ -97,11 +97,11 @@ def earnings(tickers: list[str], limit: int = 60, pause: float = 0.6) -> pd.Data
     return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
 
 
-def prices(tickers: list[str], start: str = "2010-01-01") -> pd.DataFrame:
+def prices(tickers: list[str], start: str = "2010-01-01", force: bool = False,
+           path: str = f"{RAW}/precios.csv.gz") -> pd.DataFrame:
     """Cierres ajustados (columnas = tickers, índice = fecha). Incluye SPY."""
     import yfinance as yf
-    path = f"{RAW}/precios.csv.gz"
-    if os.path.exists(path) and time.time() - os.path.getmtime(path) < 20 * 3600:
+    if not force and os.path.exists(path) and time.time() - os.path.getmtime(path) < 20 * 3600:
         return pd.read_csv(path, index_col=0, parse_dates=True)
     allt = sorted(set(tickers) | {"SPY"})
     chunks = []

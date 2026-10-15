@@ -12,7 +12,9 @@ on:
     paths: ["dashboard/**", "scripts/portada.py", ".github/workflows/portada.yml"]
   schedule:
     - cron: "40 6 * * 1-5"    # apertura ~08:40 Madrid (verano)
-    - cron: "35 20 * * 1-5"   # cierre ~22:35 Madrid (verano), tras el cierre de Wall Street
+  workflow_run:               # cierre: justo después del test en vivo PEAD (tras el cierre de Wall Street)
+    workflows: ["Test en vivo PEAD"]
+    types: [completed]
 
 permissions:
   contents: write

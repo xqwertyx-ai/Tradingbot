@@ -54,3 +54,32 @@ def test_planted_drift_is_found_and_noise_is_not():
     ev0 = engine.build_events(*synthetic(drift=0.0, seed=2))
     res0 = engine.evaluate(ev0)
     assert res0["pasa"].sum() <= 1
+
+
+def test_live_ledger_opens_and_closes_without_lookahead():
+    import datetime as dt
+    from pead import live
+    earn, px = synthetic(n_firms=80, drift=0.5, seed=3)
+    old = live.LIVE_START
+    live.LIVE_START = pd.Timestamp("2026-01-01")
+    try:
+        ev = engine.build_events(earn, px)
+        cut = pd.Timestamp("2026-06-30")
+        px_cut = px[px.index <= cut]
+        ev_cut = engine.build_events(earn[pd.to_datetime(earn["fecha"]) <= cut], px_cut)
+        book = live.update(pd.DataFrame(columns=live.COLS), ev_cut, px_cut, fetch_headlines=lambda t, d: "")
+        assert len(book) and (pd.to_datetime(book["entrada"]) <= cut).all()
+        assert (pd.to_datetime(book["entrada"]) >= live.LIVE_START).all()
+        # al avanzar el tiempo, las posiciones vencidas se cierran a 40 sesiones exactas
+        book2 = live.update(book, ev, px, fetch_headlines=lambda t, d: "")
+        closed = book2[book2["estado"] == "CERRADA"]
+        assert len(closed)
+        for r in closed.itertuples():
+            assert px.index.get_loc(r.fecha_salida) - px.index.get_loc(r.entrada) == live.HOLD
+        # ejecutar dos veces no duplica
+        assert len(live.update(book2, ev, px, fetch_headlines=lambda t, d: "")) == len(book2)
+        # con la bolsa abierta se descarta la fila intradía
+        now = dt.datetime.combine(px.index[-1].date(), dt.time(15, 0), live.NY)
+        assert len(live.drop_partial_session(px, now)) == len(px) - 1
+    finally:
+        live.LIVE_START = old

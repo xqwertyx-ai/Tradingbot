@@ -1,0 +1,54 @@
+name: Test en vivo PEAD
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 21 * * 1-5"   # tras el cierre de Wall Street todo el año (23:10 Madrid en verano, 22:10 en invierno)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pead-vivo
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recuperar datos descargados (caché)
+        uses: actions/cache@v4
+        with:
+          path: data/pead/raw
+          key: pead-vivo-${{ github.run_id }}
+          restore-keys: |
+            pead-vivo-
+            pead-raw-
+
+      - name: Actualizar posiciones simuladas
+        run: |
+          set -o pipefail
+          python -u scripts/pead_vivo.py 2>&1 | tee ci.log
+
+      - name: Guardar en el repo
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898341+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data/pead && cp ci.log data/pead/vivo-ultima-ejecucion.log || true
+          git add -A data/pead
+          git diff --cached --quiet && exit 0
+          git commit -m "Test en vivo PEAD $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push

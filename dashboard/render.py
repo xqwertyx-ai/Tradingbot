@@ -137,6 +137,9 @@ def render(ctx: dict) -> str:
         L.append("_Nada destacable por reglas hoy._")
     L.append("")
 
+    # --- Test en vivo PEAD
+    L += pead_section(ctx.get("pead"))
+
     # --- Tendencias
     L += ["## 📈 Tendencias (6 meses)", "", _pic("tendencias", "Tendencias de activos clave"), "",
           "<details><summary>Todos los activos</summary>", "",
@@ -182,3 +185,28 @@ def render(ctx: dict) -> str:
           "Más: [experimento Polymarket 5 min](docs/experimento-polymarket.md) · "
           "[informe del backtest](reports/informe.md)", ""]
     return "\n".join(L)
+
+
+def pead_section(st: dict | None) -> list[str]:
+    """Test en vivo de la regla de deriva tras resultados (reports/pead.md)."""
+    if not st:
+        return []
+    r = st.get("resumen", {})
+    L = ["## 🧪 Test en vivo: deriva tras resultados", "",
+         f"Regla congelada desde el {st['inicio']}: comprar al cierre del día siguiente a una reacción a resultados "
+         "entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. "
+         "[Por qué esta regla](reports/pead.md)", ""]
+    if r.get("cerradas"):
+        L.append(f"**Cerradas: {r['cerradas']}** · neto medio {100 * r['neto_medio']:+.2f}% "
+                 f"(±{100 * r['ic']:.2f}) · aciertos {100 * r['acierto']:.0f}% · frente a SPY {100 * r['frente_spy']:+.2f}%")
+    else:
+        L.append(f"Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: {r.get('abiertas', 0)}.")
+    if st.get("pendientes"):
+        L += ["", "**Se compran en la próxima sesión:** " + ", ".join(
+            f"{p['ticker']} (reacción {100 * p['ra']:+.1f}%)" for p in st["pendientes"])]
+    if st.get("abiertas"):
+        L += ["", "| Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |", "|---|---|--:|--:|--:|"]
+        for p in sorted(st["abiertas"], key=lambda p: p["entrada"], reverse=True):
+            L.append(f"| {p['ticker']} | {p['entrada']} | {p['sesiones']}/40 | {100 * p['ret']:+.1f}% | {100 * p['spy']:+.1f}% |")
+    L.append("")
+    return L

@@ -100,6 +100,7 @@ def add_signals(ev: pd.DataFrame) -> pd.DataFrame:
     ra = _trailing(ev, "ra")
     su = _trailing(ev, "sorpresa_pct")
     ev["ra_rank"] = ra["rank"]
+    ev["ra_hi"] = ra["hi"]
     ev["sig_ra"] = np.where(ev["ra"] >= ra["hi"], 1, np.where(ev["ra"] <= ra["lo"], -1, 0))
     ev.loc[ra["lo"].isna(), "sig_ra"] = 0
     s = ev["sorpresa_pct"]
