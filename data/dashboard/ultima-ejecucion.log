@@ -1,4 +1,4 @@
-.................                                                        [100%]
+..................                                                       [100%]
 ==================================== PASSES ====================================
 _______________________ test_agent_backtest_no_lookahead _______________________
 ----------------------------- Captured stdout call -----------------------------
@@ -20,7 +20,7 @@ _______________________ test_agent_backtest_no_lookahead _______________________
   2026-08-21: 1 hipótesis · decisión: operar
 # Backtest del agente de noticias (v1.4)
 
-Generado: 2026-10-15 12:08 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+Generado: 2026-10-15 13:09 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
 
 ## Cómo se hizo
 - 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
@@ -92,7 +92,7 @@ La probabilidad declarada debería parecerse a la frecuencia real con la que se 
   2026-08-21: 1 hipótesis · decisión: operar
 # Backtest del agente de noticias (v1.4)
 
-Generado: 2026-10-15 12:08 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+Generado: 2026-10-15 13:09 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
 
 ## Cómo se hizo
 - 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
@@ -149,13 +149,19 @@ La probabilidad declarada debería parecerse a la frecuencia real con la que se 
 _______________________________ test_end_to_end ________________________________
 ----------------------------- Captured stdout call -----------------------------
 Precios...
-  25/25 activos con datos
+  29/29 activos con datos
 Titulares...
   1 titulares; {'Test': 'ok (1)'}
 Análisis...
 Portada generada.
 Precios...
-  25/25 activos con datos
+  29/29 activos con datos
+Titulares...
+  1 titulares; {'Test': 'ok (1)'}
+Análisis...
+Portada generada.
+Precios...
+  29/29 activos con datos
 Titulares...
   1 titulares; {'Test': 'ok (1)'}
 Análisis...
@@ -178,12 +184,13 @@ PASSED tests/test_portada.py::test_expected_value_and_gating
 PASSED tests/test_portada.py::test_target_hit_is_acierto
 PASSED tests/test_portada.py::test_ledger_evaluation
 PASSED tests/test_portada.py::test_parse_google_news
-17 passed in 21.07s
+PASSED tests/test_portada.py::test_calendario_revisiones
+18 passed in 21.03s
 Precios...
-  yfinance: 25/25 series
-  25/25 activos con datos
+  yfinance: 29/29 series
+  29/29 activos con datos
 Titulares...
   60 titulares; {'Google News · mercados ES': 'ok (100)', 'Google News · markets': 'ok (100)', 'Google News · crypto': 'ok (100)', 'CNBC': 'ok (30)', 'MarketWatch': 'ok (10)', 'CoinDesk': 'ok (25)', 'Expansión': 'ok (50)'}
 Análisis...
-Uso de la API: 7993 tokens de entrada, 2152 de salida, ~0.0375 USD
+Uso de la API: 8600 tokens de entrada, 2614 de salida, ~0.0433 USD
 Portada generada.
