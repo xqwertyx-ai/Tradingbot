@@ -19,10 +19,11 @@ def fake_series(seed):
     return pd.DataFrame({"date": dates, "close": close, "high": close * 1.01, "low": close * 0.99})
 
 
-def fake_ai(date, mode, table, items, open_h):
+def fake_ai(date, mode, table, items, open_h, previos=None, final=False):
     t = [a["ticker"] for a in table]
     return analysis.validate({
-        "resumen": "Jornada de prueba.", "clima": "mixto",
+        "resumen": f"Jornada de prueba ({mode}, {len(previos or [])} previas).", "clima": "mixto",
+        **({"resumen_dia": "RESUMEN DEL DIA DE PRUEBA."} if final else {}),
         "noticias": [{"id": 0, "categoria": "macro", "novedad": "Sorpresa.", "impacto": "Sube X.",
                       "importancia": 4}, {"id": 999}],
         "divergencias": ["Ejemplo de divergencia."],
@@ -53,7 +54,10 @@ def test_end_to_end(tmp_path, monkeypatch=None):
                                      "feed": "t", "published": "2026-10-14T18:00:00+00:00",
                                      "category": "macro", "score": 3}], {"Test": "ok (1)"})
         analysis.analyze = fake_ai
-        portada.main("cierre")
+        portada.main("asia-apertura")  # observación: no registra hipótesis
+        assert len(ledger.load()) == 0
+        assert "solo observación" in open("README.md", encoding="utf-8").read()
+        portada.main("usa-cierre")
         readme = open("README.md", encoding="utf-8").read()
         assert "Radar de mercados" in readme and "La Fed sube tipos" in readme
         assert "INVENTADO" not in readme
@@ -64,7 +68,10 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         assert len(book) == 1 and book.iloc[0]["operada"] == 1
         for f in ("mapa-light.png", "mapa-dark.png", "tendencias-light.png"):
             assert os.path.getsize(os.path.join("assets", f)) > 5000
-        portada.main("cierre")  # reejecutar el mismo día no duplica hipótesis
+        assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
+        assert "1 previas" in readme and "Pendientes hoy" in readme
+        assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
+        portada.main("usa-cierre")  # reejecutar el mismo día no duplica hipótesis ni revisiones
         assert len(ledger.load()) == 1
     finally:
         prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance = orig
@@ -121,3 +128,21 @@ def test_parse_google_news():
     </channel></rss>"""
     it = parse_feed(xml, "Google News · markets")[0]
     assert it["title"] == "Wall Street cae" and it["source"] == "Reuters" and it["published"].year == 2026
+
+
+def test_calendario_revisiones():
+    from dashboard import sesiones
+    utc = dt.timezone.utc
+    # verano (CEST): apertura de Europa a las 07:00 UTC; Asia cierra a las 08:10 UTC
+    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 7, 20, tzinfo=utc), set()) == "europa-apertura"
+    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 7, 20, tzinfo=utc), {"europa-apertura"}) is None
+    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 8, 30, tzinfo=utc), {"europa-apertura"}) == "asia-cierre"
+    # invierno (CET, 2 nov): Europa abre a las 08:00 UTC; un cron retrasado recupera la más antigua pendiente
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), set()) == "europa-apertura"
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), {"europa-apertura"}) == "asia-cierre"
+    # EE. UU. cambia de hora una semana después que Europa (el 1 nov): 13:30 UTC el 30 oct, 14:30 UTC el 2 nov
+    assert sesiones.pendiente(dt.datetime(2026, 10, 30, 13, 50, tzinfo=utc), set()) == "usa-apertura"
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 13, 50, tzinfo=utc), set()) is None
+    # el cierre de EE. UU. tras el test PEAD (21:10 UTC) entra en su ventana; fin de semana, nada
+    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 21, 15, tzinfo=utc), set()) == "usa-cierre"
+    assert sesiones.pendiente(dt.datetime(2026, 10, 17, 21, 15, tzinfo=utc), set()) is None

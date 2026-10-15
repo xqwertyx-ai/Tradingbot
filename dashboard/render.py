@@ -4,6 +4,8 @@ from __future__ import annotations
 import datetime as dt
 from zoneinfo import ZoneInfo
 
+from dashboard.sesiones import EVENTOS
+
 MAD = ZoneInfo("Europe/Madrid")
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
@@ -51,7 +53,7 @@ def render(ctx: dict) -> str:
         "# 📊 Radar de mercados",
         "",
         f"**{DIAS[now.weekday()]} {now.day} {MESES[now.month - 1]} {now.year} · "
-        f"revisión de {ctx['mode']} · {now:%H:%M} (Madrid)**",
+        f"revisión de {ctx.get('etiqueta', ctx['mode'])} · {now:%H:%M} (Madrid)**",
         "",
         "<sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>",
         "",
@@ -77,6 +79,10 @@ def render(ctx: dict) -> str:
                      f"| {_chg(r['chg_1m'], r.get('level'))} | {TREND.get(r['trend'], r['trend'])} |")
     L += ["", _pic("mapa", "Cambio del día por activo"), ""]
 
+    # --- Hoy, sesión a sesión
+    if ctx["now"].astimezone(MAD).weekday() < 5:
+        L += dia_section(ctx.get("dia") or [])
+
     # --- Noticias
     L += ["## 📰 Noticias clave", ""]
     if ai.get("noticias"):
@@ -100,8 +106,9 @@ def render(ctx: dict) -> str:
     # --- Hipótesis
     L += ["## 🎯 Hipótesis de hoy", ""]
     hyps = ai.get("hipotesis") or []
-    if ctx["mode"] in ("apertura", "intradía"):
-        L.append(f"_Revisión de {ctx['mode']}: solo observación. Las hipótesis se registran con precios de cierre._")
+    if ctx["mode"] != "cierre":
+        L.append(f"_Revisión de {ctx.get('etiqueta', ctx['mode'])}: solo observación. Las hipótesis se registran "
+                 "con precios de cierre de EE. UU._")
     elif not ai or ai.get("error"):
         L.append("_Sin análisis con IA no se generan hipótesis._")
     elif not hyps:
@@ -185,6 +192,28 @@ def render(ctx: dict) -> str:
           "Más: [experimento Polymarket 5 min](docs/experimento-polymarket.md) · "
           "[informe del backtest](reports/informe.md)", ""]
     return "\n".join(L)
+
+
+ICONO_CLIMA = {"risk-on": "🟢", "risk-off": "🔴", "mixto": "🟡"}
+
+
+def dia_section(entradas: list[dict]) -> list[str]:
+    """Las revisiones del día (apertura y cierre de Asia, Europa y EE. UU.) con su resumen."""
+    L = ["## 🕒 Hoy, sesión a sesión", ""]
+    if not entradas:
+        L += ["_Aún no hay revisiones hoy._"]
+    final = next((e["resumen_dia"] for e in entradas if e.get("resumen_dia")), None)
+    if final:
+        L += [f"> **Resumen del día:** {final}", ""]
+    for e in entradas:
+        L.append(f"- **{e['hora_madrid']} · {e['etiqueta']}** {ICONO_CLIMA.get(e.get('clima'), '')} "
+                 f"{e.get('resumen') or '_sin análisis con IA_'}")
+    hechas = {e["id"] for e in entradas}
+    falta = [n for i, n, *_ in EVENTOS if i not in hechas]
+    if falta:
+        L += ["", f"<sub>Pendientes hoy: {', '.join(falta)}.</sub>"]
+    L.append("")
+    return L
 
 
 def pead_section(st: dict | None) -> list[str]:

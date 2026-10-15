@@ -13,6 +13,10 @@ ASSETS = [
     dict(yahoo="^IBEX", stooq=None, name="IBEX 35", group="Índices", key=True),
     dict(yahoo="^STOXX50E", stooq=None, name="Euro Stoxx 50", group="Índices", key=False),
     dict(yahoo="^RUT", stooq=None, name="Russell 2000", group="Índices", key=False),
+    dict(yahoo="^GDAXI", stooq=None, name="DAX", group="Índices", key=False),
+    dict(yahoo="^N225", stooq=None, name="Nikkei 225", group="Índices", key=True),
+    dict(yahoo="^HSI", stooq=None, name="Hang Seng", group="Índices", key=False),
+    dict(yahoo="000001.SS", stooq=None, name="Shanghái Compuesto", group="Índices", key=False),
     # Tipos, divisas y materias primas
     dict(yahoo="^TNX", stooq=None, name="Bono EE. UU. 10a (%)", group="Macro", key=True, level=True),
     dict(yahoo="EURUSD=X", stooq="eurusd", name="EUR/USD", group="Macro", key=True),

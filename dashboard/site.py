@@ -12,6 +12,7 @@ import os
 from zoneinfo import ZoneInfo
 
 from .render import DIAS, MESES, _hora, _price
+from .sesiones import EVENTOS
 
 MAD = ZoneInfo("Europe/Madrid")
 E = html.escape
@@ -194,8 +195,31 @@ td.flags{text-align:left;white-space:normal;color:var(--ink2);font-size:.82rem;m
 .note{color:var(--muted);font-size:.85rem;max-width:70ch}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--rule);color:var(--muted);font-size:.82rem}
 footer p{margin:4px 0;max-width:80ch}
+.day{list-style:none;margin:0;padding:0;border-left:2px solid var(--rule)}
+.day li{position:relative;padding:0 0 14px 18px;max-width:72ch}
+.day li::before{content:"";position:absolute;left:-6px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--muted)}
+.day li.risk-on::before{background:var(--up)}.day li.risk-off::before{background:var(--down)}
+.day li.pend{color:var(--muted)}.day li.pend::before{background:var(--paper);border:2px solid var(--rule);width:6px;height:6px}
+.day .w{font-weight:600}.day .w small{font-weight:400;color:var(--muted);margin-left:6px}
+.dayfinal{background:var(--paper);border-left:4px solid var(--hl);padding:12px 16px;max-width:72ch;margin:0 0 16px}
 @media (prefers-reduced-motion:no-preference){.thermo .dot circle{transition:stroke-width .15s}}
 """
+
+
+def _cap(t: str) -> str:
+    return t[:1].upper() + t[1:]
+
+
+def dia_html(entradas: list[dict]) -> str:
+    """Las seis revisiones del día con su resumen; las que faltan aparecen en gris."""
+    hechas = {e["id"]: e for e in entradas}
+    final = next((e["resumen_dia"] for e in entradas if e.get("resumen_dia")), None)
+    items = [f'<li class="{E(e.get("clima") or "")}"><div class="w">{E(_cap(e["etiqueta"]))}<small>{E(e["hora_madrid"])}</small></div>'
+             f'<p>{E(e.get("resumen") or "Sin análisis con IA.")}</p></li>' for e in entradas]
+    items += [f'<li class="pend"><div class="w">{E(_cap(n))}<small>pendiente</small></div></li>'
+              for i, n, *_ in EVENTOS if i not in hechas]
+    top = f'<p class="dayfinal"><b>Resumen del día.</b> {E(final)}</p>' if final else ""
+    return f'<h2>Hoy, sesión a sesión</h2>{top}<ol class="day">{"".join(items)}</ol>'
 
 
 def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
@@ -260,8 +284,9 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
                + E(" · ".join(ai["divergencias"])) + "</p>")
 
     hyps = ai.get("hipotesis") or [] if ok_ai else []
-    if ctx["mode"] in ("apertura", "intradía"):
-        hyp_html = f'<p class="empty">Revisión de {ctx["mode"]}: solo observación. Las hipótesis se registran con precios de cierre.</p>'
+    if ctx["mode"] != "cierre":
+        hyp_html = (f'<p class="empty">Revisión de {E(ctx.get("etiqueta", ctx["mode"]))}: solo observación. '
+                    'Las hipótesis se registran con precios de cierre de EE. UU.</p>')
     elif not ok_ai:
         hyp_html = '<p class="empty">Sin análisis con IA no se generan hipótesis.</p>'
     elif not hyps:
@@ -322,12 +347,13 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body><div class="wrap">
 <header><span class="brand">Radar de mercados</span>
-<span class="when">{DIAS[now.weekday()]} {now.day} {MESES[now.month - 1]} · revisión de {ctx["mode"]} · {now:%H:%M}</span></header>
+<span class="when">{DIAS[now.weekday()]} {now.day} {MESES[now.month - 1]} · revisión de {E(ctx.get("etiqueta", ctx["mode"]))} · {now:%H:%M}</span></header>
 <section class="hero">{hero}
 {thermometer(rows)}
 {movers(rows)}
 <p class="caption" id="pick" aria-live="polite">Cada punto es un activo, colocado según cuánto ha subido o bajado en su última sesión. Toca un punto para ver cuál es.</p>
 {decision}</section>
+{dia_html(ctx.get("dia") or []) if now.weekday() < 5 else ""}
 <h2>Lo esencial</h2><div class="tiles">{"".join(tiles)}</div>
 <p class="note">Línea: últimos 3 meses · discontinua: media de 50 sesiones.</p>
 <h2>Noticias clave</h2><ol class="news">{"".join(news_html) or '<li class="empty">No se pudieron descargar titulares.</li>'}</ol>{div}

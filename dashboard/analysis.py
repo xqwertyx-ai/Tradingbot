@@ -7,6 +7,7 @@ que no estén en la entrada (se valida al recibir la respuesta).
 """
 from __future__ import annotations
 
+import datetime as dt
 import json
 import math
 import os
@@ -65,7 +66,8 @@ Escribe en español."""
 
 SCHEMA = """Responde SOLO con un objeto JSON válido con esta forma:
 {
- "resumen": "2-3 frases sobre la jornada",
+ "resumen": "2-3 frases: qué ha cambiado en esta revisión (región que abre/cierra) frente a la anterior",
+ "resumen_dia": "solo si se pide: 3-5 frases sobre la jornada completa (Asia, Europa, EE. UU.)",
  "clima": "risk-on" | "risk-off" | "mixto",
  "noticias": [ {"id": <id del titular>, "categoria": "...", "rumor": false,
                "novedad": "esperada/sorpresa y por qué, 1 frase",
@@ -79,7 +81,7 @@ SCHEMA = """Responde SOLO con un objeto JSON válido con esta forma:
                  "invalidacion_pct": <pérdida máxima al cierre en %, p. ej. 2>,
                  "confianza": <probabilidad 0-100 de tocar el objetivo antes que el stop>,
                  "confluencia": ["señal 1", "señal 2"], "contra": "mejor argumento en contra",
-                 "sesgos": "sesgos posibles"} ],  // entre 2 y 4 (vacío solo en apertura/intradía)
+                 "sesgos": "sesgos posibles"} ],  // entre 2 y 4 (vacío si la revisión no es el cierre)
  "vigilar": [ {"ticker": "<ticker de la tabla>", "motivo": "1 frase"} ],  // máximo 5
  "decision": "operar" | "no operar hoy",
  "decision_motivo": "1 frase"
@@ -103,8 +105,13 @@ def expected_value(h: dict) -> float:
     return p * h["objetivo_pct"] - (1 - p) * h["invalidacion_pct"] - cost_pct(h["ticker"])
 
 
-def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open_hyps: list[dict]) -> str:
+def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open_hyps: list[dict],
+                 previos: list[dict] | None = None, final: bool = False) -> str:
+    previos = previos or []
     lines = [f"Fecha: {date} · Revisión: {mode}",
+             "Hay seis revisiones al día (apertura y cierre de Asia, Europa y EE. UU.). Céntrate en lo que ha "
+             "cambiado desde la anterior y en la región que acaba de abrir o cerrar. Con una bolsa abierta, su "
+             "último dato es el precio del momento (con retraso), no un cierre.",
              "Usa solo la información de este mensaje: no recurras a lo que sepas de fechas posteriores.", "",
              "PRECIOS (último cierre; cambios 1d / 5d / 1m; volatilidad diaria; coste ida y vuelta; tendencia; señales):"]
     for a in table:
@@ -116,15 +123,23 @@ def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open
             + ("no operable (nivel)" if a.get("level") else
                f"vol {_vol(m)} · coste {cost_pct(a['ticker']):.2f}%")
             + f"; {m['trend']}; {', '.join(m['flags']) or '—'}")
-    lines += ["", "TITULARES (últimas 24 h):"]
+    desde = max((dt.datetime.fromisoformat(p["hora"]) for p in previos), default=None)
+    lines += ["", "TITULARES (últimas 24 h; [NUEVO] = publicado tras la revisión anterior):"]
     for i, n in enumerate(news):
-        lines.append(f"[{i}] {n['published'] or 'sin hora'} · {n['source']} · {n['title']}")
+        nuevo = " [NUEVO]" if desde and n["published"] and dt.datetime.fromisoformat(n["published"]) > desde else ""
+        lines.append(f"[{i}]{nuevo} {n['published'] or 'sin hora'} · {n['source']} · {n['title']}")
+    if previos:
+        lines += ["", "REVISIONES ANTERIORES HOY:"]
+        lines += [f"- {p['hora_madrid']} · {p['etiqueta']} ({p.get('clima') or '—'}): {p.get('resumen') or '—'}" for p in previos]
     if open_hyps:
         lines += ["", "HIPÓTESIS ABIERTAS (no dupliques la misma idea):"]
         lines += [f"- {h['ticker']} {h['direccion']} hasta {h['vence']}: {h['tesis']}" for h in open_hyps]
-    if mode in ("apertura", "intradía"):
+    if mode != "cierre":
         lines += ["", f"Revisión de {mode.upper()}: solo observación. Devuelve \"hipotesis\": [] "
-                  "(las decisiones se toman con precios de cierre)."]
+                  "(las decisiones se toman con precios de cierre de EE. UU.)."]
+    if final:
+        lines += ["", "Es la última revisión del día: rellena \"resumen_dia\" con 3-5 frases sobre la jornada "
+                  "completa usando las revisiones anteriores y esta."]
     return "\n".join(lines)
 
 
@@ -167,11 +182,11 @@ def validate(out: dict, tickers: set[str], n_news: int, mode: str) -> dict:
     return out
 
 
-def analyze(date, mode, table, news, open_hyps) -> dict | None:
+def analyze(date, mode, table, news, open_hyps, previos=None, final=False) -> dict | None:
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         return None
-    prompt = build_prompt(date, mode, table, news, open_hyps)
+    prompt = build_prompt(date, mode, table, news, open_hyps, previos, final)
     s = make_session()
     r = s.post(API_URL, timeout=180, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json",
