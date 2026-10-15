@@ -38,6 +38,8 @@ jobs:
       evento: ${{ steps.ev.outputs.evento }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # siempre lo último (un push o un workflow_run traerían una versión antigua)
 
       - name: Qué revisión toca
         id: ev
@@ -101,7 +103,7 @@ jobs:
           git add README.md assets data/dashboard
           git diff --cached --quiet && exit 0
           git commit -m "Portada $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main   # si chocan, mandan los ficheros recién generados
           git push
 
   web:
