@@ -211,7 +211,7 @@ def dia_section(entradas: list[dict]) -> list[str]:
     hechas = {e["id"] for e in entradas}
     falta = [n for i, n, *_ in EVENTOS if i not in hechas]
     if falta:
-        L += ["", f"<sub>Pendientes hoy: {', '.join(falta)}.</sub>"]
+        L += ["", f"<sub>Pendientes hoy: {', '.join(falta)}</sub>"]
     L.append("")
     return L
 
