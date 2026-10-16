@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-16T00:52:18+00:00",
+  "hora_madrid": "02:52",
+  "clima": "mixto",
+  "resumen": "Apertura de Asia, con datos parciales (Nikkei +1,4% a 16-oct, tras caer un 5,4% en cinco sesiones). Lo nuevo desde la anterior revisión es el cierre de EE. UU. con IPC 3,7% y PPI muy por encima de lo esperado, que mantiene vivas las apuestas de subida de la Fed. Aun así, el bono a 10 años cayó 10 pb y el S&P cerró en máximos. Es una revisión de solo observación.",
+  "titulares": [
+   "Inflation Comes in Hotter Than Expected at 3.7%, Keeping Fed Hike Bets Alive (UPDATED)",
+   "Wholesale Inflation Hit Four-Year High in September",
+   "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears"
+  ],
+  "coste_usd": 0.0353
+ }
+]
