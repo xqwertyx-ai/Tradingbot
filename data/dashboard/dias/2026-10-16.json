@@ -40,5 +40,19 @@
    "BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor"
   ],
   "coste_usd": 0.0372
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-16T13:52:35+00:00",
+  "hora_madrid": "15:52",
+  "clima": "mixto",
+  "resumen": "Apertura de EE. UU. con futuros planos y cautela. Desde la revisión anterior (cierre de Asia) el mercado sigue digiriendo que Warsh no da pistas de subida de tipos en octubre pese al IPC (3,7%) y el PPI calientes. Europa cierra con subidas (IBEX +1,0%, DAX +1,1%) y la tecnología/semis siguen débiles (SMH -2,0%, XLK -1,6%). Revisión de solo observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Markets Like What the Fed’s Warsh Didn’t Say About Inflation",
+   "Warsh enfría la subida de tipos para octubre en EEUU sin convencer al mercado de deuda",
+   "Inflation jumps to 3.7% as oil prices hit consumers"
+  ],
+  "coste_usd": 0.038
  }
 ]
