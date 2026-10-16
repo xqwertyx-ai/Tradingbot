@@ -26,5 +26,19 @@
    "Inflation Comes in Hotter Than Expected at 3.7%, Keeping Fed Hike Bets Alive (UPDATED)"
   ],
   "coste_usd": 0.0366
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-16T08:52:10+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-on",
+  "resumen": "Cierre de Asia con rebote moderado: Nikkei +1,4%, Hang Seng +0,5% y Shanghái +0,2% (en mínimos de 52 semanas), tras la comparecencia de Warsh, que no dio señales de subida de tipos en octubre y se mostró optimista con la IA. Frente a la revisión anterior, las apuestas de subida de la Fed en octubre se moderan, aunque el IPC (3,7%) y el PPI siguen calientes. El BOJ avisa del riesgo de que la inflación supere el 2%, y Indonesia se hunde por la advertencia de rebaja de MSCI.",
+  "titulares": [
+   "Warsh Boosts Market Expectations of Fed Rate Hold in October",
+   "Global markets rally as tech stocks gain despite hotter-than-expected US producer inflation",
+   "BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor"
+  ],
+  "coste_usd": 0.0372
  }
 ]
