@@ -12,5 +12,19 @@
    "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears"
   ],
   "coste_usd": 0.0353
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-16T07:51:43+00:00",
+  "hora_madrid": "09:51",
+  "clima": "risk-on",
+  "resumen": "Apertura de Europa con subidas moderadas (IBEX +0,6%, Euro Stoxx +0,5%, DAX +0,7%) tras las declaraciones de Warsh, que no dio señales de una subida de tipos en octubre. El dólar cede algo (DXY -0,2%), el Brent cae un 2,9% y el oro rebota un 0,9%. Frente a la revisión anterior, el cambio es que las apuestas de subida de la Fed se moderan, aunque el IPC (3,7%) y el PPI siguen siendo calientes.",
+  "titulares": [
+   "Warsh Boosts Market Expectations of Fed Rate Hold in October",
+   "Dollar weakens as Fed chair Kevin Warsh declines to hint at October rate rise",
+   "Inflation Comes in Hotter Than Expected at 3.7%, Keeping Fed Hike Bets Alive (UPDATED)"
+  ],
+  "coste_usd": 0.0366
  }
 ]
