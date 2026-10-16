@@ -54,5 +54,19 @@
    "Inflation jumps to 3.7% as oil prices hit consumers"
   ],
   "coste_usd": 0.038
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-16T15:52:06+00:00",
+  "hora_madrid": "17:52",
+  "clima": "mixto",
+  "resumen": "Europa cierra al alza (IBEX +0,8%, DAX +0,9%, Euro Stoxx +0,6%) porque Warsh no da pistas de subida de tipos en octubre, aunque el IPC de EE. UU. (3,7%) y el de la eurozona (3,8%) siguen calientes. Desde la apertura de EE. UU. no ha cambiado el fondo: Wall Street cotiza con cautela, con tecnología y semis débiles (XLK -1,9%, SMH -1,7%, NDX -1,4%) y energía en máximos (XLE +1,4%). Revisión de solo observación.",
+  "titulares": [
+   "Warsh enfría la subida de tipos para octubre en EEUU sin convencer al mercado de deuda",
+   "Inflation jumps to 3.7% as oil prices hit consumers",
+   "El IBEX sube 0,73 % y supera los 19.300 puntos tras subir el IPC en la eurozona al 3,8 %"
+  ],
+  "coste_usd": 0.0472
  }
 ]
