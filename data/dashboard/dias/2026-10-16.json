@@ -68,5 +68,20 @@
    "El IBEX sube 0,73 % y supera los 19.300 puntos tras subir el IPC en la eurozona al 3,8 %"
   ],
   "coste_usd": 0.0472
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-16T20:54:33+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "Cierre de EE. UU. con caída fuerte de la tecnología (NDX -2,5%, SMH -3,4%, XLK -3,0%) y rotación hacia defensivas (Coca-Cola, Visa y Mastercard en récords). Brent (+3,7%) y energía (XLE +2,5%) suben con fuerza. Desde el cierre de Europa, el castigo a la tecnología se ha profundizado: XLK pasó de -1,9% a -3,0% y NDX de -1,4% a -2,5%. Europa cerró antes de esa caída, lo que abre riesgo de gap bajista el lunes.",
+  "titulares": [
+   "Coca-Cola, Visa and Mastercard Hit Records as Investors Rotate Out of Chip Stocks",
+   "Palantir's record breakout unravels as software stocks shed $260 billion",
+   "AI investors have woken up to the bond market’s warning signs"
+  ],
+  "coste_usd": 0.0956,
+  "resumen_dia": "Asia abrió y cerró con rebote moderado (Nikkei +1,4% según las revisiones previas) tras las declaraciones de Warsh, que no dio señales de subida de tipos en octubre. Indonesia se hundió por la advertencia de MSCI. Europa cerró al alza (IBEX +0,8%, DAX +0,9%, Euro Stoxx +0,6%) pese al IPC de la eurozona (3,8%) y el de EE. UU. (3,7%). En EE. UU. el día fue de menos a más en negativo: se vendió tecnología y semiconductores (SMH -3,4%), el software perdió unos 260.000 M$ y el dinero rotó hacia defensivas. El Brent se revirtió de -2,9% por la mañana a +3,7% al cierre, y la energía alcanzó máximos de 52 semanas. El fondo es inflación persistente por energía y rendimiento del bono a 10 años en torno al 5,1%, que presionan las valoraciones de tecnología/IA."
  }
 ]
