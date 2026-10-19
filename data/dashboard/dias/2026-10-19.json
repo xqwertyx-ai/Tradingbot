@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-19T00:51:36+00:00",
+  "hora_madrid": "02:51",
+  "clima": "risk-off",
+  "resumen": "Apertura de Asia (lunes 19-oct): el Nikkei cae un 2,1% (-7,4% en 5 sesiones) tras el cierre de EE. UU. con el Nasdaq en -2,5% y los semis en -3,4%. Los titulares nuevos son el Brent a la baja por el alivio de sanciones a Rusia (Australia), Ueda diciendo que la inflación subyacente está \"bastante cerca\" del 2%, y la fuerte caída de la bolsa indonesia por la advertencia de MSCI. Los futuros de EE. UU. rebotan ligeramente.",
+  "titulares": [
+   "BOJ Governor Ueda says underlying inflation 'quite close' to 2% target",
+   "Preapertura de la Bolsa australiana: las acciones apuntan a la baja por la caída del crudo tras el alivio de las sanciones a Rusia; Cleanaway Waste Management acepta una compra de más de 9.000 millones AUD respaldada por EQT",
+   "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning"
+  ],
+  "coste_usd": 0.036
+ }
+]
