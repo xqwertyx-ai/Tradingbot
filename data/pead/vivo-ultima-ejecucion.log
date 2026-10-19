@@ -1,4 +1,4 @@
-Resultados: refrescando 27 empresas
+Resultados: refrescando 73 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -11,11 +11,14 @@ Resultados: refrescando 27 empresas
   resultados: 500/503 (fallos 0)
   resultados: 503 empresas con datos, 0 sin datos
 Precios...
+
+1 Failed download:
+['CLX']: OperationalError('database is locked')
   precios: 100/504
   precios: 200/504
   precios: 300/504
   precios: 400/504
   precios: 500/504
   precios: 504/504
-  última sesión: 2026-10-16
+  última sesión: 2026-10-19
 {"abiertas": 0, "cerradas": 0} pendientes: 0, abiertas: 0
