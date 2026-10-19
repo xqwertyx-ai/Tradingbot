@@ -12,5 +12,19 @@
    "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning"
   ],
   "coste_usd": 0.036
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-19T07:52:01+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-off",
+  "resumen": "Apertura de Europa (lunes 19-oct): el IBEX (-1,1%), el Euro Stoxx (-0,7%) y el DAX (-0,7%) descuentan con retraso el castigo de EE. UU. del viernes (Nasdaq -2,5%, semis -3,4%). Respecto a la revisión de Asia, los titulares nuevos son la subida del PIB chino al 4,5% con exportaciones fuertes, Warsh moderando las apuestas de subida de la Fed (oro por encima de 4.200), el Brent a la baja (-2,4%) y la semana de resultados tecnológicos que genera cautela.",
+  "titulares": [
+   "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
+   "US inflation hit 3.7%, and surging heating oil is raising alarms before winter",
+   "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates"
+  ],
+  "coste_usd": 0.0374
  }
 ]
