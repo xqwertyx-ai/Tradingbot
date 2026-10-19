@@ -68,5 +68,20 @@
    "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings"
   ],
   "coste_usd": 0.04
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-19T20:54:21+00:00",
+  "hora_madrid": "22:54",
+  "clima": "mixto",
+  "resumen": "Cierre de EE. UU. (lunes 19-oct): el S&P sube un 0,4% y el Nasdaq 100 un 1,2%, con rebote de semis (SMH +1,6%) tras el castigo del viernes, aunque más suave que a las 17:52 (NDX +2,0%, SMH +3,3%). Europa ya había cerrado en rojo por la tensión en la deuda francesa. Lo nuevo son los titulares sobre el reposicionamiento de los hedge funds en tecnología, la racha bajista de la banca de EE. UU. y la narrativa de que la IA añade inflación y complica a la Fed.",
+  "titulares": [
+   "September CPI Ticks Higher while Core Measures Cool. Here’s What It Means for Interest Rates",
+   "La prima de riesgo de Francia se dispara y la Bolsa se hunde en plena oleada de disturbios",
+   "US bank stocks' longest losing streak since 2008 clashes with earnings picture"
+  ],
+  "coste_usd": 0.0767,
+  "resumen_dia": "Asia abrió en risk-off arrastrada por el Nasdaq del viernes (-2,5%) y el Nikkei llegó a caer un 2,1%. Cerró con recuperación parcial gracias al PIB chino (4,5%) y a las ayudas de fondos estatales. Europa sufrió todo el día por el estrés en la deuda francesa (bono en su peor nivel desde 2012), con el IBEX -1,5% y los bancos españoles lastrados. EE. UU. rebotó con la tecnología antes de la semana de resultados, aunque el SMH sigue cerca de -7% en 5 sesiones. El Brent, alto, y el dólar, en máximos, mantienen el sesgo de tipos altos, y la divergencia entre Europa (rojo) y EE. UU. (verde) define una jornada mixta."
  }
 ]
