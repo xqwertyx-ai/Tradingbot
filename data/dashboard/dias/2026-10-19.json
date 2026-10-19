@@ -54,5 +54,19 @@
    "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs"
   ],
   "coste_usd": 0.0382
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-19T15:52:16+00:00",
+  "hora_madrid": "17:52",
+  "clima": "mixto",
+  "resumen": "Cierre de Europa (lunes 19-oct): las bolsas europeas cierran en rojo (IBEX -1,5%, Euro Stoxx -1,0%, DAX -1,2%) por el estrés en la deuda francesa (bono en su peor nivel desde 2012, CDS al alza) y los tipos altos, mientras EE. UU. rebota con la tecnología (NDX +2,0%, SMH +3,3%) antes de la semana de resultados. Frente a la revisión de apertura de EE. UU., Europa se deteriora algo más y los bancos españoles sufren (SAN -2,2%, BBVA -1,9%); lo nuevo son la escalada de los hutíes contra Arabia Saudí y el aplazamiento de su conferencia de inversores.",
+  "titulares": [
+   "Bolsa e Ibex 35 hoy, en directo | El Ibex salva los 19.000 puntos, pero cae un 1,49% por los bonos, con el francés en su peor nivel desde 2012",
+   "Francia pone nerviosos a los mercados que se preguntan si el BCE intervendrá y cuándo",
+   "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings"
+  ],
+  "coste_usd": 0.04
  }
 ]
