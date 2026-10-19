@@ -26,5 +26,19 @@
    "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates"
   ],
   "coste_usd": 0.0374
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-19T08:52:13+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-off",
+  "resumen": "Cierre de Asia (lunes 19-oct): el Nikkei termina en -0,6% tras abrir en -2,1%, el Shanghái sube un 0,4% y el Hang Seng marca +0,5% (su dato lleva fecha 16-oct, así que puede no reflejar la sesión de hoy). Frente a la apertura de Asia, lo nuevo es el PIB chino (4,5%, por encima de lo esperado), el tono de Warsh, que rebaja las apuestas de subida de la Fed, y las ayudas de fondos estatales chinos tras una racha semanal récord de pérdidas. Europa cotiza en rojo (IBEX -1,2%, Euro Stoxx -0,9%, DAX -1,0%) arrastrada por la tecnología de EE. UU. del viernes.",
+  "titulares": [
+   "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+   "China State Funds Active as Stocks Post Record Weekly Losing Run",
+   "3 Words From Fed Chair Kevin Warsh Suggest the Worst Is Yet to Come for Wall Street"
+  ],
+  "coste_usd": 0.0466
  }
 ]
