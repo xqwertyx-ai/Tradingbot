@@ -1,12 +1,23 @@
 {
- "generado": "2026-10-20T21:00:19.400115+00:00",
+ "generado": "2026-10-20T23:53:08.378100+00:00",
  "sesion": "2026-10-20",
  "inicio": "2026-10-15",
  "resumen": {
   "abiertas": 0,
   "cerradas": 0
  },
- "pendientes": [],
+ "pendientes": [
+  {
+   "ticker": "EFX",
+   "anuncio": "2026-10-20",
+   "ra": 0.1099722515753283
+  },
+  {
+   "ticker": "HAS",
+   "anuncio": "2026-10-20",
+   "ra": 0.10863805518324754
+  }
+ ],
  "abiertas": [],
  "cerradas_recientes": []
 }
