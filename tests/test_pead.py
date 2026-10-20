@@ -83,3 +83,24 @@ def test_live_ledger_opens_and_closes_without_lookahead():
         assert len(live.drop_partial_session(px, now)) == len(px) - 1
     finally:
         live.LIVE_START = old
+
+
+def test_compra_pendiente_el_mismo_dia():
+    """Una reacción fuerte en la última sesión aparece como compra pendiente (antes no salía nunca)."""
+    import numpy as np
+    import pandas as pd
+    from pead import engine, live
+    days = pd.bdate_range("2025-01-01", "2026-10-20")
+    rng = np.random.default_rng(0)
+    tick = [f"T{i}" for i in range(40)]
+    px = pd.DataFrame(100 * np.exp(np.cumsum(rng.normal(0, 0.01, (len(days), 41)), axis=0)),
+                      index=days, columns=tick + ["SPY"])
+    rows = [{"ticker": t, "fecha": str(d.date()), "hora": "07:00", "sorpresa_pct": 1.0}
+            for k, t in enumerate(tick) for d in days[20 + k % 15::15]]  # ≥ 200 previos (MIN_PRIOR)
+    px.loc[days[-1], "T0"] = px.loc[days[-2], "T0"] * 1.5          # +50% el último día
+    rows.append({"ticker": "T0", "fecha": str(days[-1].date()), "hora": "07:00", "sorpresa_pct": 20.0})
+    ev = engine.build_events(pd.DataFrame(rows), px)
+    pend = live.pending(ev, px)
+    assert "T0" in set(pend["ticker"])
+    book = live.update(live.load().iloc[0:0], ev, px, fetch_headlines=lambda t, d: "")
+    assert "T0" not in set(book["ticker"])                          # aún no se ha comprado

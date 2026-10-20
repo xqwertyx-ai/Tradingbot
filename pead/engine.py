@@ -51,15 +51,19 @@ def build_events(earn: pd.DataFrame, px: pd.DataFrame) -> pd.DataFrame:
         else:  # dos sesiones: el día del anuncio y la siguiente
             i_pre, i_r = i_from - 1, i_after
         i_e = i_r + 1
-        if i_pre < 0 or i_e >= len(days):
+        # Si la reacción es la última sesión, la entrada (sesión siguiente) aún no existe: el evento se
+        # guarda igualmente (entrada vacía) para poder anunciar la compra pendiente.
+        if i_pre < 0 or i_r >= len(days):
             continue
+        futura = i_e >= len(days)
         j = col[e.ticker]
-        p_pre, p_r, p_e = arr[i_pre, j], arr[i_r, j], arr[i_e, j]
-        if not (np.isfinite(p_pre) and np.isfinite(p_r) and np.isfinite(p_e)) or p_pre <= 0:
+        p_pre, p_r = arr[i_pre, j], arr[i_r, j]
+        p_e = np.nan if futura else arr[i_e, j]
+        if not (np.isfinite(p_pre) and np.isfinite(p_r) and (futura or np.isfinite(p_e))) or p_pre <= 0:
             continue
         ra = (p_r / p_pre - 1) - (arr[i_r, spy] / arr[i_pre, spy] - 1)
-        row = {"ticker": e.ticker, "anuncio": a, "hora": t, "reaccion": days[i_r], "entrada": days[i_e],
-               "ra": ra, "sorpresa_pct": e.sorpresa_pct}
+        row = {"ticker": e.ticker, "anuncio": a, "hora": t, "reaccion": days[i_r],
+               "entrada": pd.NaT if futura else days[i_e], "ra": ra, "sorpresa_pct": e.sorpresa_pct}
         for h in HORIZONS:
             i_x = i_e + h
             if i_x < len(days) and np.isfinite(arr[i_x, j]):
