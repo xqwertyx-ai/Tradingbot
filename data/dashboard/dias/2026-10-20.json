@@ -68,5 +68,20 @@
    "Fed to skip October but raise rates again in December, nearly all economists say"
   ],
   "coste_usd": 0.038
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-20T20:55:03+00:00",
+  "hora_madrid": "22:55",
+  "clima": "mixto",
+  "resumen": "Cierre de EE. UU. (20-oct): Wall Street termina mixto con rebote en small caps y financieras (Russell +1,7%, XLF +1,2%) gracias a resultados sólidos, mientras Nasdaq (-0,1%) y semis (-0,4%) siguen débiles por las dudas sobre el gasto en IA. Frente a la revisión de Europa se confirma el rebote intradía, con el petróleo girando a la baja tras un repunte, y Netflix cae tras sus resultados por una previsión de ingresos floja.",
+  "titulares": [
+   "US stocks close mixed as upbeat earnings offset AI concerns",
+   "Fed to skip October but raise rates again in December, nearly all economists say",
+   "Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings"
+  ],
+  "coste_usd": 0.0611,
+  "resumen_dia": "Asia abrió y cerró en risk-off, con Nikkei y Hang Seng a la baja por el miedo a la IA tras el desplome de la salida a bolsa de Elice en Corea, y con Shanghái en mínimos de 52 semanas. Europa abrió débil por la tensión en la deuda francesa, el Brent cerca de 110 y el temor a una Fed más dura, pero cerró casi plana al girar el petróleo y aliviarse el bono francés. En EE. UU. dominó un rebote selectivo hacia financieras, small caps y valor con resultados sólidos, mientras los semis y la tecnología de IA no se recuperaron. El telón de fondo sigue siendo inflación empujada por la energía, bono a 10 años en el 5,1%, dólar en máximos y Fed sin cambios en octubre con subida esperada en diciembre. Jornada de clima mixto, sin catalizador nuevo que cambie el marco."
  }
 ]
