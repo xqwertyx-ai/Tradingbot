@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-20T00:21:22+00:00",
+  "hora_madrid": "02:21",
+  "clima": "mixto",
+  "resumen": "Apertura de Asia (20-oct): el Nikkei cae -1,3% (-6,6% en 5 días) mientras en EE. UU. el lunes hubo un rebote técnico de tecnología (NDX +1,2%) pese al temor a inflación y a una Fed más restrictiva. Domina la inflación impulsada por la energía (Brent 109, XLE en máximos), el bono a 10 años en 5,14% y el dólar en máximos de 52 semanas; Francia sigue como foco de riesgo en Europa.",
+  "titulares": [
+   "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+   "Fed could hike rates up to four times in 18 months, investment chief warns",
+   "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real"
+  ],
+  "coste_usd": 0.0348
+ }
+]
