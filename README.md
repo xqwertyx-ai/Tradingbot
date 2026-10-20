@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**miércoles 21 oct 2026 · revisión de actualización · 00:04 (Madrid)**
+**miércoles 21 oct 2026 · revisión de actualización · 01:53 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> Con el cierre de EE. UU. (la revisión anterior ya cubría Europa) el S&P 500 termina plano-alza (+0,3%) y el Russell rebota +1,7% gracias a unos resultados sólidos y a financieras en alza (XLF +1,2%), mientras Nasdaq, semis y software de IA siguen débiles por los temores de crédito vinculado a la IA. Nuevo tras el cierre: la Fed apunta a más subidas (consenso de Reuters: salta octubre y sube en diciembre) y Netflix cae tras resultados por la guía.  
-> **Decisión:** no operar hoy — Revisión de actualización solo de observación; no se generan hipótesis nuevas.
+> Revisión de cierre de EE. UU. con Asia a punto de abrir: Wall Street cierra mixto (S&P +0,3%, Nasdaq 100 -0,1%, Russell +1,7%) con resultados sólidos frente al miedo al crédito de IA. Tras el cierre, el RBA (Hauser) dice que las perspectivas de inflación han empeorado, y los futuros suben por SpaceX, mientras Netflix cae en el after-hours por la guía.  
+> **Decisión:** no operar hoy — Revisión de actualización solo de observación: las decisiones se toman con los precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -19,10 +19,10 @@
 | **IBEX 35** | 19.039 | 🔴▼ -1.5% | 🔴▼ -2.4% | ➡️ lateral |
 | **Nikkei 225** | 64.917 | 🔴▼ -0.6% | 🔵▲ +2.2% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 5.117 | ▼ -2 pb | ▲ +15 pb | ↗️ alcista |
-| **EUR/USD** | 1.124 | 🔵▲ +0.1% | 🔴▼ -2.1% | ↘️ bajista |
-| **Brent** | 109.12 | 🔴▼ -0.4% | 🔵▲ +8.8% | ↗️ alcista |
-| **Oro** | 4.142 | 🔴▼ -0.4% | 🔴▼ -5.5% | ↘️ bajista |
-| **Bitcoin** | 82.920 | 🔵▲ +1.3% | 🔴▼ -0.8% | ➡️ lateral |
+| **EUR/USD** | 1.123 | 🔵▲ +0.1% | 🔴▼ -2.0% | ↘️ bajista |
+| **Brent** | 109.35 | 🔴▼ -0.2% | 🔵▲ +9.0% | ↗️ alcista |
+| **Oro** | 4.134 | 🔴▼ -0.6% | 🔴▼ -5.7% | ↘️ bajista |
+| **Bitcoin** | 82.963 | 🔵▲ +1.4% | 🔴▼ -0.8% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -37,20 +37,20 @@
 
 ## 📰 Noticias clave
 
-- **[macro]** [Fed to skip October but raise rates again in December, nearly all economists say](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5) <sub>Reuters · 20/10 15:27 · ●●●●●</sub>  
-  Casi consenso entre economistas de que la Fed salta octubre y sube en diciembre: ya conocido, pero refuerza el sesgo restrictivo tras un dato de inflación caliente. **Impacto:** Dólar (DX-Y.NYB) apoyado, oro y activos de duración (tecnología, small caps) presionados; financieras algo beneficiadas por la curva.
 - **[sectorial]** [U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5) <sub>WSJ · 20/10 23:06 · ●●●●</sub>  
-  Los temores de crédito de la IA ya venían de días anteriores; la novedad es que los resultados sostienen el índice. **Impacto:** SMH, NVDA, XLK y ASML bajo presión por las dudas sobre financiación de la IA; rotación hacia valor/defensivos.
-- **[sectorial]** [Defensive stocks' surge signals more pain for AI-led market, says CIO](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jajJXUzMxRXljbURsekFma2p3eXcyQ2ZIZDUtV1phdTVieTd3S1BZY1RVNjlsUXZTckRiTW90QUFtcmx0akFGb3B2VGNxRllJV1BmX3JxZ1J5dXdkMjBrcElfMkczbzQ?oc=5) <sub>Reuters · 20/10 23:30 · ●●●</sub>  
-  Confirma la rotación defensiva ya visible en la sesión. **Impacto:** Defensivos suben frente a tecnología de IA, lo que sugiere más dolor para el segmento líder.
-- **[resultados]** [Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance](https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html) <sub>CNBC · 20/10 23:30 · ●●●</sub>  
-  Sorpresa negativa en guía pese a superar estimaciones; reacción posterior al cierre. **Impacto:** Presión sobre Netflix y sobre comunicación/consumo discrecional en la apertura de mañana; efecto indirecto limitado en el Nasdaq 100.
-- **[macro]** [Bank of England's Greene says inflation risks are bigger than thought](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5) <sub>Reuters · 20/10 22:08 · ●●●</sub>  
-  El BoE ve riesgos de inflación mayores de lo previsto: refuerza el tono restrictivo global. **Impacto:** Presión sobre bonos y activos de duración en Europa; apoyo a divisas con tipos al alza.
-- **[política/regulación]** [Trump sued over 50% tariffs on Canada in latest trade challenge](https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html) <sub>CNBC · 20/10 20:06 · ●●</sub>  
-  Demanda por aranceles del 50% a Canadá: nuevo frente legal, de resolución incierta. **Impacto:** Riesgo de cambios arancelarios; efecto inflacionario y sobre industriales/exportadores, aún difuso.
+  Parcialmente esperada: los resultados sólidos llevaban días siendo el catalizador, pero el temor a la deuda de IA persiste. **Impacto:** Semis y tecnología (SMH -7,1% a 5d, XLK -5,5%) siguen bajo presión por el crédito de IA; la rotación hacia financieras y small caps sostiene el índice amplio.
+- **[macro]** [Fed to skip October but raise rates again in December, nearly all economists say](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5) <sub>Reuters · 20/10 15:27 · ●●●●</sub>  
+  Esperada: casi todos los economistas ven pausa en octubre y subida en diciembre, por lo que está en buena parte descontado. **Impacto:** Mantiene el TNX en 5,1% y el dólar en máximos; presiona a activos de larga duración, small caps y oro.
+- **[macro]** [RBA's Hauser says monetary policy is working, but the inflation outlook has deteriorated and appears worse than forecast, slightly exceeding expectations](https://news.google.com/rss/articles/CBMilAJBVV95cUxQMTZXZExYdjVDbmxmTHJtUXktaDlJVVZzVDZveEI4eU5BM01mc1M0VDVlNXlkT2xVUVdfOGotbXFHUlNCcGRlQUlBeS1mSkNkSmt5U1FyenptRmI4SlpyanNaTTBJU3lNSHFFYWhvMlpydGk2NzZNRzVFTHVHRklOWGtPQTNFNHBfNEYzcWN3SGUyRHp2RTdaUzFPS3hmdTkzTjVGMVRLeU1OLXZteHMyckI1RU9hTDVEUml6S3ZkS09WaUYxTEYxY2lycXNDTXJJUF9lRmhOQUF2Z3R0aDVXV3hOVTJ3b2I3V3pVLUlod0xBNndyZ01vcms1X25GM2I4OHA4U1Q2ejg0RFlZcXBIOEpjbWM?oc=5) <sub>Newsquawk · 21/10 00:14 · ●●●</sub>  
+  Sorpresa moderada: el RBA admite que la inflación ha empeorado y supera ligeramente lo previsto, lo que sube la probabilidad de más endurecimiento. **Impacto:** AUD y bolsa australiana/Asia al abrir; refuerza el sesgo global de tipos altos más tiempo, algo negativo para renta variable de duración larga y favorable al dólar.
+- **[resultados]** [SpaceX (SPCX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates](https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2tRUkVWcm9CMk95WkQ3dkgxSXZ3Qmg1elhIQzh4eWhxdzBzTlU4ampjUnRQRk9sZmpQSHA4c1plUFZoclItWWNmT09RbV81N2lWcW1xU1VMaV9SS3UzUHNLdm9EQ2s3VGJPdXd5cUNSVDJrdXpkZHpyZFI4RDNlWG1iNW5ZQUkwRnJvRDlZUkZzUVBrSW1N?oc=5) <sub>Yahoo Finance · 21/10 00:00 · ●●●</sub>  
+  Sorpresa positiva según titulares (resultados por encima de estimaciones); no hay precio en la tabla. **Impacto:** Futuros al alza y apetito por el sector espacial/growth; no hay activo de la tabla con exposición directa, el efecto sobre el Nasdaq es indirecto.
+- **[resultados]** [Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance](https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html) <sub>CNBC · 21/10 00:29 · ●●</sub>  
+  Sorpresa negativa en la guía: bate en beneficios pero cae por publicidad e ingresos futuros. **Impacto:** NFLX cae tras el cierre; efecto limitado sobre el índice, pero refuerza el castigo a la guía en un mercado exigente.
+- **[política/regulación]** [Tariffs on Metals, Autos Mire Down U.S.-Mexico Trade Talks](https://news.google.com/rss/articles/CBMipAFBVV95cUxPd09iVDFEOVNzcDYwaExETk1TRU9oUnQ2bE5nZ2ljeTRfQUpqR05XR29CdEhSZ1hTMnhCLUZMN0MydHJGbm9PenpSYmNIYUFNaGhvSEhWMTF0N3ZYalRCcGpXWWNPSTdncGl4VHljUjRPUTVfSFg0WkNpS0pid2FZdEZXTzlxOVAxMzU1RVVrTVZkU0xJTE9uNFFsOU9lY3oyR05TVQ?oc=5) <sub>WSJ · 20/10 23:44 · ●●</sub>  
+  Esperada: negociación comercial atascada por aranceles, sin cambio material. **Impacto:** Mantiene la presión inflacionaria vía aranceles y un riesgo para industriales y automoción; efecto débil a corto plazo.
 
-**Divergencias precio-noticia:** El Russell 2000 sube +1,7% pese a un contexto de Fed restrictiva y tendencia bajista: parece más rebote técnico/rotación que cambio fundamental. · El S&P 500 cierra al alza (+0,3%) con Nasdaq y semis a la baja: el avance viene de valor y financieras, no de tecnología. · El índice dólar baja -0,3% pese a un mensaje de más subidas de la Fed y máximos de 52 semanas: toma de beneficios o digestión del descuento ya incorporado. · Cripto sube (ETH +2,2%, SOL +1,7%) en un día de tipos al alza y tecnología débil: rebote tras un mes de caídas, sin catalizador claro.
+**Divergencias precio-noticia:** El Russell 2000 sube +1,7% con el rendimiento del bono casi plano (5,12%) y tendencia bajista: el rebote parece de posicionamiento/rotación más que de macro. · El petróleo cae ligeramente (-0,2%) tras haber subido durante la sesión, mientras XLE sigue en máximos de 52 semanas: la energía no necesita un Brent al alza para sostenerse. · El oro cae (-0,6%) pese a que las tenencias de ETF suben a máximos de 2026, lo que indica que la presión viene de tipos/dólar y no de flujos.
 
 ## 🎯 Hipótesis de hoy
 
@@ -65,11 +65,11 @@ _Revisión de actualización: solo observación. Las hipótesis se registran con
 
 ## 👀 Valores a vigilar
 
-- **Semiconductores (SMH)** — Resultados de Texas Instruments y gran tecnología pueden decidir si continúa la caída de la IA.
-- **Russell 2000** — Rebote de +1,7% en índice bajista; comprobar si se sostiene con el bono 10a en 5,1%.
-- **Índice dólar** — En máximos de 52 semanas con la Fed y el BoE restrictivos; ver si aguanta tras la caída de hoy.
-- **IBEX 35** — Apertura de mañana tras caída de -1,5% y banca débil; el cierre de EE. UU. con rotación a valor puede ayudar.
-- **Brent** — Brent en 109 y máximos de energía: determina la inflación y el apetito de riesgo.
+- **Nikkei 225** — Primera bolsa asiática en reaccionar al RBA y a los futuros al alza; viene de -6% en 5 sesiones.
+- **Semiconductores (SMH)** — Termómetro de la tensión por el crédito de IA tras -7,1% a 5d.
+- **Índice dólar** — En máximos de 52 semanas; el RBA y el BoE hawkish pueden cambiar el diferencial.
+- **Brent** — Brent en 109 y subiendo un 9% en un mes; sostiene la inflación y la hipótesis de energía.
+- **Russell 2000** — Rebote de +1,7% en un índice bajista; verificar si continúa o se revierte.
 - **S&P 500** — cruza al alza su media de 50 sesiones
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **EUR/USD** — en mínimos de 52 semanas
@@ -81,6 +81,8 @@ _Revisión de actualización: solo observación. Las hipótesis se registran con
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
 Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 0.
+
+**Se compran en la próxima sesión:** EFX (reacción +11.0%), HAS (reacción +10.9%)
 
 ## 📈 Tendencias (6 meses)
 
@@ -100,13 +102,13 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 0.
 | Hang Seng | 24.187 | 🔵▲ +0.5% | 🔴▼ -0.1% | 🔴▼ -2.1% | 🔴▼ -3.8% | 43 | ↘️ bajista | — |
 | Shanghái Compuesto | 3.731 | 🔵▲ +0.4% | 🔴▼ -1.7% | 🔴▼ -5.2% | 🔴▼ -6.0% | 32 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 5.117 | ▼ -2 pb | ▼ -10 pb | ▲ +15 pb | ▲ +46 pb | 50 | ↗️ alcista | — |
-| EUR/USD | 1.124 | 🔵▲ +0.1% | 🔵▲ +0.7% | 🔴▼ -2.1% | 🔴▼ -1.5% | 37 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.71 | 🔴▼ -0.3% | 🔴▼ -0.5% | 🔵▲ +1.3% | 🔵▲ +0.6% | 54 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 109.12 | 🔴▼ -0.4% | 🔵▲ +3.2% | 🔵▲ +8.8% | 🔵▲ +16.0% | 64 | ↗️ alcista | — |
-| Oro | 4.142 | 🔴▼ -0.4% | 🔴▼ -0.8% | 🔴▼ -5.5% | 🔴▼ -0.2% | 40 | ↘️ bajista | — |
-| Bitcoin | 82.920 | 🔵▲ +1.3% | 🔵▲ +0.9% | 🔴▼ -0.8% | 🔵▲ +28.2% | 53 | ➡️ lateral | — |
-| Ethereum | 2.457 | 🔵▲ +2.2% | 🔵▲ +0.7% | 🔴▼ -8.2% | 🔵▲ +28.2% | 44 | ➡️ lateral | — |
-| Solana | 106.73 | 🔵▲ +1.7% | 🔵▲ +1.3% | 🔴▼ -10.4% | 🔵▲ +38.6% | 45 | ➡️ lateral | — |
+| EUR/USD | 1.123 | 🔵▲ +0.1% | 🔵▲ +0.2% | 🔴▼ -2.0% | 🔴▼ -1.3% | 37 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 101.78 | 🔴▼ -0.2% | 🔴▼ -0.4% | 🔵▲ +1.3% | 🔵▲ +0.6% | 55 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 109.35 | 🔴▼ -0.2% | 🔵▲ +3.5% | 🔵▲ +9.0% | 🔵▲ +16.2% | 64 | ↗️ alcista | — |
+| Oro | 4.134 | 🔴▼ -0.6% | 🔴▼ -1.0% | 🔴▼ -5.7% | 🔴▼ -0.4% | 40 | ↘️ bajista | — |
+| Bitcoin | 82.963 | 🔵▲ +1.4% | 🔵▲ +1.0% | 🔴▼ -0.8% | 🔵▲ +28.3% | 53 | ➡️ lateral | — |
+| Ethereum | 2.448 | 🔵▲ +1.8% | 🔵▲ +0.3% | 🔴▼ -8.5% | 🔵▲ +27.8% | 43 | ➡️ lateral | — |
+| Solana | 106.48 | 🔵▲ +1.5% | 🔵▲ +1.1% | 🔴▼ -10.6% | 🔵▲ +38.2% | 45 | ➡️ lateral | — |
 | Semiconductores (SMH) | 546.36 | 🔴▼ -0.4% | 🔴▼ -7.1% | 🔴▼ -8.3% | 🔴▼ -6.9% | 35 | ➡️ lateral | — |
 | Financieras (XLF) | 55.72 | 🔵▲ +1.2% | 🔵▲ +1.6% | 🔴▼ -0.3% | 🔴▼ -0.6% | 56 | ➡️ lateral | — |
 | Energía (XLE) | 67.97 | 🔵▲ +0.3% | 🔵▲ +1.1% | 🔵▲ +8.8% | 🔵▲ +14.8% | 67 | ↗️ alcista | en máximos de 52 semanas |
