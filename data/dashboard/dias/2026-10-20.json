@@ -12,5 +12,19 @@
    "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real"
   ],
   "coste_usd": 0.0348
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-20T07:51:44+00:00",
+  "hora_madrid": "09:51",
+  "clima": "risk-off",
+  "resumen": "Apertura de Europa (20-oct): las bolsas europeas abren a la baja (Euro Stoxx -0,9%, IBEX -0,4%) por la tensión en la deuda francesa, el petróleo alto (Brent ~110, gas europeo en máximos desde 2022) y el temor a una Fed más restrictiva. Respecto a la revisión de Asia, destaca el castigo a la banca española (SAN -3,1%, BBVA -2,6%) y a Iberdrola (-2,4%, -3σ), además de un Bitcoin que pierde los 82.000 $.",
+  "titulares": [
+   "Déficit, polarización política y falta de reformas: ¿Por qué la prima de riesgo de Francia se dispara?",
+   "Un gas en máximos desde 2022 y una menor eólica disparan los precios en los mercados eléctricos europeos",
+   "El petróleo y la tensión en la deuda contienen a un IBEX pendiente de resultados empresariales"
+  ],
+  "coste_usd": 0.0383
  }
 ]
