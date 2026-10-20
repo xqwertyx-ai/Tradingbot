@@ -127,11 +127,13 @@ def render(ctx: dict) -> str:
             ev = f"{h['ev_pct']:+.1f}%{op}" if h.get("ev_pct") is not None else op
             L.append(f"| {arrow} **{ctx['names'].get(h['ticker'], h['ticker'])}** | {h.get('tesis', '')} "
                      f"| {h['horizonte_dias']} ses. | {obj} | {h['confianza']}% | {ev} |")
-        L += ["", "<details><summary>Disparadores y argumentos en contra</summary>", ""]
-        for h in hyps:
-            L += [f"- **{ctx['names'].get(h['ticker'], h['ticker'])}** · disparador: {h.get('disparador', '')}  ",
-                  f"  En contra: {h.get('contra', '')} Sesgos: {h.get('sesgos', '')}"]
-        L += ["", "</details>", "", "<sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado "
+        contra = [h for h in hyps if h.get("contra")]
+        if contra:
+            L += ["", "<details><summary>Argumentos en contra</summary>", ""]
+            for h in contra:
+                L += [f"- **{ctx['names'].get(h['ticker'], h['ticker'])}** · {h['contra']} Sesgos: {h.get('sesgos', '')}"]
+            L += ["", "</details>"]
+        L += ["", "<sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado "
               "neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>"]
     L.append("")
 

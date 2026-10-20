@@ -97,7 +97,7 @@ def main(evento: str) -> None:
     if mode != "cierre" and len(book):
         ult = book["fecha"].max()
         registradas = {"fecha": ult, "hipotesis": [
-            {"ticker": h.ticker, "direccion": h.direccion, "tesis": h.tesis, "disparador": h.disparador,
+            {"ticker": h.ticker, "direccion": h.direccion, "tesis": h.tesis,
              "horizonte_dias": int(h.horizonte_dias), "objetivo_pct": float(h.objetivo_pct),
              "invalidacion_pct": float(h.invalidacion_pct), "confianza": int(h.confianza),
              "ev_pct": float(h.ev_pct), "operable": bool(h.operada), "contra": "", "sesgos": ""}

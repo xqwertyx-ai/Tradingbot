@@ -76,7 +76,6 @@ SCHEMA = """Responde SOLO con un objeto JSON válido con esta forma:
  "divergencias": ["frase", ...],               // reacciones de precio que no cuadran con la noticia
  "hipotesis": [ {"ticker": "<ticker de la tabla>", "direccion": "alcista" | "bajista",
                  "horizonte_dias": 1-20, "tesis": "1 frase con el mecanismo",
-                 "disparador": "condición con precio de cierre",
                  "objetivo_pct": <ganancia buscada al cierre en %, p. ej. 4>,
                  "invalidacion_pct": <pérdida máxima al cierre en %, p. ej. 2>,
                  "confianza": <probabilidad 0-100 de tocar el objetivo antes que el stop>,

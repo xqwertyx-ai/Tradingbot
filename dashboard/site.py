@@ -313,8 +313,8 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
                 f'<p>{E(h.get("tesis", ""))}</p>'
                 f'<p class="against">Objetivo +{h.get("objetivo_pct") or 0:.1f}% · stop −{h["invalidacion_pct"]:.1f}% · '
                 f'plazo {h["horizonte_dias"]} sesiones · valor esperado neto {h.get("ev_pct") or 0:+.1f}%</p>'
-                f'<p class="against">Disparador: {E(h.get("disparador", ""))}</p>'
-                f'<p class="against">En contra: {E(h.get("contra", ""))}</p></div>')
+                + (f'<p class="against">En contra: {E(h["contra"])}</p>' if h.get("contra") else "")
+                + '</div>')
         hyp_html = obs + f'<div class="hyp">{"".join(cards)}</div>'
 
     watch, seen = [], set()

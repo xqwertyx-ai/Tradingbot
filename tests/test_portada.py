@@ -28,7 +28,7 @@ def fake_ai(date, mode, table, items, open_h, previos=None, final=False):
                       "importancia": 4}, {"id": 999}],
         "divergencias": ["Ejemplo de divergencia."],
         "hipotesis": [{"ticker": t[0], "direccion": "alcista", "horizonte_dias": 5, "tesis": "Prueba",
-                       "disparador": "cierre > X", "objetivo_pct": 6, "invalidacion_pct": 3, "confianza": 65,
+                       "objetivo_pct": 6, "invalidacion_pct": 3, "confianza": 65,
                        "contra": "Ninguno.", "sesgos": "Confirmación."},
                       {"ticker": "INVENTADO", "direccion": "alcista", "horizonte_dias": 5,
                        "objetivo_pct": 4, "invalidacion_pct": 2, "confianza": 90},
@@ -76,6 +76,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         portada.main("manual")  # una revisión de observación sigue mostrando las hipótesis del último cierre
         readme = open("README.md", encoding="utf-8").read()
         assert "registradas en el cierre del" in readme and "+6.0% / −3.0%" in readme
+        assert "isparador" not in readme
         assert "registradas en el cierre del" in open("site/index.html", encoding="utf-8").read()
     finally:
         prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance = orig
