@@ -54,5 +54,19 @@
    "Fed to skip October but raise rates again in December, nearly all economists say"
   ],
   "coste_usd": 0.0412
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-20T15:51:58+00:00",
+  "hora_madrid": "17:51",
+  "clima": "mixto",
+  "resumen": "Cierre de Europa (20-oct): las bolsas europeas cierran casi planas (Euro Stoxx -0,4%, IBEX +0,3%, DAX -0,1%) tras la apertura débil, con el IBEX recuperándose gracias al giro del petróleo (Brent -1%) y al alivio del bono francés. Frente a la apertura de EE. UU. el cambio es un rebote intradía en Wall Street (S&P +0,4%, Russell +1,7%, financieras +1,2%) por resultados sólidos y el petróleo a la baja, mientras los semis siguen sin rebotar (SMH 0,0%) tras el contagio de la caída de Elice.",
+  "titulares": [
+   "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates",
+   "Bank Earnings Look Strong, But Markets Shrug",
+   "Fed to skip October but raise rates again in December, nearly all economists say"
+  ],
+  "coste_usd": 0.038
  }
 ]
