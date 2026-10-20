@@ -26,5 +26,19 @@
    "El petróleo y la tensión en la deuda contienen a un IBEX pendiente de resultados empresariales"
   ],
   "coste_usd": 0.0383
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-20T08:51:34+00:00",
+  "hora_madrid": "10:51",
+  "clima": "risk-off",
+  "resumen": "Cierre de Asia (20-oct): Nikkei -1,3% (-5,5% en 5 días) y Hang Seng -1,3% con las tecnológicas coreanas castigadas por el miedo a la IA, mientras Shanghái aguanta (+0,1%) en mínimos de 52 semanas. Frente a la apertura de Asia no hay catalizador nuevo: siguen dominando la inflación liderada por la energía (Brent 110,6), el bono a 10 años en 5,14%, el dólar fuerte y la tensión de deuda en Francia y en crédito ligado a IA. El oro sigue débil y el bitcoin pierde los 82.000 $.",
+  "titulares": [
+   "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings",
+   "Las dudas sobre la deuda vinculada a la IA dispara la contrataciÃ³n de seguros contra impagos",
+   "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path"
+  ],
+  "coste_usd": 0.0363
  }
 ]
