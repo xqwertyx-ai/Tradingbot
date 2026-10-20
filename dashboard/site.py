@@ -289,14 +289,19 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
                + E(" · ".join(ai["divergencias"])) + "</p>")
 
     hyps = ai.get("hipotesis") or [] if ok_ai else []
+    reg = ctx.get("registradas")
+    obs = ""
     if ctx["mode"] != "cierre":
-        hyp_html = (f'<p class="empty">Revisión de {E(ctx.get("etiqueta", ctx["mode"]))}: solo observación. '
-                    'Las hipótesis se registran con precios de cierre de EE. UU.</p>')
+        hyps = reg["hipotesis"] if reg else []
+        obs = (f'<p class="note">Revisión de {E(ctx.get("etiqueta", ctx["mode"]))}: solo observación. '
+               + (f'Estas son las hipótesis registradas en el cierre del {E(reg["fecha"])}.</p>' if hyps else
+                  'Las hipótesis se registran con precios de cierre de EE. UU.</p>'))
+        hyp_html = obs
     elif not ok_ai:
         hyp_html = '<p class="empty">Sin análisis con IA no se generan hipótesis.</p>'
     elif not hyps:
         hyp_html = '<p class="empty">Ninguna oportunidad supera los filtros: no operar hoy.</p>'
-    else:
+    if hyps:
         cards = []
         for h in hyps:
             arrow = "▲ al alza" if h["direccion"] == "alcista" else "▼ a la baja"
@@ -310,7 +315,7 @@ def build(ctx: dict, series: dict, out_dir: str = "site") -> str:
                 f'plazo {h["horizonte_dias"]} sesiones · valor esperado neto {h.get("ev_pct") or 0:+.1f}%</p>'
                 f'<p class="against">Disparador: {E(h.get("disparador", ""))}</p>'
                 f'<p class="against">En contra: {E(h.get("contra", ""))}</p></div>')
-        hyp_html = f'<div class="hyp">{"".join(cards)}</div>'
+        hyp_html = obs + f'<div class="hyp">{"".join(cards)}</div>'
 
     watch, seen = [], set()
     for v in (ai.get("vigilar") or []) if ok_ai else []:

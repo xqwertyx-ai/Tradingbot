@@ -93,6 +93,15 @@ def main(evento: str) -> None:
         refs = {r["ticker"]: r["last"] for r in rows}
         book = ledger.add(book, ai["hipotesis"], session, refs)
     ledger.save(book)
+    registradas = None
+    if mode != "cierre" and len(book):
+        ult = book["fecha"].max()
+        registradas = {"fecha": ult, "hipotesis": [
+            {"ticker": h.ticker, "direccion": h.direccion, "tesis": h.tesis, "disparador": h.disparador,
+             "horizonte_dias": int(h.horizonte_dias), "objetivo_pct": float(h.objetivo_pct),
+             "invalidacion_pct": float(h.invalidacion_pct), "confianza": int(h.confianza),
+             "ev_pct": float(h.ev_pct), "operable": bool(h.operada), "contra": "", "sesgos": ""}
+            for h in book[book["fecha"] == ult].itertuples()]}
 
     panels = [{"name": r["name"], "df": series[r["ticker"]], "trend": r["trend"],
                "chg_1m": r["chg_1m"], "level": r["level"]} for r in rows if r["key"]]
@@ -117,7 +126,7 @@ def main(evento: str) -> None:
         with open("data/pead/vivo-estado.json", encoding="utf-8") as f:
             pead_state = json.load(f)
     etiqueta = "cierre EE. UU." if mode == "cierre" else mode
-    ctx = {"now": now, "mode": mode, "etiqueta": etiqueta, "dia": entradas, "pead": pead_state, "rows": rows, "news": items, "feeds": feeds, "ai": ai,
+    ctx = {"now": now, "mode": mode, "etiqueta": etiqueta, "dia": entradas, "registradas": registradas, "pead": pead_state, "rows": rows, "news": items, "feeds": feeds, "ai": ai,
            "names": {r["ticker"]: r["name"] for r in rows}, "stats": ledger.stats(book),
            "charts": made,
            "quality": {"ok": quality["ok"], "sin_contraste": quality["sin_contraste"],

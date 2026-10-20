@@ -106,14 +106,19 @@ def render(ctx: dict) -> str:
     # --- Hipótesis
     L += ["## 🎯 Hipótesis de hoy", ""]
     hyps = ai.get("hipotesis") or []
+    reg = ctx.get("registradas")
     if ctx["mode"] != "cierre":
+        hyps = reg["hipotesis"] if reg else []
         L.append(f"_Revisión de {ctx.get('etiqueta', ctx['mode'])}: solo observación. Las hipótesis se registran "
-                 "con precios de cierre de EE. UU._")
+                 "con precios de cierre de EE. UU."
+                 + (f" Estas son las registradas en el cierre del {reg['fecha']}._" if hyps else "_"))
+        if hyps:
+            L.append("")
     elif not ai or ai.get("error"):
         L.append("_Sin análisis con IA no se generan hipótesis._")
     elif not hyps:
         L.append("_Ninguna oportunidad supera los filtros: **no operar hoy**._")
-    else:
+    if hyps and (ctx["mode"] != "cierre" or (ai and not ai.get("error"))):
         L += ["| Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |", "|---|---|--:|--:|--:|--:|"]
         for h in hyps:
             arrow = "🔵▲" if h["direccion"] == "alcista" else "🔴▼"

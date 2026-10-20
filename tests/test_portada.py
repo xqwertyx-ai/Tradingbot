@@ -45,7 +45,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
     os.chdir(tmp_path)
     orig = (prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance)
     try:
-        counter = iter(range(100))
+        counter = iter(range(10000))
         prices.prefetch_yfinance = lambda tickers: None
         real_mode, portada.effective_mode = portada.effective_mode, (lambda m, now: m)  # sin depender de la hora
         prices.fetch = lambda a: (fake_series(next(counter)), "Yahoo")
@@ -73,6 +73,10 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
         portada.main("usa-cierre")  # reejecutar el mismo día no duplica hipótesis ni revisiones
         assert len(ledger.load()) == 1
+        portada.main("manual")  # una revisión de observación sigue mostrando las hipótesis del último cierre
+        readme = open("README.md", encoding="utf-8").read()
+        assert "registradas en el cierre del" in readme and "+6.0% / −3.0%" in readme
+        assert "registradas en el cierre del" in open("site/index.html", encoding="utf-8").read()
     finally:
         prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance = orig
         portada.effective_mode = real_mode
