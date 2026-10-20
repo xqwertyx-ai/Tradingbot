@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-20T21:01:02.307180+00:00",
+ "generado": "2026-10-20T21:57:36.840048+00:00",
  "modo": "actualización",
  "evento": "manual",
  "activos": [
@@ -275,21 +275,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.1242270469665527,
-   "date": "2026-10-21",
-   "chg_1d": 0.0023608469288582956,
-   "chg_5d": 0.00337259247019972,
-   "chg_1m": -0.019392950509742657,
-   "chg_3m": -0.011826914684241352,
-   "vol20_ann": 0.046207933882109926,
-   "ma50": 1.145743715763092,
-   "ma200": 1.158039693236351,
-   "dist_ma50": -0.018779652465480634,
-   "dist_ma200": -0.029198175561066297,
-   "rsi14": 38.973943429610024,
-   "from_high": -0.06451946007237874,
-   "from_low": 0.007352378820124406,
-   "z_1d": 0.8172010555076892,
+   "last": 1.123974323272705,
+   "date": "2026-10-20",
+   "chg_1d": 0.001269988459767113,
+   "chg_5d": 0.007125928286961569,
+   "chg_1m": -0.020905924068593817,
+   "chg_3m": -0.015072496045333117,
+   "vol20_ann": 0.045372757010052264,
+   "ma50": 1.146394567489624,
+   "ma200": 1.1582517975568771,
+   "dist_ma50": -0.01955717939767887,
+   "dist_ma200": -0.029594147279956018,
+   "rsi14": 37.50608289524396,
+   "from_high": -0.0647297539789442,
+   "from_low": 0.007125928286961569,
+   "z_1d": 0.43799333561129183,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -303,21 +303,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.71800231933594,
+   "last": 101.70500183105469,
    "date": "2026-10-20",
-   "chg_1d": -0.002569141292147692,
-   "chg_5d": -0.004521413040321165,
-   "chg_1m": 0.012824873147927018,
-   "chg_3m": 0.005714879703140108,
-   "vol20_ann": 0.05148357030311878,
-   "ma50": 100.4321598815918,
-   "ma200": 99.50704010009765,
-   "dist_ma50": 0.012803094539240556,
-   "dist_ma200": 0.022219153710272055,
-   "rsi14": 53.880782943168384,
-   "from_high": -0.008403192594385267,
-   "from_low": 0.0571398984502387,
-   "z_1d": -0.8108069334779462,
+   "chg_1d": -0.002696622051642672,
+   "chg_5d": -0.004648644281683656,
+   "chg_1m": 0.012695424893005791,
+   "chg_3m": 0.005586340170218307,
+   "vol20_ann": 0.05158814454613908,
+   "ma50": 100.43189987182618,
+   "ma200": 99.50697509765625,
+   "dist_ma50": 0.012676270794969247,
+   "dist_ma200": 0.022089172454908823,
+   "rsi14": 53.69585771457635,
+   "from_high": -0.008529927708922136,
+   "from_low": 0.05700478633096706,
+   "z_1d": -0.8510391636007036,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -331,21 +331,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 109.19999694824219,
+   "last": 109.12000274658203,
    "date": "2026-10-20",
-   "chg_1d": -0.0031949438043398226,
-   "chg_5d": 0.03321027936187115,
-   "chg_1m": 0.08829979005097721,
-   "chg_3m": 0.16083764539706302,
-   "vol20_ann": 0.31472958104203635,
-   "ma50": 99.3645994567871,
-   "ma200": 90.39449989318848,
-   "dist_ma50": 0.09898291288068273,
-   "dist_ma200": 0.20803806733014252,
-   "rsi14": 63.89976379450607,
-   "from_high": -0.07731306838909413,
-   "from_low": 0.853360494600248,
-   "z_1d": -0.10681970099803409,
+   "chg_1d": -0.003925151010471639,
+   "chg_5d": 0.03245340359488913,
+   "chg_1m": 0.08750255859214029,
+   "chg_3m": 0.15998727650241373,
+   "vol20_ann": 0.31499148913130365,
+   "ma50": 99.3629995727539,
+   "ma200": 90.39409992218017,
+   "dist_ma50": 0.09819553773317824,
+   "dist_ma200": 0.20715846322406994,
+   "rsi14": 63.66095150320796,
+   "from_high": -0.07798898053688896,
+   "from_low": 0.852002819716573,
+   "z_1d": -0.13123343726458728,
    "trend": "alcista",
    "flags": []
   },
@@ -357,21 +357,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4142.2998046875,
+   "last": 4142.5,
    "date": "2026-10-20",
-   "chg_1d": -0.00427881362248439,
-   "chg_5d": -0.008378618159205486,
-   "chg_1m": -0.05511076964304873,
-   "chg_3m": -0.002312217992257115,
-   "vol20_ann": 0.1801815488425598,
-   "ma50": 4364.073974609375,
-   "ma200": 4538.85599975586,
-   "dist_ma50": -0.05081815093240394,
-   "dist_ma200": -0.08736919503277696,
-   "rsi14": 40.18445095268068,
-   "from_high": -0.22113795864390673,
-   "from_low": 0.04590324572339344,
-   "z_1d": -0.32888314745298497,
+   "chg_1d": -0.004230690907212953,
+   "chg_5d": -0.008330693585471116,
+   "chg_1m": -0.055065103611214083,
+   "chg_3m": -0.002264000232386043,
+   "vol20_ann": 0.1801759774503909,
+   "ma50": 4364.077978515625,
+   "ma200": 4538.8570007324215,
+   "dist_ma50": -0.05077314832742541,
+   "dist_ma200": -0.08732528931148587,
+   "rsi14": 40.20085390043807,
+   "from_high": -0.22110031662446938,
+   "from_low": 0.04595379371291508,
+   "z_1d": -0.325184283361479,
    "trend": "bajista",
    "flags": []
   },
@@ -383,21 +383,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 82720.890625,
+   "last": 82886.609375,
    "date": "2026-10-20",
-   "chg_1d": 0.010596384376706292,
-   "chg_5d": 0.007054046530057256,
-   "chg_1m": -0.010781067542154465,
-   "chg_3m": 0.27891127704103247,
-   "vol20_ann": 0.21445611206597348,
-   "ma50": 81565.49671875,
-   "ma200": 72649.1598046875,
-   "dist_ma50": 0.01416522859210878,
-   "dist_ma200": 0.1386352002884781,
-   "rsi14": 51.774311987753144,
-   "from_high": -0.2773729049014456,
-   "from_low": 0.41261102944766836,
-   "z_1d": 0.5190324380649007,
+   "chg_1d": 0.012620960856819963,
+   "chg_5d": 0.009071526473907854,
+   "chg_1m": -0.008799317542551477,
+   "chg_3m": 0.2814733816870394,
+   "vol20_ann": 0.2159499123942071,
+   "ma50": 81568.81109375,
+   "ma200": 72649.9883984375,
+   "dist_ma50": 0.01615566370993693,
+   "dist_ma200": 0.1409032706298774,
+   "rsi14": 52.423686959220305,
+   "from_high": -0.27592523118793666,
+   "from_low": 0.41544098125630535,
+   "z_1d": 0.6182003078934284,
    "trend": "lateral",
    "flags": []
   },
@@ -409,21 +409,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2445.909912109375,
+   "last": 2454.0400390625,
    "date": "2026-10-20",
-   "chg_1d": 0.017088517574856743,
-   "chg_5d": 0.0022249441438082496,
-   "chg_1m": -0.08622944085172968,
-   "chg_3m": 0.27626479516692015,
-   "vol20_ann": 0.3120046288383591,
-   "ma50": 2549.931083984375,
-   "ma200": 2151.2460601806642,
-   "dist_ma50": -0.0407937189080666,
-   "dist_ma200": 0.13697356958969387,
-   "rsi14": 43.053726713169205,
-   "from_high": -0.4117565581696193,
-   "from_low": 0.5630648558722855,
-   "z_1d": 0.7151633058187685,
+   "chg_1d": 0.02046928754087629,
+   "chg_5d": 0.005556308063279225,
+   "chg_1m": -0.08319209650183235,
+   "chg_3m": 0.2805070588574754,
+   "vol20_ann": 0.315312064548299,
+   "ma50": 2550.0936865234376,
+   "ma200": 2151.2867108154296,
+   "dist_ma50": -0.0376667131755023,
+   "dist_ma200": 0.14073127804164876,
+   "rsi14": 43.965710993565054,
+   "from_high": -0.4098012556305738,
+   "from_low": 0.5682604338661008,
+   "z_1d": 0.8566502788414483,
    "trend": "lateral",
    "flags": []
   },
@@ -435,21 +435,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 106.58000183105469,
+   "last": 106.63999938964844,
    "date": "2026-10-20",
-   "chg_1d": 0.015761267939955248,
-   "chg_5d": 0.011861893727966866,
-   "chg_1m": -0.10478698977842638,
-   "chg_3m": 0.3835951664683497,
-   "vol20_ann": 0.3452867705206915,
-   "ma50": 109.44975570678712,
-   "ma200": 87.83475975036622,
-   "dist_ma50": -0.026219828972669612,
-   "dist_ma200": 0.21341485004301286,
-   "rsi14": 44.78359082421028,
-   "from_high": -0.4671762525444204,
-   "from_low": 0.7137857790778499,
-   "z_1d": 0.49426546573800256,
+   "chg_1d": 0.016333074987651797,
+   "chg_5d": 0.012431505683443866,
+   "chg_1m": -0.1042830435022779,
+   "chg_3m": 0.3843740399028033,
+   "vol20_ann": 0.345745012092131,
+   "ma50": 109.45095565795899,
+   "ma200": 87.83505973815917,
+   "dist_ma50": -0.025682336453004218,
+   "dist_ma200": 0.214093776534652,
+   "rsi14": 44.91074892993394,
+   "from_high": -0.46687630768179234,
+   "from_low": 0.7147505281952347,
+   "z_1d": 0.5121970482616107,
    "trend": "lateral",
    "flags": []
   },
@@ -770,11 +770,38 @@
  ],
  "titulares": [
   {
+   "title": "How far will the Fed go?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3VDYlNsNDNiOFZ3dmlOdllBcWY3Z09vLW1SUFBPRTA2VHk3UDUweTFLY3dyN3A4SThfcGhIYUwtQlBkUUFLMVZjOGR5dW56RHJfcXNqRlMxbzhJb2xUR3h2V1Q3NjFISlVLcWNVdXZqTldBckV0RE43NzEyNVdKa0poOEkxZw?oc=5",
+   "source": "T. Rowe Price",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T21:47:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-20T21:30:06+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T21:06:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
    "title": "US stocks close mixed as upbeat earnings offset AI concerns",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUxud1NQQXdUV0xFdTJ0aUVmSkNoUjhQN0xDTm5LUlpCNXlyRldKdC1MQnJBLWxveE1VQUZCSzJJOV9pZVN5Rk15U3RQYlFrZjI5My1HRHFTQmhfbTFrdTZNMVlhXzIxQkZhOWtyRXMyMkwxbWo2U0puYVVJZUR3TTlzZjA5eVRsZHEtNlFhQjZodGdvZ3VYWHN1ZG8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEg2UERhZmpxOThIazd4bHdCd05fZjhNOXZxQlJzcFowTzJqM3dBWDNjVGExMDYwWmtlOVVXdnVKVXRkV0NuX2RPS2NuNGNqTmpUVzQzUzZheHFJUFB0S3ZpVjNqS0h1YXY5NWZDOG9lYWZHd1JpS2F3REpGbld1RHFaS1p3bHk3U3B3aF90cV90QzhTSGgtNm5pbE9Ea3Qx?oc=5",
    "source": "Anadolu Ajansı",
    "feed": "Google News · markets",
-   "published": "2026-10-20T20:47:31+00:00",
+   "published": "2026-10-20T20:49:20+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -783,7 +810,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXpRalVQWnpMMWRTemZJSFZzSXJaTUhYRVZFWUU4V0s2ellUelJ5amtwZXhzNFFoM2FJX2NVYnpzbGVZeXY5V0Z5QmxrYTFLSXU5VlduQUJzQTFIbXo0ZTQybWVuSU9OS3BpUnNUTzhGaG94Yk1PaFVTa0xOUkY4bnR3NV9rdHJmdUxlblFaU3NYUlJ0MnFaMlNHR2hzYllyRUgw?oc=5",
    "source": "ETF Database",
    "feed": "Google News · markets",
-   "published": "2026-10-20T20:37:53+00:00",
+   "published": "2026-10-20T20:48:45+00:00",
    "category": "macro",
    "score": 3
   },
@@ -793,15 +820,6 @@
    "source": "TradingView",
    "feed": "Google News · mercados ES",
    "published": "2026-10-20T20:35:22+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-   "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-20T20:30:51+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -842,12 +860,12 @@
    "score": 3
   },
   {
-   "title": "Netflix Q3 Revenue Meets Wall Street Estimates, Q4 Earnings Will Be Crimped by Costs Associated With Mass Layoffs",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlEtTzRLRTZNSy13ZjRCdXBSV2VOcURTOU5PVmVDVmkzaVdzSElpaWtvS29oc2xlM0l4LXIwOXpWeDctNEoxRzd3NzFURE5RWEsydDlhOS05SHRyWU5ITXFiMjBQRGZEanJRVUVsdHBSeVJ4YWV6bDNQSnhwZU10dzRjVVZkUVN3VVNrWVpadnFHeXZDUXZ5NjZaX3RUUEtxNFpXUQ?oc=5",
-   "source": "Variety",
+   "title": "Bank of England's Greene says inflation risks are bigger than thought",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5",
+   "source": "Reuters",
    "feed": "Google News · markets",
-   "published": "2026-10-20T20:13:00+00:00",
-   "category": "resultados",
+   "published": "2026-10-20T20:08:58+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -866,6 +884,15 @@
    "feed": "Google News · markets",
    "published": "2026-10-20T19:44:26+00:00",
    "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Will inflation impact the midterm elections? - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XRlM0MUUyT3hFZXR2Y2oyeEJkZzc5RlBtUzFsRFlHNENsdEpmUVFBUERSLVdVRHB1QmxlNTJyWi1DeDNWREtWamlqdEs?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T19:12:07+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -892,15 +919,6 @@
    "source": "Flathead Beacon",
    "feed": "Google News · markets",
    "published": "2026-10-20T18:31:16+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bank of England's Greene says inflation risks are bigger than thought",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-20T18:27:43+00:00",
    "category": "macro",
    "score": 3
   },
@@ -959,15 +977,6 @@
    "score": 3
   },
   {
-   "title": "Genuine Parts Stocks Fall 6.28% as Auto Margins Squeeze Earnings Outlook",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkxrT1BKYTZ0LVhnRjd0UFkzcUVKYUtzTWZhWDdUd0tSRWtWc1ZadzRrcThTQVFoNGx4eXFBVXhzTGZMVUFaaEdOMEVGcHQza1Izb1hLMUlmRzlTUS03VzF0Nlh3QjZBd21JdERHaGo4N0ZNSFNkNnRCYUktVXpFMXdxcDEzRTNFX1dfS2VBc0U1cXBiM0hz?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-20T17:54:22+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "MSCI Stocks Rise 5.53% After Earnings Reveal a Growth Tradeoff",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ05Od0hyaGp0ZkNYcEFYVi1oZG9raGVtNXZhT0dPeGt0ZWktcU4zR0xLZjBZNnk0LTJUZ2I2eTdYSmUwWWdnV24xVzBHb0JVR3N5VmNQNlQ4LW90dk1COU45blV5R2RaWER0aEdFeDE0RGQyVnFXdmlnbnFvQ1RXSjdjaHRpeEk4NEk1amVIZw?oc=5",
    "source": "Yahoo Finance",
@@ -995,21 +1004,21 @@
    "score": 3
   },
   {
-   "title": "The Best \"Strong Buy\" Stocks to Buy Now During Q3 Earnings Season",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWowcXhTWWJNWkwxS19QZzVPdzQwMjRFcFhCeEIwdGpfOHZQc3dCSmtuZDBEcHhPbXNMajU5dy1jMXZSNXVTdV9XZXo1c0JhMjF1blJtUDN2Z0tEMVptczFPOVZfZ1hscTZXX1YtSlpvU05LUzBQdFloN2FCUDlrQW9yRlZJeDF4NlVPRjZISng2NzE2NEE?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-20T17:34:00+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "Bonta advises against crypto ATMs, warns of prolific scams",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0p3bUlxUzEzMGRhZ28zc2NjNTFTTXk1bUEtZDN2MkJpenNmYlZmQTZaQ2laeFJjR0J4MHktN0xoRzdQMm8wX3U2ZU5YbTdvaHYxWkxxTmFINGtvN1prTXVfWnZYc3RoM1ozY1JheUZlMzFaUTBSZTdLZXM3T0dLNHBLMHNvbl9Xa1M3UC02ejVRcHlY0gGcAUFVX3lxTE5OUVFLQUEtSVVWQjJmSVYxUi1sZjB0ckpvUG9NVGJwLWEzZzRMZnJKWkZkeG5KSWsxbVdEbUhaYXdYZWtXNklTWkdtb0x6S2hLU1dLTGN2LWpnQ3BrNHB1NnpYeE5tWW1TS19LV0tqVFF4N0wwNHlOTS1EbHZwZmtjVWgxcUpjOWZ1bDM2SWFCZXJ5R1BuRUZUbHpQMg?oc=5",
    "source": "NBC Bay Area",
    "feed": "Google News · crypto",
    "published": "2026-10-20T16:42:31+00:00",
    "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Gold Eases as Oil-Driven Inflation Worries Weigh",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0ZRQ2VSRjJSeEl6UUMzZFIyZkdfRmFKMG93UHdIdjV3RzBteVBTTzlSa0NSVzhBWEtKMGMxb0ZKeDVBVkxYaHR0Z084UDVMX3paV2RXdkRNMFNIWkpOVnFtNlRKRmJobzlJbVkyZ2VHMGp5bkROVHBQb3VNRFZKdm9oTlN4QQ?oc=5",
+   "source": "GV Wire",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T16:39:53+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -1028,15 +1037,6 @@
    "feed": "Google News · crypto",
    "published": "2026-10-20T16:29:30+00:00",
    "category": "cripto",
-   "score": 3
-  },
-  {
-   "title": "Reflecting On Diversified Banks Stocks’ Q3 Earnings: Bank of America (NYSE:BAC)",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkVPQWFtZGdhZW5fbjVraVZERHJSc0pyVjV5Mm96UjZMUmNWU2xGVnByU2gxM1RnWjlxcjVUQ1d2Z3ZFcXZ4dDZaMTBOU3I5MGh3RHZQOFl6YlA2QnBxZkhsMi1hSE1jU1ZBb0hJSUstOXBjYnpLdHVfUWxLTTh4OURFekFNLTBqNTk4RWZ4dDRCbnVMUjJTM1VKUlJ4RTg3UjNLWllB?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-20T16:13:50+00:00",
-   "category": "resultados",
    "score": 3
   },
   {
@@ -1082,15 +1082,6 @@
    "feed": "Google News · crypto",
    "published": "2026-10-20T14:17:15+00:00",
    "category": "cripto",
-   "score": 3
-  },
-  {
-   "title": "Rising inflation adds financial pressure for students entering work force",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3YzUC1hWHNiUmZZR0E2b1VQRGsyZHZhNGxSX0NnRVllOTEtNHRXRDQwUU91V180UHFaQlRNbUNKd0Jzbm5lRUhBT1hBdC1UOTc2VlV4LUNPdllJRUJlSUdVakJ5UW1xbjlhY0EyTm4zLXZUck9aMGZqZFJwNm9ORm5YZ2RiRGlUdG83MDNjNnVPZ1FGMl83X2lEYjJ0S2g5ODVzNWxpa0FzNF9OdDVmaFlVWmlSZW9GMUZPQQ?oc=5",
-   "source": "The Prospector – Assayer of Student Opinion.",
-   "feed": "Google News · markets",
-   "published": "2026-10-20T14:10:03+00:00",
-   "category": "macro",
    "score": 3
   },
   {
@@ -1157,15 +1148,6 @@
    "score": 3
   },
   {
-   "title": "O clamor dos mercados é música para os ouvidos do Fed — mas ainda muito fraco: Mike Dolan",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NbmpZdGxtMHUtY2pVY3ZuZURBQXFsN08zejdyODZDYU12bGVkSElnSWdWRnhJTVJTMTBxMThGSVlreDVXaERiaXlOWUVrZHBPNkVQaEt3VHRmeTdvMGM3SHdLa0hXWVh5NTZfdEtMSGJqejVWR29n?oc=5",
-   "source": "TradingView",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-20T10:01:54+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Yes, the Fed Can Kill the AI Boom",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5tcWhGWmV0bXc2ak9ETmVQdC1QTmM3Mmx0SEt6TkhrN0w3WVY2TDZ4MzlOcnZFWDdkeDFyWmNCdUpIRERqUnFJWFptcFNLUTlkNFI5eHNhenA1SjZteHhodWNDLWZPMmt3TFBvZGxPbkhwQmRZYm5ma1pDMnB2aXlweHBSdw?oc=5",
    "source": "WSJ",
@@ -1181,15 +1163,6 @@
    "feed": "Google News · markets",
    "published": "2026-10-20T08:26:02+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Iberdrola: HSBC eleva el potencial en Bolsa al 13,5% a la espera de sus resultados",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenJFdks2V1BxYW1CdTBiSld3YUhWOG1EY1d3T290VzF4QnF0OFNXZGMyUk1IOGkteXpYTXRwVTFqenZIVFcyR05tX0pDWFRjNWU3NldrVWdtOVZxVHJ0TFRIN0tPeFJDTTdGbzJTZ19rUmJZd3NJOFBINUJUTEVPcExGQ0FFUm56ZnZDNkJLVmRpS1VSMmdGcnlYUGFPVVVMU1ZRcldvdHBXYzk4TlVCa3owQUl2U2I4dVFGNVJncDFlZWhadllJWWFaeF9UcFVMeFlWUDMzZ1JjaXRDemJNNjVrd9IBngFBVV95cUxNd2FkdE5icHM3Slh6WWoyaWlNbjNrOGEtcnpaTG5BWEFrMlZUV3UyWWRCaDZ0TEc1OWY2b0l3NDhaZUp3dFJFa0tNWllLdDNoWkh4Smlrak9yenBndHNpdmlNN1FDa3A4Y3JmeTB4MUxRbFl4T2N3R2FmOUR1UFkxVEhXWXp2ZXBMa2YyMUJOM0hLQVFSczV6bUVDWldkUQ?oc=5",
-   "source": "Estrategias de Inversión",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-20T07:50:00+00:00",
-   "category": "resultados",
    "score": 3
   },
   {
@@ -1227,6 +1200,15 @@
    "published": "2026-10-20T01:33:00+00:00",
    "category": "macro",
    "score": 3
+  },
+  {
+   "title": "Defensive stocks' surge signals more pain for AI-led market, says CIO",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jajJXUzMxRXljbURsekFma2p3eXcyQ2ZIZDUtV1phdTVieTd3S1BZY1RVNjlsUXZTckRiTW90QUFtcmx0akFGb3B2VGNxRllJV1BmX3JxZ1J5dXdkMjBrcElfMkczbzQ?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T21:30:03+00:00",
+   "category": "otras",
+   "score": 2
   },
   {
    "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
@@ -1292,113 +1274,131 @@
    "score": 2
   },
   {
-   "title": "SpaceX revenue jumps 161% driven by Starlink and AI: Live updates",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-20T21:00:36+00:00",
+   "title": "New Crypto: Pepeto Announces Another Stage Sellout While Dogecoin Price Prediction Targets 112% and Shiba Inu Setup Returns",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaFdRVnpTUmtQRWVNbWFpZ1NWYnI1T1prVlhfZ2NmUS1td1E1Z0JmWmNmeFpoTXJwQXJSMEpISXBZYzVuWTc5RWVNZXNWaG11RmM2MGJXQXQtcUlTQkxhZ2hydDVXbmN3aWkwTXdYSFFaWWg3Z3p1NHhlbUNrV1IzTzh1bUJqSmhjMXVKenRiUzY2THFlMkhmUTNlVTM2WEtRa0FnX1FmQzJ5QjdkYWZIUXFuNFNYQWxPM0lVWnBDbnN5Nk05OGxyaVdWeE9BamgwSkU2TnNXU0s4VzFENm91WFNZcHRiLVM4M0dzQXhrX0pkdUYwbzZRdWZPc1NCWnB2dENmcTl2N2E2UWYt?oc=5",
+   "source": "markets.businessinsider.com",
+   "feed": "Google News · crypto",
+   "published": "2026-10-20T21:38:36+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "SEC Regulation Crypto Assets: Comment Window Shuts in 24 Hours",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMOG4wSjhOT3JuMG9fZGZnaTdQX2I3NGJKQTF1Rk5lNUlEZk1xSXFnaFIzdkRWNkJ3UFVJWkpxX1kybGRCMEdvQzVqVlFIWFAtN3hpd2ozeGFSemZvdEpWd3Uxbjg1UmlFemxFcC01YXlNdnVnTjI3aGJYc0t2Sjd1Z0QxWHpwbHhj?oc=5",
+   "source": "Forkast News",
+   "feed": "Google News · crypto",
+   "published": "2026-10-20T21:18:28+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "SpaceX Reports First Profit as Public Company, Revenue Jumps 161%",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-20T21:17:00+00:00",
    "category": "resultados",
    "score": 1
   },
   {
-   "title": "Urban and Caldeira OTC merge to combine crypto and cross-border payments in Brazil",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzNwT0QyWXZkVjFBZkk1RDJxY0c0X1lzQ2RyVmxNWi1aQzh3TC10cVdaREdhYVItQXF1dGxrOGZKbEd1a2pNdW9RN1JDWjFtYkJZTnZpSlNYVFlnZUhzdl9RWEVvSGo2aDlvUmx2OFpIWHZfNVZyTEpoTHJsM0Rwa1NWaXdmQ1gwSnZ1ekFoSXo4TXJnZjdKQ3d3YVlzTjRJYTAxYWxHZVBtaXc1THllcjN4bTZQc1U?oc=5",
-   "source": "Dealroom",
+   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEhHOXBBQ3hsOC1Qc1BIMWE4ZGxHVnhwR0xkNEJDME5MZWQtOHN2NVZTeEhPWFFySUpYS3Nfd3RVc2xVUmlMMEZLb3RYQ3lIU2RBTkZzNkhxZWZ2UFY3U0lhX0JKYk5qZXNScnptUEthS0d4REk1Rnh2OVRfNDhKc3Z4VTNSTzZCYUVpMzVQajlNLWR2VVRkc0prMkxCVHVX?oc=5",
+   "source": "Yahoo Finance",
    "feed": "Google News · crypto",
-   "published": "2026-10-20T20:59:17+00:00",
+   "published": "2026-10-20T21:16:04+00:00",
    "category": "cripto",
    "score": 1
   }
  ],
  "analisis": {
-  "resumen": "Tras el cierre de EE. UU. la novedad es solo marginal: Netflix cae por su previsión de ingresos y publicidad, y SpaceX anuncia ingresos +161% (Starlink e IA) como catalizador de la sesión asiática. No hay cambio de fondo: sigue dominando la inflación liderada por la energía, la Fed con subida esperada en diciembre y las dudas sobre el gasto en IA. Revisión de solo observación, sin hipótesis.",
+  "resumen": "Actualización posterior al cierre de EE. UU. (20-oct): Wall Street cierra mixto, con rebote de small caps y financieras gracias a resultados sólidos y con Nasdaq y semis aún débiles por los temores sobre el crédito ligado a la IA. Lo nuevo desde la revisión anterior son titulares de cierre (WSJ y Reuters sobre el rebote de las defensivas, Netflix cae tras sus resultados, SpaceX presenta su primer beneficio) y no hay un catalizador macro nuevo.",
   "resumen_dia": "",
   "clima": "mixto",
   "noticias": [
    {
-    "id": 0,
+    "id": 2,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Cierre mixto esperado tras un día de rebote intradía; los resultados sólidos compensan el temor a la IA.",
-    "impacto": "Russell y financieras rebotan mientras NDX y semis siguen débiles: rotación hacia value y cíclicos frente a tecnología ligada a IA.",
+    "novedad": "Parcialmente esperada: ya se habían visto resultados sólidos y miedo a la deuda de IA durante la sesión, y el cierre lo confirma.",
+    "impacto": "Soporta Russell y financieras (XLF) por los resultados, mientras presiona a semis y tecnología (SMH, NDX) por el temor al crédito de IA; el efecto es de rotación más que de dirección global.",
+    "importancia": 3
+   },
+   {
+    "id": 48,
+    "categoria": "sectorial",
+    "rumor": false,
+    "novedad": "Narrativa ya presente en la sesión (rotación hacia valor) y no es un dato nuevo, solo la opinión de un CIO.",
+    "impacto": "Refuerza la rotación de tecnología/IA hacia defensivas y valor; es negativa para SMH y XLK, de apoyo a financieras y defensivas, sin dato duro que lo respalde.",
+    "importancia": 2
+   },
+   {
+    "id": 1,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Beneficio superior a lo esperado pero la guía de publicidad e ingresos decepciona, así que la reacción negativa es de sorpresa parcial.",
+    "impacto": "Netflix cae en operaciones tras el cierre; el efecto sobre índices es limitado, aunque añade presión a las mega caps de consumo y comunicación en el corto plazo.",
+    "importancia": 2
+   },
+   {
+    "id": 37,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Esperada: el consenso ya descuenta pausa en octubre y subida en diciembre.",
+    "impacto": "Mantiene al dólar en máximos y al bono a 10 años cerca del 5,1%, lo que presiona a oro y activos de duración larga (tecnología, small caps).",
     "importancia": 4
    },
    {
-    "id": 3,
-    "categoria": "resultados",
+    "id": 53,
+    "categoria": "sectorial",
     "rumor": false,
-    "novedad": "Beat en beneficios pero guía de ingresos y publicidad floja: sorpresa negativa en la previsión.",
-    "impacto": "Netflix cae en after-hours; presión limitada sobre el Nasdaq por su peso moderado, refuerza la cautela con el crecimiento.",
+    "novedad": "Contagio ya descontado en la sesión: la caída del IPO coreano pesó sobre centros de datos durante el día.",
+    "impacto": "Presión sobre semis y data centers (SMH, NVDA, ASML) mientras persistan las dudas sobre la financiación de IA.",
     "importancia": 3
    },
    {
     "id": 58,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Ingresos de SpaceX +161% por Starlink e IA: dato nuevo sobre una empresa no cotizada, ya conocido en parte por las expectativas de IPO.",
-    "impacto": "Puede mejorar el sentimiento hacia el espacio y la infraestructura de IA, pero sin activo directo en la tabla; efecto indirecto leve sobre tecnología.",
+    "novedad": "Dato nuevo tras el cierre: primer beneficio como empresa cotizada y ingresos +161%, no incluido en los precios.",
+    "impacto": "Podría mejorar algo el sentimiento hacia el sector espacial y de tecnología de crecimiento, sin vínculo directo con activos de la tabla.",
     "importancia": 2
-   },
-   {
-    "id": 38,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Esperada: casi todos los economistas ven a la Fed sin cambios en octubre y con subida en diciembre.",
-    "impacto": "Sostiene el dólar en máximos y el bono 10a en torno al 5,1%, lo que presiona al oro y a la tecnología de larga duración.",
-    "importancia": 4
-   },
-   {
-    "id": 55,
-    "categoria": "sectorial",
-    "rumor": false,
-    "novedad": "Sorpresa de la sesión: el desplome del 30% de la OPV de Elice en Corea contagia a los centros de datos.",
-    "impacto": "Semis y valores de IA (SMH, NVDA, ASML) bajo presión por temor a la financiación del gasto en IA.",
-    "importancia": 4
-   },
-   {
-    "id": 14,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "El BoE ve riesgos de inflación mayores de lo pensado: refuerza el sesgo restrictivo global, no es una sorpresa total.",
-    "impacto": "Apoya tipos altos en Europa y presiona a renta variable y a activos sensibles a tipos como Iberdrola.",
-    "importancia": 3
    }
   ],
   "divergencias": [
-   "El S&P sube (+0,3%) y el Dow +500 puntos, pero el Nasdaq 100 y los semis acaban en negativo: el rebote es de amplitud cíclica, no de tecnología.",
-   "El oro cae (-0,4%) pese a que las tenencias de ETF de oro están en máximos de 2026: dólar y tipos pesan más que la demanda de cobertura.",
-   "El Brent repuntó y giró a la baja (-0,3%) aunque la inflación sigue siendo el tema dominante: el petróleo no confirma la presión energética en el cierre."
+   "Russell +1,7% y XLF +1,2% con el bono a 10 años solo -0,02 pp y una Fed que se espera que suba en diciembre: el rebote parece más de resultados y posicionamiento que de tipos.",
+   "Oro -0,4% con el dólar -0,3% y el bono a la baja: se comporta de forma débil, aunque Kitco señala entradas en ETFs de oro (id 33), así que la caída parece más del precio spot que de la demanda institucional.",
+   "S&P +0,3% mientras SMH, NDX y XLK caen: la subida del índice depende de rotación hacia valor y no de amplitud tecnológica."
   ],
   "hipotesis": [],
   "vigilar": [
    {
     "ticker": "SMH",
-    "motivo": "Semis -7% en 5 días; ver si abre Asia con rebote o continúa el contagio de Elice."
-   },
-   {
-    "ticker": "^N225",
-    "motivo": "Primera sesión asiática tras Netflix/SpaceX y a la espera del BoJ, que podría mantener tipos y subir su previsión de inflación."
-   },
-   {
-    "ticker": "BZ=F",
-    "motivo": "El giro a la baja tras el repunte intradía condiciona la inflación y el soporte de XLE."
-   },
-   {
-    "ticker": "DX-Y.NYB",
-    "motivo": "Máximos de 52 semanas con el bono cediendo; riesgo de pausa si el rendimiento no sube."
+    "motivo": "Si no rebota tras -7% en 5 días, la presión por el crédito de IA puede continuar; su reacción a los resultados tecnológicos clave será determinante."
    },
    {
     "ticker": "^RUT",
-    "motivo": "El rebote del +1,7% en un índice bajista necesita confirmación en la siguiente sesión."
+    "motivo": "Tras +1,7% en un índice bajista, hay que ver si el rebote se sostiene o se revierte cuando el bono vuelva a subir."
+   },
+   {
+    "ticker": "BZ=F",
+    "motivo": "Brent en 109 tras un giro intradía; la energía sigue marcando la inflación y la reacción de bonos."
+   },
+   {
+    "ticker": "DX-Y.NYB",
+    "motivo": "Dólar en máximos de 52 semanas pese a -0,3% hoy; una pérdida de impulso aliviaría a oro y emergentes."
+   },
+   {
+    "ticker": "BTC-USD",
+    "motivo": "Sube +1,3% con titulares de ETFs y regulación de la SEC (ventana de comentarios cierra en 24 h); riesgo de volatilidad por regulación."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Revisión de actualización solo de observación: las decisiones se toman con los precios de cierre de EE. UU.",
+  "decision_motivo": "Revisión de actualización, solo observación: las decisiones se toman con los cierres de EE. UU. y no hay hipótesis nuevas.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10499,
-   "tokens_salida": 1689,
-   "coste_usd": 0.0379
+   "tokens_entrada": 10474,
+   "tokens_salida": 1867,
+   "coste_usd": 0.0396
   }
  },
  "calidad": {
