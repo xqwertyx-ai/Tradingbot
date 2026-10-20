@@ -40,6 +40,17 @@ if __name__ == "__main__":
     px = live.drop_partial_session(px)
     print(f"  última sesión: {px.index[-1]:%Y-%m-%d}")
     ev = engine.build_events(earn, px)
+    # Diagnóstico: anuncios recientes, su reacción anormal y el umbral del 10% mejor
+    rec_e = earn[pd.to_datetime(earn["fecha"]) >= live.LIVE_START - pd.Timedelta(days=3)]
+    print(f"Anuncios desde {live.LIVE_START - pd.Timedelta(days=3):%Y-%m-%d} en los datos: {len(rec_e)} "
+          f"(con fecha pasada: {(pd.to_datetime(rec_e['fecha']) <= px.index[-1]).sum()})")
+    rec = ev[ev["reaccion"] >= live.LIVE_START - pd.Timedelta(days=3)] if not ev.empty else ev
+    print(f"Eventos con reacción reciente: {len(rec)}; señales de compra: {int((rec['sig_ra'] == 1).sum()) if len(rec) else 0}")
+    if len(rec):
+        print(rec.sort_values("ra", ascending=False)[["ticker", "anuncio", "hora", "reaccion", "entrada", "ra", "ra_hi", "sig_ra"]]
+              .head(15).to_string(index=False))
+    na_last = px.iloc[-1].isna().sum()
+    print(f"Precios: {na_last} de {px.shape[1]} sin dato en la última sesión")
     book = live.update(live.load(), ev, px)
     os.makedirs("data/pead", exist_ok=True)
     book.to_csv(live.LEDGER, index=False)
