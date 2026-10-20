@@ -40,5 +40,19 @@
    "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path"
   ],
   "coste_usd": 0.0363
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-20T13:52:47+00:00",
+  "hora_madrid": "15:52",
+  "clima": "risk-off",
+  "resumen": "Apertura de EE. UU. (20-oct): los futuros apuntan a una apertura algo más débil con el petróleo al alza y la temporada de resultados como foco. Frente a la revisión de cierre de Asia, el catalizador nuevo es el contagio del desplome de la salida a bolsa de Elice en Corea hacia las tecnológicas ligadas a centros de datos y a IA, junto con las dudas sobre la deuda de IA (CoreWeave, bonos basura). Los resultados de GM y Northrop salen bien y los economistas ven a la Fed sin cambios en octubre y con una subida en diciembre.",
+  "titulares": [
+   "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+   "CoreWeave’s Bond Rout Should Make the Fed Cautious",
+   "Fed to skip October but raise rates again in December, nearly all economists say"
+  ],
+  "coste_usd": 0.0412
  }
 ]
