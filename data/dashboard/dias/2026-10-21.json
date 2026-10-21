@@ -12,5 +12,19 @@
    "US Stock Futures Advance on AI Earnings Boost: Markets Wrap"
   ],
   "coste_usd": 0.0358
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-21T07:52:16+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa el dato nuevo es el IPC británico de septiembre, que sube más de lo esperado hasta el 3,5% (máximo en 11 meses) por el coste de la energía y refuerza las expectativas de subida del BoE. Las bolsas europeas abren cautas (IBEX -0,15% en la apertura, pendientes de Francia y de Lagarde), con los resultados tecnológicos y de SpaceX apoyando a Asia y a los futuros de EE. UU., y con el Brent en 109,9 (+10,7% en un mes) como freno.",
+  "titulares": [
+   "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+   "UK Inflation at 11-Month High Pressures BOE to Hike",
+   "Asian space stocks rise tracking blowout SpaceX Q3 earnings"
+  ],
+  "coste_usd": 0.0367
  }
 ]
