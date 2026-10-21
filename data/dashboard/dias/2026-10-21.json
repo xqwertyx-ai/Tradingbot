@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-21T00:51:28+00:00",
+  "hora_madrid": "02:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia el dato nuevo es el RBA (Hauser): la perspectiva de inflación australiana es 'materialmente peor' y aumenta la probabilidad de otra subida en noviembre. Los futuros de EE. UU. suben por resultados de IA y SpaceX tras un cierre mixto. El Nikkei abre +0,3% y el dólar cede algo, sin cambio de régimen.",
+  "titulares": [
+   "RBA’s Hauser Says Australia Inflation Outlook ‘Materially Worse’",
+   "Fed to skip October but raise rates again in December, nearly all economists say",
+   "US Stock Futures Advance on AI Earnings Boost: Markets Wrap"
+  ],
+  "coste_usd": 0.0358
+ }
+]
