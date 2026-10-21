@@ -2,27 +2,27 @@
 
 # 📊 Radar de mercados
 
-**miércoles 21 oct 2026 · revisión de apertura EE. UU. · 15:51 (Madrid)**
+**miércoles 21 oct 2026 · revisión de cierre Europa · 17:52 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟢 risk-on (apetito por riesgo)  
-> En la apertura de EE. UU. los futuros suben por el rebote de la IA y los resultados de SpaceX, mientras Netflix cae tras su guía de Q4. Europa cierra con subidas (DAX +1,4%, Euro Stoxx +1,3%) pese al IPC británico del 3,5% y un Brent en 108. Los datos de vivienda (ventas pendientes en mínimos de 25 años) y la discusión sobre nuevas subidas de la Fed mantienen el trasfondo de tipos altos.  
-> **Decisión:** no operar hoy — Revisión de apertura de EE. UU.: solo observación, sin hipótesis nuevas hasta el cierre.
+> En el cierre de Europa, las bolsas suben con fuerza (DAX +1,3%, Euro Stoxx +1,4%, IBEX +1,2%) pese al IPC británico del 3,5% y un Brent en 108,8. Lo nuevo desde la apertura de EE. UU. son las subidas en tecnología y cripto (Bitcoin cerca de 85K) por los resultados de SpaceX, con Netflix a la baja. El trasfondo de tipos altos y petróleo caro sigue ahí, y el rebote es amplio pero sin cambio de régimen.  
+> **Decisión:** no operar hoy — Revisión de cierre de Europa: solo observación, sin hipótesis nuevas.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **S&P 500** | 7.732 | 🔵▲ +0.3% | 🔴▼ -0.4% | ➡️ lateral |
-| **Nasdaq 100** | 29.678 | 🔵▲ +0.6% | 🔴▼ -3.4% | ➡️ lateral |
-| **IBEX 35** | 19.292 | 🔵▲ +1.0% | 🔴▼ -2.3% | ➡️ lateral |
-| **Nikkei 225** | 64.621 | 🔵▲ +0.9% | 🔵▲ +1.1% | ➡️ lateral |
-| **Bono EE. UU. 10a (%)** | 5.094 | ▼ -2 pb | ▲ +13 pb | ↗️ alcista |
-| **EUR/USD** | 1.124 | 🔵▲ +0.2% | 🔴▼ -2.0% | ↘️ bajista |
-| **Brent** | 108.32 | 🔴▼ -0.4% | 🔵▲ +9.1% | ↗️ alcista |
+| **S&P 500** | 7.754 | 🔵▲ +0.5% | 🔴▼ -0.1% | ➡️ lateral |
+| **Nasdaq 100** | 29.862 | 🔵▲ +1.3% | 🔴▼ -2.8% | ➡️ lateral |
+| **IBEX 35** | 19.324 | 🔵▲ +1.2% | 🔴▼ -2.2% | ➡️ lateral |
+| **Nikkei 225** | 64.075 | 🔴▼ -1.3% | 🔵▲ +0.9% | ➡️ lateral |
+| **Bono EE. UU. 10a (%)** | 5.111 | ▼ -1 pb | ▲ +14 pb | ↗️ alcista |
+| **EUR/USD** | 1.122 | 🔵▲ +0.0% | 🔴▼ -2.1% | ↘️ bajista |
+| **Brent** | 108.78 | 🔴▼ -0.0% | 🔵▲ +9.6% | ↗️ alcista |
 | **Oro** | 4.154 | 🔵▲ +0.3% | 🔴▼ -5.1% | ↘️ bajista |
-| **Bitcoin** | 83.731 | 🔵▲ +1.0% | 🔵▲ +0.2% | ↗️ alcista |
+| **Bitcoin** | 84.399 | 🔵▲ +1.8% | 🔵▲ +1.0% | ↗️ alcista |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -32,29 +32,29 @@
 - **09:52 · apertura Europa** 🟡 En la apertura de Europa el dato nuevo es el IPC británico de septiembre, que sube más de lo esperado hasta el 3,5% (máximo en 11 meses) por el coste de la energía y refuerza las expectativas de subida del BoE. Las bolsas europeas abren cautas (IBEX -0,15% en la apertura, pendientes de Francia y de Lagarde), con los resultados tecnológicos y de SpaceX apoyando a Asia y a los futuros de EE. UU., y con el Brent en 109,9 (+10,7% en un mes) como freno.
 - **10:52 · cierre Asia** 🟡 En el cierre de Asia, el Nikkei sube un 0,9% (aunque cae un 4,6% en cinco sesiones), mientras que Hang Seng (-0,9%) y Shanghái (-0,6%, en mínimos de 52 semanas) retroceden. Los resultados de SpaceX alimentan las compras ligadas a la IA y al sector espacial, aunque con dudas en Europa. El IPC británico (3,5%) y el Brent en 110 siguen alimentando el miedo a la inflación, y el oro cae.
 - **15:51 · apertura EE. UU.** 🟢 En la apertura de EE. UU. los futuros suben por el rebote de la IA y los resultados de SpaceX, mientras Netflix cae tras su guía de Q4. Europa cierra con subidas (DAX +1,4%, Euro Stoxx +1,3%) pese al IPC británico del 3,5% y un Brent en 108. Los datos de vivienda (ventas pendientes en mínimos de 25 años) y la discusión sobre nuevas subidas de la Fed mantienen el trasfondo de tipos altos.
-- <sub>cierre Europa · prevista ~17:50</sub>
+- **17:52 · cierre Europa** 🟢 En el cierre de Europa, las bolsas suben con fuerza (DAX +1,3%, Euro Stoxx +1,4%, IBEX +1,2%) pese al IPC británico del 3,5% y un Brent en 108,8. Lo nuevo desde la apertura de EE. UU. son las subidas en tecnología y cripto (Bitcoin cerca de 85K) por los resultados de SpaceX, con Netflix a la baja. El trasfondo de tipos altos y petróleo caro sigue ahí, y el rebote es amplio pero sin cambio de régimen.
 - <sub>cierre EE. UU. · prevista ~22:15</sub>
 
 ## 📰 Noticias clave
 
-- **[resultados]** [SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up](https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html) <sub>CNBC · 21/10 15:39 · ●●●●</sub>  
-  Sorpresa positiva: beat de resultados y comentario de Musk sobre una posible unión con Tesla, esto último con carácter especulativo. **Impacto:** Impulsa el sentimiento hacia IA y tecnología de crecimiento (NVDA, SMH, ^NDX); presiona a las telecos, según IBD.
-- **[macro]** [U.K. Inflation Jumps Again, Strengthening Case for Rate Hike](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5) <sub>WSJ · 21/10 11:50 · ●●●●</sub>  
-  El IPC británico de septiembre sube a 3,5%, por encima de lo esperado, y ya se descontó en la sesión europea. **Impacto:** Refuerza las apuestas de subida del BoE y apoya a la libra; mantiene la presión sobre los bonos globales y sobre los activos sensibles a tipos.
-- **[geopolítica]** [UK inflation rise to highest in almost a year as Iran war drives fuel prices higher](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdi00bWtzMnJjYzZOenhKdV9ZVE5oT0xOMFQyQmI0dnp0enk0dkhQdWw4Wm1uWXZzd1BieC0wdkhxYXJhZzl5c3I3RWR0ZFliMmdqeTg2U1ZVVDVfU2ZvSjhPRFU2TmpjNm1adDBGQ1hJcnBBSUFmQmNfbUtRSVpEeWJkQ0M1SHBmU0E1VkN3VDBqZVhqZ2J0TDUyc0JOc193aUNXMTBId1Z0Uk1ORTZlbVRvRVVUTVQ2anBDTXhoeDhIZlZvazlZZGJYeENQUUx2N28tZg?oc=5) <sub>The Washington Post · 21/10 15:13 · ●●●●</sub>  
-  Contexto conocido: la guerra de Irán empuja los precios de los combustibles y alimenta la inflación. **Impacto:** Mantiene el Brent alto (108) y apoya a XLE en máximos; es negativo para los márgenes de transporte y consumo.
-- **[sectorial]** [NVDA, CRWV, NBIS and Crypto Miners Surge After Elon Musk Says Cloud Providers 'Don't Have Any' AI Compute](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUkI0a2dEaUdDSXVEb0FpSkFqMGhkaVhqMVV2U1FhbE9FWUhsS1ZJcXZkLVF3UVY5cmp6aDAxMDZaUl9leFd6V0xWQXgyT2NENXpLVXRoUlUxcmFTV05yUmhTQ3ZBYnI1OUhQS09RQ3B5ekh5VXpjc0x3OElFTTVHbU9Wa3pNTkJ2THZYbTBJQVBuUl9MeUZJYzNUVVJUdTB0eUlDaFpBUXR0WnExRE5jSlpjMmU2VzdIaEJwQnA2OHRpZ3I4a1VraGVHcUFlSXdTazN2Z2xVZ0lsU1ZVM3h1QlAxZ2Jhd3pBX29LVmpn?oc=5) <sub>Benzinga · 21/10 14:07 · ●●●</sub>  
-  Nueva: Musk afirma que los proveedores cloud 'no tienen' capacidad de cómputo de IA; es una opinión de parte interesada, no un dato. **Impacto:** Refuerza la demanda de cómputo y favorece a NVDA, mineros de cripto y neoclouds; NVDA +1,5% ya lo refleja en parte.
+- **[resultados]** [SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up](https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html) <sub>CNBC · 21/10 16:21 · ●●●●</sub>  
+  Sorpresa positiva en resultados de SpaceX; la mención de un posible acercamiento a Tesla es especulativa (rumor). **Impacto:** Alimenta el apetito por riesgo en IA/tecnología y espacio: SMH, NVDA, XLK y ASML suben, y también el cripto por sentimiento.
+- **[geopolítica]** [UK inflation rise to highest in almost a year as Iran war drives fuel prices higher](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdi00bWtzMnJjYzZOenhKdV9ZVE5oT0xOMFQyQmI0dnp0enk0dkhQdWw4Wm1uWXZzd1BieC0wdkhxYXJhZzl5c3I3RWR0ZFliMmdqeTg2U1ZVVDVfU2ZvSjhPRFU2TmpjNm1adDBGQ1hJcnBBSUFmQmNfbUtRSVpEeWJkQ0M1SHBmU0E1VkN3VDBqZVhqZ2J0TDUyc0JOc193aUNXMTBId1Z0Uk1ORTZlbVRvRVVUTVQ2anBDTXhoeDhIZlZvazlZZGJYeENQUUx2N28tZg?oc=5) <sub>The Washington Post · 21/10 15:40 · ●●●●</sub>  
+  El conflicto con Irán ya estaba en precio, con el Brent +9,6% en un mes; sin sorpresa nueva. **Impacto:** Brent y XLE en máximos mantienen la presión inflacionaria; es un freno para las bolsas europeas y para el oro por la vía de los tipos.
+- **[cripto]** [Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTFTYmZESExncldGMUJGamhqN21aSkNMNllGUVFPRDljUDllaHE5bUtJUUJTZEpYQjBleGZvUFREd0tVSGRXbEV6MFc4Z3JnbEJsblRoNE9aQ2JSWHNJcWlBTWg2RER2MEU1dmF4UFZWbnBQcnh6Z3lEMFFYU3k0RFRGMW1Mb2hMZmVsLU9RQVczc0ZMLWRFVzJRU2J6U1RsTjBSMXlESUFGYnU0SEE0T3NGZDNicTEtVlhUNlRmRktjM2F5QXpPeGNBOHhwUGJOS3hKTzNkaw?oc=5) <sub>TradingView · 21/10 17:13 · ●●●</sub>  
+  Movimiento esperado tras el repunte de riesgo; BTC +1,8% (≈1,3σ), sin dato propio del sector. **Impacto:** BTC, ETH y SOL suben por correlación con tecnología; sin catalizador específico, el movimiento depende de que siga el apetito por riesgo.
+- **[macro]** [UK inflation jumps to 3.5% — cementing rate hike expectations](https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMFE1c0o5clpFOWdSQzVWX1VBSDVFcmpXSmptNDRoVGdNUEVkYWdRZW54T1VLOWJ3aU1IeHlGMURjdHE4VzZ3YWdHdzUwekFiWlV2ODk1NVJqX1RfYzVjV3VQQXBWVFhRaUVJNnhfUGxMSFUxUWZn?oc=5) <sub>CNBC · 21/10 08:02 · ●●●</sub>  
+  Sorpresa al alza (3,5%, máximo en 11 meses), aunque ya digerida desde la apertura de Europa. **Impacto:** Refuerza las apuestas de subida del BoE y presiona a los bonos; la reacción de las bolsas europeas fue positiva, así que el mercado lo descuenta o lo ignora.
 - **[macro]** [Housing is flashing warning signs just as the Fed weighs more interest rate hikes](https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html) <sub>CNBC · 21/10 13:20 · ●●●</sub>  
-  Parcialmente esperada: vivienda débil por tipos altos, con la Fed sopesando nuevas subidas. **Impacto:** Tipos altos y vivienda débil son negativos para small caps (^RUT) y consumo; el rendimiento del bono (^TNX) en 5,09% limita las valoraciones.
-- **[resultados]** [Netflix stock sinks as Wall Street lowers price targets after streamer's Q3 earnings and Q4 revenue forecast miss](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5) <sub>Yahoo Finance · 21/10 13:23 · ●●</sub>  
-  Sorpresa negativa: la guía de ingresos de Q4 queda por debajo de lo esperado y los analistas recortan precios objetivo. **Impacto:** Presión específica sobre Netflix y contenidos en streaming; efecto limitado en el índice.
+  Esperada: el mercado ya discute nuevas subidas de la Fed la próxima semana. **Impacto:** Tipos altos presionan a small caps (RUT) y a vivienda; el TNX en 5,11% limita el potencial de las valoraciones.
+- **[resultados]** [Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance](https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html) <sub>CNBC · 21/10 00:29 · ●●</sub>  
+  El resultado fue mejor de lo esperado, pero la guía decepcionó y las acciones caen; el recorte de objetivos de precio se suma. **Impacto:** Presión sobre Netflix y matiz negativo para publicidad digital; efecto limitado sobre el índice.
 
-**Divergencias precio-noticia:** El Euro Stoxx 50 (+1,3%) y el DAX (+1,4%) suben con fuerza pese a un IPC británico caliente y un Brent en 108: el mercado prioriza los resultados sobre la inflación. · El Nasdaq 100 sube (+0,6%) pero sigue -0,9% a 5 días y -3,4% a un mes: el rebote de la IA aún no revierte la caída reciente. · El oro sube un 0,3% con el dólar plano y un 10 años en 5,09%: el rebote es pequeño frente a la caída mensual del 5,1% y puede ser puramente técnico.
+**Divergencias precio-noticia:** Las bolsas europeas suben entre un 1,2% y un 1,4% con IPC británico caliente y Brent a 108,8: el mercado prioriza los resultados de tecnología sobre la inflación. · El oro sube solo un 0,3% con TNX a la baja y dólar en máximos; sigue en tendencia bajista, sin respaldo claro del rebote de riesgo. · Santander (+2,1%) y BBVA (+1,6%) rebotan con fuerza tras caídas mensuales del 6-8%, pero siguen sin catalizador propio. · El Nikkei cae un 1,3% (dato del 20/10) y el Hang Seng un 0,9%, mientras Europa y EE. UU. suben: Asia no sigue la ola risk-on.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-20._
+_Revisión de cierre Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-20._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -65,12 +65,12 @@ _Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran c
 
 ## 👀 Valores a vigilar
 
-- **Nasdaq 100** — Resultados de Meta y Tesla: probar si el rebote de la IA se sostiene o se agota.
-- **Bono EE. UU. 10a (%)** — Nivel 5,09% con la Fed sopesando subidas; un repunte frenaría small caps y tecnología.
-- **Brent** — Brent en 108 (+9% a un mes) ligado a la guerra de Irán; riesgo para la inflación.
-- **Russell 2000** — Hipótesis abierta: vivienda débil y tipos altos podrían frenar el rebote.
-- **Semiconductores (SMH)** — Rebote de +1,0% tras -9,2% en un mes; comprobar si los resultados lo confirman.
-- **DAX** — cruza al alza su media de 50 sesiones
+- **Brent** — Brent en 108,8 es el principal riesgo para el rebote; un salto lo cambiaría a risk-off.
+- **Semiconductores (SMH)** — Semis rebotan un 2,0% tras caer un 8,3% en un mes; hay que ver si la subida se sostiene.
+- **Russell 2000** — Índice bajista sensible a la Fed de la próxima semana.
+- **Bitcoin** — Cerca de 85K con volatilidad baja; ruptura posible ante la Fed.
+- **Nikkei 225** — Cae un 5,5% en cinco días; vigilar si el rebote de IA llega a Asia.
+- **S&P 500** — en máximos de 52 semanas
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **EUR/USD** — en mínimos de 52 semanas
 - **Índice dólar** — en máximos de 52 semanas
@@ -93,35 +93,35 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 0.
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| S&P 500 | 7.732 | 🔵▲ +0.3% | 🔵▲ +0.2% | 🔴▼ -0.4% | 🔵▲ +4.4% | 51 | ➡️ lateral | — |
-| Nasdaq 100 | 29.678 | 🔵▲ +0.6% | 🔴▼ -0.9% | 🔴▼ -3.4% | 🔵▲ +4.3% | 44 | ➡️ lateral | — |
-| IBEX 35 | 19.292 | 🔵▲ +1.0% | 🔵▲ +0.3% | 🔴▼ -2.3% | 🔴▼ -1.5% | 48 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.203 | 🔵▲ +1.3% | 🔵▲ +0.2% | 🔴▼ -1.9% | 🔴▼ -1.2% | 47 | ➡️ lateral | — |
-| Russell 2000 | 2.786 | 🔵▲ +0.5% | 🔵▲ +2.1% | 🔴▼ -3.6% | 🔴▼ -5.2% | 45 | ↘️ bajista | — |
-| DAX | 25.666 | 🔵▲ +1.4% | 🔵▲ +1.5% | 🔵▲ +0.3% | 🔵▲ +2.3% | 56 | ↗️ alcista | cruza al alza su media de 50 sesiones |
-| Nikkei 225 | 64.621 | 🔵▲ +0.9% | 🔴▼ -4.6% | 🔵▲ +1.1% | 🔴▼ -3.3% | 42 | ➡️ lateral | — |
+| S&P 500 | 7.754 | 🔵▲ +0.5% | 🔵▲ +0.4% | 🔴▼ -0.1% | 🔵▲ +4.7% | 53 | ➡️ lateral | en máximos de 52 semanas |
+| Nasdaq 100 | 29.862 | 🔵▲ +1.3% | 🔴▼ -0.3% | 🔴▼ -2.8% | 🔵▲ +4.9% | 47 | ➡️ lateral | — |
+| IBEX 35 | 19.324 | 🔵▲ +1.2% | 🔵▲ +0.5% | 🔴▼ -2.2% | 🔴▼ -1.3% | 49 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.208 | 🔵▲ +1.4% | 🔵▲ +0.3% | 🔴▼ -1.9% | 🔴▼ -1.2% | 48 | ➡️ lateral | — |
+| Russell 2000 | 2.786 | 🔵▲ +0.4% | 🔵▲ +2.1% | 🔴▼ -3.6% | 🔴▼ -5.3% | 45 | ↘️ bajista | — |
+| DAX | 25.645 | 🔵▲ +1.3% | 🔵▲ +1.4% | 🔵▲ +0.3% | 🔵▲ +2.2% | 55 | ➡️ lateral | — |
+| Nikkei 225 | 64.075 | 🔴▼ -1.3% | 🔴▼ -5.5% | 🔵▲ +0.9% | 🔴▼ -6.8% | 39 | ➡️ lateral | — |
 | Hang Seng | 23.652 | 🔴▼ -0.9% | 🔴▼ -2.8% | 🔴▼ -4.4% | 🔴▼ -5.0% | 35 | ↘️ bajista | — |
 | Shanghái Compuesto | 3.713 | 🔴▼ -0.6% | 🔴▼ -1.4% | 🔴▼ -4.4% | 🔴▼ -4.4% | 30 | ↘️ bajista | en mínimos de 52 semanas |
-| Bono EE. UU. 10a (%) | 5.094 | ▼ -2 pb | ▼ -10 pb | ▲ +13 pb | ▲ +39 pb | 48 | ↗️ alcista | — |
-| EUR/USD | 1.124 | 🔵▲ +0.2% | 🔵▲ +0.3% | 🔴▼ -2.0% | 🔴▼ -1.2% | 38 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.69 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔵▲ +1.1% | 🔵▲ +0.3% | 53 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 108.32 | 🔴▼ -0.4% | 🔵▲ +2.1% | 🔵▲ +9.1% | 🔵▲ +7.6% | 61 | ↗️ alcista | — |
+| Bono EE. UU. 10a (%) | 5.111 | ▼ -1 pb | ▼ -8 pb | ▲ +14 pb | ▲ +41 pb | 50 | ↗️ alcista | — |
+| EUR/USD | 1.122 | 🔵▲ +0.0% | 🔵▲ +0.1% | 🔴▼ -2.1% | 🔴▼ -1.4% | 35 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 101.79 | 🔵▲ +0.1% | 🔴▼ -0.7% | 🔵▲ +1.2% | 🔵▲ +0.4% | 55 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 108.78 | 🔴▼ -0.0% | 🔵▲ +2.6% | 🔵▲ +9.6% | 🔵▲ +8.0% | 63 | ↗️ alcista | — |
 | Oro | 4.154 | 🔵▲ +0.3% | 🔵▲ +1.1% | 🔴▼ -5.1% | 🔵▲ +2.6% | 42 | ↘️ bajista | — |
-| Bitcoin | 83.731 | 🔵▲ +1.0% | 🔵▲ +2.7% | 🔵▲ +0.2% | 🔵▲ +20.9% | 56 | ↗️ alcista | — |
-| Ethereum | 2.470 | 🔵▲ +1.0% | 🔵▲ +2.1% | 🔴▼ -8.0% | 🔵▲ +9.7% | 46 | ➡️ lateral | — |
-| Solana | 106.70 | 🔵▲ +0.3% | 🔵▲ +2.3% | 🔴▼ -9.6% | 🔵▲ +25.0% | 45 | ➡️ lateral | — |
-| Semiconductores (SMH) | 551.69 | 🔵▲ +1.0% | 🔴▼ -2.3% | 🔴▼ -9.2% | 🔴▼ -4.9% | 38 | ➡️ lateral | — |
-| Financieras (XLF) | 55.89 | 🔵▲ +0.3% | 🔵▲ +2.5% | 🔵▲ +2.0% | 🔵▲ +0.1% | 57 | ➡️ lateral | — |
-| Energía (XLE) | 67.86 | 🔴▼ -0.2% | 🔵▲ +0.3% | 🔵▲ +9.8% | 🔵▲ +14.3% | 66 | ↗️ alcista | en máximos de 52 semanas |
-| Tecnología (XLK) | 186.92 | 🔵▲ +0.8% | 🔴▼ -1.8% | 🔴▼ -4.8% | 🔵▲ +4.7% | 41 | ➡️ lateral | — |
-| NVIDIA | 219.78 | 🔵▲ +1.5% | 🔴▼ -0.7% | 🔴▼ -4.0% | 🔵▲ +5.3% | 45 | ➡️ lateral | — |
-| Apple | 340.08 | 🔵▲ +0.2% | 🔴▼ -0.8% | 🔵▲ +0.1% | 🔵▲ +5.7% | 56 | ↗️ alcista | en máximos de 52 semanas |
-| Microsoft | 530.74 | 🔴▼ -0.2% | 🔴▼ -0.6% | 🔵▲ +6.6% | 🔵▲ +39.1% | 57 | ↗️ alcista | — |
-| ASML | 1.666 | 🔵▲ +2.2% | 🔵▲ +1.0% | 🔴▼ -4.7% | 🔴▼ -7.6% | 43 | ➡️ lateral | — |
-| Banco Santander | 11.91 | 🔵▲ +1.5% | 🔴▼ -1.8% | 🔴▼ -6.2% | 🔴▼ -0.6% | 43 | ➡️ lateral | — |
-| BBVA | 23.04 | 🔵▲ +1.5% | 🔴▼ -0.4% | 🔴▼ -7.6% | 🔵▲ +0.8% | 40 | ➡️ lateral | — |
-| Inditex | 56.42 | 🔴▼ -0.2% | 🔵▲ +3.8% | 🔵▲ +5.9% | 🔵▲ +3.6% | 63 | ↗️ alcista | — |
-| Iberdrola | 21.52 | 🔵▲ +1.4% | 🔴▼ -0.9% | 🔵▲ +5.6% | 🔵▲ +1.5% | 62 | ↗️ alcista | — |
+| Bitcoin | 84.399 | 🔵▲ +1.8% | 🔵▲ +3.6% | 🔵▲ +1.0% | 🔵▲ +21.8% | 58 | ↗️ alcista | — |
+| Ethereum | 2.509 | 🔵▲ +2.5% | 🔵▲ +3.7% | 🔴▼ -6.5% | 🔵▲ +11.4% | 50 | ➡️ lateral | — |
+| Solana | 108.37 | 🔵▲ +1.8% | 🔵▲ +3.9% | 🔴▼ -8.2% | 🔵▲ +26.9% | 49 | ➡️ lateral | — |
+| Semiconductores (SMH) | 557.10 | 🔵▲ +2.0% | 🔴▼ -1.4% | 🔴▼ -8.3% | 🔴▼ -4.0% | 41 | ➡️ lateral | — |
+| Financieras (XLF) | 56.06 | 🔵▲ +0.6% | 🔵▲ +2.8% | 🔵▲ +2.3% | 🔵▲ +0.4% | 59 | ➡️ lateral | — |
+| Energía (XLE) | 68.02 | 🔵▲ +0.1% | 🔵▲ +0.6% | 🔵▲ +10.1% | 🔵▲ +14.6% | 67 | ↗️ alcista | en máximos de 52 semanas |
+| Tecnología (XLK) | 188.50 | 🔵▲ +1.7% | 🔴▼ -1.0% | 🔴▼ -4.0% | 🔵▲ +5.6% | 44 | ➡️ lateral | — |
+| NVIDIA | 220.50 | 🔵▲ +1.9% | 🔴▼ -0.4% | 🔴▼ -3.7% | 🔵▲ +5.6% | 46 | ➡️ lateral | — |
+| Apple | 344.35 | 🔵▲ +1.4% | 🔵▲ +0.4% | 🔵▲ +1.4% | 🔵▲ +7.1% | 61 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 532.12 | 🔵▲ +0.0% | 🔴▼ -0.3% | 🔵▲ +6.9% | 🔵▲ +39.5% | 58 | ↗️ alcista | — |
+| ASML | 1.680 | 🔵▲ +3.0% | 🔵▲ +1.8% | 🔴▼ -3.9% | 🔴▼ -6.8% | 45 | ➡️ lateral | — |
+| Banco Santander | 11.97 | 🔵▲ +2.1% | 🔴▼ -1.3% | 🔴▼ -5.7% | 🔴▼ -0.1% | 44 | ➡️ lateral | — |
+| BBVA | 23.05 | 🔵▲ +1.6% | 🔴▼ -0.3% | 🔴▼ -7.6% | 🔵▲ +0.8% | 40 | ➡️ lateral | — |
+| Inditex | 56.80 | 🔵▲ +0.4% | 🔵▲ +4.5% | 🔵▲ +6.6% | 🔵▲ +4.3% | 66 | ↗️ alcista | — |
+| Iberdrola | 21.54 | 🔵▲ +1.5% | 🔴▼ -0.8% | 🔵▲ +5.7% | 🔵▲ +1.6% | 63 | ↗️ alcista | — |
 
 </details>
 

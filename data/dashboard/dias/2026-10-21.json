@@ -54,5 +54,19 @@
    "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike"
   ],
   "coste_usd": 0.0369
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-21T15:52:24+00:00",
+  "hora_madrid": "17:52",
+  "clima": "risk-on",
+  "resumen": "En el cierre de Europa, las bolsas suben con fuerza (DAX +1,3%, Euro Stoxx +1,4%, IBEX +1,2%) pese al IPC británico del 3,5% y un Brent en 108,8. Lo nuevo desde la apertura de EE. UU. son las subidas en tecnología y cripto (Bitcoin cerca de 85K) por los resultados de SpaceX, con Netflix a la baja. El trasfondo de tipos altos y petróleo caro sigue ahí, y el rebote es amplio pero sin cambio de régimen.",
+  "titulares": [
+   "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+   "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+   "UK inflation jumps to 3.5% — cementing rate hike expectations"
+  ],
+  "coste_usd": 0.0372
  }
 ]
