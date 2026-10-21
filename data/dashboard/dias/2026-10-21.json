@@ -26,5 +26,19 @@
    "Asian space stocks rise tracking blowout SpaceX Q3 earnings"
   ],
   "coste_usd": 0.0367
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-21T08:52:04+00:00",
+  "hora_madrid": "10:52",
+  "clima": "mixto",
+  "resumen": "En el cierre de Asia, el Nikkei sube un 0,9% (aunque cae un 4,6% en cinco sesiones), mientras que Hang Seng (-0,9%) y Shanghái (-0,6%, en mínimos de 52 semanas) retroceden. Los resultados de SpaceX alimentan las compras ligadas a la IA y al sector espacial, aunque con dudas en Europa. El IPC británico (3,5%) y el Brent en 110 siguen alimentando el miedo a la inflación, y el oro cae.",
+  "titulares": [
+   "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+   "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+   "Gold Futures Fall as Rising Oil Fuels Inflation Concerns"
+  ],
+  "coste_usd": 0.0391
  }
 ]
