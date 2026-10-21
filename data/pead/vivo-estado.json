@@ -1,23 +1,29 @@
 {
- "generado": "2026-10-20T23:53:08.378100+00:00",
- "sesion": "2026-10-20",
+ "generado": "2026-10-21T20:53:34.807813+00:00",
+ "sesion": "2026-10-21",
  "inicio": "2026-10-15",
  "resumen": {
-  "abiertas": 0,
+  "abiertas": 2,
   "cerradas": 0
  },
- "pendientes": [
+ "pendientes": [],
+ "abiertas": [
   {
    "ticker": "EFX",
-   "anuncio": "2026-10-20",
+   "entrada": "2026-10-21",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
-   "anuncio": "2026-10-20",
+   "entrada": "2026-10-21",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
    "ra": 0.10863805518324754
   }
  ],
- "abiertas": [],
  "cerradas_recientes": []
 }

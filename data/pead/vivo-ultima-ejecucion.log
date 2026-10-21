@@ -1,4 +1,4 @@
-Resultados: refrescando 98 empresas
+Resultados: refrescando 90 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -17,24 +17,24 @@ Precios...
   precios: 400/504
   precios: 500/504
   precios: 504/504
-  última sesión: 2026-10-20
-Anuncios desde 2026-10-12 en los datos: 525 (con fecha pasada: 42)
-Eventos con reacción reciente: 40; señales de compra: 2
+  última sesión: 2026-10-21
+Anuncios desde 2026-10-12 en los datos: 539 (con fecha pasada: 68)
+Eventos con reacción reciente: 54; señales de compra: 2
 ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
-   EFX 2026-10-20 antes_apertura 2026-10-20        NaT 0.109972 0.085322       1
-   HAS 2026-10-20 antes_apertura 2026-10-20        NaT 0.108638 0.085322       1
-   MMM 2026-10-20 antes_apertura 2026-10-20        NaT 0.054421 0.085322       0
-  MSCI 2026-10-20 antes_apertura 2026-10-20        NaT 0.046692 0.085322       0
+   EFX 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.109972 0.085321       1
+   HAS 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.108638 0.085321       1
+   MMM 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.054421 0.085321       0
+  MSCI 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.046692 0.085321       0
   MRSH 2026-10-15 antes_apertura 2026-10-15 2026-10-16 0.042782 0.085190       0
-   NOC 2026-10-20 antes_apertura 2026-10-20        NaT 0.042373 0.085322       0
-   KEY 2026-10-20 antes_apertura 2026-10-20        NaT 0.041326 0.085322       0
+   NOC 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.042373 0.085321       0
+   KEY 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.041326 0.085321       0
+   DHR 2026-10-21 antes_apertura 2026-10-21        NaT 0.037647 0.085519       0
    BNY 2026-10-15 antes_apertura 2026-10-15 2026-10-16 0.029485 0.085190       0
    TRV 2026-10-16 antes_apertura 2026-10-16 2026-10-19 0.025783 0.085256       0
    TFC 2026-10-16 antes_apertura 2026-10-16 2026-10-19 0.021802 0.085256       0
+   COF 2026-10-20    tras_cierre 2026-10-21        NaT 0.020049 0.085519       0
    BLK 2026-10-14 antes_apertura 2026-10-14 2026-10-15 0.018004 0.085124       0
    USB 2026-10-15 antes_apertura 2026-10-15 2026-10-16 0.017240 0.085190       0
     RF 2026-10-16 antes_apertura 2026-10-16 2026-10-19 0.016192 0.085256       0
-   HAL 2026-10-20 antes_apertura 2026-10-20        NaT 0.015143 0.085322       0
-   PGR 2026-10-13 antes_apertura 2026-10-13 2026-10-14 0.011919 0.085354       0
 Precios: 0 de 500 sin dato en la última sesión
-{"abiertas": 0, "cerradas": 0} pendientes: 2, abiertas: 0
+{"abiertas": 2, "cerradas": 0} pendientes: 0, abiertas: 2
