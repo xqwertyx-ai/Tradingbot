@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**miércoles 21 oct 2026 · revisión de cierre EE. UU. · 22:52 (Madrid)**
+**miércoles 21 oct 2026 · revisión de actualización · 22:54 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟢 risk-on (apetito por riesgo)  
-> En el cierre de EE. UU. las bolsas suben (S&P +0,6%, Nasdaq 100 +1,1%, SMH +1,9%, NVDA +2,5%) por los resultados de SpaceX y la IA. Lo nuevo tras el cierre europeo es el Beige Book, que apunta a presiones de precios más intensas. También llegan resultados de Meta y Tesla con reacción tras el cierre y un Super Micro que se dispara por su previsión de servidores de IA. Se mantiene el trasfondo de Brent en 109 y TNX en 5,15%, y el rebote es amplio pero sin cambio de régimen.  
-> **Decisión:** no operar hoy — Ninguna hipótesis nueva alcanza p>=55 y EV>=1% tras costes: el rebote ya está en precio y los tipos altos siguen siendo un riesgo.
+> Es una revisión de actualización posterior al cierre de EE. UU. Lo nuevo son los resultados de Meta (batida, con cerca de 10.000 M$ en costes legales) y Tesla (supera en beneficios y ventas aunque cae el ingreso del negocio de coches), además del salto de Super Micro (+14%) por su previsión de servidores de IA. El trasfondo de Brent en 109, TNX en 5,15% y presiones de precios sigue igual, y el rebote risk-on no cambia de régimen.  
+> **Decisión:** no operar hoy — Revisión de actualización: solo observación, sin hipótesis nuevas.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -20,9 +20,9 @@
 | **Nikkei 225** | 64.075 | 🔴▼ -1.3% | 🔵▲ +0.9% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 5.146 | ▲ +3 pb | ▲ +18 pb | ↗️ alcista |
 | **EUR/USD** | 1.124 | 🔵▲ +0.2% | 🔴▼ -2.0% | ↘️ bajista |
-| **Brent** | 109.40 | 🔵▲ +0.6% | 🔵▲ +10.2% | ↗️ alcista |
-| **Oro** | 4.154 | 🔵▲ +0.3% | 🔴▼ -5.1% | ↘️ bajista |
-| **Bitcoin** | 84.672 | 🔵▲ +2.1% | 🔵▲ +1.3% | ↗️ alcista |
+| **Brent** | 109.43 | 🔵▲ +0.6% | 🔵▲ +10.3% | ↗️ alcista |
+| **Oro** | 4.156 | 🔵▲ +0.3% | 🔴▼ -5.0% | ↘️ bajista |
+| **Bitcoin** | 84.644 | 🔵▲ +2.1% | 🔵▲ +1.3% | ↗️ alcista |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -39,22 +39,24 @@
 
 ## 📰 Noticias clave
 
-- **[macro]** [Fed’s Beige Book Shows Price Pressures May Be Intensifying](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFAyR29VRUEyVURBTHFnWkEyay1WNlF3aEJkUHFuWFBzTmduc3BRdzBVeDhPZ1VHZi1VMllCOUthemR4NEpJdlVGUUlkaGIzeUxrS1lpNV9MSmFiWmdPQXp4emYyOVhVVS1Ob1lRaGJfT1FJT1JMX01hZDFNNUp3cWk5OEdHd19MVDI4dlA3ZVpsNFI2V0wwSm5SVG1GMWZBejdySzhNRGlXZw?oc=5) <sub>WSJ · 21/10 19:00 · ●</sub>  
-  Confirma una inflación pegajosa tras el IPC británico y el debate sobre subidas de la Fed; es más una confirmación que una sorpresa. **Impacto:** Presiona a la renta variable de duración larga (small caps, tecnología) y al oro a través de tipos más altos; apoya al dólar. El mercado ha ignorado esto hoy.
-- **[resultados]** [U.S. Stocks Rise as SpaceX Earnings Boost AI Trade](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmEtOENDbk1wMmlSbkM0MHdhdTNrM245Y09fcWJYZHlVVWJZakV1cVFVRjhXMThHb0lHTHU5dE5RVEdYdHpZTS13UVk2MWlZWjB3czlQTFd5MVp1QlJ6QWthV2tlc3pmVTlKQU9FYmtQVklNYk1STzR3TTg4Qk94Y0hIeGFoSTVxOUJ2YWVUcw?oc=5) <sub>WSJ · 21/10 20:30 · ●</sub>  
-  Los resultados de SpaceX fueron mejores de lo esperado y ya movieron los precios durante toda la jornada. **Impacto:** Impulsa el comercio de la IA (SMH, NVDA, XLK) y la cripto por apetito de riesgo; la mayor parte ya está descontada en el cierre.
-- **[resultados]** [Super Micro Stocks Surge 14.3% as AI-Server Forecast Jumps](https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1lQb21mdTRmckZiVHNlMnVzWWpGZUdxYnYzcHQzd0FQVkdsYjR1T2hRSEx0a3ZUdE9xUTBNYnRscERrRklUS09mMVYzYV9yUV9aZE9fV3MtMnh5bDFNNENxV25LZl9qTXpZZ2FhdDFLdjNTYUJ5dkNtbW9tS0hRUDNOTmJ6Y1d2ampiTWJISjE3ZjJTeG9z?oc=5) <sub>Yahoo Finance · 21/10 22:33 · ●</sub>  
-  Super Micro se dispara un 14,3% tras su previsión de servidores de IA, después del cierre europeo y probablemente fuera del horario regular de EE. UU. **Impacto:** Apoya a NVDA, SMH y ASML por la demanda de infraestructura de IA, con posible gap alcista en Europa al abrir. Por ahora, impacto limitado a un solo valor.
-- **[geopolítica]** [EU Adopts Record Russia Sanctions Designations as UK Targets Oil, Crypto and Supply Networks](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzRQazIxZllhUXdpbDRMSV92Zmp5aXk1cTRLZ2N1eXlEYVViUHQ1Y25yNExNX3E5QnpUVlItZjJzSnYzdEhadWlGUVlkS1V2YUhKbDlnUkcyUDhvakI2Y21wWTVQMnNvbUZ0dUg0Uk1GNDFveHVFMGF0M0tDV3Y4WGV3?oc=5) <sub>JD Supra · 21/10 22:42 · ●</sub>  
-  Las sanciones récord de la UE y las del Reino Unido al petróleo y a la cripto rusos se esperaban en parte, pero siguen restringiendo la oferta. **Impacto:** Sostiene el Brent y XLE, con presión sobre el consumo y márgenes; efecto alcista moderado sobre el crudo.
-- **[política/regulación]** [Crypto exchanges can keep paying interest-like rewards, federal regulators say](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeExNZ1UwVFlfZkc2OG9Cc29FckRpZndrYlhFR3QxTXVTdUExVkU0b3prWXhDSGVJRFFsWXM2Z1BLLW5QN3NsQl9aalUwS3d5YlAtdzFoNWxkZmJOUGVkakNfS05ueG1xMUhKckt2aTJUcDVrTjFiZmpoRnJiMEpiSmM2WTEtQ2hXOXAweE0zdWtKRVY1SG1z?oc=5) <sub>Fast Company · 21/10 20:45 · ●</sub>  
-  Los reguladores permiten a las plataformas cripto seguir pagando recompensas parecidas a intereses; es un alivio regulatorio moderado. **Impacto:** Favorece a BTC, ETH y a Coinbase por menor riesgo normativo; solo respalda el movimiento ya visto.
-- **[resultados]** [Meta’s Almost $10 Billion Legal Costs Take Huge Toll on Q3 Earnings, Wall Street Shrugs](https://news.google.com/rss/articles/CBMidkFVX3lxTFBJcXpQOG5CaUFVbFpfRk5CTjljZ3RaVzZVa2lEdS1MUDAtZTVjX1NKbXd6Vy1CMXFHeW5hbkE5NDlhMmNpcnBCOWsyWXNSY0dPUnB4NUFaOGdROXRNTVFNdW9vbkxKeTVSdVRFaFlJTlN3cDh3Wmc?oc=5) <sub>Variety · 21/10 22:13 · ●</sub>  
-  Meta supera las previsiones pese a unos costes legales de casi 10.000 millones, y Wall Street lo encaja sin sobresaltos. **Impacto:** Refuerza la confianza en las grandes tecnológicas (XLK, NDX) y confirma que el mercado paga por la IA.
+- **[resultados]** [Super Micro Stocks Surge 14.3% as AI-Server Forecast Jumps](https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1lQb21mdTRmckZiVHNlMnVzWWpGZUdxYnYzcHQzd0FQVkdsYjR1T2hRSEx0a3ZUdE9xUTBNYnRscERrRklUS09mMVYzYV9yUV9aZE9fV3MtMnh5bDFNNENxV25LZl9qTXpZZ2FhdDFLdjNTYUJ5dkNtbW9tS0hRUDNOTmJ6Y1d2ampiTWJISjE3ZjJTeG9z?oc=5) <sub>Yahoo Finance · 21/10 22:33 · ●●●●</sub>  
+  Sorpresa positiva: la previsión de servidores de IA sube y la acción se dispara tras el cierre. **Impacto:** Refuerza la demanda de infraestructura de IA: SMH, NVDA y ASML tienden al alza en la próxima apertura, sobre todo en Europa.
+- **[macro]** [Fed’s Beige Book Shows Price Pressures May Be Intensifying](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFAyR29VRUEyVURBTHFnWkEyay1WNlF3aEJkUHFuWFBzTmduc3BRdzBVeDhPZ1VHZi1VMllCOUthemR4NEpJdlVGUUlkaGIzeUxrS1lpNV9MSmFiWmdPQXp4emYyOVhVVS1Ob1lRaGJfT1FJT1JMX01hZDFNNUp3cWk5OEdHd19MVDI4dlA3ZVpsNFI2V0wwSm5SVG1GMWZBejdySzhNRGlXZw?oc=5) <sub>WSJ · 21/10 19:00 · ●●●●</sub>  
+  Presiones de precios más intensas según el Beige Book: refuerza una narrativa ya presente de inflación y Fed dura. **Impacto:** Eleva el riesgo de tipos altos más tiempo: presión sobre oro, small caps (^RUT) y bonos; apoya al dólar.
+- **[resultados]** [Meta’s Almost $10 Billion Legal Costs Take Huge Toll on Q3 Earnings, Wall Street Shrugs](https://news.google.com/rss/articles/CBMidkFVX3lxTFBJcXpQOG5CaUFVbFpfRk5CTjljZ3RaVzZVa2lEdS1MUDAtZTVjX1NKbXd6Vy1CMXFHeW5hbkE5NDlhMmNpcnBCOWsyWXNSY0dPUnB4NUFaOGdROXRNTVFNdW9vbkxKeTVSdVRFaFlJTlN3cDh3Wmc?oc=5) <sub>Variety · 21/10 22:13 · ●●●</sub>  
+  Resultados superiores a lo esperado; los costes legales (~10.000 M$) eran un lastre conocido y 'Wall Street shrugs'. **Impacto:** Meta y la tecnología de gran capitalización (XLK, ^NDX) con apoyo moderado; el mercado perdona el golpe contable.
+- **[resultados]** [Tesla beats on earnings and sales even as auto revenue declines](https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html) <sub>CNBC · 21/10 22:43 · ●●●</sub>  
+  Supera en beneficios y ventas pese a la caída del ingreso de coches; mezcla de sorpresa y descuento parcial. **Impacto:** Tesla y el sentimiento de crecimiento ganan apoyo; efecto limitado sobre índices.
+- **[geopolítica]** [EU Adopts Record Russia Sanctions Designations as UK Targets Oil, Crypto and Supply Networks](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzRQazIxZllhUXdpbDRMSV92Zmp5aXk1cTRLZ2N1eXlEYVViUHQ1Y25yNExNX3E5QnpUVlItZjJzSnYzdEhadWlGUVlkS1V2YUhKbDlnUkcyUDhvakI2Y21wWTVQMnNvbUZ0dUg0Uk1GNDFveHVFMGF0M0tDV3Y4WGV3?oc=5) <sub>JD Supra · 21/10 22:42 · ●●●</sub>  
+  Sanciones récord de la UE y nuevas medidas del Reino Unido sobre petróleo y cripto; en parte anticipadas. **Impacto:** Sostiene el Brent y XLE por menor oferta rusa; riesgo de regulación en cripto.
+- **[macro]** [UK inflation jumps to 3.5% — cementing rate hike expectations](https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMFE1c0o5clpFOWdSQzVWX1VBSDVFcmpXSmptNDRoVGdNUEVkYWdRZW54T1VLOWJ3aU1IeHlGMURjdHE4VzZ3YWdHdzUwekFiWlV2ODk1NVJqX1RfYzVjV3VQQXBWVFhRaUVJNnhfUGxMSFUxUWZn?oc=5) <sub>CNBC · 21/10 08:02 · ●●●</sub>  
+  IPC británico 3,5% superior a lo esperado, ya digerido en las bolsas europeas durante la sesión. **Impacto:** Apoya la libra y las expectativas de subida del BoE; presión sobre la renta fija europea.
 
-**Divergencias precio-noticia:** El mercado sube con fuerza (Euro Stoxx +1,4%, S&P cerca de máximos) pese a un IPC británico de 3,5%, un Beige Book con más presión de precios y un TNX en 5,15%; los resultados mandan sobre los tipos. · El oro sube un 0,3% con el dólar en máximos de 52 semanas y los rendimientos altos, y sigue bajista a un mes (-5,1%); no hay una señal clara. · El Russell 2000 sube solo un 0,3% frente a +1,1% del Nasdaq 100: las small caps no acompañan el rebote, coherente con la sensibilidad a la financiación.
+**Divergencias precio-noticia:** Las bolsas europeas y estadounidenses suben con fuerza pese al IPC británico caliente, el Beige Book con presiones de precios y el TNX en 5,15%: el mercado prioriza los resultados sobre los tipos. · Oro +0,3% con el dólar plano y los rendimientos altos: respuesta contenida, sin liderazgo de refugio. · Brent +0,6% pese a titulares intradía de petróleo a la baja: la tendencia alcista del crudo no se rompe.
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-21._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -62,23 +64,15 @@
 | 🔵▲ **ASML** | El salto de Super Micro tras el cierre europeo anticipa un gap alcista en semiconductores europeos al abrir. | 3 ses. | +3.0% / −2.0% | 42% | -0.0% 👀 |
 | 🔵▲ **Bitcoin** | Apetito de riesgo por la IA y alivio regulatorio sobre las recompensas cripto sostienen la tendencia alcista de Bitcoin hacia 85K. | 5 ses. | +4.0% / −2.5% | 40% | -0.1% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **Energía (XLE)** · Tras +10% en un mes el sector puede corregir si el crudo retrocede, y los tipos altos amenazan la demanda. Sesgos: Sesgo de momentum y de anclaje en la tendencia reciente.
-- **ASML** · ASML ya subió un 2,8% hoy y el efecto de un solo valor como Super Micro puede ser pequeño; los gaps se desvanecen con facilidad. Sesgos: Sesgo de narrativa (IA) y de recencia.
-- **Bitcoin** · Bitcoin ha subido por correlación con la tecnología; un tono más duro de la Fed o del bono lo revertiría y el coste es del 0,2%. Sesgos: Sesgo de confirmación con titulares cripto optimistas.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **Bono EE. UU. 10a (%)** — Un rendimiento del bono en 5,15% con la Fed barajando subidas es el principal riesgo para este rebote.
-- **Brent** — Brent en 109 (+10% en un mes) y las sanciones a Rusia pueden reavivar el miedo a la inflación.
-- **Semiconductores (SMH)** — Super Micro y los resultados de IA marcarán el gap de la próxima apertura.
-- **Nikkei 225** — Primera reacción asiática a los resultados de IA y a Tesla tras -5,5% en cinco sesiones.
-- **BBVA** — Previa de resultados bancarios en España (Bankinter mañana) tras un rebote del 1,6%.
+- **ASML** — Posible gap alcista en Europa tras el salto de Super Micro.
+- **Semiconductores (SMH)** — Las previsiones de IA pueden extender el rebote tras -8% en un mes.
+- **Brent** — Brent en 109 con sanciones a Rusia y presiones de precios; vigilar si frena el apetito por riesgo.
+- **Russell 2000** — Índice bajista y sensible a tipos si el TNX sigue en 5,15%.
+- **Bitcoin** — Cerca de 85K con el sentimiento de IA; riesgo regulatorio por las sanciones.
 - **S&P 500** — en máximos de 52 semanas
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **EUR/USD** — en mínimos de 52 semanas
@@ -90,9 +84,12 @@
 
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
-Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 0.
+Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 2.
 
-**Se compran en la próxima sesión:** EFX (reacción +11.0%), HAS (reacción +10.9%)
+| Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |
+|---|---|--:|--:|--:|
+| EFX | 2026-10-21 | 0/40 | +0.0% | +0.0% |
+| HAS | 2026-10-21 | 0/40 | +0.0% | +0.0% |
 
 ## 📈 Tendencias (6 meses)
 
@@ -113,12 +110,12 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 0.
 | Shanghái Compuesto | 3.735 | 🔵▲ +0.1% | 🔴▼ -1.7% | 🔴▼ -3.9% | 🔴▼ -5.6% | 33 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 5.146 | ▲ +3 pb | ▼ -4 pb | ▲ +18 pb | ▲ +44 pb | 53 | ↗️ alcista | — |
 | EUR/USD | 1.124 | 🔵▲ +0.2% | 🔵▲ +0.3% | 🔴▼ -2.0% | 🔴▼ -1.2% | 38 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.70 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔵▲ +1.1% | 🔵▲ +0.3% | 54 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 109.40 | 🔵▲ +0.6% | 🔵▲ +3.1% | 🔵▲ +10.2% | 🔵▲ +8.7% | 64 | ↗️ alcista | — |
-| Oro | 4.154 | 🔵▲ +0.3% | 🔵▲ +1.1% | 🔴▼ -5.1% | 🔵▲ +2.6% | 42 | ↘️ bajista | — |
-| Bitcoin | 84.672 | 🔵▲ +2.1% | 🔵▲ +3.9% | 🔵▲ +1.3% | 🔵▲ +22.2% | 59 | ↗️ alcista | — |
+| Índice dólar | 101.69 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔵▲ +1.1% | 🔵▲ +0.3% | 53 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 109.43 | 🔵▲ +0.6% | 🔵▲ +3.2% | 🔵▲ +10.3% | 🔵▲ +8.7% | 64 | ↗️ alcista | — |
+| Oro | 4.156 | 🔵▲ +0.3% | 🔵▲ +1.2% | 🔴▼ -5.0% | 🔵▲ +2.6% | 42 | ↘️ bajista | — |
+| Bitcoin | 84.644 | 🔵▲ +2.1% | 🔵▲ +3.9% | 🔵▲ +1.3% | 🔵▲ +22.2% | 59 | ↗️ alcista | — |
 | Ethereum | 2.491 | 🔵▲ +1.8% | 🔵▲ +3.0% | 🔴▼ -7.2% | 🔵▲ +10.6% | 48 | ➡️ lateral | — |
-| Solana | 108.08 | 🔵▲ +1.6% | 🔵▲ +3.6% | 🔴▼ -8.4% | 🔵▲ +26.6% | 48 | ➡️ lateral | — |
+| Solana | 108.02 | 🔵▲ +1.5% | 🔵▲ +3.6% | 🔴▼ -8.5% | 🔵▲ +26.5% | 48 | ➡️ lateral | — |
 | Semiconductores (SMH) | 556.70 | 🔵▲ +1.9% | 🔴▼ -1.4% | 🔴▼ -8.4% | 🔴▼ -4.0% | 40 | ➡️ lateral | — |
 | Financieras (XLF) | 56.04 | 🔵▲ +0.6% | 🔵▲ +2.8% | 🔵▲ +2.3% | 🔵▲ +0.4% | 59 | ➡️ lateral | — |
 | Energía (XLE) | 68.16 | 🔵▲ +0.3% | 🔵▲ +0.8% | 🔵▲ +10.3% | 🔵▲ +14.8% | 67 | ↗️ alcista | en máximos de 52 semanas |

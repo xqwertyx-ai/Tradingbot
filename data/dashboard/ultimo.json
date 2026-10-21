@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-21T20:52:50.961264+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-10-21T20:54:49.055928+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -303,21 +303,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.69599914550781,
+   "last": 101.68800354003906,
    "date": "2026-10-21",
-   "chg_1d": -0.00033425941515474733,
-   "chg_5d": -0.008327682894548327,
-   "chg_1m": 0.0108946390458311,
-   "chg_3m": 0.002622486833596671,
-   "vol20_ann": 0.04873875175424346,
-   "ma50": 100.46991989135742,
-   "ma200": 99.52423011779786,
-   "dist_ma50": 0.012203446120751416,
-   "dist_ma200": 0.021821510451670134,
-   "rsi14": 53.53166232199534,
-   "from_high": -0.008617690288237556,
-   "from_low": 0.05691122277419436,
-   "z_1d": -0.10494066864343808,
+   "chg_1d": -0.00041285575060068247,
+   "chg_5d": -0.00840565076613109,
+   "chg_1m": 0.01081515986501591,
+   "chg_3m": 0.002543658031026519,
+   "vol20_ann": 0.0487530798640902,
+   "ma50": 100.46975997924805,
+   "ma200": 99.52419013977051,
+   "dist_ma50": 0.012125474979164164,
+   "dist_ma200": 0.021741582596449316,
+   "rsi14": 53.410620286443695,
+   "from_high": -0.008695635358680454,
+   "from_low": 0.05682812564919626,
+   "z_1d": -0.12961597058161073,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -331,21 +331,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 109.4000015258789,
+   "last": 109.43000030517578,
    "date": "2026-10-21",
-   "chg_1d": 0.005607138571726011,
-   "chg_5d": 0.03149164665443194,
-   "chg_1m": 0.10226701789298653,
-   "chg_3m": 0.08650311722398851,
-   "vol20_ann": 0.29012765404603874,
-   "ma50": 99.76619949340821,
-   "ma200": 90.63064992904663,
-   "dist_ma50": 0.09656378694777512,
-   "dist_ma200": 0.20709717531019067,
-   "rsi14": 63.78884789216241,
-   "from_high": -0.07562312685791228,
-   "from_low": 0.856755005527815,
-   "z_1d": 0.20359467809293175,
+   "chg_1d": 0.0058828879884409435,
+   "chg_5d": 0.03177449391058351,
+   "chg_1m": 0.1025692725962295,
+   "chg_3m": 0.0868010492785074,
+   "vol20_ann": 0.29016044458449103,
+   "ma50": 99.76679946899414,
+   "ma200": 90.63079992294311,
+   "dist_ma50": 0.09685788145569219,
+   "dist_ma200": 0.20742617739461955,
+   "rsi14": 63.84101857645222,
+   "from_high": -0.07536965174440446,
+   "from_low": 0.8572641497951121,
+   "z_1d": 0.21360711367165663,
    "trend": "alcista",
    "flags": []
   },
@@ -357,21 +357,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4153.7998046875,
+   "last": 4156.39990234375,
    "date": "2026-10-21",
-   "chg_1d": 0.0027035453017989486,
-   "chg_5d": 0.011173568839289771,
-   "chg_1m": -0.050863747057721564,
-   "chg_3m": 0.025578947895066095,
-   "vol20_ann": 0.17662143052447796,
-   "ma50": 4358.333974609375,
-   "ma200": 4537.369000244141,
-   "dist_ma50": -0.0469294393484857,
-   "dist_ma200": -0.0845355966279141,
-   "rsi14": 41.64445964339708,
-   "from_high": -0.2189756541517357,
-   "from_low": 0.048806919501956925,
-   "z_1d": 0.20759604090222133,
+   "chg_1d": 0.003331194023605377,
+   "chg_5d": 0.011806519426709627,
+   "chg_1m": -0.050269629126483695,
+   "chg_3m": 0.026220915621992358,
+   "vol20_ann": 0.17685144810089862,
+   "ma50": 4358.3859765625,
+   "ma200": 4537.382000732422,
+   "dist_ma50": -0.04634423736331372,
+   "dist_ma200": -0.0839651804338215,
+   "rsi14": 41.96789539543921,
+   "from_high": -0.2184867669480668,
+   "from_low": 0.04946342692684014,
+   "z_1d": 0.2557910497440018,
    "trend": "bajista",
    "flags": []
   },
@@ -383,21 +383,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 84672.203125,
+   "last": 84643.5078125,
    "date": "2026-10-21",
-   "chg_1d": 0.0208727062007934,
-   "chg_5d": 0.038912480062744725,
-   "chg_1m": 0.013384799642221834,
-   "chg_3m": 0.22241754860551555,
-   "vol20_ann": 0.22239581810385464,
-   "ma50": 81715.27046875,
-   "ma200": 72737.1687890625,
-   "dist_ma50": 0.036185802718242455,
-   "dist_ma200": 0.16408439501610306,
-   "rsi14": 58.840724393662875,
-   "from_high": -0.2603267721428322,
-   "from_low": 0.44593327173220754,
-   "z_1d": 1.1426492863128088,
+   "chg_1d": 0.02052673361184465,
+   "chg_5d": 0.03856039381512999,
+   "chg_1m": 0.013041364696215307,
+   "chg_3m": 0.2220032727006953,
+   "vol20_ann": 0.22196785949784464,
+   "ma50": 81714.6965625,
+   "ma200": 72737.0253125,
+   "dist_ma50": 0.03584191550855098,
+   "dist_ma200": 0.16369218357289417,
+   "rsi14": 58.75111981347712,
+   "from_high": -0.26057744655117265,
+   "from_low": 0.44544324660524515,
+   "z_1d": 1.1237094647083128,
    "trend": "alcista",
    "flags": []
   },
@@ -409,21 +409,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2491.169921875,
+   "last": 2491.199951171875,
    "date": "2026-10-21",
-   "chg_1d": 0.018162688991578246,
-   "chg_5d": 0.029508038598510256,
-   "chg_1m": -0.07173342627068591,
-   "chg_3m": 0.10646963577855151,
-   "vol20_ann": 0.31960593706746765,
-   "ma50": 2551.4140576171876,
-   "ma200": 2153.379255981445,
-   "dist_ma50": -0.0236120576204909,
-   "dist_ma200": 0.15686538493174074,
-   "rsi14": 48.110272434935084,
-   "from_high": -0.4008714868143759,
-   "from_low": 0.5919883784807183,
-   "z_1d": 0.8422760087028728,
+   "chg_1d": 0.018174962224883684,
+   "chg_5d": 0.029520448592005533,
+   "chg_1m": -0.07172223667166377,
+   "chg_3m": 0.10648297348983493,
+   "vol20_ann": 0.31961718879206324,
+   "ma50": 2551.414658203125,
+   "ma200": 2153.3794061279295,
+   "dist_ma50": -0.023600517790258735,
+   "dist_ma200": 0.15687924946370368,
+   "rsi14": 48.113333255432806,
+   "from_high": -0.4008642647425972,
+   "from_low": 0.5920075687781039,
+   "z_1d": 0.8428451672656372,
    "trend": "lateral",
    "flags": []
   },
@@ -435,21 +435,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 108.08000183105469,
+   "last": 108.0199966430664,
    "date": "2026-10-21",
-   "chg_1d": 0.01557625430774956,
-   "chg_5d": 0.0362749508608764,
-   "chg_1m": -0.0840275094440539,
-   "chg_3m": 0.2659520773705286,
-   "vol20_ann": 0.35068794571578,
-   "ma50": 109.60846496582032,
-   "ma200": 87.97032955169678,
-   "dist_ma50": -0.013944754497221101,
-   "dist_ma200": 0.22859607758477507,
-   "rsi14": 48.03716527408975,
-   "from_high": -0.4596773258466119,
-   "from_low": 0.7379054884459515,
-   "z_1d": 0.5064192275321976,
+   "chg_1d": 0.015012414161341692,
+   "chg_5d": 0.03569961895691187,
+   "chg_1m": -0.08453605034483791,
+   "chg_3m": 0.2652492304876659,
+   "vol20_ann": 0.3502693156265324,
+   "ma50": 109.60726486206055,
+   "ma200": 87.97002952575684,
+   "dist_ma50": -0.014481414356901423,
+   "dist_ma200": 0.22791815832503626,
+   "rsi14": 47.915307886612965,
+   "from_high": -0.4599773088507535,
+   "from_low": 0.7369406166493813,
+   "z_1d": 0.48808751017872254,
    "trend": "lateral",
    "flags": []
   },
@@ -835,15 +835,6 @@
    "score": 3
   },
   {
-   "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXpUa0w2bkpPZmdMZG9rSkdycHUzYWpSR0hUQUs0aTJtVVVhS3JZRkVLYk5HeUM5NFZldTItV3JINXo2YmtHRHEyeThhZE5QMnJFNW1GMzkwZkNfQTZFVEswQ05ReDhNZmVWVHlzcktrUHBleDRtWl9fYUVjc1UtYnRXUmZxVElvcmktS2dFWGtiLW5LSW5KMG02enMzWFF1TXI1WENfS0NoYnhEb1JBSUoyb0lOWWNqX1JUd29JdFJqdw?oc=5",
-   "source": "StoneX",
-   "feed": "Google News · markets",
-   "published": "2026-10-21T19:10:24+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Crypto Becomes A Weapon in Washington's Economic Wars, Raising New Questions About Government Control",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZlZnSXpOdGpMN2xubXVFLTY0UF9uRF9UcEpUZlhGVE1PWUwzZGc4cHZmOXdOVDI0eVlWcm5xWGxzcFM4YTVtay1rRkZocnVGUUY4RTZPWk9pS1piczFHXzdjMGR5cU5WMnNpamZ3czNlSVB3TlVoeXVTNkR0RlF1NkNmejZ4V1lOa3pCNEFBa2g0OXA1cm9WTm1vWS15Ul9WSTdNZnQwVVFadWFCeG1QMUFXQ1VrUEhILWVsSTY4UzNCVDhnWEU5MS1taUtoLVB1TUY3TGw2VWVENmFScFF0QQ?oc=5",
    "source": "Benzinga",
@@ -853,12 +844,12 @@
    "score": 3
   },
   {
-   "title": "Crypto exchanges can keep paying interest-like rewards, federal regulators say",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeExNZ1UwVFlfZkc2OG9Cc29FckRpZndrYlhFR3QxTXVTdUExVkU0b3prWXhDSGVJRFFsWXM2Z1BLLW5QN3NsQl9aalUwS3d5YlAtdzFoNWxkZmJOUGVkakNfS05ueG1xMUhKckt2aTJUcDVrTjFiZmpoRnJiMEpiSmM2WTEtQ2hXOXAweE0zdWtKRVY1SG1z?oc=5",
-   "source": "Fast Company",
-   "feed": "Google News · crypto",
-   "published": "2026-10-21T18:45:32+00:00",
-   "category": "macro",
+   "title": "Going into Earnings, Is Unilever Stock a Buy, Sell, or Fairly Valued?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXc5Y3dLdEtSeW1yaHgxcmZ6ZGUyVkVVZTExdFZpc2JOSnZLV2pOVGhzT29kMmdqdVc0YnZQZU5KbGwwdkhGUEo0Qk1qNWpzdHFnUnZiVzRGS05ZOTdITnJZSDkwc3RFbW5JT3FTZ3VMb19GdndGUURwaS11WWxNNlBwMHJ1R3NJT0xnaURGdW9HZnVDeWhvaXhicEV6R0t3ckhweVhyZ3B1MUE?oc=5",
+   "source": "Morningstar",
+   "feed": "Google News · markets",
+   "published": "2026-10-21T19:08:54+00:00",
+   "category": "resultados",
    "score": 3
   },
   {
@@ -925,11 +916,11 @@
    "score": 3
   },
   {
-   "title": "How Provo MTC missionaries stay fed during cafeteria construction",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzZ1U3M3ZVdvc04xc0xjejRkSFpQVU4yWXVsLXhDY0ljYXNTMExNRTBHTWU1ZXRiWEl5MTU5N01hbXdBa2J0MnlWLUFWZ1JsSXZtRDk0ZHdnRHpqWUtmUnpMbHVTR29ESV9vT0p1cDVpQWc5a2RwMUN2Mmg2a1ZZZ2NyMlk4b2FNOHFuOHJnajV1dGlTc2tmcno0eEs?oc=5",
-   "source": "BYU Daily Universe",
+   "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlgzWnZXZDBuUWxXWUxYRUlBU2lCSUxpXzd3NEItb3JLOXlCWFE2el9FYXNxV0I0NVpJU3cwckdhZ0VuVzVXWG9NSXFWWDdOQ3hHVEhNeGhyNWNkTHpoaFVWbEdpSFZxY20xRzFPMXZaOEdYekppQjNlNVpwX0dmUUVwRjY4eFItMG9nRjlxc2ZabDNGUVp2eDAzTGNGY1N3ZlJXQnBCRFczMllkb1lmMWRR0gG-AUFVX3lxTE1KSGpQX3lPaHg1dlFhVmxVSGFHRVNLUkFMMm5BanpqS0p3UjVmYWtnNjhZNDZXa2RiX0NoeFQ4RFFrNTc0X3lVRnZoMEIwcnlVWE5uRGxXejZEV0U3RVFkZnRVZXh1V25VZndCMVh0NVFFczhyTDZVbFp1cDg4OVFBaUZyZHhpTG1oUmxlc3RNMkxkeGxuWVJ5QjlSdUxHNHM0NjNrWEtyWmZ1MlRTMEhORktlMXZCbzYxYW83Q1E?oc=5",
+   "source": "FOREX.com",
    "feed": "Google News · markets",
-   "published": "2026-10-21T18:03:10+00:00",
+   "published": "2026-10-21T18:10:24+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1141,15 +1132,6 @@
    "score": 3
   },
   {
-   "title": "Wall Street Futures Rise as Corporate Earnings Support Technology Stocks: Dow Jones, S&P, Nasdaq",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbE9WVl9QMjc0NjFFV2FmaC1HSk5iSkpGZ1ZWZU9KMm9hbml2MHg1YXM1Mk5OR0VYQlU2d05RVTBGT0Zpei1aS1N1dkQ2VmpCOWFHMUtKbGJ1Q2RRLXFNNmNTVHZPRHlQNUdmVjlaQ0dFV0NuZ2lBVGdvZUtRTHQ2X0ZlaE1ScDdHYzFRRHdiV2hyY3Y0R0huOWQwVDFPeTZm?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-21T13:20:32+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
    "source": "CNBC",
@@ -1310,143 +1292,115 @@
    "published": "2026-10-21T20:33:51+00:00",
    "category": "otras",
    "score": 2
+  },
+  {
+   "title": "SpaceX se dispara en bolsa y Elon Musk recupera el billón de dólares",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFAwYk1wZDM3ODF3R0pzUF9oMEQ2YVdUSFliV1VJOFRzY3pQMlBRUXNXZzVaVDdaNGFGYlZRQUlEbTRSS2xESzA5akpDcTMwOGh6bTVja2lzZ0VPUDdORXg5VWlfd3RuMHNUdjlla19aX254UTJMZnBUb25tLUtOUVNPZEtQRlVhZG85c2tiWTQ0MGx6ZDZQbzJHVnc?oc=5",
+   "source": "Benzinga España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-21T19:44:39+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
+   "title": "La imparable subida de Inditex dispara su peso en el Ibex 35",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnJ5QVRzdldyc09qQmRoZGUzclNuYmw1V1FNdGtvVVJfUjNrSTJ2RVNYcjRtSXBOZWR0LXIyckxYV01JY1FTX3RpYkJNY1VtWlJXUEVBQU5Kb3lvS3RvMzlWQ0hiTU5IOG56bEZoX25yWGxZMGotdGFJek9mY3ptRWRJbGE0cnJmYTZteU5Ia21VaHByY2VzTlplSXRJZEpLU2RST0NXUGtMUzIzS2M4NHhlSzZoMHc?oc=5",
+   "source": "El Toro TV",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-21T19:23:44+00:00",
+   "category": "otras",
+   "score": 2
   }
  ],
  "analisis": {
-  "resumen": "En el cierre de EE. UU. las bolsas suben (S&P +0,6%, Nasdaq 100 +1,1%, SMH +1,9%, NVDA +2,5%) por los resultados de SpaceX y la IA. Lo nuevo tras el cierre europeo es el Beige Book, que apunta a presiones de precios más intensas. También llegan resultados de Meta y Tesla con reacción tras el cierre y un Super Micro que se dispara por su previsión de servidores de IA. Se mantiene el trasfondo de Brent en 109 y TNX en 5,15%, y el rebote es amplio pero sin cambio de régimen.",
-  "resumen_dia": "Asia abrió pendiente del RBA (Hauser), que ve peor la inflación australiana, y cerró mixta: el Nikkei subió y Hang Seng y Shanghái cayeron, esta última en mínimos de 52 semanas. En Europa el IPC británico del 3,5% reforzó las apuestas de subida del BoE, pero las bolsas cerraron con fuertes subidas (DAX +1,3%, Euro Stoxx +1,4%, IBEX +1,2%) por los resultados. En EE. UU. dominó el rebote de la IA y los semiconductores tras los resultados de SpaceX, y Bitcoin se acercó a 85K. El Beige Book y el debate sobre subidas de la Fed mantienen el miedo a tipos altos, con el Brent en 109 (+10% en un mes). La jornada fue risk-on, pero con inflación y petróleo como frenos de fondo.",
+  "resumen": "Es una revisión de actualización posterior al cierre de EE. UU. Lo nuevo son los resultados de Meta (batida, con cerca de 10.000 M$ en costes legales) y Tesla (supera en beneficios y ventas aunque cae el ingreso del negocio de coches), además del salto de Super Micro (+14%) por su previsión de servidores de IA. El trasfondo de Brent en 109, TNX en 5,15% y presiones de precios sigue igual, y el rebote risk-on no cambia de régimen.",
+  "resumen_dia": "",
   "clima": "risk-on",
   "noticias": [
    {
-    "id": 28,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Confirma una inflación pegajosa tras el IPC británico y el debate sobre subidas de la Fed; es más una confirmación que una sorpresa.",
-    "impacto": "Presiona a la renta variable de duración larga (small caps, tecnología) y al oro a través de tipos más altos; apoya al dólar. El mercado ha ignorado esto hoy."
-   },
-   {
-    "id": 14,
+    "id": 57,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Los resultados de SpaceX fueron mejores de lo esperado y ya movieron los precios durante toda la jornada.",
-    "impacto": "Impulsa el comercio de la IA (SMH, NVDA, XLK) y la cripto por apetito de riesgo; la mayor parte ya está descontada en el cierre."
-   },
-   {
-    "id": 59,
-    "categoria": "resultados",
-    "rumor": false,
-    "novedad": "Super Micro se dispara un 14,3% tras su previsión de servidores de IA, después del cierre europeo y probablemente fuera del horario regular de EE. UU.",
-    "impacto": "Apoya a NVDA, SMH y ASML por la demanda de infraestructura de IA, con posible gap alcista en Europa al abrir. Por ahora, impacto limitado a un solo valor."
-   },
-   {
-    "id": 1,
-    "categoria": "geopolítica",
-    "rumor": false,
-    "novedad": "Las sanciones récord de la UE y las del Reino Unido al petróleo y a la cripto rusos se esperaban en parte, pero siguen restringiendo la oferta.",
-    "impacto": "Sostiene el Brent y XLE, con presión sobre el consumo y márgenes; efecto alcista moderado sobre el crudo."
-   },
-   {
-    "id": 9,
-    "categoria": "política/regulación",
-    "rumor": false,
-    "novedad": "Los reguladores permiten a las plataformas cripto seguir pagando recompensas parecidas a intereses; es un alivio regulatorio moderado.",
-    "impacto": "Favorece a BTC, ETH y a Coinbase por menor riesgo normativo; solo respalda el movimiento ya visto."
+    "novedad": "Sorpresa positiva: la previsión de servidores de IA sube y la acción se dispara tras el cierre.",
+    "impacto": "Refuerza la demanda de infraestructura de IA: SMH, NVDA y ASML tienden al alza en la próxima apertura, sobre todo en Europa.",
+    "importancia": 4
    },
    {
     "id": 5,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Meta supera las previsiones pese a unos costes legales de casi 10.000 millones, y Wall Street lo encaja sin sobresaltos.",
-    "impacto": "Refuerza la confianza en las grandes tecnológicas (XLK, NDX) y confirma que el mercado paga por la IA."
+    "novedad": "Resultados superiores a lo esperado; los costes legales (~10.000 M$) eran un lastre conocido y 'Wall Street shrugs'.",
+    "impacto": "Meta y la tecnología de gran capitalización (XLK, ^NDX) con apoyo moderado; el mercado perdona el golpe contable.",
+    "importancia": 3
+   },
+   {
+    "id": 0,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Supera en beneficios y ventas pese a la caída del ingreso de coches; mezcla de sorpresa y descuento parcial.",
+    "impacto": "Tesla y el sentimiento de crecimiento ganan apoyo; efecto limitado sobre índices.",
+    "importancia": 3
+   },
+   {
+    "id": 27,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Presiones de precios más intensas según el Beige Book: refuerza una narrativa ya presente de inflación y Fed dura.",
+    "impacto": "Eleva el riesgo de tipos altos más tiempo: presión sobre oro, small caps (^RUT) y bonos; apoya al dólar.",
+    "importancia": 4
+   },
+   {
+    "id": 1,
+    "categoria": "geopolítica",
+    "rumor": false,
+    "novedad": "Sanciones récord de la UE y nuevas medidas del Reino Unido sobre petróleo y cripto; en parte anticipadas.",
+    "impacto": "Sostiene el Brent y XLE por menor oferta rusa; riesgo de regulación en cripto.",
+    "importancia": 3
+   },
+   {
+    "id": 50,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "IPC británico 3,5% superior a lo esperado, ya digerido en las bolsas europeas durante la sesión.",
+    "impacto": "Apoya la libra y las expectativas de subida del BoE; presión sobre la renta fija europea.",
+    "importancia": 3
    }
   ],
   "divergencias": [
-   "El mercado sube con fuerza (Euro Stoxx +1,4%, S&P cerca de máximos) pese a un IPC británico de 3,5%, un Beige Book con más presión de precios y un TNX en 5,15%; los resultados mandan sobre los tipos.",
-   "El oro sube un 0,3% con el dólar en máximos de 52 semanas y los rendimientos altos, y sigue bajista a un mes (-5,1%); no hay una señal clara.",
-   "El Russell 2000 sube solo un 0,3% frente a +1,1% del Nasdaq 100: las small caps no acompañan el rebote, coherente con la sensibilidad a la financiación."
+   "Las bolsas europeas y estadounidenses suben con fuerza pese al IPC británico caliente, el Beige Book con presiones de precios y el TNX en 5,15%: el mercado prioriza los resultados sobre los tipos.",
+   "Oro +0,3% con el dólar plano y los rendimientos altos: respuesta contenida, sin liderazgo de refugio.",
+   "Brent +0,6% pese a titulares intradía de petróleo a la baja: la tendencia alcista del crudo no se rompe."
   ],
-  "hipotesis": [
-   {
-    "ticker": "XLE",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Brent en 109 con sanciones a Rusia y presiones de precios en el Beige Book mantienen la tendencia alcista del sector energético, en máximos de 52 semanas.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 42,
-    "confluencia": [
-     "Tendencia alcista y máximos de 52 semanas",
-     "Sanciones de la UE y el Reino Unido que restringen la oferta de petróleo"
-    ],
-    "contra": "Tras +10% en un mes el sector puede corregir si el crudo retrocede, y los tipos altos amenazan la demanda.",
-    "sesgos": "Sesgo de momentum y de anclaje en la tendencia reciente.",
-    "ev_pct": -0.0,
-    "operable": false
-   },
-   {
-    "ticker": "ASML",
-    "direccion": "alcista",
-    "horizonte_dias": 3,
-    "tesis": "El salto de Super Micro tras el cierre europeo anticipa un gap alcista en semiconductores europeos al abrir.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 42,
-    "confluencia": [
-     "Noticia de IA posterior al cierre de Europa y aún no reflejada en ASML",
-     "Sector semis rebotando con fuerza (SMH +1,9%) tras -8,4% en un mes"
-    ],
-    "contra": "ASML ya subió un 2,8% hoy y el efecto de un solo valor como Super Micro puede ser pequeño; los gaps se desvanecen con facilidad.",
-    "sesgos": "Sesgo de narrativa (IA) y de recencia.",
-    "ev_pct": -0.0,
-    "operable": false
-   },
-   {
-    "ticker": "BTC-USD",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Apetito de riesgo por la IA y alivio regulatorio sobre las recompensas cripto sostienen la tendencia alcista de Bitcoin hacia 85K.",
-    "objetivo_pct": 4.0,
-    "invalidacion_pct": 2.5,
-    "confianza": 40,
-    "confluencia": [
-     "Tendencia alcista y rebote de +2,1% hoy",
-     "Alivio regulatorio y apetito de riesgo por resultados tecnológicos"
-    ],
-    "contra": "Bitcoin ha subido por correlación con la tecnología; un tono más duro de la Fed o del bono lo revertiría y el coste es del 0,2%.",
-    "sesgos": "Sesgo de confirmación con titulares cripto optimistas.",
-    "ev_pct": -0.1,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
-    "ticker": "^TNX",
-    "motivo": "Un rendimiento del bono en 5,15% con la Fed barajando subidas es el principal riesgo para este rebote."
-   },
-   {
-    "ticker": "BZ=F",
-    "motivo": "Brent en 109 (+10% en un mes) y las sanciones a Rusia pueden reavivar el miedo a la inflación."
+    "ticker": "ASML",
+    "motivo": "Posible gap alcista en Europa tras el salto de Super Micro."
    },
    {
     "ticker": "SMH",
-    "motivo": "Super Micro y los resultados de IA marcarán el gap de la próxima apertura."
+    "motivo": "Las previsiones de IA pueden extender el rebote tras -8% en un mes."
    },
    {
-    "ticker": "^N225",
-    "motivo": "Primera reacción asiática a los resultados de IA y a Tesla tras -5,5% en cinco sesiones."
+    "ticker": "BZ=F",
+    "motivo": "Brent en 109 con sanciones a Rusia y presiones de precios; vigilar si frena el apetito por riesgo."
    },
    {
-    "ticker": "BBVA.MC",
-    "motivo": "Previa de resultados bancarios en España (Bankinter mañana) tras un rebote del 1,6%."
+    "ticker": "^RUT",
+    "motivo": "Índice bajista y sensible a tipos si el TNX sigue en 5,15%."
+   },
+   {
+    "ticker": "BTC-USD",
+    "motivo": "Cerca de 85K con el sentimiento de IA; riesgo regulatorio por las sanciones."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Ninguna hipótesis nueva alcanza p>=55 y EV>=1% tras costes: el rebote ya está en precio y los tipos altos siguen siendo un riesgo.",
+  "decision_motivo": "Revisión de actualización: solo observación, sin hipótesis nuevas.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10185,
-   "tokens_salida": 4302,
-   "coste_usd": 0.0634
+   "tokens_entrada": 10397,
+   "tokens_salida": 1579,
+   "coste_usd": 0.0366
   }
  },
  "calidad": {
