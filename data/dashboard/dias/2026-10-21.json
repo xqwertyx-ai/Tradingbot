@@ -40,5 +40,19 @@
    "Gold Futures Fall as Rising Oil Fuels Inflation Concerns"
   ],
   "coste_usd": 0.0391
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-21T13:51:42+00:00",
+  "hora_madrid": "15:51",
+  "clima": "risk-on",
+  "resumen": "En la apertura de EE. UU. los futuros suben por el rebote de la IA y los resultados de SpaceX, mientras Netflix cae tras su guía de Q4. Europa cierra con subidas (DAX +1,4%, Euro Stoxx +1,3%) pese al IPC británico del 3,5% y un Brent en 108. Los datos de vivienda (ventas pendientes en mínimos de 25 años) y la discusión sobre nuevas subidas de la Fed mantienen el trasfondo de tipos altos.",
+  "titulares": [
+   "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+   "NVDA, CRWV, NBIS and Crypto Miners Surge After Elon Musk Says Cloud Providers 'Don't Have Any' AI Compute",
+   "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike"
+  ],
+  "coste_usd": 0.0369
  }
 ]
