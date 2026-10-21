@@ -68,5 +68,20 @@
    "UK inflation jumps to 3.5% — cementing rate hike expectations"
   ],
   "coste_usd": 0.0372
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-21T20:52:50+00:00",
+  "hora_madrid": "22:52",
+  "clima": "risk-on",
+  "resumen": "En el cierre de EE. UU. las bolsas suben (S&P +0,6%, Nasdaq 100 +1,1%, SMH +1,9%, NVDA +2,5%) por los resultados de SpaceX y la IA. Lo nuevo tras el cierre europeo es el Beige Book, que apunta a presiones de precios más intensas. También llegan resultados de Meta y Tesla con reacción tras el cierre y un Super Micro que se dispara por su previsión de servidores de IA. Se mantiene el trasfondo de Brent en 109 y TNX en 5,15%, y el rebote es amplio pero sin cambio de régimen.",
+  "titulares": [
+   "Fed’s Beige Book Shows Price Pressures May Be Intensifying",
+   "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+   "Super Micro Stocks Surge 14.3% as AI-Server Forecast Jumps"
+  ],
+  "coste_usd": 0.0634,
+  "resumen_dia": "Asia abrió pendiente del RBA (Hauser), que ve peor la inflación australiana, y cerró mixta: el Nikkei subió y Hang Seng y Shanghái cayeron, esta última en mínimos de 52 semanas. En Europa el IPC británico del 3,5% reforzó las apuestas de subida del BoE, pero las bolsas cerraron con fuertes subidas (DAX +1,3%, Euro Stoxx +1,4%, IBEX +1,2%) por los resultados. En EE. UU. dominó el rebote de la IA y los semiconductores tras los resultados de SpaceX, y Bitcoin se acercó a 85K. El Beige Book y el debate sobre subidas de la Fed mantienen el miedo a tipos altos, con el Brent en 109 (+10% en un mes). La jornada fue risk-on, pero con inflación y petróleo como frenos de fondo."
  }
 ]
