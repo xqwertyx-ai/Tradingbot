@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-22T00:52:24+00:00",
+  "hora_madrid": "02:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia, el Nikkei rebota un +0,5% y los futuros de EE. UU. se deslizan porque se desinfla el rally de resultados tecnológicos (SpaceX, Meta, Tesla). El trasfondo sigue marcado por la inflación (IPC británico muy alto, 3,7% citado en cripto), el rendimiento del 10 años en el 5,1% y un Brent de 110 dólares. Revisión solo de observación, sin hipótesis nuevas.",
+  "titulares": [
+   "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
+   "U.K. CPI Goes Off the Rails Ahead of BOE Meeting",
+   "Treasury Counselor David Zervos: Energy shock, not sticky inflation, driving yields"
+  ],
+  "coste_usd": 0.0364
+ }
+]
