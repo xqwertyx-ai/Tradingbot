@@ -40,5 +40,19 @@
    "FTSE 100 today: Stocks fall as Gulf war lifts oil, miners slide on weaker metals"
   ],
   "coste_usd": 0.0382
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-22T13:53:13+00:00",
+  "hora_madrid": "15:53",
+  "clima": "risk-off",
+  "resumen": "En la apertura de EE. UU. domina el risk-off: el Nasdaq 100 cae un 1,8% y SMH un 3,7% por la decepción de la IA tras los resultados, mientras el Brent sube un 3% hasta 112 por los ataques saudíes y la tensión con Irán. La inflación persistente (IPC británico alto, prima de riesgo francesa en 175 pb) alimenta el temor a una subida de tipos de la Fed la semana próxima, y oro y cripto caen. Respecto a la revisión anterior, el tono empeora en EE. UU. con S&P -1,0% y la banca europea castigada.",
+  "titulares": [
+   "AI Stocks Slide After Earnings Disappoint",
+   "Watch Saudi Attacks Push Oil Higher as Stocks Slide on Tech Earnings",
+   "Bitcoin Slides From $84,900 to $82,200 as Oil Jumps on Iran Strike Plans: Is the US-Iran War About to Restart?"
+  ],
+  "coste_usd": 0.0374
  }
 ]
