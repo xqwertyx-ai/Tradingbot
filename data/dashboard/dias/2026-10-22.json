@@ -54,5 +54,19 @@
    "Bitcoin Slides From $84,900 to $82,200 as Oil Jumps on Iran Strike Plans: Is the US-Iran War About to Restart?"
   ],
   "coste_usd": 0.0374
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-22T15:53:19+00:00",
+  "hora_madrid": "17:53",
+  "clima": "risk-off",
+  "resumen": "En el cierre de Europa domina el risk-off: Euro Stoxx 50 -1,9% e IBEX -2,1% (ambos -2,6σ), con los bancos españoles muy castigados (SAN -4,1%, BBVA -3,7%) y ASML -5%. Respecto a la apertura de EE. UU., el tono apenas cambia: Wall Street sigue cayendo (Nasdaq 100 -2,3%, SMH -5,2%) por la decepción de la IA tras Meta y Tesla, el Brent sube a 111 por Irán y la inflación sostiene el temor a otra subida de la Fed. Revisión solo de observación.",
+  "titulares": [
+   "Oil Prices Surge on Renewed Iran Tensions, Rekindling Inflation Fears",
+   "Meta se desploma un 7% en Bolsa tras presentar resultados y ser objeto de una multa de 22.300 millones",
+   "The Fed Is Raising Rates Again: Here's What It Means for Savers | Banking Advice | U.S. News"
+  ],
+  "coste_usd": 0.0374
  }
 ]
