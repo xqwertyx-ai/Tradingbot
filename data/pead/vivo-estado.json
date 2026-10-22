@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-21T20:53:34.807813+00:00",
+ "generado": "2026-10-22T00:02:00.879939+00:00",
  "sesion": "2026-10-21",
  "inicio": "2026-10-15",
  "resumen": {
@@ -12,17 +12,17 @@
    "ticker": "EFX",
    "entrada": "2026-10-21",
    "sesiones": 0,
-   "ret": 0.0,
-   "spy": 0.0,
+   "ret": NaN,
+   "spy": NaN,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
    "entrada": "2026-10-21",
    "sesiones": 0,
-   "ret": 0.0,
-   "spy": 0.0,
-   "ra": 0.10863805518324754
+   "ret": NaN,
+   "spy": NaN,
+   "ra": 0.1086380551832475
   }
  ],
  "cerradas_recientes": []
