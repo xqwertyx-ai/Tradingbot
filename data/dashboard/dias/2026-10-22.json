@@ -68,5 +68,20 @@
    "The Fed Is Raising Rates Again: Here's What It Means for Savers | Banking Advice | U.S. News"
   ],
   "coste_usd": 0.0374
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-22T20:54:34+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "En el cierre de EE. UU. el risk-off se intensifica respecto al cierre de Europa. El Nasdaq 100 pasa a -2,9% y SMH a -6,0% por el miedo al gasto en IA tras Meta y Tesla, y el Brent sube un 3,6% hasta 112,8, cerca de máximos de la guerra con Irán. Lo más llamativo es que el bono a 10 años cae 19 pb hasta 4,95% (-4,1σ) mientras el oro se hunde un 2,7%, una señal de liquidación generalizada más que de refugio.",
+  "titulares": [
+   "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+   "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+   "Bond traders are backing off Fed rate hike bets — here's what it means for mortgage rates"
+  ],
+  "coste_usd": 0.0813,
+  "resumen_dia": "Asia abrió mixta con un rebote del Nikkei, pero cerró con fuertes caídas (Hang Seng -3%, Shanghái en mínimos de 52 semanas) por la decepción de la IA, el Brent en 110-112 y la inflación persistente. Europa cerró con caídas de 2σ-2,6σ (Euro Stoxx -1,9%, IBEX -2,1%), con los bancos españoles muy castigados por resultados y por la prima de riesgo francesa. EE. UU. empeoró la tendencia: Nasdaq 100 -2,9%, SMH -6%, S&P 500 -1,2% por debajo de su media de 50 sesiones, con el Brent en máximos cercanos a los de la guerra. Oro, cripto y plata cayeron a la vez ('everything sell-off'), mientras el rendimiento del bono cedía por menor apuesta a subidas de la Fed. El día fue de risk-off con rotación hacia energía, defensa y financieras de EE. UU., sin hipótesis con valor esperado suficiente."
  }
 ]
