@@ -26,5 +26,19 @@
    "Gold slides toward $4,090 as Middle East tensions fuel inflation fears"
   ],
   "coste_usd": 0.0383
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-22T08:52:15+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-off",
+  "resumen": "En el cierre de Asia domina el risk-off: Hang Seng -3,0% (-3,3σ, RSI 27), Nikkei -2,7% y Shanghái -1,5% en mínimos de 52 semanas. Las ccifras de IA/resultados decepcionan (Nasdaq futuros -1,8%), el Brent sube a 112 por tensión en el Golfo y la inflación persistente (eurozona 3,8%, IPC británico alto, bono francés al 5%) alimenta el temor a más subidas de tipos antes de la Fed. Respecto a la revisión anterior, el cambio es sobre todo el empeoramiento del tono tecnológico y del petróleo.",
+  "titulares": [
+   "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112",
+   "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates",
+   "FTSE 100 today: Stocks fall as Gulf war lifts oil, miners slide on weaker metals"
+  ],
+  "coste_usd": 0.0382
  }
 ]
