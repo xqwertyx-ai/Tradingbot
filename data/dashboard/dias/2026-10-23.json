@@ -54,5 +54,19 @@
    "US Fed to Raise Rates Twice More in 2026, Says Bank of America"
   ],
   "coste_usd": 0.0434
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-23T15:53:03+00:00",
+  "hora_madrid": "17:53",
+  "clima": "risk-off",
+  "resumen": "Europa cierra con ligera caída (Euro Stoxx -0,3%, DAX -0,7%) y el IBEX resiste (+0,4%, cerca de 19.000). Lo nuevo desde la apertura de EE. UU. es el titular del Dow cayendo más de 500 puntos por las tensiones en Oriente Medio, el Brent tocando 116-117 $ y un bono a 10 años en el 5%. Es una revisión de solo observación, sin hipótesis.",
+  "titulares": [
+   "El petrÃ³leo da un paso mÃ¡s en su escalada al tocar los 117 dÃ³lares",
+   "Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+   "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries"
+  ],
+  "coste_usd": 0.0423
  }
 ]
