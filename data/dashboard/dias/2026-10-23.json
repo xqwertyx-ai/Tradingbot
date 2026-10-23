@@ -12,5 +12,19 @@
    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%"
   ],
   "coste_usd": 0.0357
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-23T07:52:02+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Europa las bolsas caen con sesgo moderado (Euro Stoxx -0,4%, DAX -0,5%, IBEX -0,1%), lastradas por China (Volvo Cars -28%, Gucci) y por la venta tecnológica/IA de ayer en EE. UU. Asia cierra mixta (Nikkei -0,3%, Hang Seng +0,8%, Shanghái +0,9%), y el Brent cede un 3,4% tras rozar máximos de la guerra de Irán. Persiste la inquietud por la inflación y la Fed, con el oro cerca de mínimos de 3 meses y el bitcoin por debajo de 82k.",
+  "titulares": [
+   "European Stocks Fall as China Woes Hit Volvo Car and Gucci",
+   "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+   "Fed to Hike Twice More in 2026 With US and ECB Policy Set to Diverge, says Bank of America"
+  ],
+  "coste_usd": 0.039
  }
 ]
