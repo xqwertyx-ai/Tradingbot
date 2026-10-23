@@ -2,27 +2,27 @@
 
 # 📊 Radar de mercados
 
-**viernes 23 oct 2026 · revisión de cierre Asia · 10:51 (Madrid)**
+**viernes 23 oct 2026 · revisión de apertura EE. UU. · 15:52 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
-> **Clima:** 🔴 risk-off (aversión al riesgo)  
-> Asia cierra mixta (Nikkei -0,3%, Hang Seng +0,7%, Shanghái +0,9%) tras el desplome tecnológico/IA de Wall Street (NDX -2,9%, SMH -6%, ASML -6,9%). Lo nuevo desde la apertura de Europa: Volvo Cars -27% por la debilidad de China, expectativas de inflación del BCE al alza y el Brent cede un 3,6% tras rozar máximos de la guerra de Irán. Se mantiene la inquietud por inflación y Fed, con el rendimiento del bono 10a en 4,95% tras caer 19 pb.  
-> **Decisión:** no operar hoy — Revisión de cierre de Asia, solo de observación: las decisiones se toman con los precios de cierre de EE. UU.
+> **Clima:** 🟡 mixto  
+> Apertura de EE. UU. con sesgo ligeramente bajista (S&P 500 -0,4%, Nasdaq 100 plano, Russell -0,9%). Los titulares nuevos giran en torno a las tensiones con Irán y la orden de Trump sobre la producción de petróleo, la inflación y la Fed. Además, hay publicación de resultados de MSFT, GEV, TMUS y otras. Desde el cierre de Asia, Europa cae más (Euro Stoxx -1,0%, DAX -1,1%) y el Brent cede un 1,8% pero sigue cerca de 111, con la energía al alza. Revisión de solo observación.  
+> **Decisión:** no operar hoy — Revisión de apertura de EE. UU. de solo observación; las decisiones se toman con los cierres.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **S&P 500** | 7.663 | 🔴▼ -1.2% | 🔴▼ -0.6% | ➡️ lateral |
-| **Nasdaq 100** | 28.959 | 🔴▼ -2.9% | 🔴▼ -5.0% | ➡️ lateral |
-| **IBEX 35** | 18.892 | 🔴▼ -0.1% | 🔴▼ -3.5% | ➡️ lateral |
+| **S&P 500** | 7.634 | 🔴▼ -0.4% | 🔴▼ -0.9% | ➡️ lateral |
+| **Nasdaq 100** | 28.968 | 🔵▲ +0.0% | 🔴▼ -5.0% | ➡️ lateral |
+| **IBEX 35** | 18.828 | 🔴▼ -0.5% | 🔴▼ -3.8% | ➡️ lateral |
 | **Nikkei 225** | 62.693 | 🔴▼ -0.3% | 🔴▼ -3.6% | ➡️ lateral |
-| **Bono EE. UU. 10a (%)** | 4.953 | ▼ -19 pb | ▼ -16 pb | ➡️ lateral |
+| **Bono EE. UU. 10a (%)** | 4.97 | ▲ +2 pb | ▼ -19 pb | ➡️ lateral |
 | **EUR/USD** | 1.12 | 🔴▼ -0.3% | 🔴▼ -1.6% | ↘️ bajista |
-| **Brent** | 109.07 | 🔴▼ -3.6% | 🔵▲ +2.3% | ↗️ alcista |
-| **Oro** | 4.032 | 🔴▼ -0.7% | 🔴▼ -6.2% | ↘️ bajista |
-| **Bitcoin** | 81.729 | 🔵▲ +0.5% | 🔴▼ -3.3% | ➡️ lateral |
+| **Brent** | 111.08 | 🔴▼ -1.8% | 🔵▲ +4.2% | ↗️ alcista |
+| **Oro** | 4.038 | 🔴▼ -0.6% | 🔴▼ -6.1% | ↘️ bajista |
+| **Bitcoin** | 81.856 | 🔵▲ +0.7% | 🔴▼ -3.1% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -31,30 +31,30 @@
 - **02:52 · apertura Asia** 🔴 En la apertura de Asia el Nikkei cae un 4,3% (-2,5σ) tras una jornada de venta global liderada por la tecnología/IA en EE. UU. (Nasdaq 100 -2,9%) y con el petróleo cerca de máximos de la guerra de Irán. El IPC japonés de septiembre (2,1% subyacente) refuerza la subida del BOJ, lo que apunta a un yen más fuerte y pesa sobre la bolsa japonesa. Es una revisión de solo observación, sin hipótesis nuevas.
 - **09:52 · apertura Europa** 🔴 En la apertura de Europa las bolsas caen con sesgo moderado (Euro Stoxx -0,4%, DAX -0,5%, IBEX -0,1%), lastradas por China (Volvo Cars -28%, Gucci) y por la venta tecnológica/IA de ayer en EE. UU. Asia cierra mixta (Nikkei -0,3%, Hang Seng +0,8%, Shanghái +0,9%), y el Brent cede un 3,4% tras rozar máximos de la guerra de Irán. Persiste la inquietud por la inflación y la Fed, con el oro cerca de mínimos de 3 meses y el bitcoin por debajo de 82k.
 - **10:51 · cierre Asia** 🔴 Asia cierra mixta (Nikkei -0,3%, Hang Seng +0,7%, Shanghái +0,9%) tras el desplome tecnológico/IA de Wall Street (NDX -2,9%, SMH -6%, ASML -6,9%). Lo nuevo desde la apertura de Europa: Volvo Cars -27% por la debilidad de China, expectativas de inflación del BCE al alza y el Brent cede un 3,6% tras rozar máximos de la guerra de Irán. Se mantiene la inquietud por inflación y Fed, con el rendimiento del bono 10a en 4,95% tras caer 19 pb.
-- <sub>apertura EE. UU. · prevista ~15:45</sub>
+- **15:52 · apertura EE. UU.** 🟡 Apertura de EE. UU. con sesgo ligeramente bajista (S&P 500 -0,4%, Nasdaq 100 plano, Russell -0,9%). Los titulares nuevos giran en torno a las tensiones con Irán y la orden de Trump sobre la producción de petróleo, la inflación y la Fed. Además, hay publicación de resultados de MSFT, GEV, TMUS y otras. Desde el cierre de Asia, Europa cae más (Euro Stoxx -1,0%, DAX -1,1%) y el Brent cede un 1,8% pero sigue cerca de 111, con la energía al alza. Revisión de solo observación.
 - <sub>cierre Europa · prevista ~17:50</sub>
 - <sub>cierre EE. UU. · prevista ~22:15</sub>
 
 ## 📰 Noticias clave
 
-- **[sectorial]** [Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'](https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html) <sub>CNBC · 23/10 10:33 · ●●●●</sub>  
-  Sorpresa: el CEO admite que la caída de ventas en China llegó más rápido de lo previsto, y la acción cae un 27%. **Impacto:** Presión sobre autos y lujo europeos con exposición a China (Euro Stoxx); contagio sectorial probable, aunque el índice apenas se mueve (-0,3%).
-- **[sectorial]** [SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFFjUmpOS1NXaUxvSWNucmp0QjZaclplQjJiYlJaNHI0NlVmd3VaUXVtMWdPeElPczFzN1Fna0dlME9nd2pGTEltUVJHSUFIaXJuUUIySEZadThJY2llLVVwSjY5NHc1Mm5iRktSRzN1d2JKdm9HcjVjZU9yZlJPbzcyS1ZRNUtXdnRybFVHY0sxTkVv?oc=5) <sub>Yahoo Finance · 23/10 03:45 · ●●●●</sub>  
-  Continuación de la venta de chips por advertencias en la cadena de suministro, ya reflejada en SMH -6% y ASML -6,9%. **Impacto:** Semiconductores y equipo (SMH, ASML, NVDA) bajo presión por el temor de gasto en IA y suministro; gran parte del movimiento ya está en precio, con riesgo de gap en Asia/Europa.
-- **[macro]** [Gold heads for steep weekly loss as oil prices fuel Fed rate concerns](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5) <sub>Reuters · 23/10 06:14 · ●●●</sub>  
-  No es nueva la idea de que el petróleo alimenta el miedo a subidas de la Fed; el oro ya acumula -3,6% en 5 días. **Impacto:** El oro cae porque se descuentan tipos reales más altos y el dólar sube; el Brent -3,6% hoy alivia algo la presión inflacionista.
-- **[macro]** [Euro zone consumers raise near-term inflation expectations, ECB says](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS01LMnVhVllBSGM1SVRCUkdpTUZvTkJzSXBoY2JSX2ljTldaMWdpVWNIZ2FiQjJLT196b3g0bzc4WGFBWkY5X2M0OHduZXBQbzRGWHpqTGF4MVhRT2N1NWgxTW10MUh6RW9lcmg0OGEwSDdOZWlrXzNDX1N0eXRVMmpKVWZjS3l1QnoxQ0pURDVuU3F0cGdHX1ZWZGkyOWNwUmpTTFd6TEtVNVhyd2pITQ?oc=5) <sub>Euronext Markets: Real-time Stock Market Data | live · 23/10 10:02 · ●●●</sub>  
-  Sorpresa moderada: las expectativas de inflación de los consumidores de la eurozona suben en septiembre. **Impacto:** Refuerza la presión sobre el BCE y los bonos de la eurozona; poco favorable para bolsa europea y euro, aunque el EUR/USD ya está en mínimos de 52 semanas.
-- **[macro]** [Japan core inflation in September surges to its highest this year at 2.1%](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFNlTGc0TGJVaWQxSVFaSzhDazF4WHFhWHBLZ0hrX2NnWGpiYU1MYjZ0ZjJsYUU0SV9fRzVXWHJDby1VZy1vMFU2cUoyb1l3VkI1MVlaZXZCd0tzSFhGLU55cmt0ZnNPSnhka0RpS1UybU5PY3VWdGtmbi0wdUlqbHJLdU7SAYoBQVVfeXFMTW1kam8yWHpZU0lZYkNfYnI5QWwyd2k1a1RXV0RaaXNEemZhckM2T3FCYXlPaXRhS1J1LVJwSzhjT2lvMGxheVdtdVk1aWN4WDhOMjN0VFd2dllpVHJpMmpJU05iUkNBdlpzVER3N0Nob2JzUHhHZlpHWGVLTmswVllYNkF0Zkw5clJR?oc=5) <sub>CNBC · 23/10 01:37 · ●●●</sub>  
-  El IPC subyacente de Japón sube al 2,1%, por encima del objetivo del BOJ, y refuerza la subida de tipos; es en parte esperado y ya se reflejó en la apertura de Asia. **Impacto:** Apoya un BOJ más restrictivo y un yen más fuerte, lo que pesa sobre el Nikkei (-4% en 5 días).
-- **[geopolítica]** [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories) <sub>MarketWatch · 22/10 22:46 · ●●●</sub>  
-  El petróleo se acerca a máximos de la guerra de Irán por el aumento de las tarifas de los petroleros; no es del todo nuevo, y hoy el Brent corrige un 3,6%. **Impacto:** Brent y XLE al alza, mientras que encarece costes y alimenta la inflación; riesgo de reversión si hay desescalada.
+- **[geopolítica]** [Stocks open lower as oil tops $100 amid escalating Iran tensions: Live updates](https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html) <sub>CNBC · 23/10 15:46 · ●●●●</sub>  
+  Continuación de la escalada con Irán, ya presente en jornadas previas; la novedad es que el petróleo se mantiene por encima de 100 USD en la apertura. **Impacto:** Petróleo alto sostiene a XLE y presiona a bolsas europeas, consumo y activos sensibles a la inflación y los tipos; el sesgo es negativo para renta variable y positivo para energía.
+- **[política/regulación]** [Trump invokes Cold War-era Defense Production Act for oil production, refining](https://www.cnbc.com/2026/10/22/trump-defense-production-act.html) <sub>CNBC · 23/10 11:44 · ●●●●</sub>  
+  Medida nueva (Defense Production Act para producción y refino), aunque encaja con el estrés de oferta ya descontado. **Impacto:** Podría aumentar la oferta de crudo a medio plazo y limitar el Brent, con un efecto algo negativo para XLE; en el corto plazo la reacción es ambigua frente a la escalada con Irán.
+- **[macro]** [US Fed to Raise Rates Twice More in 2026, Says Bank of America](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVQ3X2tVczhmdWYzXzNtVWlNMUlRLVhrVm1BalJwb2VPTE94UkpEYmhEeGJtb2w5ZDNXT2ZrSHZzQUlxTmNkRnE2bzRXaDRTWkt1bFhpTnVPV2lYWHNfRWwxYktNZ2hEVHNLYU1Zc0w3QmNHYnUwX05hbEZGblY0b01wQkt2WURtLVBrMDE4dmVDME1XOUNzeWl0OXh1d0xQdzNxdHR4bWVXaW5fT25uUTZDWVJzNFJuOXc?oc=5) <sub>Morningstar · 23/10 07:03 · ●●●●</sub>  
+  Previsión de un banco (BofA) de dos subidas más de la Fed en 2026: sesgo restrictivo, no necesariamente descontado del todo. **Impacto:** Tipos más altos pesan sobre tecnología, semiconductores y activos de larga duración (SMH, NDX, cripto) y favorecen al dólar; el mercado ya está en tensión por la reunión de la Fed.
+- **[macro]** [AI trade meets the Fed](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5) <sub>Reuters · 23/10 14:11 · ●●●</sub>  
+  Narrativa recurrente (IA frente a la Fed) que se intensifica por la venta tecnológica de ayer y la reunión de la Fed. **Impacto:** El riesgo de reunión de la Fed puede mantener volátiles SMH, NVDA y NDX; el rebote depende de la señal de tipos.
+- **[resultados]** [Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'](https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html) <sub>CNBC · 23/10 13:58 · ●●●</sub>  
+  Sorpresa negativa: Volvo Cars cae un 26% por el desplome de ventas en China, más rápido de lo previsto. **Impacto:** Presión sobre automoción y lujo europeos con exposición a China, y lastre para el Euro Stoxx; confirma debilidad de demanda china.
+- **[macro]** [Oil Up Again Ahead of Flash October Inflation Data: 8 Key Items Shaping the Stock Market Friday](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTVDVWdDUFdpVm9nT2hlZS1wclVIUHpObkdNMC10cGxEMnNGTE1GdFdxaHFWc24tYU91aUF1WnVPc2t1Q1dJZGt5cGVmWmNZTTJFR0JyRERsTXlNMVVmY0l1WXJaQm92QTd4RzVyN213OGhua1laZGRsTjNyN1hoMkpMRGo4M3BMbFNjYkNaYzB5SW9DR2dCaUpKRjhDTzBoR2Z1dTA5QU1wMXZIRzZrakxVYnlMYnkwVWt1dzd3dmUyaW5tOTVheXR3?oc=5) <sub>TheStreet Pro · 23/10 15:02 · ●●●</sub>  
+  Dato flash de inflación de octubre pendiente: riesgo de evento hoy y petróleo al alza como contexto. **Impacto:** Un dato alto reforzaría el temor a más subidas de la Fed y presionaría bonos, tecnología y oro; uno bajo daría alivio.
 
-**Divergencias precio-noticia:** El rendimiento del bono 10a cae 19 pb (-4,1σ) mientras los titulares hablan de subidas de la Fed y miedo inflacionista: es un movimiento defensivo (refugio) más que de tipos más bajos por buenas noticias. · El oro cae (-0,7% hoy, -6,2% en 1 mes) pese al aumento de riesgo y a la caída del rendimiento real nominal: sugiere liquidación forzada o dólar fuerte (DXY en máximos de 52 semanas). · Shanghái (+0,9%) y Hang Seng (+0,7%) suben pese a la venta global y a las malas noticias de China (Volvo), lo que puede ser rebote técnico por sobreventa más que mejora fundamental. · XLF sube un 1,1% mientras el IBEX/bancos españoles caen (BBVA -11,7% en un mes): divergencia entre financieras de EE. UU. y españolas.
+**Divergencias precio-noticia:** El Brent cede un 1,8% mientras XLE sube un 1,8% hasta máximos de 52 semanas: la energía sigue la tendencia y el nivel del crudo, no el movimiento del día. · El oro cae (-0,6%) pese a titulares de inflación y petróleo alto, con el dólar en máximos de 52 semanas y el 10a en 4,97%: pesan el dólar y los tipos reales, no la cobertura de inflación. · Hang Seng (+0,7%) y Shanghái (+0,9%) suben con el mensaje de debilidad china de Volvo, aunque ambos siguen en tendencia bajista. · El Nasdaq 100 y SMH (+0,7%) se estabilizan tras la fuerte venta de ayer, mientras el S&P 500 y el Russell caen: no hay un patrón claro risk-off. · El bitcoin sube un 0,7% y cruza su media de 50 sesiones pese a titulares de tipos más altos; se sostiene sin catalizador claro.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de cierre Asia: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-22._
+_Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-22._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -66,19 +66,15 @@ _Revisión de cierre Asia: solo observación. Las hipótesis se registran con pr
 
 ## 👀 Valores a vigilar
 
-- **Semiconductores (SMH)** — Hipótesis abierta de rebote tras -6%; vigilar apertura de EE. UU. y si continúa la venta de chips.
-- **ASML** — -6,9% (-2,9σ) con cotización sensible a la apertura de Europa y a las noticias de suministro de chips.
-- **Brent** — Cae un 3,6% tras rozar máximos de la guerra de Irán; determina el mensaje de inflación y de la Fed.
-- **Oro** — Hipótesis abierta de rebote; el dólar en máximos de 52 semanas limita el suelo.
-- **Shanghái Compuesto** — Hipótesis abierta de rebote desde mínimos de 52 semanas; hoy +0,9%.
-- **S&P 500** — cruza a la baja su media de 50 sesiones
-- **Nasdaq 100** — movimiento anómalo hoy (-2.5σ)
-- **Bono EE. UU. 10a (%)** — movimiento anómalo hoy (-4.1σ), cruza a la baja su media de 50 sesiones
+- **Brent** — Se mueve entre la escalada con Irán y la orden de Trump sobre la producción; es clave para inflación y tipos.
+- **Semiconductores (SMH)** — Hipótesis abierta de rebote tras la caída de ayer; depende del tono de la Fed y los resultados de IA.
+- **Oro** — Hipótesis abierta; observar si el dólar y el 10a siguen presionando pese a la inflación.
+- **Shanghái Compuesto** — Hipótesis abierta en mínimos de 52 semanas; seguir si el rebote se sostiene.
+- **BBVA** — En sobreventa (RSI 30) tras -12% en un mes; vigilar si la banca europea se estabiliza.
 - **EUR/USD** — en mínimos de 52 semanas
 - **Índice dólar** — en máximos de 52 semanas
-- **Financieras (XLF)** — cruza al alza su media de 50 sesiones
+- **Bitcoin** — cruza al alza su media de 50 sesiones
 - **Energía (XLE)** — en máximos de 52 semanas
-- **Tecnología (XLK)** — movimiento anómalo hoy (-2.0σ)
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — en máximos de 52 semanas
 
@@ -101,35 +97,35 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 2.
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| S&P 500 | 7.663 | 🔴▼ -1.2% | 🔴▼ -1.0% | 🔴▼ -0.6% | 🔵▲ +3.4% | 45 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Nasdaq 100 | 28.959 | 🔴▼ -2.9% | 🔴▼ -3.3% | 🔴▼ -5.0% | 🔵▲ +3.0% | 37 | ➡️ lateral | movimiento anómalo hoy (-2.5σ) |
-| IBEX 35 | 18.892 | 🔴▼ -0.1% | 🔴▼ -2.2% | 🔴▼ -3.5% | 🔴▼ -4.2% | 40 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.072 | 🔴▼ -0.3% | 🔴▼ -2.1% | 🔴▼ -3.2% | 🔴▼ -3.5% | 38 | ↘️ bajista | — |
-| Russell 2000 | 2.784 | 🔵▲ +0.1% | 🔵▲ +0.6% | 🔴▼ -1.9% | 🔴▼ -5.0% | 45 | ↘️ bajista | — |
-| DAX | 25.290 | 🔴▼ -0.3% | 🔴▼ -1.3% | 🔵▲ +0.1% | 🔴▼ -0.7% | 48 | ➡️ lateral | — |
+| S&P 500 | 7.634 | 🔴▼ -0.4% | 🔴▼ -0.3% | 🔴▼ -0.9% | 🔵▲ +3.0% | 43 | ➡️ lateral | — |
+| Nasdaq 100 | 28.968 | 🔵▲ +0.0% | 🔴▼ -0.8% | 🔴▼ -5.0% | 🔵▲ +3.3% | 37 | ➡️ lateral | — |
+| IBEX 35 | 18.828 | 🔴▼ -0.5% | 🔴▼ -2.6% | 🔴▼ -3.8% | 🔴▼ -4.6% | 39 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.029 | 🔴▼ -1.0% | 🔴▼ -2.8% | 🔴▼ -3.9% | 🔴▼ -4.1% | 36 | ↘️ bajista | — |
+| Russell 2000 | 2.760 | 🔴▼ -0.9% | 🔵▲ +1.4% | 🔴▼ -2.7% | 🔴▼ -6.4% | 41 | ↘️ bajista | — |
+| DAX | 25.080 | 🔴▼ -1.1% | 🔴▼ -2.1% | 🔴▼ -0.7% | 🔴▼ -1.5% | 44 | ➡️ lateral | — |
 | Nikkei 225 | 62.693 | 🔴▼ -0.3% | 🔴▼ -4.0% | 🔴▼ -3.6% | 🔴▼ -5.3% | 36 | ➡️ lateral | — |
 | Hang Seng | 23.093 | 🔵▲ +0.7% | 🔴▼ -4.0% | 🔴▼ -7.9% | 🔴▼ -7.5% | 31 | ↘️ bajista | — |
 | Shanghái Compuesto | 3.690 | 🔵▲ +0.9% | 🔴▼ -0.7% | 🔴▼ -5.2% | 🔴▼ -2.8% | 32 | ↘️ bajista | en mínimos de 52 semanas |
-| Bono EE. UU. 10a (%) | 4.953 | ▼ -19 pb | ▼ -14 pb | ▼ -16 pb | ▲ +27 pb | 37 | ➡️ lateral | movimiento anómalo hoy (-4.1σ), cruza a la baja su media de 50 sesiones |
-| EUR/USD | 1.12 | 🔴▼ -0.3% | 🔴▼ -0.2% | 🔴▼ -1.6% | 🔴▼ -1.5% | 33 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.80 | 🔵▲ +0.2% | 🔴▼ -0.0% | 🔵▲ +0.5% | 🔵▲ +0.3% | 55 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 109.07 | 🔴▼ -3.6% | 🔴▼ -0.7% | 🔵▲ +2.3% | 🔵▲ +23.4% | 59 | ↗️ alcista | — |
-| Oro | 4.032 | 🔴▼ -0.7% | 🔴▼ -3.6% | 🔴▼ -6.2% | 🔴▼ -1.1% | 32 | ↘️ bajista | — |
-| Bitcoin | 81.729 | 🔵▲ +0.5% | 🔴▼ -0.4% | 🔴▼ -3.3% | 🔵▲ +4.3% | 48 | ➡️ lateral | — |
-| Ethereum | 2.408 | 🔵▲ +0.9% | 🔴▼ -0.0% | 🔴▼ -9.8% | 🔴▼ -4.3% | 41 | ➡️ lateral | — |
-| Solana | 104.70 | 🔵▲ +1.1% | 🔵▲ +0.6% | 🔴▼ -11.7% | 🔵▲ +11.8% | 42 | ➡️ lateral | — |
-| Semiconductores (SMH) | 523.35 | 🔴▼ -6.0% | 🔴▼ -6.4% | 🔴▼ -13.0% | 🔴▼ -6.7% | 32 | ➡️ lateral | movimiento anómalo hoy (-2.6σ) |
-| Financieras (XLF) | 56.65 | 🔵▲ +1.1% | 🔵▲ +2.5% | 🔵▲ +3.9% | 🔵▲ +0.6% | 63 | ↗️ alcista | cruza al alza su media de 50 sesiones |
-| Energía (XLE) | 67.57 | 🔴▼ -0.9% | 🔵▲ +1.5% | 🔵▲ +8.3% | 🔵▲ +13.3% | 63 | ↗️ alcista | en máximos de 52 semanas |
-| Tecnología (XLK) | 182.34 | 🔴▼ -3.3% | 🔴▼ -3.6% | 🔴▼ -6.7% | 🔵▲ +3.7% | 36 | ➡️ lateral | movimiento anómalo hoy (-2.0σ) |
-| NVIDIA | 212.21 | 🔴▼ -4.4% | 🔴▼ -2.3% | 🔴▼ -5.9% | 🔵▲ +2.6% | 39 | ➡️ lateral | — |
-| Apple | 348.22 | 🔵▲ +1.2% | 🔵▲ +1.8% | 🔵▲ +3.3% | 🔵▲ +4.6% | 65 | ↗️ alcista | en máximos de 52 semanas |
-| Microsoft | 521.08 | 🔴▼ -2.2% | 🔴▼ -3.4% | 🔵▲ +4.1% | 🔵▲ +36.5% | 51 | ↗️ alcista | — |
-| ASML | 1.561 | 🔴▼ -6.9% | 🔴▼ -5.8% | 🔴▼ -10.6% | 🔴▼ -11.2% | 34 | ↘️ bajista | movimiento anómalo hoy (-2.9σ) |
-| Banco Santander | 11.48 | 🔵▲ +0.0% | 🔴▼ -4.6% | 🔴▼ -8.3% | 🔴▼ -6.2% | 36 | ➡️ lateral | — |
-| BBVA | 21.96 | 🔴▼ -1.0% | 🔴▼ -5.3% | 🔴▼ -11.7% | 🔴▼ -5.5% | 31 | ➡️ lateral | — |
-| Inditex | 56.14 | 🔴▼ -0.2% | 🔵▲ +0.5% | 🔵▲ +6.1% | 🔴▼ -1.2% | 60 | ↗️ alcista | — |
-| Iberdrola | 21.71 | 🔴▼ -0.1% | 🔵▲ +0.1% | 🔵▲ +7.2% | 🔵▲ +3.9% | 65 | ↗️ alcista | en máximos de 52 semanas |
+| Bono EE. UU. 10a (%) | 4.97 | ▲ +2 pb | ▼ -13 pb | ▼ -19 pb | ▲ +33 pb | 39 | ➡️ lateral | — |
+| EUR/USD | 1.12 | 🔴▼ -0.3% | 🔴▼ -0.1% | 🔴▼ -1.6% | 🔴▼ -1.5% | 34 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 101.73 | 🔵▲ +0.1% | 🔴▼ -0.1% | 🔵▲ +0.4% | 🔵▲ +0.2% | 54 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 111.08 | 🔴▼ -1.8% | 🔵▲ +1.1% | 🔵▲ +4.2% | 🔵▲ +25.7% | 64 | ↗️ alcista | — |
+| Oro | 4.038 | 🔴▼ -0.6% | 🔴▼ -3.4% | 🔴▼ -6.1% | 🔴▼ -1.0% | 33 | ↘️ bajista | — |
+| Bitcoin | 81.856 | 🔵▲ +0.7% | 🔴▼ -0.2% | 🔴▼ -3.1% | 🔵▲ +4.5% | 48 | ➡️ lateral | cruza al alza su media de 50 sesiones |
+| Ethereum | 2.411 | 🔵▲ +1.0% | 🔵▲ +0.1% | 🔴▼ -9.6% | 🔴▼ -4.1% | 42 | ➡️ lateral | — |
+| Solana | 104.89 | 🔵▲ +1.3% | 🔵▲ +0.8% | 🔴▼ -11.6% | 🔵▲ +12.0% | 43 | ➡️ lateral | — |
+| Semiconductores (SMH) | 526.83 | 🔵▲ +0.7% | 🔴▼ -2.4% | 🔴▼ -12.3% | 🔴▼ -4.0% | 33 | ➡️ lateral | — |
+| Financieras (XLF) | 56.24 | 🔴▼ -0.7% | 🔵▲ +1.3% | 🔵▲ +3.1% | 🔴▼ -1.1% | 58 | ↗️ alcista | — |
+| Energía (XLE) | 68.76 | 🔵▲ +1.8% | 🔵▲ +0.8% | 🔵▲ +9.8% | 🔵▲ +17.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
+| Tecnología (XLK) | 182.63 | 🔵▲ +0.2% | 🔴▼ -0.5% | 🔴▼ -6.2% | 🔵▲ +4.8% | 37 | ➡️ lateral | — |
+| NVIDIA | 212.45 | 🔵▲ +0.1% | 🔴▼ -0.8% | 🔴▼ -5.4% | 🔵▲ +8.1% | 39 | ➡️ lateral | — |
+| Apple | 349.67 | 🔵▲ +0.4% | 🔵▲ +1.8% | 🔵▲ +4.1% | 🔵▲ +3.8% | 66 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 520.42 | 🔴▼ -0.1% | 🔴▼ -1.6% | 🔵▲ +4.5% | 🔵▲ +33.7% | 50 | ↗️ alcista | — |
+| ASML | 1.564 | 🔵▲ +0.2% | 🔴▼ -4.7% | 🔴▼ -9.2% | 🔴▼ -5.5% | 34 | ↘️ bajista | — |
+| Banco Santander | 11.39 | 🔴▼ -0.8% | 🔴▼ -5.4% | 🔴▼ -9.1% | 🔴▼ -6.9% | 35 | ➡️ lateral | — |
+| BBVA | 21.88 | 🔴▼ -1.4% | 🔴▼ -5.6% | 🔴▼ -12.1% | 🔴▼ -5.9% | 30 | ➡️ lateral | sobreventa (RSI 30) |
+| Inditex | 56.34 | 🔵▲ +0.2% | 🔵▲ +0.9% | 🔵▲ +6.5% | 🔴▼ -0.8% | 61 | ↗️ alcista | — |
+| Iberdrola | 21.73 | 🔴▼ -0.0% | 🔵▲ +0.2% | 🔵▲ +7.3% | 🔵▲ +4.0% | 65 | ↗️ alcista | en máximos de 52 semanas |
 
 </details>
 

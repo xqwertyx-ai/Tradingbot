@@ -40,5 +40,19 @@
    "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns"
   ],
   "coste_usd": 0.0381
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-23T13:52:11+00:00",
+  "hora_madrid": "15:52",
+  "clima": "mixto",
+  "resumen": "Apertura de EE. UU. con sesgo ligeramente bajista (S&P 500 -0,4%, Nasdaq 100 plano, Russell -0,9%). Los titulares nuevos giran en torno a las tensiones con Irán y la orden de Trump sobre la producción de petróleo, la inflación y la Fed. Además, hay publicación de resultados de MSFT, GEV, TMUS y otras. Desde el cierre de Asia, Europa cae más (Euro Stoxx -1,0%, DAX -1,1%) y el Brent cede un 1,8% pero sigue cerca de 111, con la energía al alza. Revisión de solo observación.",
+  "titulares": [
+   "Stocks open lower as oil tops $100 amid escalating Iran tensions: Live updates",
+   "Trump invokes Cold War-era Defense Production Act for oil production, refining",
+   "US Fed to Raise Rates Twice More in 2026, Says Bank of America"
+  ],
+  "coste_usd": 0.0434
  }
 ]
