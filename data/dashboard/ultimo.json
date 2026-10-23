@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-23T20:18:52.802276+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-10-23T20:55:03.380758+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -279,21 +279,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.1195701360702515,
+   "last": 1.1201971769332886,
    "date": "2026-10-23",
-   "chg_1d": -0.003470586756021077,
-   "chg_5d": -0.0015561955303657893,
-   "chg_1m": -0.016356845084949834,
-   "chg_3m": -0.01528206995082304,
-   "vol20_ann": 0.04294067380059006,
-   "ma50": 1.1444426703453063,
-   "ma200": 1.1576194614171982,
-   "dist_ma50": -0.021733316066894104,
-   "dist_ma200": -0.03286859509114104,
-   "rsi14": 33.09249997627741,
-   "from_high": -0.06839452208180252,
-   "from_low": 0.0031796004814423906,
-   "z_1d": -1.2744755964944223,
+   "chg_1d": -0.002912457664157597,
+   "chg_5d": -0.0009969942399077336,
+   "chg_1m": -0.01580593323681556,
+   "chg_3m": -0.014730556150291063,
+   "vol20_ann": 0.04252214701814144,
+   "ma50": 1.1444552111625672,
+   "ma200": 1.1576225966215135,
+   "dist_ma50": -0.021196141179379735,
+   "dist_ma200": -0.032329551787819155,
+   "rsi14": 33.752420065793814,
+   "from_high": -0.06787275512494684,
+   "from_low": 0.0037414541627802667,
+   "z_1d": -1.0695183494123446,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -307,21 +307,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.80400085449219,
+   "last": 101.82599639892578,
    "date": "2026-10-23",
-   "chg_1d": 0.0019092632907715679,
-   "chg_5d": -0.00035345134223108143,
-   "chg_1m": 0.005074537805498824,
-   "chg_3m": 0.0028962536900272173,
-   "vol20_ann": 0.04755112123284051,
-   "ma50": 100.54047988891601,
-   "ma200": 99.55542011260987,
-   "dist_ma50": 0.012567286002336475,
-   "dist_ma200": 0.022586221215669555,
-   "rsi14": 54.74575663347401,
-   "from_high": -0.007564836836721267,
-   "from_low": 0.05803366829086665,
-   "z_1d": 0.6163149876062399,
+   "chg_1d": 0.002125733562412968,
+   "chg_5d": -0.0001374699476460739,
+   "chg_1m": 0.005291691959262934,
+   "chg_3m": 0.0031129372086036167,
+   "vol20_ann": 0.047647415087136255,
+   "ma50": 100.54091979980468,
+   "ma200": 99.55553009033203,
+   "dist_ma50": 0.0127816276365873,
+   "dist_ma200": 0.022806029022532925,
+   "rsi14": 55.03598039261739,
+   "from_high": -0.007350413517936194,
+   "from_low": 0.05826226467576112,
+   "z_1d": 0.6861921352100542,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -335,21 +335,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 111.80999755859375,
+   "last": 111.54000091552734,
    "date": "2026-10-23",
-   "chg_1d": -0.012017324665158036,
-   "chg_5d": 0.017749835585368245,
-   "chg_1m": 0.04887428854642506,
-   "chg_3m": 0.2653915435294256,
-   "vol20_ann": 0.29059979229874433,
-   "ma50": 100.73319931030274,
-   "ma200": 91.14934989929199,
-   "dist_ma50": 0.10996174373623924,
-   "dist_ma200": 0.22666807478198203,
-   "rsi14": 65.60271742412826,
-   "from_high": -0.055259831008425464,
-   "from_low": 0.8976578586780222,
-   "z_1d": -0.4754979648804138,
+   "chg_1d": -0.014403086328451109,
+   "chg_5d": 0.015292192752978107,
+   "chg_1m": 0.046341486980466584,
+   "chg_3m": 0.26233590023832787,
+   "vol20_ann": 0.2924212845962984,
+   "ma50": 100.7277993774414,
+   "ma200": 91.14799991607666,
+   "dist_ma50": 0.10734078978109207,
+   "dist_ma200": 0.22372406435935366,
+   "rsi14": 64.8358373300328,
+   "from_high": -0.057541171494673526,
+   "from_low": 0.8930754307849964,
+   "z_1d": -0.5698970800906916,
    "trend": "alcista",
    "flags": []
   },
@@ -361,21 +361,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4009.0,
+   "last": 4007.699951171875,
    "date": "2026-10-23",
-   "chg_1d": -0.012658827598257205,
-   "chg_5d": -0.04116143924722637,
-   "chg_1m": -0.06724057701256403,
-   "chg_3m": -0.01667893058621539,
-   "vol20_ann": 0.190066180275854,
-   "ma50": 4341.887978515625,
-   "ma200": 4532.904000244141,
-   "dist_ma50": -0.07666894681825265,
-   "dist_ma200": -0.11557800478808367,
-   "rsi14": 30.780931524527986,
-   "from_high": -0.2462018513814116,
-   "from_low": 0.012245928544375673,
-   "z_1d": -0.9538065896281588,
+   "chg_1d": -0.012979005132340626,
+   "chg_5d": -0.04147237388111702,
+   "chg_1m": -0.06754305463660426,
+   "chg_3m": -0.016997804470965217,
+   "vol20_ann": 0.19027021820975767,
+   "ma50": 4341.8619775390625,
+   "ma200": 4532.8975,
+   "dist_ma50": -0.07696283946745541,
+   "dist_ma200": -0.11586353956340845,
+   "rsi14": 30.706116850654695,
+   "from_high": -0.2464462949832461,
+   "from_low": 0.011917674831934066,
+   "z_1d": -0.9779310545115976,
    "trend": "bajista",
    "flags": []
   },
@@ -387,21 +387,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 81250.34375,
+   "last": 81372.578125,
    "date": "2026-10-23",
-   "chg_1d": -0.0007569234281348258,
-   "chg_5d": -0.009354794554865431,
-   "chg_1m": -0.03842573206234712,
-   "chg_3m": 0.037213879777845627,
-   "vol20_ann": 0.24118490548928861,
-   "ma50": 81781.86609375,
-   "ma200": 72857.47015625,
-   "dist_ma50": -0.006499268959462068,
-   "dist_ma200": 0.1151957867292217,
-   "rsi14": 45.802188270255996,
-   "from_high": -0.29021920054041395,
-   "from_low": 0.3874987425845844,
-   "z_1d": -0.040528208823346186,
+   "chg_1d": 0.0007463545556931628,
+   "chg_5d": -0.007864451352048718,
+   "chg_1m": -0.036979123663752556,
+   "chg_3m": 0.03877428167258801,
+   "vol20_ann": 0.2413469640155782,
+   "ma50": 81784.31078125,
+   "ma200": 72858.081328125,
+   "dist_ma50": -0.0050343721468933955,
+   "dist_ma200": 0.11686413698610809,
+   "rsi14": 46.258405099659605,
+   "from_high": -0.2891513944437911,
+   "from_low": 0.38958611888092287,
+   "z_1d": 0.039962316087804206,
    "trend": "lateral",
    "flags": []
   },
@@ -413,21 +413,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2392.6201171875,
+   "last": 2400.409912109375,
    "date": "2026-10-23",
-   "chg_1d": 0.0026950537614165437,
-   "chg_5d": -0.006692846945710151,
-   "chg_1m": -0.10326664163787491,
-   "chg_3m": -0.0487665533553977,
-   "vol20_ann": 0.32754980423597235,
-   "ma50": 2548.5917333984376,
-   "ma200": 2156.0874981689453,
-   "dist_ma50": -0.061199137612737986,
-   "dist_ma200": 0.10970455476386265,
-   "rsi14": 39.503598479554874,
-   "from_high": -0.42457279977528206,
-   "from_low": 0.529009878946668,
-   "z_1d": 0.12569325963497394,
+   "chg_1d": 0.005959587392088128,
+   "chg_5d": -0.0034588780589902557,
+   "chg_1m": -0.100347093770219,
+   "chg_3m": -0.04566956632475283,
+   "vol20_ann": 0.32884665027802135,
+   "ma50": 2548.747529296875,
+   "ma200": 2156.1264471435547,
+   "dist_ma50": -0.0582002004837342,
+   "dist_ma200": 0.11329737422842157,
+   "rsi14": 40.420272526313695,
+   "from_high": -0.4226993473830617,
+   "from_low": 0.5339879669034457,
+   "z_1d": 0.2779462050498493,
    "trend": "lateral",
    "flags": []
   },
@@ -439,21 +439,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 103.45999908447266,
+   "last": 103.87999725341797,
    "date": "2026-10-23",
-   "chg_1d": -0.0007950485056956724,
-   "chg_5d": -0.0054284193798128655,
-   "chg_1m": -0.1277673607028541,
-   "chg_3m": 0.10470913861142717,
-   "vol20_ann": 0.35085976801260244,
-   "ma50": 109.63550491333008,
-   "ma200": 88.18887908935547,
-   "dist_ma50": -0.05632760877727827,
-   "dist_ma200": 0.17316378383315278,
-   "rsi14": 39.466235802229654,
-   "from_high": -0.48277403380680683,
-   "from_low": 0.6636167394276917,
-   "z_1d": -0.025649868971691078,
+   "chg_1d": 0.0032612462337431314,
+   "chg_5d": -0.0013909339125602882,
+   "chg_1m": -0.12422651289074427,
+   "chg_3m": 0.10919372994662635,
+   "vol20_ann": 0.3521049568672764,
+   "ma50": 109.64390487670899,
+   "ma200": 88.1909790802002,
+   "dist_ma50": -0.05256933916912521,
+   "dist_ma200": 0.1778982197141763,
+   "rsi14": 40.43863604657035,
+   "from_high": -0.48067434348538374,
+   "from_low": 0.6703702286077555,
+   "z_1d": 0.10521438375226878,
    "trend": "lateral",
    "flags": []
   },
@@ -547,21 +547,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 183.27999877929688,
+   "last": 183.22999572753906,
    "date": "2026-10-23",
-   "chg_1d": 0.005155218055748811,
-   "chg_5d": -0.0010356049498123632,
-   "chg_1m": -0.05870272477247196,
-   "chg_3m": 0.05152034176885523,
-   "vol20_ann": 0.2332381887446972,
-   "ma50": 189.6433999633789,
-   "ma200": 168.5042000579834,
-   "dist_ma50": -0.033554561800256844,
-   "dist_ma200": 0.08768801440100016,
-   "rsi14": 38.2015378311568,
-   "from_high": -0.09267327336981745,
-   "from_low": 0.4374901865042893,
-   "z_1d": 0.31678793147830964,
+   "chg_1d": 0.004880988304942102,
+   "chg_5d": -0.0013081456999357588,
+   "chg_1m": -0.05895953258939779,
+   "chg_3m": 0.05123346253258254,
+   "vol20_ann": 0.23310810917609953,
+   "ma50": 189.64239990234375,
+   "ma200": 168.5039500427246,
+   "dist_ma50": -0.033813135554637386,
+   "dist_ma200": 0.08739288118219557,
+   "rsi14": 38.10644015950164,
+   "from_high": -0.09292081323000467,
+   "from_low": 0.4370980057061886,
+   "z_1d": 0.299936524890184,
    "trend": "lateral",
    "flags": []
   },
@@ -780,6 +780,51 @@
  ],
  "titulares": [
   {
+   "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+   "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-23T20:50:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-23T20:48:01+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Meta se desploma en la bolsa tras presentar sus resultados",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFNWa2hHbWdIcnlDWTVoMTYwMXdyN0VIZEhHT0EyUTlPWGF4QXRYS2puSVl2anFVV2Nka0kxUlpDeTJlcFZ0NldVUnY2d2EyNWczeFRDTW0tbFFHMDZscjlfSG9DaW96bHVEWEdpWEVYb2lyN196V3dtdG9FRFlpczZwZWVJNHNrZ0JkZy1LSTdjUWh2R0pQTC04cjAzQQ?oc=5",
+   "source": "La Región",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-23T20:40:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Exclusive | Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T20:33:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "In the streets of Paris, a common refrain: ‘People are fed up’",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUItWHJsOVhlLVdKQlZJYzh1Qm8tOTNrWk5BMldhNHlDeFBza0R2TnkwbVlsTXg0OERoUWlPck1rWF9lVkRqVHZDaWY1V25kYlFud0E5dUxtR2JMemJwV0F4dTVKLXRUcG1WYzlGckVoYXF0aFV3ZUZjc05UNHRNX1o0eUVKVldWV2hSSFE2NWduem9IaTljMHgwZ3NOZjRJQXc?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T20:24:14+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Stories to cover as insurance costs continue to outpace wages, inflation",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZZWlV3Y0lKRFY0Nm5Sc1lXeURnOUFLd1hqdTNlSEROaDh4ZG5YZ0JKbWc2VlNYNHphQVFDQjUtUmg5SWEycVREemhUZFFOMFFqZTF4MkdHdi1lQUNJNmE3dmNnTHg2ZnpuTWVYWXA2QU5vN3JROFNud2d5STBsckZLaTZWdHJ2OUh6VGRvWmJDX1FaWHFXSzJzZG0yNkpjdDBJR3IxdTYtbG9idGE4LWN5SFc?oc=5",
    "source": "Association of Health Care Journalists",
@@ -807,38 +852,11 @@
    "score": 3
   },
   {
-   "title": "In the streets of Paris, a common refrain: ‘People are fed up’",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUItWHJsOVhlLVdKQlZJYzh1Qm8tOTNrWk5BMldhNHlDeFBza0R2TnkwbVlsTXg0OERoUWlPck1rWF9lVkRqVHZDaWY1V25kYlFud0E5dUxtR2JMemJwV0F4dTVKLXRUcG1WYzlGckVoYXF0aFV3ZUZjc05UNHRNX1o0eUVKVldWV2hSSFE2NWduem9IaTljMHgwZ3NOZjRJQXc?oc=5",
-   "source": "The Washington Post",
-   "feed": "Google News · markets",
-   "published": "2026-10-23T19:49:44+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Eli Lilly Stocks Slip 1.7% Ahead of Earnings After 48% Revenue Growth",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXZhemY2X05mTnh1c0duVFQ2UG43RUFNb1ZNVVhURTFMb01UZUFLMFRJbG9scFpPTzhKTGY2ZTl0RnA5MmFmdURjYW1yUHlWbEhDX3BaWU1NcTdja2xjY2JJa1AtNnZNWENCR0FMekw2RldURDlPQ0ZDVEljQTNPbC1jbVFTblI5czZCY0JtNS1iUQ?oc=5",
    "source": "Yahoo Finance",
    "feed": "Google News · markets",
    "published": "2026-10-23T19:28:32+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Intel Stocks Rise, Trade at 166.5% Above GF Value Ahead of Earnings",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeG1sMTRyUkpLczcyeUxzTHlGaE1UTE5SR3ljcFNKUUt1X1lGNlBONGoxZ25wam1STzlpZGxsWWk0X0NDTS1WOTZyUEJGVEl2SDF1YVk4RWJFOEQ5ejlzY1RUR1diSHlPanVPSlR5dzl0N3NJY25kRVZnV1RBNV91OV9QLThGajk5bUlmNE9JU01tWVp0WXlN?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-23T19:26:17+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Amazon Stocks Edge Lower Ahead of Earnings After 37% AWS Revenue Growth",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0tld20yYURUdjBhekFYWHZ1SXFQWUZ2Skw3Ni1wRVFLR1RycW1KUFRCUzRYUkZQck9rYU9YczBtdTdQR2pWUzFEcDV5SHZ0Q1B4MkcxWW5MRnlkYm9pUkxZaWtLbFEtV3lZZDhQcUYySURCOGIyWUZfQVU0UThBYlFPNFAtM2pObjJGa2UzcTFoTlhTVFg3TzQycw?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-23T19:25:07+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -861,15 +879,6 @@
    "score": 3
   },
   {
-   "title": "Bitcoin sits in a tight range as analysts wait for the Fed, and some see upside in the calm",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzZmanNwdVVxX3BNUGFWdW8zeDY2cFRPVENfYTNZS19NZTJsc2ZvdmtGbHU4cGNFVHI4c2kxYURUNTVNcERQU1YySkpYVWhLTzFFWmxvbFNkMzYwZGwxMFUtWHphRXBCdDRnOTRQb3J3MmZFTnA3X0dJZGRJVnhDci03NUxYeTR2M3lHMldROV9hQWFsTWx3eld6alpPS3JvUTRvRWZ6aHQzdlVrSnlJ?oc=5",
-   "source": "eGamers.io",
-   "feed": "Google News · crypto",
-   "published": "2026-10-23T19:04:16+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "TSMC Stocks Rise as Record Profit Meets 2027 Caution",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEJwQmJUaWZkenJIYk1KcFR5TzZMTDM3WDNFVEkwX28xUHA1eHNkWi0tZGJGbHZJNVV0TENJUTl0amJ0ZkxvOXdSMV9JcnJpbVplZVVIaHl6T1BYNXZpeVdHU19za2VRQWNSRTI4cFZUSTRGV3dmR2dSU0dLQnBfdWM4SGE2eVZjSWQ1NHlNN202SWU4UUdXQTVzOA?oc=5",
    "source": "Yahoo Finance",
@@ -879,30 +888,12 @@
    "score": 3
   },
   {
-   "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-23T18:54:16+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
    "title": "Inflation at the movies: Runtimes are longer, from 'The Odyssey' to 'You Can See Everything'",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR3ZDN1c1alk5SEgzS1JOVWxhUUhTUTFOa21pSjczY3RLUXZJNDJrZm84UnBJQnpxaFBPeVNwVUZwLUwtcXpJRGw4MVk1RDVFMm5mMURkeVZoUXp0b3VtZThxRGFObW9nTjZxRmFzZnNpdGFtRFlWM0dwXzdJQldqMHhZVU8yN1lfSUFuOVYtMGVTVWpsNm8tTlIzVjR4aW10WHhxMHVleEpLSG9Jd1d4TGlHUFRJTk84NEFINXVsVkVEU1VTVE1MdkdDYVY1bS0yTVp4UU5OMFVGdXBoZUww?oc=5",
    "source": "WLWT",
    "feed": "Google News · markets",
    "published": "2026-10-23T18:51:00+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-   "source": "WSJ",
-   "feed": "Google News · markets",
-   "published": "2026-10-23T18:42:00+00:00",
-   "category": "geopolítica",
    "score": 3
   },
   {
@@ -996,6 +987,15 @@
    "score": 3
   },
   {
+   "title": "Consumer Sentiment Reaches 5-Month Low as Inflation Outlook Hits Highest Since May",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFJrM1pjQndUWW9KREcxUm5uM2hrYWRSTlNTdTNtcVRRdEVkQkhPc21wT3J6WmlKUVFNMWc2ckR2WXZwVzlKSHhxTUhRa2lTT3F2YS1GbXBMYkk2VlpnNVFzRWw2YmZ2NFJGZUZtT1ExQmxrcVlkX1duZ21fZ3pyRWJxX3dhcmowVXVWSjZJVHppdFI0RjZV?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T16:39:08+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Bitcoin to $10K? Bloomberg Analyst Warns of Brutal Scenario if Stocks Slide 20%",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExNWmlhc1dtXzJoclc5Mk9qVEVkbTRSbnBDVmR4dUxiNEpHRWtIUXVlN3pUdTl2NGtGWGtPVGlaOUtCcFF2clNJTFJDUFV2TXlkNnM5Mmd4TDNURk9GSmh4VFQ2SXNhekpHU3VVMW9nTWlEanpiV2Y5Vjd2OWs1NU1yZ0pTLVRCNjcwQTVYeHg2MWRNcmtNNGF5QlhQMWtmZk5UTw?oc=5",
    "source": "CryptoPotato",
@@ -1019,15 +1019,6 @@
    "source": "WSJ",
    "feed": "Google News · markets",
    "published": "2026-10-23T16:23:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "To keep Lopez fed, keep local farms thriving",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaURBUHdXTlBpa0hJOVN1N0pXeExDV0ZocndBeTFkNldXX1pMUEViaVpSNUdnWHZwMDFzMmcxZDczLThRTGZaV3JzWWhfSUpYTURMejNZNk8xRVI1Sk5rQjdMZ0RHRlZDUjUxNUM3UG43akVPV3hZeVRRaDM0YllsM0w3dVAtUGRybHc?oc=5",
-   "source": "Salish Current",
-   "feed": "Google News · markets",
-   "published": "2026-10-23T16:16:25+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1106,7 +1097,7 @@
   {
    "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEkxal82eWJ5MVVsZjlZckdDbV9OcDJmRDQ0amhYbXNKMk1yalVYVWdNU3pXZkFIRjJwckhmcnNJcU1DQXdDNzg5ZG9acWFUV04xaVQyRjRQRUQ4RjhGVV9jU2dKMDUwR2tIUjJ3QW9LdG11ZG03TUdYMmVKYUdvNzNCYlozaGxHV2RVSkNtZXU0ZzY2dU9UY2VyQklCREw1YWJUdW5xNENKdElMQkp6RFRBS2I?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "feed": "Google News · markets",
    "published": "2026-10-23T14:21:38+00:00",
    "category": "macro",
@@ -1145,15 +1136,6 @@
    "source": "AFP.com",
    "feed": "Google News · markets",
    "published": "2026-10-23T13:52:30+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Bolsa mexicana sube con foco en resultados trimestrales, perfila semana positiva",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Nc0UtZDZ4ZHZ4YzMyeFdja3Bxb3g0Ni1lQS15aDhGQTVqYjI1U0FDLUVuY1JsZ0F1aC1IWDM3WEZ6ZkZ6aEh2Qi1qWFlUbnlXdnB3Qlg3QUhzZldIVWZMTEF5MEdhMGhxUG9ZWmh0dWJPaU1KdllB?oc=5",
-   "source": "TradingView",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-23T13:51:30+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -1226,15 +1208,6 @@
    "source": "Reuters",
    "feed": "Google News · markets",
    "published": "2026-10-23T04:14:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-22T23:48:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1318,152 +1291,124 @@
    "published": "2026-10-23T14:18:50+02:00",
    "category": "otras",
    "score": 2
+  },
+  {
+   "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+   "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+   "source": "CoinDesk",
+   "feed": "CoinDesk",
+   "published": "2026-10-23T04:36:51+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
+   "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+   "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-23T20:52:23+00:00",
+   "category": "geopolítica",
+   "score": 1
+  },
+  {
+   "title": "Bitcoin price stays neutral daily as short-term charts turn bearish",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10SENsZ2RSd193Tmt0RGhpM2FEeVBRU1UwNm5Ob2pERWlvZ1BLbkxZOWVrZE40MXRBNjVaQkRQa2c3SnR1VU9iOU53X2l1SWhvemVRS0ZVQjY?oc=5",
+   "source": "Cryptonews.net",
+   "feed": "Google News · crypto",
+   "published": "2026-10-23T20:32:54+00:00",
+   "category": "cripto",
+   "score": 1
   }
  ],
  "analisis": {
-  "resumen": "Wall Street cierra con sesgo ligeramente bajista y señales mixtas: S&P 500 -0,5%, Nasdaq 100 plano, Russell -0,3%. La energía lidera (XLE +2,6%, en máximos de 52 semanas), mientras el oro (-1,3%) y las financieras (-1,3%) caen. Frente al cierre de Europa, el Brent pasa de tocar 115-117 $ a cerrar en 111,8 $ (-1,2%), el dólar sube y el bono a 10 años queda en torno al 5%. El foco pasa a la reunión de la Fed de la próxima semana y a la ola de resultados.",
-  "resumen_dia": "Asia abrió con fuerte venta (Nikkei -4,3%, -2,5σ) tras el desplome tecnológico/IA de EE. UU. del día anterior (NDX -2,9%) y con el IPC japonés reforzando la subida del BOJ. Después Asia recuperó parte del terreno y cerró mixta según las revisiones previas, aunque la tabla trae cierres de Nikkei, Hang Seng y Shanghái fechados el 22 con caídas notables. Europa cerró con ligeras caídas (Euro Stoxx -0,3%, DAX -0,7%) lastrada por China (Volvo Cars), la tensión política en Francia y el petróleo; el IBEX resistió (+0,4%). En EE. UU. el petróleo cerca de máximos de la guerra de Irán, el bono a 10 años en torno al 5% y las expectativas de inflación al alza dominaron el tono: la energía subió con fuerza y el oro, las financieras y el S&P cedieron. Los mercados esperan la Fed de la próxima semana, con apuestas de subida de tipos que presionan al oro.",
+  "resumen": "Revisión de actualización tras el cierre de EE. UU. con solo observación. Lo nuevo son los titulares sobre Trump retirando algunos aranceles a Canadá para ayudar a Susan Collins, aunque sustituyéndolos por otros productos, y el desplome de Meta tras sus resultados. Los precios apenas se mueven respecto al cierre de EE. UU.: petróleo alto en torno a 111, bono 10a en el 5%, oro en mínimos y foco en la Fed y los resultados.",
+  "resumen_dia": "",
   "clima": "mixto",
   "noticias": [
    {
-    "id": 40,
-    "categoria": "geopolítica",
-    "rumor": false,
-    "novedad": "Parcialmente esperada: el Brent ya estaba cerca de máximos por la guerra de Irán, pero el pico a 115 $ es un nuevo extremo intradía.",
-    "impacto": "Energía (XLE, BZ=F) al alza y presión sobre consumo y bolsas europeas por inflación y costes; el cierre del Brent a 111,8 $ indica que el pico no se sostuvo.",
-    "importancia": 5
-   },
-   {
-    "id": 49,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "El mercado ya descuenta cierto endurecimiento de la Fed, pero el petróleo refuerza las apuestas de subida.",
-    "impacto": "Oro (GC=F) a la baja por tipos reales y dólar más fuertes; presión también sobre activos de duración larga como tecnología y small caps.",
-    "importancia": 4
-   },
-   {
-    "id": 36,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Sorpresa negativa moderada: la confianza del consumidor cae a mínimos de cinco meses y las expectativas de inflación suben.",
-    "impacto": "Estanflación leve: favorece a defensivos y energía, perjudica a consumo discrecional y a small caps (RUT) por los tipos.",
-    "importancia": 4
-   },
-   {
-    "id": 13,
-    "categoría": "política/regulación",
+    "id": 3,
     "categoria": "política/regulación",
-    "rumor": true,
-    "novedad": "Información exclusiva del WSJ sobre una posible retirada parcial de aranceles a Canadá, no confirmada oficialmente.",
-    "impacto": "Leve impulso potencial a industriales y autos norteamericanos y a la baja de inflación por importaciones; efecto limitado si la retirada es parcial.",
+    "rumor": false,
+    "novedad": "Sorpresa moderada, pero el titular de CNBC [1] indica que se sustituyen por aranceles sobre otros productos, así que el recorte neto es incierto.",
+    "impacto": "Posible alivio limitado para sectores con exposición a Canadá (autos, metales, energía) y para la inflación importada; efecto neto pequeño y de bajo impacto en índices.",
     "importancia": 2
    },
    {
-    "id": 52,
-    "categoría": "sectorial",
-    "categoria": "sectorial",
+    "id": 1,
+    "categoria": "política/regulación",
     "rumor": false,
-    "novedad": "El mercado ya había visto el repunte del crudo, y la energía lo recoge hoy.",
-    "impacto": "XLE +2,6% y ciberseguridad al alza; el movimiento ya ronda 2σ, por lo que perseguirlo es arriesgado.",
+    "novedad": "Matiza el titular anterior: se sustituyen aranceles, no se eliminan, por lo que el efecto desinflacionista es dudoso.",
+    "impacto": "Poco cambio para el S&P 500 y el bono 10a; mantiene la incertidumbre arancelaria como factor de inflación.",
+    "importancia": 2
+   },
+   {
+    "id": 2,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Publicado tras el cierre; sorpresa negativa. Titular sin detalle de magnitud ni causa, por lo que no se puede estimar el efecto.",
+    "impacto": "Meta no está en la tabla; puede arrastrar al Nasdaq 100 y a XLK mañana si el motivo es el gasto en IA, añadiendo presión a un sector ya castigado. Si el castigo es idiosincrático, el contagio será menor.",
     "importancia": 3
    },
    {
-    "id": 51,
-    "categoria": "sectorial",
+    "id": 17,
+    "categoria": "geopolítica",
     "rumor": false,
-    "novedad": "Esperado: el IBEX arrastra una caída semanal del 1,7% por petróleo y tensión en Francia.",
-    "impacto": "Euro Stoxx e IBEX pierden por coste energético y riesgo político francés; IBEX más resistente por energía y utilities (Repsol, Iberdrola).",
-    "importancia": 2
+    "novedad": "Esperada en parte: el Brent lleva semanas cerca de máximos por la guerra de Irán y hoy cierra a 111,5 tras tocar 115-117.",
+    "impacto": "Petróleo alto favorece a XLE (+2,6%, máximos de 52 semanas) y presiona a consumo, tipos y bolsa europea por inflación.",
+    "importancia": 4
+   },
+   {
+    "id": 23,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Sorpresa negativa: la confianza del consumidor cae a mínimos de 5 meses y las expectativas de inflación suben a máximos desde mayo.",
+    "impacto": "Refuerza el temor de estanflación y las apuestas de subida de la Fed; negativo para el oro, small caps y duración, con bono 10a en el 5%.",
+    "importancia": 4
+   },
+   {
+    "id": 47,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Ya descontada: el oro lleva días cayendo por el petróleo y las apuestas de subida de tipos.",
+    "impacto": "Oro bajista a corto plazo por tipos reales y dólar fuerte (DXY en máximos de 52 semanas); el exceso de caída puede dar rebote si la Fed no sorprende.",
+    "importancia": 3
    }
   ],
   "divergencias": [
-   "XLE sube un 2,6% mientras el Brent cierra con -1,2%: el sector parece reflejar el pico intradía del crudo (115-117 $) o rotación, más que el cierre del petróleo.",
-   "Los cierres de Nikkei, Hang Seng y Shanghái de la tabla están fechados el 22 (-2,7%, -3,0%, -1,5%), mientras las revisiones previas hablaban de un cierre asiático mixto el 23: los datos pueden estar desfasados y conviene no sobreponderarlos.",
-   "El Russell 2000 sube un 2,0% en 5 días mientras el S&P cae y el bono a 10 años cruza al alza su media de 50 sesiones: una small cap fuerte sin apoyo de tipos es incoherente.",
-   "El oro cae con inflación al alza y dólar fuerte, por el canal de tipos reales y la subida de tipos esperada, no por pérdida de su valor refugio."
+   "El oro cae con el petróleo al alza y el dólar fuerte: es coherente con un canal de tipos y no actúa como refugio, pese al riesgo geopolítico.",
+   "SMH sube un 0,7% en el día, pero Meta se desploma tras el cierre: el rebote tecnológico puede ser frágil.",
+   "El IBEX sube un 0,4% mientras Euro Stoxx y DAX caen, apoyado por Iberdrola, Inditex y Repsol, a pesar de la caída semanal por el petróleo."
   ],
-  "hipotesis": [
-   {
-    "ticker": "^RUT",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "Las small caps, sensibles a tipos y financiación, quedan expuestas si la Fed endurece el tono con el bono a 10 años en torno al 5% y el petróleo alto, tras un rebote del 2% en 5 días sin apoyo macro.",
-    "objetivo_pct": 2.0,
-    "invalidacion_pct": 1.3,
-    "confianza": 41,
-    "confluencia": [
-     "Tendencia bajista y rebote de +2% a 5 días sin apoyo del S&P",
-     "Bono a 10 años cruza al alza su media de 50 sesiones, con riesgo de Fed hawkish y sentimiento del consumidor débil"
-    ],
-    "contra": "Una Fed menos agresiva de lo descontado o un buen ciclo de resultados podrían impulsar un rally defensivo de small caps.",
-    "sesgos": "Sesgo narrativo de 'tipos altos = malo para small caps' y posible exceso de peso en la reunión de la Fed; el evento puede ya estar descontado.",
-    "ev_pct": -0.05,
-    "operable": false
-   },
-   {
-    "ticker": "AAPL",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Apple, en máximos de 52 semanas, puede recuperar la capitalización de Nvidia y funcionar como refugio relativo dentro de tecnología antes de sus resultados.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 40,
-    "confluencia": [
-     "Tendencia alcista y máximos de 52 semanas",
-     "Catalizador de resultados y reponderación por capitalización frente a la debilidad relativa de NVDA y SMH"
-    ],
-    "contra": "Los resultados y la expectativa de superar a Nvidia ya están descontados; un gap negativo por consumo o tipos supera el stop.",
-    "sesgos": "Sesgo de momentum y de noticia narrativa (titular de CNBC); objetivo de 3% algo ambicioso para una vol de 1%/día.",
-    "ev_pct": -0.1,
-    "operable": false
-   },
-   {
-    "ticker": "BZ=F",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "El Brent ha rechazado los 115-117 $ intradía, pero la tendencia alcista y el riesgo de la guerra de Irán sostienen un pullback comprador hacia nuevos máximos.",
-    "objetivo_pct": 5.0,
-    "invalidacion_pct": 3.0,
-    "confianza": 38,
-    "confluencia": [
-     "Tendencia alcista del crudo con máximos recientes cercanos",
-     "Retroceso diario de -1,2% desde 115-117 $ tras el titular geopolítico, con riesgo de oferta por Irán"
-    ],
-    "contra": "El rechazo del máximo intradía y la caída de -1,2% indican toma de beneficios; la demanda puede debilitarse si el consumo se enfría o una distensión baja el petróleo.",
-    "sesgos": "Anclaje en el máximo reciente y sesgo hacia la narrativa de guerra; el crudo es muy sensible a titulares y puede dar gaps de fin de semana en cualquier dirección.",
-    "ev_pct": -0.02,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
-    "ticker": "^TNX",
-    "motivo": "Rendimiento a 10 años en torno al 5% y cruce de su media de 50 sesiones; clave para small caps, oro y tecnología ante la Fed."
+    "ticker": "^NDX",
+    "motivo": "Reacción al desplome de Meta tras el cierre y a los resultados de megacaps la próxima semana."
    },
    {
     "ticker": "BZ=F",
-    "motivo": "Intradía tocó 115-117 $ pero cerró 111,8 $: ver si se confirma el rechazo o rompe máximos."
+    "motivo": "Rechazo de 115-117 $; clave para inflación, tipos y energía."
    },
    {
-    "ticker": "DX-Y.NYB",
-    "motivo": "En máximos de 52 semanas; un dólar fuerte presiona oro, cripto y activos de riesgo."
+    "ticker": "GC=F",
+    "motivo": "Mínimos de varios meses; sensible a la Fed y al dólar."
    },
    {
     "ticker": "^HSI",
-    "motivo": "Caída anómala de -3,3σ con RSI 27 en la tabla (fechada el 22); verificar si es dato desfasado o rebote técnico."
+    "motivo": "Sobreventa extrema (RSI 27, -3,3σ) y rebote potencial."
    },
    {
     "ticker": "XLE",
-    "motivo": "En máximos de 52 semanas y +2σ hoy; vigilar si el sector converge hacia el Brent."
+    "motivo": "Máximos de 52 semanas; riesgo de corrección si el petróleo retrocede."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Ninguna hipótesis nueva alcanza p>=55 ni EV>=1% tras costes; las señales son de confluencia débil y los eventos (Fed, resultados) elevan el riesgo de gap.",
+  "decision_motivo": "Revisión de actualización de solo observación; las decisiones se toman con los cierres de EE. UU.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 9818,
-   "tokens_salida": 6543,
-   "coste_usd": 0.0851
+   "tokens_entrada": 10161,
+   "tokens_salida": 1744,
+   "coste_usd": 0.0378
   }
  },
  "calidad": {

@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**viernes 23 oct 2026 · revisión de cierre EE. UU. · 22:18 (Madrid)**
+**viernes 23 oct 2026 · revisión de actualización · 22:55 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> Wall Street cierra con sesgo ligeramente bajista y señales mixtas: S&P 500 -0,5%, Nasdaq 100 plano, Russell -0,3%. La energía lidera (XLE +2,6%, en máximos de 52 semanas), mientras el oro (-1,3%) y las financieras (-1,3%) caen. Frente al cierre de Europa, el Brent pasa de tocar 115-117 $ a cerrar en 111,8 $ (-1,2%), el dólar sube y el bono a 10 años queda en torno al 5%. El foco pasa a la reunión de la Fed de la próxima semana y a la ola de resultados.  
-> **Decisión:** no operar hoy — Ninguna hipótesis nueva alcanza p>=55 ni EV>=1% tras costes; las señales son de confluencia débil y los eventos (Fed, resultados) elevan el riesgo de gap.
+> Revisión de actualización tras el cierre de EE. UU. con solo observación. Lo nuevo son los titulares sobre Trump retirando algunos aranceles a Canadá para ayudar a Susan Collins, aunque sustituyéndolos por otros productos, y el desplome de Meta tras sus resultados. Los precios apenas se mueven respecto al cierre de EE. UU.: petróleo alto en torno a 111, bono 10a en el 5%, oro en mínimos y foco en la Fed y los resultados.  
+> **Decisión:** no operar hoy — Revisión de actualización de solo observación; las decisiones se toman con los cierres de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -20,9 +20,9 @@
 | **Nikkei 225** | 62.908 | 🔴▼ -2.7% | 🔴▼ -1.9% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 4.988 | ▲ +3 pb | ▼ -17 pb | ➡️ lateral |
 | **EUR/USD** | 1.12 | 🔴▼ -0.3% | 🔴▼ -1.6% | ↘️ bajista |
-| **Brent** | 111.81 | 🔴▼ -1.2% | 🔵▲ +4.9% | ↗️ alcista |
-| **Oro** | 4.009 | 🔴▼ -1.3% | 🔴▼ -6.7% | ↘️ bajista |
-| **Bitcoin** | 81.250 | 🔴▼ -0.1% | 🔴▼ -3.8% | ➡️ lateral |
+| **Brent** | 111.54 | 🔴▼ -1.4% | 🔵▲ +4.6% | ↗️ alcista |
+| **Oro** | 4.008 | 🔴▼ -1.3% | 🔴▼ -6.8% | ↘️ bajista |
+| **Bitcoin** | 81.373 | 🔵▲ +0.1% | 🔴▼ -3.7% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -39,22 +39,24 @@
 
 ## 📰 Noticias clave
 
-- **[geopolítica]** [Oil hits $115 with stocks mixed on earnings, AI](https://news.google.com/rss/articles/CBMibEFVX3lxTE5acVhDR0J2d2hacmpMZnF0MkxGVmlxa3prLXRYSjF3ODhNQ0NEMXM5RXJpT2hPVGw2bmR3X2NoVllsZW1JYTZ4V0cwb01WLWxSYmFTMXZMNDJHMTFlcEV0RnBSaUNRX1l3cWRGaA?oc=5) <sub>AFP.com · 23/10 15:52 · ●●●●●</sub>  
-  Parcialmente esperada: el Brent ya estaba cerca de máximos por la guerra de Irán, pero el pico a 115 $ es un nuevo extremo intradía. **Impacto:** Energía (XLE, BZ=F) al alza y presión sobre consumo y bolsas europeas por inflación y costes; el cierre del Brent a 111,8 $ indica que el pico no se sostuvo.
-- **[macro]** [Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5) <sub>Reuters · 23/10 06:14 · ●●●●</sub>  
-  El mercado ya descuenta cierto endurecimiento de la Fed, pero el petróleo refuerza las apuestas de subida. **Impacto:** Oro (GC=F) a la baja por tipos reales y dólar más fuertes; presión también sobre activos de duración larga como tecnología y small caps.
-- **[macro]** [US Consumer Sentiment Slips to Five-Month Low on Inflation](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEkxal82eWJ5MVVsZjlZckdDbV9OcDJmRDQ0amhYbXNKMk1yalVYVWdNU3pXZkFIRjJwckhmcnNJcU1DQXdDNzg5ZG9acWFUV04xaVQyRjRQRUQ4RjhGVV9jU2dKMDUwR2tIUjJ3QW9LdG11ZG03TUdYMmVKYUdvNzNCYlozaGxHV2RVSkNtZXU0ZzY2dU9UY2VyQklCREw1YWJUdW5xNENKdElMQkp6RFRBS2I?oc=5) <sub>Bloomberg.com · 23/10 16:21 · ●●●●</sub>  
-  Sorpresa negativa moderada: la confianza del consumidor cae a mínimos de cinco meses y las expectativas de inflación suben. **Impacto:** Estanflación leve: favorece a defensivos y energía, perjudica a consumo discrecional y a small caps (RUT) por los tipos.
-- **[sectorial]** [Stock Market Midday, Oct. 23: Energy Surges on Oil Price Spike, Cybersecurity Stocks Gain](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXFIZWpVeTNCbzBDcklkajJPV2ZTMzRIV0FiVV84SW5IQkdQXzNtNG96QW9Ua2Z5cEE4eTRWeE0zV3g1MG82OVU1XzVFMGlmbE9nREt4UV9YaE1YZ2dsUlZXdzUtNC1BczYtNnFPbVMtQWNvcjlOSlZLbGh2WDItdmg5RFVETXFVMEpFdXVEOEZZc052MUE?oc=5) <sub>Yahoo Finance · 23/10 18:39 · ●●●</sub>  
-  El mercado ya había visto el repunte del crudo, y la energía lo recoge hoy. **Impacto:** XLE +2,6% y ciberseguridad al alza; el movimiento ya ronda 2σ, por lo que perseguirlo es arriesgado.
-- **[política/regulación]** [Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5) <sub>WSJ · 23/10 20:42 · ●● · ⚠️ rumor</sub>  
-  Información exclusiva del WSJ sobre una posible retirada parcial de aranceles a Canadá, no confirmada oficialmente. **Impacto:** Leve impulso potencial a industriales y autos norteamericanos y a la baja de inflación por importaciones; efecto limitado si la retirada es parcial.
-- **[sectorial]** [El Ibex pierde un 1,74% semanal por el petróleo disparado y la tensión en Francia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlBMT1FUM1EzcTYyNTdFOWFyUk5RUG1zcW5sekhVc2tNLXVQNjZUMnVuQjdkOXJrZ2U3cmROVUIzblVmRUt3VkdXQzk4RnVDNjdLRlFqRU5xWVk4aVRBcVVha1l0Z1Y3ci1RLWt0dGFSZm9yRFdfd2lTXzQzM0ctMlNCNExiLW5kMENpVGZQQVhtd0RhM3RfZW42alBpbnNVVEdyTWpaekVyZERNWGdic01nd2pPeTQ0dmpWQ2hLeks2ZnM?oc=5) <sub>CatalunyaPress · 23/10 19:17 · ●●</sub>  
-  Esperado: el IBEX arrastra una caída semanal del 1,7% por petróleo y tensión en Francia. **Impacto:** Euro Stoxx e IBEX pierden por coste energético y riesgo político francés; IBEX más resistente por energía y utilities (Repsol, Iberdrola).
+- **[geopolítica]** [Oil Price Nears Yearly High: Is a Stock and Crypto Crash Coming?](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmlMSmh6anlpb1BZbkl3czZsRHdqNXUySDNnRll1Nk9oYlFpVkJlV2lhdVRzZGU4NzZnUWhyT1o0cF81RFBlRDdGYjdUdjlWOFlHTUstOUo1TWtXT2JpS2NWbTFuRmk0Q1FaWXJ4WllBVDd5S0E5T180TE91QklzZ3p6ZXYxSVhxdzRkWg?oc=5) <sub>Yahoo Finance · 23/10 19:24 · ●●●●</sub>  
+  Esperada en parte: el Brent lleva semanas cerca de máximos por la guerra de Irán y hoy cierra a 111,5 tras tocar 115-117. **Impacto:** Petróleo alto favorece a XLE (+2,6%, máximos de 52 semanas) y presiona a consumo, tipos y bolsa europea por inflación.
+- **[macro]** [Consumer Sentiment Reaches 5-Month Low as Inflation Outlook Hits Highest Since May](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFJrM1pjQndUWW9KREcxUm5uM2hrYWRSTlNTdTNtcVRRdEVkQkhPc21wT3J6WmlKUVFNMWc2ckR2WXZwVzlKSHhxTUhRa2lTT3F2YS1GbXBMYkk2VlpnNVFzRWw2YmZ2NFJGZUZtT1ExQmxrcVlkX1duZ21fZ3pyRWJxX3dhcmowVXVWSjZJVHppdFI0RjZV?oc=5) <sub>Yahoo Finance · 23/10 18:39 · ●●●●</sub>  
+  Sorpresa negativa: la confianza del consumidor cae a mínimos de 5 meses y las expectativas de inflación suben a máximos desde mayo. **Impacto:** Refuerza el temor de estanflación y las apuestas de subida de la Fed; negativo para el oro, small caps y duración, con bono 10a en el 5%.
+- **[resultados]** [Meta se desploma en la bolsa tras presentar sus resultados](https://news.google.com/rss/articles/CBMingFBVV95cUxNVFNWa2hHbWdIcnlDWTVoMTYwMXdyN0VIZEhHT0EyUTlPWGF4QXRYS2puSVl2anFVV2Nka0kxUlpDeTJlcFZ0NldVUnY2d2EyNWczeFRDTW0tbFFHMDZscjlfSG9DaW96bHVEWEdpWEVYb2lyN196V3dtdG9FRFlpczZwZWVJNHNrZ0JkZy1LSTdjUWh2R0pQTC04cjAzQQ?oc=5) <sub>La Región · 23/10 22:40 · ●●●</sub>  
+  Publicado tras el cierre; sorpresa negativa. Titular sin detalle de magnitud ni causa, por lo que no se puede estimar el efecto. **Impacto:** Meta no está en la tabla; puede arrastrar al Nasdaq 100 y a XLK mañana si el motivo es el gasto en IA, añadiendo presión a un sector ya castigado. Si el castigo es idiosincrático, el contagio será menor.
+- **[macro]** [Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5) <sub>Reuters · 23/10 06:14 · ●●●</sub>  
+  Ya descontada: el oro lleva días cayendo por el petróleo y las apuestas de subida de tipos. **Impacto:** Oro bajista a corto plazo por tipos reales y dólar fuerte (DXY en máximos de 52 semanas); el exceso de caída puede dar rebote si la Fed no sorprende.
+- **[política/regulación]** [Exclusive | Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5) <sub>WSJ · 23/10 22:33 · ●●</sub>  
+  Sorpresa moderada, pero el titular de CNBC [1] indica que se sustituyen por aranceles sobre otros productos, así que el recorte neto es incierto. **Impacto:** Posible alivio limitado para sectores con exposición a Canadá (autos, metales, energía) y para la inflación importada; efecto neto pequeño y de bajo impacto en índices.
+- **[política/regulación]** [Trump dropping some Canada tariffs but 'replacing' them with other products](https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html) <sub>CNBC · 23/10 22:48 · ●●</sub>  
+  Matiza el titular anterior: se sustituyen aranceles, no se eliminan, por lo que el efecto desinflacionista es dudoso. **Impacto:** Poco cambio para el S&P 500 y el bono 10a; mantiene la incertidumbre arancelaria como factor de inflación.
 
-**Divergencias precio-noticia:** XLE sube un 2,6% mientras el Brent cierra con -1,2%: el sector parece reflejar el pico intradía del crudo (115-117 $) o rotación, más que el cierre del petróleo. · Los cierres de Nikkei, Hang Seng y Shanghái de la tabla están fechados el 22 (-2,7%, -3,0%, -1,5%), mientras las revisiones previas hablaban de un cierre asiático mixto el 23: los datos pueden estar desfasados y conviene no sobreponderarlos. · El Russell 2000 sube un 2,0% en 5 días mientras el S&P cae y el bono a 10 años cruza al alza su media de 50 sesiones: una small cap fuerte sin apoyo de tipos es incoherente. · El oro cae con inflación al alza y dólar fuerte, por el canal de tipos reales y la subida de tipos esperada, no por pérdida de su valor refugio.
+**Divergencias precio-noticia:** El oro cae con el petróleo al alza y el dólar fuerte: es coherente con un canal de tipos y no actúa como refugio, pese al riesgo geopolítico. · SMH sube un 0,7% en el día, pero Meta se desploma tras el cierre: el rebote tecnológico puede ser frágil. · El IBEX sube un 0,4% mientras Euro Stoxx y DAX caen, apoyado por Iberdrola, Inditex y Repsol, a pesar de la caída semanal por el petróleo.
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-23._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -62,25 +64,19 @@
 | 🔵▲ **Apple** | Apple, en máximos de 52 semanas, puede recuperar la capitalización de Nvidia y funcionar como refugio relativo dentro de tecnología antes de sus resultados. | 5 ses. | +3.0% / −2.0% | 40% | -0.1% 👀 |
 | 🔵▲ **Brent** | El Brent ha rechazado los 115-117 $ intradía, pero la tendencia alcista y el riesgo de la guerra de Irán sostienen un pullback comprador hacia nuevos máximos. | 5 ses. | +5.0% / −3.0% | 38% | -0.0% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **Russell 2000** · Una Fed menos agresiva de lo descontado o un buen ciclo de resultados podrían impulsar un rally defensivo de small caps. Sesgos: Sesgo narrativo de 'tipos altos = malo para small caps' y posible exceso de peso en la reunión de la Fed; el evento puede ya estar descontado.
-- **Apple** · Los resultados y la expectativa de superar a Nvidia ya están descontados; un gap negativo por consumo o tipos supera el stop. Sesgos: Sesgo de momentum y de noticia narrativa (titular de CNBC); objetivo de 3% algo ambicioso para una vol de 1%/día.
-- **Brent** · El rechazo del máximo intradía y la caída de -1,2% indican toma de beneficios; la demanda puede debilitarse si el consumo se enfría o una distensión baja el petróleo. Sesgos: Anclaje en el máximo reciente y sesgo hacia la narrativa de guerra; el crudo es muy sensible a titulares y puede dar gaps de fin de semana en cualquier dirección.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **Bono EE. UU. 10a (%)** — Rendimiento a 10 años en torno al 5% y cruce de su media de 50 sesiones; clave para small caps, oro y tecnología ante la Fed.
-- **Brent** — Intradía tocó 115-117 $ pero cerró 111,8 $: ver si se confirma el rechazo o rompe máximos.
-- **Índice dólar** — En máximos de 52 semanas; un dólar fuerte presiona oro, cripto y activos de riesgo.
-- **Hang Seng** — Caída anómala de -3,3σ con RSI 27 en la tabla (fechada el 22); verificar si es dato desfasado o rebote técnico.
-- **Energía (XLE)** — En máximos de 52 semanas y +2σ hoy; vigilar si el sector converge hacia el Brent.
+- **Nasdaq 100** — Reacción al desplome de Meta tras el cierre y a los resultados de megacaps la próxima semana.
+- **Brent** — Rechazo de 115-117 $; clave para inflación, tipos y energía.
+- **Oro** — Mínimos de varios meses; sensible a la Fed y al dólar.
+- **Hang Seng** — Sobreventa extrema (RSI 27, -3,3σ) y rebote potencial.
+- **Energía (XLE)** — Máximos de 52 semanas; riesgo de corrección si el petróleo retrocede.
 - **Shanghái Compuesto** — en mínimos de 52 semanas, sobreventa (RSI 25)
+- **Bono EE. UU. 10a (%)** — cruza al alza su media de 50 sesiones
 - **EUR/USD** — en mínimos de 52 semanas
+- **Índice dólar** — en máximos de 52 semanas
 - **Financieras (XLF)** — cruza a la baja su media de 50 sesiones
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — en máximos de 52 semanas
@@ -89,12 +85,16 @@
 
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
-Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 2.
+Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 6.
 
 | Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |
 |---|---|--:|--:|--:|
-| EFX | 2026-10-21 | 1/40 | +nan% | +nan% |
-| HAS | 2026-10-21 | 1/40 | +nan% | +nan% |
+| ALLE | 2026-10-23 | 0/40 | +0.0% | +0.0% |
+| BX | 2026-10-23 | 0/40 | +0.0% | +0.0% |
+| NDAQ | 2026-10-23 | 0/40 | +0.0% | +0.0% |
+| ROP | 2026-10-23 | 0/40 | +0.0% | +0.0% |
+| EFX | 2026-10-21 | 2/40 | +3.9% | -1.7% |
+| HAS | 2026-10-21 | 2/40 | +3.0% | -1.7% |
 
 ## 📈 Tendencias (6 meses)
 
@@ -114,17 +114,17 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 2.
 | Hang Seng | 22.935 | 🔴▼ -3.0% | 🔴▼ -5.7% | 🔴▼ -8.4% | 🔴▼ -9.0% | 27 | ↘️ bajista | movimiento anómalo hoy (-3.3σ), sobreventa (RSI 27) |
 | Shanghái Compuesto | 3.658 | 🔴▼ -1.5% | 🔴▼ -1.3% | 🔴▼ -5.3% | 🔴▼ -2.8% | 25 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 25) |
 | Bono EE. UU. 10a (%) | 4.988 | ▲ +3 pb | ▼ -11 pb | ▼ -17 pb | ▲ +35 pb | 41 | ➡️ lateral | cruza al alza su media de 50 sesiones |
-| EUR/USD | 1.12 | 🔴▼ -0.3% | 🔴▼ -0.2% | 🔴▼ -1.6% | 🔴▼ -1.5% | 33 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.80 | 🔵▲ +0.2% | 🔴▼ -0.0% | 🔵▲ +0.5% | 🔵▲ +0.3% | 55 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 111.81 | 🔴▼ -1.2% | 🔵▲ +1.8% | 🔵▲ +4.9% | 🔵▲ +26.5% | 66 | ↗️ alcista | — |
-| Oro | 4.009 | 🔴▼ -1.3% | 🔴▼ -4.1% | 🔴▼ -6.7% | 🔴▼ -1.7% | 31 | ↘️ bajista | — |
-| Bitcoin | 81.250 | 🔴▼ -0.1% | 🔴▼ -0.9% | 🔴▼ -3.8% | 🔵▲ +3.7% | 46 | ➡️ lateral | — |
-| Ethereum | 2.393 | 🔵▲ +0.3% | 🔴▼ -0.7% | 🔴▼ -10.3% | 🔴▼ -4.9% | 40 | ➡️ lateral | — |
-| Solana | 103.46 | 🔴▼ -0.1% | 🔴▼ -0.5% | 🔴▼ -12.8% | 🔵▲ +10.5% | 39 | ➡️ lateral | — |
+| EUR/USD | 1.12 | 🔴▼ -0.3% | 🔴▼ -0.1% | 🔴▼ -1.6% | 🔴▼ -1.5% | 34 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 101.83 | 🔵▲ +0.2% | 🔴▼ -0.0% | 🔵▲ +0.5% | 🔵▲ +0.3% | 55 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 111.54 | 🔴▼ -1.4% | 🔵▲ +1.5% | 🔵▲ +4.6% | 🔵▲ +26.2% | 65 | ↗️ alcista | — |
+| Oro | 4.008 | 🔴▼ -1.3% | 🔴▼ -4.1% | 🔴▼ -6.8% | 🔴▼ -1.7% | 31 | ↘️ bajista | — |
+| Bitcoin | 81.373 | 🔵▲ +0.1% | 🔴▼ -0.8% | 🔴▼ -3.7% | 🔵▲ +3.9% | 46 | ➡️ lateral | — |
+| Ethereum | 2.400 | 🔵▲ +0.6% | 🔴▼ -0.3% | 🔴▼ -10.0% | 🔴▼ -4.6% | 40 | ➡️ lateral | — |
+| Solana | 103.88 | 🔵▲ +0.3% | 🔴▼ -0.1% | 🔴▼ -12.4% | 🔵▲ +10.9% | 40 | ➡️ lateral | — |
 | Semiconductores (SMH) | 527.20 | 🔵▲ +0.7% | 🔴▼ -2.3% | 🔴▼ -12.2% | 🔴▼ -3.9% | 33 | ➡️ lateral | — |
 | Financieras (XLF) | 55.90 | 🔴▼ -1.3% | 🔵▲ +0.7% | 🔵▲ +2.5% | 🔴▼ -1.7% | 55 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
 | Energía (XLE) | 69.33 | 🔵▲ +2.6% | 🔵▲ +1.6% | 🔵▲ +10.8% | 🔵▲ +18.8% | 69 | ↗️ alcista | en máximos de 52 semanas |
-| Tecnología (XLK) | 183.28 | 🔵▲ +0.5% | 🔴▼ -0.1% | 🔴▼ -5.9% | 🔵▲ +5.2% | 38 | ➡️ lateral | — |
+| Tecnología (XLK) | 183.23 | 🔵▲ +0.5% | 🔴▼ -0.1% | 🔴▼ -5.9% | 🔵▲ +5.1% | 38 | ➡️ lateral | — |
 | NVIDIA | 210.96 | 🔴▼ -0.6% | 🔴▼ -1.5% | 🔴▼ -6.1% | 🔵▲ +7.4% | 38 | ➡️ lateral | — |
 | Apple | 347.73 | 🔴▼ -0.1% | 🔵▲ +1.2% | 🔵▲ +3.5% | 🔵▲ +3.2% | 64 | ↗️ alcista | en máximos de 52 semanas |
 | Microsoft | 524.51 | 🔵▲ +0.7% | 🔴▼ -0.9% | 🔵▲ +5.3% | 🔵▲ +34.8% | 53 | ↗️ alcista | — |
