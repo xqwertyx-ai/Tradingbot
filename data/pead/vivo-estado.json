@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-23T00:00:49.849618+00:00",
- "sesion": "2026-10-22",
+ "generado": "2026-10-23T20:53:58.169009+00:00",
+ "sesion": "2026-10-23",
  "inicio": "2026-10-15",
  "resumen": {
-  "abiertas": 2,
+  "abiertas": 6,
   "cerradas": 0
  },
  "pendientes": [],
@@ -11,18 +11,50 @@
   {
    "ticker": "EFX",
    "entrada": "2026-10-21",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": 0.03867399329541499,
+   "spy": -0.016970929253491196,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
    "entrada": "2026-10-21",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": 0.03017546001233562,
+   "spy": -0.016970929253491196,
    "ra": 0.1086380551832475
+  },
+  {
+   "ticker": "ALLE",
+   "entrada": "2026-10-23",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.12199846250366275
+  },
+  {
+   "ticker": "BX",
+   "entrada": "2026-10-23",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.09559181653854698
+  },
+  {
+   "ticker": "NDAQ",
+   "entrada": "2026-10-23",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.08650805122745209
+  },
+  {
+   "ticker": "ROP",
+   "entrada": "2026-10-23",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.10907812761505897
   }
  ],
  "cerradas_recientes": []
