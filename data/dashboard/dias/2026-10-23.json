@@ -26,5 +26,19 @@
    "Fed to Hike Twice More in 2026 With US and ECB Policy Set to Diverge, says Bank of America"
   ],
   "coste_usd": 0.039
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-23T08:51:48+00:00",
+  "hora_madrid": "10:51",
+  "clima": "risk-off",
+  "resumen": "Asia cierra mixta (Nikkei -0,3%, Hang Seng +0,7%, Shanghái +0,9%) tras el desplome tecnológico/IA de Wall Street (NDX -2,9%, SMH -6%, ASML -6,9%). Lo nuevo desde la apertura de Europa: Volvo Cars -27% por la debilidad de China, expectativas de inflación del BCE al alza y el Brent cede un 3,6% tras rozar máximos de la guerra de Irán. Se mantiene la inquietud por inflación y Fed, con el rendimiento del bono 10a en 4,95% tras caer 19 pb.",
+  "titulares": [
+   "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+   "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
+   "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns"
+  ],
+  "coste_usd": 0.0381
  }
 ]
