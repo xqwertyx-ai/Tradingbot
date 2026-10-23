@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-23T00:52:08+00:00",
+  "hora_madrid": "02:52",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Asia el Nikkei cae un 4,3% (-2,5σ) tras una jornada de venta global liderada por la tecnología/IA en EE. UU. (Nasdaq 100 -2,9%) y con el petróleo cerca de máximos de la guerra de Irán. El IPC japonés de septiembre (2,1% subyacente) refuerza la subida del BOJ, lo que apunta a un yen más fuerte y pesa sobre la bolsa japonesa. Es una revisión de solo observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Japan core inflation in September surges to its highest this year at 2.1%",
+   "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+   "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%"
+  ],
+  "coste_usd": 0.0357
+ }
+]

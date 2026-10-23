@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-23T00:01:54.527140+00:00",
- "modo": "actualización",
- "evento": "manual",
+ "generado": "2026-10-23T00:52:08.307146+00:00",
+ "modo": "apertura Asia",
+ "evento": "asia-apertura",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -171,23 +171,25 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 64621.23828125,
-   "date": "2026-10-21",
-   "chg_1d": 0.008518342763544906,
-   "chg_5d": -0.046100576513080194,
-   "chg_1m": 0.010923115017286378,
-   "chg_3m": -0.033130589089426454,
-   "vol20_ann": 0.2874326797530616,
-   "ma50": 66287.0246875,
-   "ma200": 61341.1723828125,
-   "dist_ma50": -0.025129901577316205,
-   "dist_ma200": 0.053472500948752,
-   "rsi14": 42.15809686151361,
-   "from_high": -0.10702634771084452,
-   "from_low": 0.3313617934384283,
-   "z_1d": 0.5038574963950327,
+   "last": 61870.9609375,
+   "date": "2026-10-23",
+   "chg_1d": -0.04255996042322818,
+   "chg_5d": -0.039657751453142986,
+   "chg_1m": -0.035319948741936114,
+   "chg_3m": -0.03539320980891314,
+   "vol20_ann": 0.32066053120041504,
+   "ma50": 66210.77875,
+   "ma200": 61398.46283203125,
+   "dist_ma50": -0.06554548812794314,
+   "dist_ma200": 0.007695601545617992,
+   "rsi14": 33.879469802977425,
+   "from_high": -0.14503127101125657,
+   "from_low": 0.27469908820069056,
+   "z_1d": -2.5117451017870454,
    "trend": "lateral",
-   "flags": []
+   "flags": [
+    "movimiento anómalo hoy (-2.5σ)"
+   ]
   },
   {
    "ticker": "^HSI",
@@ -280,21 +282,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.1224603652954102,
+   "last": 1.1225864887237549,
    "date": "2026-10-23",
-   "chg_1d": -0.0008979936320229198,
-   "chg_5d": 0.0010213396953289156,
-   "chg_1m": -0.013817518514984695,
-   "chg_3m": -0.01273996879228756,
-   "vol20_ann": 0.04176519424436818,
-   "ma50": 1.1445004749298096,
-   "ma200": 1.157633912563324,
-   "dist_ma50": -0.019257405407150263,
-   "dist_ma200": -0.030383998677120383,
-   "rsi14": 36.37019470273396,
-   "from_high": -0.06598953351355785,
-   "from_low": 0.005769361413769047,
-   "z_1d": -0.3297629623679844,
+   "chg_1d": -0.0007857311644959841,
+   "chg_5d": 0.0011338178256148357,
+   "chg_1m": -0.013706707728801004,
+   "chg_3m": -0.012629036928986648,
+   "vol20_ann": 0.04175864191720653,
+   "ma50": 1.1445029973983765,
+   "ma200": 1.1576345431804658,
+   "dist_ma50": -0.019149367650797777,
+   "dist_ma200": -0.030275577610547444,
+   "rsi14": 36.52807545814765,
+   "from_high": -0.065884584950753,
+   "from_low": 0.005882373047772171,
+   "z_1d": -0.288537721414965,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -308,25 +310,23 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.5780029296875,
+   "last": 101.50399780273438,
    "date": "2026-10-22",
-   "chg_1d": -0.001984632069483405,
-   "chg_5d": -0.00413722617953427,
-   "chg_1m": 0.004728036229286081,
-   "chg_3m": 0.0010643708257129791,
-   "vol20_ann": 0.04899501509988959,
-   "ma50": 100.50295989990235,
-   "ma200": 99.53964012145997,
-   "dist_ma50": 0.010696630535616647,
-   "dist_ma200": 0.020477900118387904,
-   "rsi14": 51.537465964281246,
-   "from_high": -0.009767975077807467,
-   "from_low": 0.0556849058512745,
-   "z_1d": -0.6239074200559322,
+   "chg_1d": -0.0027117408122688813,
+   "chg_5d": -0.004862766639859073,
+   "chg_1m": 0.003996036940759229,
+   "chg_3m": 0.0003350407176727632,
+   "vol20_ann": 0.049480068487513566,
+   "ma50": 100.50147979736329,
+   "ma200": 99.5392700958252,
+   "dist_ma50": 0.009975156658314166,
+   "dist_ma200": 0.019738216937071673,
+   "rsi14": 50.468196901695116,
+   "from_high": -0.010489413229807232,
+   "from_low": 0.054915781698143595,
+   "z_1d": -0.8524880959337954,
    "trend": "alcista",
-   "flags": [
-    "en máximos de 52 semanas"
-   ]
+   "flags": []
   },
   {
    "ticker": "BZ=F",
@@ -336,21 +336,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 113.2300033569336,
+   "last": 112.94999694824219,
    "date": "2026-10-22",
-   "chg_1d": 0.0405256724359202,
-   "chg_5d": 0.06901440062648634,
-   "chg_1m": 0.09846722298777677,
-   "chg_3m": 0.16997318438854636,
-   "vol20_ann": 0.29997770553539854,
-   "ma50": 100.2395994567871,
-   "ma200": 90.89039993286133,
-   "dist_ma50": 0.12959353359893067,
-   "dist_ma200": 0.24578617148317128,
-   "rsi14": 69.83717137976996,
-   "from_high": -0.043261471763407444,
-   "from_low": 0.9217584330580173,
-   "z_1d": 1.518861194328327,
+   "chg_1d": 0.03795255711266465,
+   "chg_5d": 0.06637083554404755,
+   "chg_1m": 0.09575082403824697,
+   "chg_3m": 0.1670799583891336,
+   "vol20_ann": 0.2958405432886923,
+   "ma50": 100.23399932861328,
+   "ma200": 90.88899990081786,
+   "dist_ma50": 0.12686311735342426,
+   "dist_ma200": 0.24272460992527445,
+   "rsi14": 69.46832994633603,
+   "from_high": -0.045627389907061944,
+   "from_low": 0.9170061177594233,
+   "z_1d": 1.422423435788869,
    "trend": "alcista",
    "flags": []
   },
@@ -362,24 +362,24 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4036.800048828125,
+   "last": 4032.199951171875,
    "date": "2026-10-22",
-   "chg_1d": -0.027277096667921663,
-   "chg_5d": -0.03196567125643923,
-   "chg_1m": -0.06520930434506322,
-   "chg_3m": -0.008352166550107953,
-   "vol20_ann": 0.1979292993779608,
-   "ma50": 4349.643979492187,
-   "ma200": 4535.053500976563,
-   "dist_ma50": -0.07192403151592786,
-   "dist_ma200": -0.10986716078236902,
-   "rsi14": 32.581395444570774,
-   "from_high": -0.24097470612370475,
-   "from_low": 0.019265256616115334,
-   "z_1d": -2.104524319355552,
+   "chg_1d": -0.02838555393448794,
+   "chg_5d": -0.033068785701782066,
+   "chg_1m": -0.06627453631993274,
+   "chg_3m": -0.00948218954339497,
+   "vol20_ann": 0.19975908152490007,
+   "ma50": 4349.551977539062,
+   "ma200": 4535.030500488281,
+   "dist_ma50": -0.07296200344448855,
+   "dist_ma200": -0.11087699393912942,
+   "rsi14": 32.30763064921493,
+   "from_high": -0.24183964628253385,
+   "from_low": 0.018103762447134297,
+   "z_1d": -2.1900457112710816,
    "trend": "bajista",
    "flags": [
-    "movimiento anómalo hoy (-2.1σ)"
+    "movimiento anómalo hoy (-2.2σ)"
    ]
   },
   {
@@ -390,21 +390,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 81251.5625,
+   "last": 81395.21875,
    "date": "2026-10-23",
-   "chg_1d": -0.03285729749072208,
-   "chg_5d": -0.0016046017462943984,
-   "chg_1m": -0.04244440092560697,
-   "chg_3m": 0.11253586655731218,
-   "vol20_ann": 0.24305611569181743,
-   "ma50": 81781.0875,
-   "ma200": 72795.2159375,
-   "dist_ma50": -0.006474907783538542,
-   "dist_ma200": 0.11616624050899693,
-   "rsi14": 45.821105710516754,
-   "from_high": -0.29020855387346556,
-   "from_low": 0.38751955497767065,
-   "z_1d": -1.8064039875393714,
+   "chg_1d": -0.031147347680743454,
+   "chg_5d": 0.00016060417119656556,
+   "chg_1m": -0.04075140152600121,
+   "chg_3m": 0.11450287772192969,
+   "vol20_ann": 0.24022158456162146,
+   "ma50": 81783.960625,
+   "ma200": 72795.93421875,
+   "dist_ma50": -0.004753277684636514,
+   "dist_ma200": 0.11812863758859615,
+   "rsi14": 46.28239298398475,
+   "from_high": -0.2889536121308669,
+   "from_low": 0.3899727491063345,
+   "z_1d": -1.7123956426318272,
    "trend": "lateral",
    "flags": [
     "cruza a la baja su media de 50 sesiones"
@@ -418,21 +418,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2385.02001953125,
+   "last": 2391.659912109375,
    "date": "2026-10-23",
-   "chg_1d": -0.034704253587210965,
-   "chg_5d": -0.006158454224428955,
-   "chg_1m": -0.11846708320248911,
-   "chg_3m": 0.025204452321324178,
-   "vol20_ann": 0.32997865645499563,
-   "ma50": 2550.8763623046875,
-   "ma200": 2154.657359008789,
-   "dist_ma50": -0.06501935774871825,
-   "dist_ma200": 0.1069138253278632,
-   "rsi14": 38.64137846311848,
-   "from_high": -0.42640062981163196,
-   "from_low": 0.5241530175026434,
-   "z_1d": -1.6466219057956129,
+   "chg_1d": -0.03201687150663546,
+   "chg_5d": -0.003391600676204032,
+   "chg_1m": -0.11601289672871395,
+   "chg_3m": 0.02805862015986782,
+   "vol20_ann": 0.3269355170699186,
+   "ma50": 2551.00916015625,
+   "ma200": 2154.6905584716797,
+   "dist_ma50": -0.06246518065702078,
+   "dist_ma200": 0.10997836914725134,
+   "rsi14": 39.122890443929606,
+   "from_high": -0.4248037299241083,
+   "from_low": 0.5283962574863612,
+   "z_1d": -1.5191129768973715,
    "trend": "lateral",
    "flags": []
   },
@@ -444,21 +444,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 103.55000305175781,
+   "last": 103.86000061035156,
    "date": "2026-10-23",
-   "chg_1d": -0.030373080982547207,
-   "chg_5d": 0.002305023604466827,
-   "chg_1m": -0.12540622116371025,
-   "chg_3m": 0.18157940075124834,
-   "vol20_ann": 0.35461207519986016,
-   "ma50": 109.64602569580079,
-   "ma200": 88.07237537384033,
-   "dist_ma50": -0.05559729689569992,
-   "dist_ma200": 0.1757375977679685,
-   "rsi14": 39.61323205989691,
-   "from_high": -0.4823240783713513,
-   "from_low": 0.6650639857829546,
-   "z_1d": -0.9874907088332,
+   "chg_1d": -0.0274703096760901,
+   "chg_5d": 0.005305623325630782,
+   "chg_1m": -0.12278795049050695,
+   "chg_3m": 0.18511669402717867,
+   "vol20_ann": 0.3521642573927678,
+   "ma50": 109.65222564697265,
+   "ma200": 88.0739253616333,
+   "dist_ma50": -0.05282359753708299,
+   "dist_ma200": 0.17923664902978187,
+   "rsi14": 40.09376754026441,
+   "from_high": -0.48077431239242185,
+   "from_low": 0.6700486864616895,
+   "z_1d": -0.89311570299691,
    "trend": "lateral",
    "flags": []
   },
@@ -781,6 +781,33 @@
  ],
  "titulares": [
   {
+   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T00:38:46+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T00:38:42+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm5scmxkRXhqUF9Zc3MyejlBS1B2dFNBOVAyRmlXNkNiQ3lPQWM4TUpTUTlYblhmXzZCdHNzaFBUd3doMmZGdUxLdHRQbmlaMDlkbFhvc2x0ZFVhY1o1c21fUlFkeDluMWhZSWtpeERzalA1aGl0VDVURFprdXYxUlE2c19fMzZUTVg5YkFaRTVPZjRyT0w2S2ZQV256NVVkbEE?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-23T00:20:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXhvQ0E5MTVrZnNzVU5fZk1NcU90OVFoRkZkSV94eWgwd3BGSUstSEEtN3I5d0VQX0tsT3BTU0stY0ZzS0EyZU1EckJiQ3Fna05yVzFhbkpOdlBhWE1ma05jMHFxZTlZaTNySmRLTkgyWUFkeWZXSUVzNW9lOW5ubm5NVTAxMVRuT0pHMUc1eFRoMTU5R3VDYkRiSUpMMW1EUWh1eQ?oc=5",
    "source": "WSJ",
@@ -800,20 +827,29 @@
   },
   {
    "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFNlTGc0TGJVaWQxSVFaSzhDazF4WHFhWHBLZ0hrX2NnWGpiYU1MYjZ0ZjJsYUU0SV9fRzVXWHJDby1VZy1vMFU2cUoyb1l3VkI1MVlaZXZCd0tzSFhGLU55cmt0ZnNPSnhka0RpS1UybU5PY3VWdGtmbi0wdUlqbHJLdU7SAYoBQVVfeXFMTW1kam8yWHpZU0lZYkNfYnI5QWwyd2k1a1RXV0RaaXNEemZhckM2T3FCYXlPaXRhS1J1LVJwSzhjT2lvMGxheVdtdVk1aWN4WDhOMjN0VFd2dllpVHJpMmpJU05iUkNBdlpzVER3N0Nob2JzUHhHZlpHWGVLTmswVllYNkF0Zkw5clJR?oc=5",
    "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-22T23:43:51+00:00",
+   "feed": "Google News · markets",
+   "published": "2026-10-22T23:37:13+00:00",
    "category": "macro",
    "score": 3
   },
   {
-   "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5",
+   "title": "Japan Inflation Rises Above BOJ Target Level, Backing Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFdHdzVxZmc2cnRIRlVtcWNkZ1c5cUlsWFZEQkU3YnA3bVh5b3R6bXRsNzI3bTltUnJyUmdOYUdEekZxT0VkMF9kdGxKUFN5UUdxMU9saG5Kb05pTXo4QnFOU0dmdzlVWEdoaFVSRVI0ZVhCOHplSTN2RXJ3aEsxSjlxdU1jR1F3QURzeE4zNnpGSGFocUVzRkZMbXhBaXdzWHM2LWdrb2owN0xQbkJrZ251YlE?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-22T23:32:16+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmY4bFlVY09zSkdQc0ItXzJqT2pmcFBSUkpwVVd6aUNuTU1waDNUcHY3UHJfYkRNby1kOTBPWHdEcklJLXlHVWpfMThubmtmU3JGZjNPWFdjNHJXZ29vVzJ6Z2tienRzc2d6V3pyVFNGQzdFZVphWTRNazZiRVRMeWpoSTE5ZEJ1aVRRUTZ6eC1XSE1scE9RNUx6MnhMbUxHRTc4ek9hOWlqTldkRlpxTzcxYjJQQQ?oc=5",
    "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-10-22T23:08:42+00:00",
-   "category": "macro",
+   "published": "2026-10-22T23:18:58+00:00",
+   "category": "geopolítica",
    "score": 3
   },
   {
@@ -832,6 +868,15 @@
    "feed": "Google News · markets",
    "published": "2026-10-22T22:17:08+00:00",
    "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Bank of England Governor Says Too Early to Make Call on Second-Round Inflation",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdrN3A1QTljaWt2QUhlR0l6RkljY3JiX3RUU2tLOEF4cDBOSXRqT1BOOWxvNmJlNmQ3bEh4YkdPS28waDZOT3FiNi10TTY1U2REX3c1RjJWMjRhTXhjY0NZckx3QXBIdkpsNXJQSElDYWsxWElXdW96dEZibUZOMDRJMm1FTmZWQVNsWnBqLWptT2RDT19VZ3JKNzdYd0REbWZOaTVqTEdlaVRaM2JpLXhVVWszb1ozVjFTQXlnR3J4SXc0NWc?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-22T21:56:11+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -961,6 +1006,15 @@
    "score": 3
   },
   {
+   "title": "Oregon irrigated cropland rents not keeping pace with inflation",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVpDckRqWUJfNGZIdjhBTUpoNmtCUkNEclRHR05JYUJzNjFLWDkzREZNY1JjY2ZUVTlab2VPTlY4LTVsX2xTakktUTRJdjZDa1M3cUN0WlhIVkRORkFqU0JNMVZKWEdUbW0wQXVMMlkzMTRSU2l6VWtYMC1tMXNRRDFVWkhtaWpVRS05VzkxU3hlZmJzZVN4RW5hRXEtQkxMQVE?oc=5",
+   "source": "Capital Press",
+   "feed": "Google News · markets",
+   "published": "2026-10-22T18:58:51+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "3 of Wall Street’s favorite stocks with warning signs",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHJ4ZzBMT1NlMkVoMjAzbHRNamQ2YjlXcEJQU2dZZmlYVDBrMndoY2RSQ2hsZ083WG1na282ZnJISHBDUU1LMi1rM3NuSmI4R0tNSkE2MjhnczNYSUVrWXl2bUh5VFZUX3h6eUg2aXBTckEwcEJZTEJabzBhSWNsWGpPZHZZb1k4c1hQQ25NNHVvMEdUaVVtNUlR?oc=5",
    "source": "Yahoo Finance",
@@ -970,20 +1024,11 @@
    "score": 3
   },
   {
-   "title": "Oregon irrigated cropland rents not keeping pace with inflation",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVpDckRqWUJfNGZIdjhBTUpoNmtCUkNEclRHR05JYUJzNjFLWDkzREZNY1JjY2ZUVTlab2VPTlY4LTVsX2xTakktUTRJdjZDa1M3cUN0WlhIVkRORkFqU0JNMVZKWEdUbW0wQXVMMlkzMTRSU2l6VWtYMC1tMXNRRDFVWkhtaWpVRS05VzkxU3hlZmJzZVN4RW5hRXEtQkxMQVE?oc=5",
-   "source": "Capital Press",
-   "feed": "Google News · markets",
-   "published": "2026-10-22T18:34:29+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORUItR05OSU1QNjA3dzU1SXJ3N2ZhRldQeF8xaVNOVXlRVDhaZnU4TUFjYnowU0RhSkR5VTNvck5LdF9pU2R4T3lzQ2NDY3Z6dXBpTFR4bmtuUlZBbVFZZi1JVGJZRU1JZGh3emVzTEhMbE9qVzFIUFBFYzNzbG9sQ1BjQXlsSThiY1ZMVkk5REo5MWxWbUJQZWphVnZrVW5IWk5rcnVRNmEzZkhqbjhUVzUwSlRudEJfWHRyMnBYUnFPSEtwOE1ia0psNA?oc=5",
    "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-10-22T18:34:00+00:00",
+   "published": "2026-10-22T18:34:45+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1078,29 +1123,11 @@
    "score": 3
   },
   {
-   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-22T15:07:59+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2dySUtTcDJmOXEtWlQyVUZYV0p0YjRIekJITVZ0X0xKWi15d19YNjN2OThaUVVTekxnM2xXdjh6MGg0T2pyTHY4VjdSbzFSVHdkWERVTDA1RTNtbDl4TVVBZVpVT09JdHZRNVdEd1UwSTJPTGpXQ1BvRHdBN0xYcDByU2Y3NHFj0gGOAUFVX3lxTE9Uc2lXY1MwdzFvczlIRHB0VW8zS3E3MGgzQnJTYjltZkhXZjdvblI4Q0JXdVV4UkNYRGllcTNqMG9qMWQyU3FhZFFJNnNjOWdZSm9idjRrVW5xZDFqYnU2VjltUGYxZ0JUUl8xVFYwWFEtTm5DaktCNWh0VTg0Zk1VSnJ6RXZLRlFSSTN6aFE?oc=5",
    "source": "CNBC",
    "feed": "Google News · markets",
    "published": "2026-10-22T14:55:52+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Blackstone Profit Drops 9.2% as Rates, Inflation Curb Dealmaking",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVFVX29IVVF0cGRMNUpGNW9fZzVpMlN3dGwxaG14T0xWUjk1SWQtR0I0WmtyTzBIS0dVTERxXzNsY1BsTDM0ZVRYbndFbElpMTFUcFRKRElQeHpqUEtRVXNIUVhTdVoxYWJfM2N6VS03bkNOVWFXV0RiLVlsNVFkcC1mX0dwRjcxc0hhZEJkZi1wSGtzVmd2UWxzWDhtRzJTMFBlSGE1Z2ZvN2xkZG5LRmp4bw?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-22T14:48:37+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1148,6 +1175,15 @@
    "published": "2026-10-22T09:54:26+00:00",
    "category": "macro",
    "score": 3
+  },
+  {
+   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+   "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-23T00:46:09+00:00",
+   "category": "otras",
+   "score": 2
   },
   {
    "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
@@ -1213,11 +1249,38 @@
    "score": 2
   },
   {
+   "title": "Trump Humiliated in Bombshell Crypto Lawsuit",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yLVE5ZUVVZExOM1U5RE5jVnlfakZsMUtoeUxubGRIRTREd01yZ2RLTXVzWXhOVnh0b3dlWThXTHJxbTNQUFU2V05nQlV2eWZEbzM0X1NRYlNKVnNkZ2JnMXcyTW1BZDFaYmk3NUZzYUFubDlNVm9ySDJxcEtkZVU?oc=5",
+   "source": "The Daily Beast",
+   "feed": "Google News · crypto",
+   "published": "2026-10-23T00:14:00+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Los bonos de los hiperescaladores presionan la deuda pÃºblica de EEUU",
+   "link": "https://www.expansion.com/mercados/renta-fija/2026/10/23/6ada4590e5fdead57e8b458f.html",
+   "source": "Expansión",
+   "feed": "Expansión",
+   "published": "2026-10-23T02:04:25+02:00",
+   "category": "macro",
+   "score": 1
+  },
+  {
    "title": "Next Crypto to Explode After Thailand’s Bitcoin ETF Rule Change: Remittix, Solana or Cardano?",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOHNxMkdPVTY4dHpaX1Y2YW42NGRVR1NOckRVeUwxQVhTcENybzJSQnl2eFdfVmhCZmdIM0NyV0pNU1lMNTlNU3VMWDJmdDlNMkN4aFJRYVhTbkZqbUtfMVdENTNmeTVjdW5XWmZxVXZSSDk5WEl6N296UkdQRzc1Zmp4YmlSZDNaMmVBUk1oMTA0eGdfU3l5d3pBdlB3a3lSeVJNSWVtV3ZFZU9DVVhjVXBqWGwyVElrWnNELUJzRDlucXUxa0w0VmZ5NmtJd3pCWGhoMENiMlJwYUhrc28wbS1kRm1oY1d4TTJhSXU1Z3BBMFg2anNB?oc=5",
    "source": "StreetInsider",
    "feed": "Google News · crypto",
    "published": "2026-10-22T23:56:10+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Venture giant drops “crypto” from its $9.8 billion blockchain fund",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUh1cmljemtMb05GU3BRamI4NktBbkRUT3RPT0ZkVFdNUTNmeVpCWW03OVAxemItWFFhY1hlUTN5dG9jbjJnZ05aMTJUUWdJajI5WS0wMUo4dW1Zc0MtQlJKeWZNSkE2emtOYjhBNjFKaDZoQmo5U3p1eTYyam5xVk1SVV9KWmx5bUE2X0M0YWliSFR0RVRIRA?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-22T23:55:38+00:00",
    "category": "cripto",
    "score": 1
   },
@@ -1256,161 +1319,98 @@
    "published": "2026-10-22T23:33:55+00:00",
    "category": "cripto",
    "score": 1
-  },
-  {
-   "title": "ETH price range on Oct 22, 2026 at 8pm EDT Crypto Prediction Market",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWUwT0lid0N1THFTZkUxZWhMRi1zOW1nSnctLUVrRmNIdEhjSmRUS2ZPQ0ZHNHMzaUlrWlcyM2cyUFVnNTQ2NWVzQlQ4ZVF4RnJ1aHFaQVNrWXBnQk5aZlprZWpEWktDQlBmZi1jMHlkU1pxQnF1Q0NpRThHdC1sbEp6UkgtLUpSZzA2TmQxWTdrOVlkYTlpTGtsSWhxbGlZbnJFZWZoQWZPS09MMTNBUGhDaFQ1dw?oc=5",
-   "source": "Robinhood",
-   "feed": "Google News · crypto",
-   "published": "2026-10-22T23:29:13+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "ETH price on Oct 22, 2026 at 8pm EDT Crypto Prediction Market",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHFZVFhZUUVPTEcyY1E0M244eUo5blkxLUg2ZDVOMnhQN3ZFczktbFF0QmxwRGtvMFBxUHFnTFJUZnJKUk1pcjVTa1dNdmtVZGpDc25wOEtTNnRoa3VaTTF0bDZQX2ZqWWoydjlOVU1FeFNRNXJyZmM5cFhBaDVvQjJoYnNnRnl6TEstY0FRdlhZeVZSd1VJTk9JeWRPY1huTnhKVFc1bkQ2NE53Z3c?oc=5",
-   "source": "Robinhood",
-   "feed": "Google News · crypto",
-   "published": "2026-10-22T23:23:12+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trading",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGg0TXdSS1FmSzB4TWtIa0xLTFZ0SXRUU3FleTZxZ3VJanZKc3FENUxaSlNsSzJOM2JjUVZuanlBSjJhME9BWm1vZHhOUEFvbzd5NEc5bDVEVy0yRXRlWnYxZ0lWVE5tNWkyVXdDY2FVNU10cVVEMi1sODlkbEptM2x0ZTNYc1BNalJVTHI2UWp1MzFJd1R0Vy0yTEtWakNuYnc?oc=5",
-   "source": "DL News",
-   "feed": "Google News · crypto",
-   "published": "2026-10-22T23:20:00+00:00",
-   "category": "geopolítica",
-   "score": 1
-  },
-  {
-   "title": "La institucionalizaciÃ³n de las criptos",
-   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/23/6ad2528be5fdea1c7a8b4591.html",
-   "source": "Expansión",
-   "feed": "Expansión",
-   "published": "2026-10-23T01:04:23+02:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Stocks drop as Meta fans AI worries, Treasuries gain",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnQ4VEhqZXhldEptVmh5QVhUUHB5cVVKOExqYjUxZlYxdWVPQS1Kc0pFWTM2cTJSSzRNZVdMcGJWeG1sUWRCc29YemNEQkxVM1RVMDU0Rnp6dE9STGR2dUR3MGtGMUo2TTNoMEJKcDV5OFVCbDRuZXBQQWRZT01hZ2MxY2pQbW1hZGFuWUV1RUVHX2l1S2ZJ?oc=5",
-   "source": "Euronext Markets: Real-time Stock Market Data | live",
-   "feed": "Google News · markets",
-   "published": "2026-10-22T23:03:23+00:00",
-   "category": "macro",
-   "score": 1
-  },
-  {
-   "title": "Crypto Brief",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmxaQklXSGRfbkVZaTk0TV9ScTRVNWFRUmdvd0pmcG1GamZITmJlT0NRTDRJTzdhZjBsblZvZUNYcDF1V09JWHFjaF8tVDl6MmJPZG14NVgyNzVZdGRyTmVVRzh4UGNkS0dnaFg0QmxzOUNob0N6VkNfbmRhMW53WlQ1bzlRT2JV?oc=5",
-   "source": "Lowenstein Sandler LLP",
-   "feed": "Google News · crypto",
-   "published": "2026-10-22T22:55:55+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGxaUlpKOWZLdHc2YWVuMEJxc0FieDd4cDVWX0sweDJQUzhnQ2Y4Mng1MkdtaW15UE4tMXZxWDR3OW5HWUVpZ1RKQzZYdHVTUDJJcXl4MVRoc1BvTERtZXExOW82MEktblNtdnprbTNOa2FKelJIMV9qUTZnZ1ZQVmsyMVNST0J0XzZQbFEwTlZpM09VckljRWpsZnZWcjZTUGlZVFRtNFlLVEQySFZ0bWtqVTV0Zw?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · crypto",
-   "published": "2026-10-22T22:51:57+00:00",
-   "category": "resultados",
-   "score": 1
   }
  ],
  "analisis": {
-  "resumen": "Con el cierre de EE. UU. y la apertura de Asia, la jornada acaba en risk-off: el Nasdaq 100 cae un 2,9% (-2,5σ) por el temor al gasto en IA tras los resultados de Meta y Tesla, y el crudo sube un 4,1% hacia máximos de la guerra de Irán. El rendimiento del bono a 10 años baja 19 pb (-4,1σ), lo que apunta a un movimiento de refugio. Lo nuevo al abrir Asia es la inflación subyacente de Japón en el 2,1%, que refuerza la posibilidad de una subida del BOJ.",
+  "resumen": "En la apertura de Asia el Nikkei cae un 4,3% (-2,5σ) tras una jornada de venta global liderada por la tecnología/IA en EE. UU. (Nasdaq 100 -2,9%) y con el petróleo cerca de máximos de la guerra de Irán. El IPC japonés de septiembre (2,1% subyacente) refuerza la subida del BOJ, lo que apunta a un yen más fuerte y pesa sobre la bolsa japonesa. Es una revisión de solo observación, sin hipótesis nuevas.",
   "resumen_dia": "",
   "clima": "risk-off",
   "noticias": [
    {
-    "id": 28,
-    "categoria": "sectorial",
+    "id": 5,
+    "categoria": "macro",
     "rumor": false,
-    "novedad": "Sorpresa parcial: una advertencia de suministro agrava la corrección de la IA, aunque los semis ya venían cayendo un 8% en un mes.",
-    "impacto": "SMH, NVDA, ASML y el Nasdaq 100 a la baja por el temor a que el gasto en IA no dé retorno; el riesgo de gap sigue abierto en Europa y Asia.",
+    "novedad": "Sorpresa al alza: el IPC subyacente japonés llega al 2,1%, su máximo del año, y consolida la subida del BOJ.",
+    "impacto": "Un BOJ más restrictivo favorece al yen y presiona al Nikkei 225 (^N225), con exportadores y valores de crecimiento a la baja.",
     "importancia": 4
    },
    {
-    "id": 26,
-    "categoria": "resultados",
-    "rumor": false,
-    "novedad": "Sorpresa negativa: caída del 7% por resultados y una multa de 22.300 M.",
-    "impacto": "Meta y las megacaps tecnológicas caen por las dudas sobre el capex en IA; arrastra al Nasdaq 100 y a XLK.",
-    "importancia": 4
-   },
-   {
-    "id": 13,
+    "id": 18,
     "categoria": "geopolítica",
     "rumor": false,
-    "novedad": "Parcialmente descontada: el Brent ya sube un 6,9% en 5 días, pero las tarifas de petroleros añaden una segunda ola.",
-    "impacto": "Brent al alza y XLE sostenido; el crudo alimenta la inflación y presiona a los activos de riesgo y a los importadores de energía.",
+    "novedad": "Parcialmente descontada: el Brent ya sube un 3,8% en un día y un 9,6% en un mes, y las tarifas de petroleros reavivan la presión.",
+    "impacto": "Brent (BZ=F) y XLE al alza; presión inflacionista sobre tipos y márgenes de sectores consumidores de energía, especialmente en Asia y Europa.",
     "importancia": 5
    },
    {
-    "id": 7,
-    "categoria": "política/regulación",
+    "id": 33,
+    "categoria": "sectorial",
     "rumor": false,
-    "novedad": "Sorpresa: invocar la Ley de Producción de Defensa para petróleo y refino es una medida de oferta poco habitual.",
-    "impacto": "Podría limitar la subida del Brent a medio plazo, pero señala que el Gobierno ve el crudo como un problema. Dirección neta ambigua a corto plazo.",
+    "novedad": "Sorpresa negativa: la advertencia de suministro intensifica la venta de chips con caídas del 7-8% en AMD, Marvell e Intel.",
+    "impacto": "SMH, NVDA y ASML bajo presión; arrastra al Nasdaq 100 y a los semiconductores asiáticos que abren hoy.",
+    "importancia": 4
+   },
+   {
+    "id": 31,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Sorpresa: Meta cae un 7% por los resultados y una multa de 22.300 millones.",
+    "impacto": "Alimenta la ansiedad por el gasto en IA y pesa sobre los grandes valores tecnológicos y el Nasdaq 100.",
     "importancia": 3
    },
    {
-    "id": 2,
-    "categoria": "macro",
+    "id": 12,
+    "categoria": "política/regulación",
     "rumor": false,
-    "novedad": "Sorpresa moderada al alza: el 2,1% es el máximo del año y supera el objetivo del BOJ.",
-    "impacto": "Más probabilidad de subida del BOJ: yen al alza, presión sobre el Nikkei y sobre los carry trades, lo que alimenta la aversión al riesgo en Asia.",
-    "importancia": 4
+    "novedad": "Novedad: Trump invoca la Ley de Producción de Defensa para la producción y el refino de petróleo.",
+    "impacto": "Busca aumentar la oferta de crudo a medio plazo, lo que podría limitar el alza del Brent, aunque el efecto inmediato es incierto.",
+    "importancia": 3
    },
    {
-    "id": 23,
-    "categoria": "macro",
+    "id": 59,
+    "categoria": "cripto",
     "rumor": false,
-    "novedad": "Los inversores reducen las apuestas de subida de la Fed: el bono a 10 años cae 19 pb (-4,1σ), movimiento anómalo.",
-    "impacto": "Los rendimientos a la baja indican huida a la calidad más que relajación; dólar y oro no responden como se esperaría (oro -2,7%).",
-    "importancia": 4
+    "novedad": "Continuación de la venta generalizada; Bitcoin cae un 3-4% hasta unos 81.000 $ y cruza a la baja su media de 50 sesiones.",
+    "impacto": "BTC, ETH y SOL se mueven como activos de riesgo; la venta de tecnología reduce el apetito por cripto.",
+    "importancia": 3
    }
   ],
   "divergencias": [
-   "El oro cae un 2,7% (-2,1σ) con el 10 años 19 pb más bajo y el dólar casi plano: no es la reacción habitual, y apunta a liquidación forzada o a un temor inflacionario por el petróleo.",
-   "El Brent sube un 4,1% y el rendimiento del bono baja con fuerza: un shock de oferta que sube la inflación pero baja los tipos refleja miedo a crecimiento más que reflación.",
-   "El dato de cierre de Europa en la tabla es del 21-oct, pero los titulares del 22 hablan de un Ibex con caídas de hasta el 2% y de un batacazo bancario (Bankinter -7,5%). El precio de la tabla está desfasado y el gap en Europa no está reflejado.",
-   "El Russell 2000 sube un 0,1% mientras el Nasdaq 100 cae un 2,9%: la rotación fuera de la gran tecnología amortigua el S&P 500 (-1,2%)."
+   "El oro cae un 2,8% pese al aumento de los riesgos inflacionistas y geopolíticos y a la caída del rendimiento del bono a 10 años (-0,19 pb), lo que sugiere liquidación forzada o un dólar más firme en otros cruces, no refugio.",
+   "El rendimiento del bono a 10 años cae con fuerza (-4,1σ) en un día de petróleo al alza, lo que apunta a que domina la huida hacia la calidad y la reducción de apuestas de subida de la Fed sobre el miedo a la inflación.",
+   "El Brent al alza y el dólar a la baja (-0,3%) contrastan con el EUR/USD plano (-0,1%) y en mínimos de 52 semanas.",
+   "Europa cerró el 21-oct con subidas (+1,2-1,4%) antes de la caída de EE. UU., por lo que el próximo cierre europeo podría descontar un fuerte ajuste."
   ],
   "hipotesis": [],
   "vigilar": [
    {
     "ticker": "^N225",
-    "motivo": "Reacción en la apertura de Asia al dato de inflación de Japón y a un yen más fuerte, tras un -4,6% en 5 días."
-   },
-   {
-    "ticker": "SMH",
-    "motivo": "Si el castigo de los semis se estabiliza tras la caída del 8% en un mes, o si se extiende a Asia y Europa (ASML)."
+    "motivo": "Caída anómala de -2,5σ con subida del BOJ en perspectiva; ver si hay rebote o continuación."
    },
    {
     "ticker": "BZ=F",
-    "motivo": "Brent cerca de máximos de la guerra; vigilar el efecto de la medida de la Ley de Producción de Defensa."
+    "motivo": "Cerca de máximos de la guerra; vigilar el efecto de la Ley de Producción de Defensa y las tarifas de petroleros."
+   },
+   {
+    "ticker": "SMH",
+    "motivo": "Venta de semiconductores por advertencia de suministro; hipótesis abierta sensible a continuación."
    },
    {
     "ticker": "GC=F",
-    "motivo": "Caída anómala del oro sin catalizador claro; vigilar si continúa o si es solo liquidación."
+    "motivo": "Caída anómala del oro con tipos a la baja; hipótesis abierta pendiente de confirmación."
    },
    {
-    "ticker": "BTC-USD",
-    "motivo": "Pierde su media de 50 sesiones y cae bajo los 82.000 dólares, en sintonía con la corrección tecnológica."
+    "ticker": "000001.SS",
+    "motivo": "En mínimos de 52 semanas; hipótesis abierta de rebote sujeta a riesgo de gap."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Revisión de actualización: solo observación, sin hipótesis nuevas.",
+  "decision_motivo": "Revisión de apertura de Asia: solo observación, sin hipótesis nuevas.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 8496,
-   "tokens_salida": 2458,
-   "coste_usd": 0.0416
+   "tokens_entrada": 8511,
+   "tokens_salida": 1866,
+   "coste_usd": 0.0357
   }
  },
  "calidad": {
