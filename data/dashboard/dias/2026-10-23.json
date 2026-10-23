@@ -68,5 +68,20 @@
    "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries"
   ],
   "coste_usd": 0.0423
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-23T20:18:52+00:00",
+  "hora_madrid": "22:18",
+  "clima": "mixto",
+  "resumen": "Wall Street cierra con sesgo ligeramente bajista y señales mixtas: S&P 500 -0,5%, Nasdaq 100 plano, Russell -0,3%. La energía lidera (XLE +2,6%, en máximos de 52 semanas), mientras el oro (-1,3%) y las financieras (-1,3%) caen. Frente al cierre de Europa, el Brent pasa de tocar 115-117 $ a cerrar en 111,8 $ (-1,2%), el dólar sube y el bono a 10 años queda en torno al 5%. El foco pasa a la reunión de la Fed de la próxima semana y a la ola de resultados.",
+  "titulares": [
+   "Oil hits $115 with stocks mixed on earnings, AI",
+   "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+   "US Consumer Sentiment Slips to Five-Month Low on Inflation"
+  ],
+  "coste_usd": 0.0851,
+  "resumen_dia": "Asia abrió con fuerte venta (Nikkei -4,3%, -2,5σ) tras el desplome tecnológico/IA de EE. UU. del día anterior (NDX -2,9%) y con el IPC japonés reforzando la subida del BOJ. Después Asia recuperó parte del terreno y cerró mixta según las revisiones previas, aunque la tabla trae cierres de Nikkei, Hang Seng y Shanghái fechados el 22 con caídas notables. Europa cerró con ligeras caídas (Euro Stoxx -0,3%, DAX -0,7%) lastrada por China (Volvo Cars), la tensión política en Francia y el petróleo; el IBEX resistió (+0,4%). En EE. UU. el petróleo cerca de máximos de la guerra de Irán, el bono a 10 años en torno al 5% y las expectativas de inflación al alza dominaron el tono: la energía subió con fuerza y el oro, las financieras y el S&P cedieron. Los mercados esperan la Fed de la próxima semana, con apuestas de subida de tipos que presionan al oro."
  }
 ]
