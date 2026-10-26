@@ -26,5 +26,19 @@
    "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom"
   ],
   "coste_usd": 0.0421
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-26T09:52:16+00:00",
+  "hora_madrid": "10:52",
+  "clima": "mixto",
+  "resumen": "Cierre de Asia con sesgo bajista moderado: Nikkei -0,8% y Hang Seng +0,5% (aunque -4% en 5 días), con Shanghái +0,2%. Frente a la apertura de Europa, el IBEX sigue lastrado por Santander (-3,8%), y un titular nuevo lo atribuye a las elecciones de Brasil (Lula gana). Brent -6% desde máximos de seis meses, oro +0,6% y el foco sigue en la Fed, el BCE, el BOJ y las grandes tecnológicas.",
+  "titulares": [
+   "Telefónica y Santander se desangran en el Ibex tras los inesperados resultados de las elecciones en Brasil",
+   "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins",
+   "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them"
+  ],
+  "coste_usd": 0.0361
  }
 ]

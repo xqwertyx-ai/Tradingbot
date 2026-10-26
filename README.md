@@ -2,27 +2,27 @@
 
 # 📊 Radar de mercados
 
-**lunes 26 oct 2026 · revisión de apertura Europa · 09:51 (Madrid)**
+**lunes 26 oct 2026 · revisión de cierre Asia · 10:52 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> Apertura de Europa mixta: DAX (+0,6%) y Euro Stoxx 50 (+0,3%) suben, pero el IBEX cae un -0,7% por Banco Santander (-5,2%, -3,3σ, RSI 29), un movimiento que ningún titular de la lista explica. El Brent corrige un -6,2% (-2,4σ) desde máximos de seis meses, el oro rebota un +0,6% y los futuros de EE. UU. están planos antes de la Fed y de los resultados de las grandes tecnológicas.  
-> **Decisión:** no operar hoy — Revisión de apertura de Europa solo de observación, con la Fed y los resultados tecnológicos por delante.
+> Cierre de Asia con sesgo bajista moderado: Nikkei -0,8% y Hang Seng +0,5% (aunque -4% en 5 días), con Shanghái +0,2%. Frente a la apertura de Europa, el IBEX sigue lastrado por Santander (-3,8%), y un titular nuevo lo atribuye a las elecciones de Brasil (Lula gana). Brent -6% desde máximos de seis meses, oro +0,6% y el foco sigue en la Fed, el BCE, el BOJ y las grandes tecnológicas.  
+> **Decisión:** no operar hoy — Revisión de cierre de Asia, solo observación: las decisiones se toman con precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
 | **S&P 500** | 7.624 | 🔴▼ -0.5% | 🔴▼ -1.0% | ➡️ lateral |
 | **Nasdaq 100** | 28.958 | 🔴▼ -0.0% | 🔴▼ -5.0% | ➡️ lateral |
-| **IBEX 35** | 18.860 | 🔴▼ -0.7% | 🔴▼ -4.3% | ➡️ lateral |
+| **IBEX 35** | 18.941 | 🔴▼ -0.3% | 🔴▼ -3.9% | ➡️ lateral |
 | **Nikkei 225** | 62.190 | 🔴▼ -0.8% | 🔴▼ -5.1% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 4.988 | ▲ +3 pb | ▼ -17 pb | ➡️ lateral |
 | **EUR/USD** | 1.121 | 🔴▼ -0.1% | 🔴▼ -1.4% | ↘️ bajista |
-| **Brent** | 109.49 | 🔴▼ -6.2% | 🔵▲ +5.0% | ↗️ alcista |
-| **Oro** | 4.031 | 🔵▲ +0.6% | 🔴▼ -6.7% | ↘️ bajista |
-| **Bitcoin** | 80.234 | 🔵▲ +0.3% | 🔴▼ -6.5% | ➡️ lateral |
+| **Brent** | 109.77 | 🔴▼ -6.0% | 🔵▲ +5.2% | ↗️ alcista |
+| **Oro** | 4.033 | 🔵▲ +0.6% | 🔴▼ -6.7% | ↘️ bajista |
+| **Bitcoin** | 80.442 | 🔵▲ +0.5% | 🔴▼ -6.2% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -30,31 +30,31 @@
 
 - **02:51 · apertura Asia** 🟡 Apertura de Asia con sesgo ligeramente bajista (Nikkei -0,2%, Hang Seng -0,2%, Shanghái -0,4%, Seúl a la baja) a la espera de la reunión de la Fed y de los resultados de las grandes tecnológicas. Los futuros de EE. UU. rebotan algo tras las pérdidas del sector tecnológico, el Brent corrige un -5,5% desde máximos y el oro sigue cerca de mínimos de tres meses. Revisión solo de observación, sin hipótesis nuevas.
 - **09:51 · apertura Europa** 🟡 Apertura de Europa mixta: DAX (+0,6%) y Euro Stoxx 50 (+0,3%) suben, pero el IBEX cae un -0,7% por Banco Santander (-5,2%, -3,3σ, RSI 29), un movimiento que ningún titular de la lista explica. El Brent corrige un -6,2% (-2,4σ) desde máximos de seis meses, el oro rebota un +0,6% y los futuros de EE. UU. están planos antes de la Fed y de los resultados de las grandes tecnológicas.
-- <sub>cierre Asia · prevista ~09:25</sub>
+- **10:52 · cierre Asia** 🟡 Cierre de Asia con sesgo bajista moderado: Nikkei -0,8% y Hang Seng +0,5% (aunque -4% en 5 días), con Shanghái +0,2%. Frente a la apertura de Europa, el IBEX sigue lastrado por Santander (-3,8%), y un titular nuevo lo atribuye a las elecciones de Brasil (Lula gana). Brent -6% desde máximos de seis meses, oro +0,6% y el foco sigue en la Fed, el BCE, el BOJ y las grandes tecnológicas.
 - <sub>apertura EE. UU. · prevista ~14:45</sub>
 - <sub>cierre Europa · prevista ~17:50</sub>
 - <sub>cierre EE. UU. · prevista ~21:15</sub>
 
 ## 📰 Noticias clave
 
-- **[macro]** [Fed Looks Set to Pause After September Rate Hike](https://news.google.com/rss/articles/CBMimAFBVV95cUxQam1hSVFkRE13MVhRcnJwREYwVXgwa1VNUVBRNGw4WGNVRUN6S0kwMWlwb1BKMkh1bUJNOUlnZzR5eDROV1ZDQllpaFBTZnBHRDJMSFJ0N2VteVEtTUxxaU5FUGtxX1Jyc2Fac0NkTmZ6a3NsRjlBTVhhNzJYSjR4R3dOX1ByMjVfallfZEVKS1JibmFNMkpZMA?oc=5) <sub>Moomoo · 26/10 03:37 · ●●●●●</sub>  
-  Esperada: el consenso apunta a pausa tras la subida de septiembre, aunque el FT (id 30) habla de mantener subidas trimestrales; los titulares se contradicen. **Impacto:** Pausa con tono duro: presión sobre small caps (RUT), tecnología y cripto; pausa más laxa: alivio en bonos y oro. El bono a 10 años ronda el 5% y cruza al alza su media de 50 sesiones.
-- **[geopolítica]** [Stocks trade warily in Asia, Brent off six-month top](https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5) <sub>Reuters · 26/10 01:46 · ●●●●</sub>  
-  Corrección del crudo desde máximos de seis meses; el titular no explica el motivo y la caída de -6,2% es anómala (-2,4σ). **Impacto:** Brent a la baja y, por correlación, energéticas como XLE (en máximos de 52 semanas tras +2,6% el viernes); menos presión inflacionaria y de tipos si se mantiene. Si el recorte es forzado o por noticias de la guerra, el rebote es posible.
-- **[resultados]** [Banco Santander vs BBVA: ¿Qué podemos esperar de sus resultados del tercer trimestre?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNc28tYWpoTmIyakJRWTlVb0l6UTRTLV9JNFN1N093djF5S0NJN1pmYng2TzJCUHFFUXZBczR4Q0V6S3hBVVRmSjlPRGxXSmxhc0o5MXVIUkdLNjBTWDNKekhVRmx4ZV9QZHhIak9KcklCRm5fNE1RYjZpb2c0emVhOTF6cmp5dTFXeGxWYU5qRGlLMnVGUGxRVVFPVFVLNjDSAZ8BQVVfeXFMTXNvLWFqaE5iMmpCUVk5VW9JelE0Uy1fSTRTdTdPd3YxeUtDSTdaZmJ4Nk8yQlBxRVF2QXM0eENFekt4QVVUZko5T0RsV0psYXNKOTF1SFJHSzYwU1gzSnpIVUZseGVfUGR4SGpPSnJJQkZuXzRNUWI2aW9nNHplYTkxenJqeXUxV3hsVmFOakRpSzJ1RlBsUVVRT1RVSzYw?oc=5) <sub>Estrategias de Inversión · 26/10 06:10 · ●●●●</sub>  
-  Hay resultados del tercer trimestre de Santander y BBVA en la semana; el titular no explica la caída de Santander (-5,2%), que podría reflejar otra información no incluida. **Impacto:** Santander cae con sobreventa y BBVA sube un +0,5%, lo que apunta a algo específico de Santander y no a un problema del sector. Riesgo de gap en torno a los resultados.
+- **[política/regulación]** [Telefónica y Santander se desangran en el Ibex tras los inesperados resultados de las elecciones en Brasil](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFFLQlN3amNsY0lXc2xjVU1ORjdMcFk2Q1hEei1ERy00MDBEWVJXUkhDU3l1SXBNZ2lDUnFEMHJNdXA0VGJhdXFmdFFuaXNWdlE5UW9NQkdITUtrOThtNDQ0Rnk2T3dKbTh2dUk0MnhDVjNqVXNSSXdRTG83eTVzYjBUTkVwN1pQZmttY1FVTkdjcDFhVnoxTF9DbjRvOWx6MUd6bXdOU0tCaVo5TGVtTjRvdUM3eE84M1dweTVERnhKYndXa3lnSW1vbw?oc=5) <sub>El Debate · 26/10 10:23 · ●●●●</sub>  
+  Sorpresa según el titular: el resultado electoral brasileño no era el esperado y explica la caída de Santander, lo que antes no tenía explicación. **Impacto:** SAN.MC (-3,8%) y Telefónica, con fuerte exposición a Brasil, caen por riesgo político y de divisa; BBVA, con menos peso en Brasil, sube (+1,4%). Baja el IBEX.
+- **[macro]** [Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcXF0NUI3czJhVkNQQWc2Tk5GNWxTeHFIdng3S3ljT0JLWXVrVGtJUVpCcndjYU1JMnRNNGo2UjI3UlN4LTBZMnZHTUljV1RwMDZ4THRqZ0E5ZTdiVkRFMWNFLXVBVjVDcUxLZnV5LWNIcDNBN1R4b0dxdGxIMnFiX2pZQS1Qb1Etc2VBN1lEQzNSbUN6QUNyem5IYkxwR2FEWDNIT1FuWERQeWlOc0x6ODhnQmJjb0FQdDVCTFA3Vjh0ZW1zQW41Mg?oc=5) <sub>WSJ · 26/10 10:30 · ●●●●</sub>  
+  Esperada: el consenso es que la Fed mantiene los tipos, aunque hay argumentos para subirlos. **Impacto:** Riesgo asimétrico: un tono más duro afectaría a small caps (^RUT), tecnología y oro; un mantenimiento con tono neutral descontado apenas movería los precios.
+- **[política/regulación]** [EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVE2akJ2V1E1aU91WFdEVWpINTdOSFVKNTFkLXUxR2dna001RU9sek10OTd3QU9nb0E3R1o2Z2tjUVNRaU94UTZqNlNUVXV1MElEU0pPTnhmMk95Ny0wbG11YXdJbjZoRmNFc3ladThialB4SGdJZUhJRWNiaDYxdW9TbXlIc1NuRW5tRWh3SmdmbnN1b2diem5IX29BUjZubXdCRTJudW1NdUgzM2dYRnowRmU?oc=5) <sub>Bloomberg.com · 26/10 04:53 · ●●●</sub>  
+  Victoria de Lula, descrita como inesperada en otra fuente; los mercados emergentes caen antes de los resultados. **Impacto:** Presión sobre activos brasileños (real, bancos y empresas con exposición) y sobre el sentimiento hacia mercados emergentes; efecto indirecto en SAN.MC.
+- **[geopolítica]** [Stocks trade warily in Asia, Brent off six-month top](https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5) <sub>Reuters · 26/10 01:46 · ●●●</sub>  
+  El Brent corrige desde máximos de seis meses; el titular no da una causa clara, pero otros hablan de petróleo más blando. **Impacto:** BZ=F -6% (-2,4σ), alivio para inflación y para el oro (+0,6%); XLE sube un 2,6% hasta máximos de 52 semanas, un desfase con el crudo.
 - **[sectorial]** [Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGxpNHM5SWYyV3JrdHQ0ZWhCQXRhWmFUQ2FNekJCbUVzSTVtYTJsbHFWdVU2LS05VWlLSlZ3VlEzVW9HZTQya0NzTFNCVUNPbHBmS1g0c1ZGQmtIc3pzY2VXMktJMWdRQWJxUWFTT3kxSC1TRjJwd3RuajdIc2JxYkdhS180UE0xVlJRYm1zN2dGRENtWFl3czRuWV95R2p6Mm5zTUJuc3hLV00?oc=5) <sub>Yahoo Finance · 26/10 05:45 · ●●●</sub>  
-  Continuación del temor a la IA ya visible en la sesión previa; los semiconductores (SMH -12% en un mes) ya reflejan buena parte del ajuste. **Impacto:** Presión sobre semiconductores y bolsas asiáticas (Nikkei -0,8%); ASML y NVDA siguen sensibles. Es un riesgo para el tono de la apertura de EE. UU.
-- **[cripto]** [Bitcoin and gold both slump to the bottom for the first time on record](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzRNaVdyLWN3Yk1EcVFIOTdweF9ZaXQtMnYtS1VLTHB2NnJ4U21kRUtSdWNMMHdmTUlHZmY2NG53dXc0bW51ZFZrcTBfVFFzdTNudi0xWS1NdkVqVTk2N1FNdVd0M0FacTJXVGFOM2lPaS1tSm1KVWFtbG0wX2xReS0tRzcxNGVBaFJiQTQxTURmMXNLeVFNQQ?oc=5) <sub>Moomoo · 26/10 04:31 · ●●●</sub>  
-  Bitcoin pierde los 80.000 $ en un contexto de de-risking previo a la Fed; la caída ya acumula un -4,5% en 5 días. **Impacto:** BTC, ETH y SOL siguen débiles; con la Fed como catalizador, un tono duro presionaría más. Hoy BTC rebota un +0,3%.
-- **[geopolítica]** [El jefe de la AIE advierte que los mercados energéticos no volverán a niveles previos a la guerra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa05xSzRwbVVtZkZ2WC1WOWZURmk1RThPM2RoY3FGaUllMVYyYm1XRG95WjJ6bmc5ZjVrZnhMQ2JHQ3ZPNVRlbVZIa08xMUJmY3R0ZFQ1OXROSmhKa3VsS2NZUUdwbTdnZXZNOXJ2M3BFZmlvRmdZOFJBcDBfWnFjVlNfZFctTGJ2d3FUUFpVcVJ1OFhFbXRDdVhKeFJnTHNIc3pkMExsaThDb2dXcFNlc3RBdWhVVGdTN2JZTm80eTNaVEJLa0VjbENaRWs1dzdYekpVcDVLeGRhelJSMkpldWpTYU9VQ0Zy?oc=5) <sub>Investing.com España · 26/10 06:51 · ●●</sub>  
-  Mensaje estructural sin impacto inmediato, aunque encaja con un suelo alto para el precio de la energía. **Impacto:** Soporte a medio plazo para el Brent y las energéticas, y fuente de inflación persistente que limita la flexibilidad de la Fed.
+  Continuación de la presión sobre semiconductores por miedos a la IA. **Impacto:** Nikkei (-0,8%) y semis asiáticos bajo presión; ASML y SMH, con la volatilidad alta, dependen de los resultados de las grandes tecnológicas.
+- **[cripto]** [Crypto News | Bitcoin Slips Under $80,000 as Traders Cut Risk Before the Fed, With Ether and XRP Down 3%](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PTUllUEJnQlJGMlQzR2FhSW40Q3F5U3VMWWJhSGVDSXhTcHBCcDQ2QlE4dzhFZ0ZpWWx4TjNucGNaa2tFcVgtemZQSG96amdseEZuWVFDRC1wSFZhRXJ1NEhhamc?oc=5) <sub>Binance · 26/10 10:33 · ●●</sub>  
+  Bitcoin pierde 80.000 $ por reducción de riesgo antes de la Fed; es continuación, no sorpresa. **Impacto:** BTC, ETH y SOL, sensibles a liquidez y tipos, siguen frágiles con -4% a -6% en 5 días, y pueden moverse con la Fed.
 
-**Divergencias precio-noticia:** Santander cae un -5,2% (-3,3σ) mientras BBVA sube un +0,5% y el Euro Stoxx 50 también sube; ningún titular de la lista lo explica. · El Brent baja un -6,2% pero el bono a 10 años solo se mueve levemente y el dólar está plano; el petróleo no está arrastrando a las demás clases de activos. · El oro sube un +0,6% con el dólar plano y la TNX cerca del 5%; es un rebote técnico más que un cambio de mecanismo macro.
+**Divergencias precio-noticia:** XLE sube un 2,6% hasta máximos de 52 semanas mientras el Brent cae un 6%; los datos de energía de EE. UU. son del cierre del viernes y pueden estar desfasados respecto al crudo del lunes. · El oro sube con petróleo más blando y bonos algo menores, pero sigue en tendencia bajista y a -3,1% en 5 días: el rebote es técnico, no cambia la tendencia. · Santander cae un 3,8% y BBVA sube un 1,4%: la divergencia dentro de la banca española cuadra con la exposición diferencial a Brasil.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de apertura Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-23._
+_Revisión de cierre Asia: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-23._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -66,15 +66,16 @@ _Revisión de apertura Europa: solo observación. Las hipótesis se registran co
 
 ## 👀 Valores a vigilar
 
-- **Banco Santander** — Caída anómala con RSI 29 antes de resultados; conviene saber si hay una causa específica antes de considerar un rebote.
-- **Brent** — Corrección de -6,2% desde máximos de seis meses; la reacción tras la Fed indicará si es un recorte puntual o un cambio de tendencia.
-- **Energía (XLE)** — En máximos de 52 semanas y expuesta a la caída del Brent de hoy.
-- **Russell 2000** — Muy sensible al tono de la Fed con el bono a 10 años cerca del 5%.
-- **Semiconductores (SMH)** — Los temores sobre la IA siguen pesando antes de los resultados de las grandes tecnológicas.
+- **Banco Santander** — Con RSI en sobreventa y causa ahora identificada (Brasil), vigilar si continúa la caída o si hay rebote tras resultados.
+- **Russell 2000** — Muy sensible a un tono duro de la Fed con el 10 años cerca del 5%.
+- **Brent** — Ver si mantiene el soporte tras caer un 6% o si la corrección continúa.
+- **Semiconductores (SMH)** — Resultados de las grandes tecnológicas y miedo a la IA como catalizadores.
+- **Oro** — Decisión de la Fed como catalizador del rebote o de nuevos mínimos.
 - **Bono EE. UU. 10a (%)** — cruza al alza su media de 50 sesiones
 - **EUR/USD** — en mínimos de 52 semanas
 - **Índice dólar** — en máximos de 52 semanas
 - **Financieras (XLF)** — cruza a la baja su media de 50 sesiones
+- **Energía (XLE)** — en máximos de 52 semanas
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — en máximos de 52 semanas
 
@@ -103,21 +104,21 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 6.
 |---|--:|--:|--:|--:|--:|--:|---|---|
 | S&P 500 | 7.624 | 🔴▼ -0.5% | 🔴▼ -0.5% | 🔴▼ -1.0% | 🔵▲ +2.8% | 42 | ➡️ lateral | — |
 | Nasdaq 100 | 28.958 | 🔴▼ -0.0% | 🔴▼ -0.8% | 🔴▼ -5.0% | 🔵▲ +3.3% | 37 | ➡️ lateral | — |
-| IBEX 35 | 18.860 | 🔴▼ -0.7% | 🔴▼ -0.9% | 🔴▼ -4.3% | 🔴▼ -2.8% | 40 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.084 | 🔵▲ +0.3% | 🔴▼ -1.0% | 🔴▼ -3.5% | 🔴▼ -2.6% | 40 | ↘️ bajista | — |
+| IBEX 35 | 18.941 | 🔴▼ -0.3% | 🔴▼ -0.5% | 🔴▼ -3.9% | 🔴▼ -2.4% | 42 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.098 | 🔵▲ +0.5% | 🔴▼ -0.8% | 🔴▼ -3.3% | 🔴▼ -2.4% | 41 | ↘️ bajista | — |
 | Russell 2000 | 2.776 | 🔴▼ -0.3% | 🔵▲ +2.0% | 🔴▼ -2.1% | 🔴▼ -5.8% | 43 | ↘️ bajista | — |
-| DAX | 25.345 | 🔵▲ +0.6% | 🔵▲ +0.1% | 🔴▼ -0.2% | 🔴▼ -0.5% | 49 | ➡️ lateral | — |
+| DAX | 25.403 | 🔵▲ +0.9% | 🔵▲ +0.3% | 🔴▼ -0.0% | 🔴▼ -0.2% | 50 | ➡️ lateral | — |
 | Nikkei 225 | 62.190 | 🔴▼ -0.8% | 🔴▼ -4.2% | 🔴▼ -5.1% | 🔴▼ -5.9% | 34 | ➡️ lateral | — |
 | Hang Seng | 23.212 | 🔵▲ +0.5% | 🔴▼ -4.0% | 🔴▼ -6.5% | 🔴▼ -7.9% | 34 | ↘️ bajista | — |
 | Shanghái Compuesto | 3.698 | 🔵▲ +0.2% | 🔴▼ -0.9% | 🔴▼ -4.6% | 🔴▼ -4.3% | 34 | ↘️ bajista | — |
 | Bono EE. UU. 10a (%) | 4.988 | ▲ +3 pb | ▼ -11 pb | ▼ -17 pb | ▲ +35 pb | 41 | ➡️ lateral | cruza al alza su media de 50 sesiones |
 | EUR/USD | 1.121 | 🔴▼ -0.1% | 🔴▼ -0.1% | 🔴▼ -1.4% | 🔴▼ -1.5% | 35 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.81 | 🔴▼ -0.0% | 🔴▼ -0.2% | 🔵▲ +0.8% | 🔵▲ +0.4% | 55 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 109.49 | 🔴▼ -6.2% | 🔴▼ -0.1% | 🔵▲ +5.0% | 🔵▲ +30.2% | 56 | ↗️ alcista | movimiento anómalo hoy (-2.4σ) |
-| Oro | 4.031 | 🔵▲ +0.6% | 🔴▼ -3.1% | 🔴▼ -6.7% | 🔴▼ -0.2% | 34 | ↘️ bajista | — |
-| Bitcoin | 80.234 | 🔵▲ +0.3% | 🔴▼ -4.5% | 🔴▼ -6.5% | 🔵▲ +1.6% | 43 | ➡️ lateral | — |
-| Ethereum | 2.329 | 🔵▲ +0.1% | 🔴▼ -5.7% | 🔴▼ -14.1% | 🔴▼ -6.2% | 34 | ➡️ lateral | — |
-| Solana | 101.17 | 🔴▼ -0.1% | 🔴▼ -5.3% | 🔴▼ -16.2% | 🔵▲ +2.6% | 36 | ➡️ lateral | — |
+| Índice dólar | 101.77 | 🔴▼ -0.0% | 🔴▼ -0.2% | 🔵▲ +0.8% | 🔵▲ +0.4% | 54 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 109.77 | 🔴▼ -6.0% | 🔵▲ +0.2% | 🔵▲ +5.2% | 🔵▲ +30.5% | 57 | ↗️ alcista | movimiento anómalo hoy (-2.4σ) |
+| Oro | 4.033 | 🔵▲ +0.6% | 🔴▼ -3.1% | 🔴▼ -6.7% | 🔴▼ -0.1% | 34 | ↘️ bajista | — |
+| Bitcoin | 80.442 | 🔵▲ +0.5% | 🔴▼ -4.2% | 🔴▼ -6.2% | 🔵▲ +1.9% | 44 | ➡️ lateral | — |
+| Ethereum | 2.334 | 🔵▲ +0.3% | 🔴▼ -5.5% | 🔴▼ -13.9% | 🔴▼ -6.0% | 35 | ➡️ lateral | — |
+| Solana | 101.55 | 🔵▲ +0.3% | 🔴▼ -4.9% | 🔴▼ -15.9% | 🔵▲ +3.0% | 37 | ➡️ lateral | — |
 | Semiconductores (SMH) | 527.20 | 🔵▲ +0.7% | 🔴▼ -2.3% | 🔴▼ -12.2% | 🔴▼ -3.9% | 33 | ➡️ lateral | — |
 | Financieras (XLF) | 55.90 | 🔴▼ -1.3% | 🔵▲ +0.7% | 🔵▲ +2.5% | 🔴▼ -1.7% | 55 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
 | Energía (XLE) | 69.33 | 🔵▲ +2.6% | 🔵▲ +1.6% | 🔵▲ +10.8% | 🔵▲ +18.8% | 69 | ↗️ alcista | en máximos de 52 semanas |
@@ -126,10 +127,10 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 6.
 | Apple | 347.73 | 🔴▼ -0.1% | 🔵▲ +1.2% | 🔵▲ +3.5% | 🔵▲ +3.2% | 64 | ↗️ alcista | en máximos de 52 semanas |
 | Microsoft | 524.51 | 🔵▲ +0.7% | 🔴▼ -0.9% | 🔵▲ +5.3% | 🔵▲ +34.8% | 53 | ↗️ alcista | — |
 | ASML | 1.572 | 🔵▲ +0.7% | 🔴▼ -4.2% | 🔴▼ -8.7% | 🔴▼ -5.0% | 35 | ↘️ bajista | — |
-| Banco Santander | 10.92 | 🔴▼ -5.2% | 🔴▼ -7.3% | 🔴▼ -13.2% | 🔴▼ -8.7% | 29 | ↘️ bajista | movimiento anómalo hoy (-3.3σ), sobreventa (RSI 29) |
-| BBVA | 22.35 | 🔵▲ +0.5% | 🔴▼ -1.7% | 🔴▼ -11.3% | 🔴▼ -2.1% | 35 | ➡️ lateral | — |
-| Inditex | 56.92 | 🔵▲ +0.3% | 🔵▲ +2.7% | 🔵▲ +6.9% | 🔵▲ +0.8% | 64 | ↗️ alcista | — |
-| Iberdrola | 21.91 | 🔵▲ +0.0% | 🔵▲ +3.2% | 🔵▲ +7.8% | 🔵▲ +6.3% | 68 | ↗️ alcista | en máximos de 52 semanas |
+| Banco Santander | 11.08 | 🔴▼ -3.8% | 🔴▼ -5.9% | 🔴▼ -11.9% | 🔴▼ -7.3% | 31 | ↘️ bajista | movimiento anómalo hoy (-2.4σ) |
+| BBVA | 22.54 | 🔵▲ +1.4% | 🔴▼ -0.8% | 🔴▼ -10.6% | 🔴▼ -1.2% | 38 | ➡️ lateral | — |
+| Inditex | 56.88 | 🔵▲ +0.2% | 🔵▲ +2.6% | 🔵▲ +6.8% | 🔵▲ +0.7% | 64 | ↗️ alcista | — |
+| Iberdrola | 21.85 | 🔴▼ -0.2% | 🔵▲ +2.9% | 🔵▲ +7.5% | 🔵▲ +6.0% | 66 | ↗️ alcista | en máximos de 52 semanas |
 
 </details>
 
