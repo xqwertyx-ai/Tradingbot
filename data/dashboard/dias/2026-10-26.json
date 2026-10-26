@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-26T01:51:43+00:00",
+  "hora_madrid": "02:51",
+  "clima": "mixto",
+  "resumen": "Apertura de Asia con sesgo ligeramente bajista (Nikkei -0,2%, Hang Seng -0,2%, Shanghái -0,4%, Seúl a la baja) a la espera de la reunión de la Fed y de los resultados de las grandes tecnológicas. Los futuros de EE. UU. rebotan algo tras las pérdidas del sector tecnológico, el Brent corrige un -5,5% desde máximos y el oro sigue cerca de mínimos de tres meses. Revisión solo de observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+   "Inflación en EE.UU. sube a 3,7% y aumenta la presión sobre la Fed y la bolsa",
+   "More than a third of S&P 500 companies are about to report earnings as market confidence cracks"
+  ],
+  "coste_usd": 0.0368
+ }
+]
