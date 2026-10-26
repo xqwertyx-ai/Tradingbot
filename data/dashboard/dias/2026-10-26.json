@@ -40,5 +40,19 @@
    "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them"
   ],
   "coste_usd": 0.0361
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-26T14:52:05+00:00",
+  "hora_madrid": "15:52",
+  "clima": "risk-on",
+  "resumen": "Apertura de EE. UU. con sesgo risk-on moderado: futuros y bolsas suben (S&P +0,9%, Nasdaq 100 +1,3%, SMH +2,3%, NVDA +2,9%) mientras el Brent cae un 6,1% (-2,4σ), a la espera de la Fed, el BCE, el BOJ y los resultados de las grandes tecnológicas. Bitcoin baja de 80.000 $ por el temor a la IA y la cautela ante la Fed, y el IBEX sigue lastrado por Santander (-3,6%), sin causa clara en los titulares.",
+  "titulares": [
+   "Fed Meeting Focus Turns to Warsh Messaging With December in Mind",
+   "Fed to hit pause on rate hikes, but maybe not for long",
+   "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap"
+  ],
+  "coste_usd": 0.0389
  }
 ]
