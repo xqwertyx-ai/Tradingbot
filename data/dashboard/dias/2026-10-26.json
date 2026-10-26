@@ -68,5 +68,20 @@
    "Former Fed Vice Chair Richard Clarida: We expect one more rate hike at the December meeting"
   ],
   "coste_usd": 0.0371
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-26T21:33:51+00:00",
+  "hora_madrid": "22:33",
+  "clima": "risk-on",
+  "resumen": "Cierre de EE. UU. risk-on: S&P +0,7%, Nasdaq 100 +1,1%, SMH +2,7% y NVDA +2,4%, con el Brent -5,5% (-2,2σ). Los titulares nuevos aportan dos catalizadores: la salida a bolsa de Anthropic impulsa a las tecnológicas, y la caída de cerca del 14% de la bolsa brasileña tras la victoria de Lula da causa a la debilidad de Santander. Todo queda a la espera de la Fed del miércoles, con subida en diciembre descontada por encima del 70%.",
+  "titulares": [
+   "La bolsa de Brasil cierra con un desplome cercano al 14% la primera jornada tras la victoria de Lula",
+   "Nvidia, Intel, Other Major Tech Stocks Surge After Anthropic’s IPO Filing",
+   "Fed likely to hold this week, but December hike odds top 70%"
+  ],
+  "coste_usd": 0.0784,
+  "resumen_dia": "Asia abrió y cerró con sesgo ligeramente bajista (Nikkei -0,8% al cierre, Hang Seng de nuevo -4% en 5 días, Shanghái en mínimos de 52 semanas). Europa cerró al alza (DAX +0,9%, Euro Stoxx 50 +0,8%), pero el IBEX quedó lastrado por Santander (-3,1%), atribuido luego al desplome de Brasil tras la sorpresa electoral de Lula. EE. UU. abrió y cerró risk-on, con semiconductores y tecnología rebotando (SMH +2,7%) tras el titular de la salida a bolsa de Anthropic y a la espera de las grandes tecnológicas. El Brent cayó más de un 5% desde máximos de seis meses y el bono a 10 años se mantiene en torno al 5%. Bitcoin permaneció débil bajo 80.000 $ por la cautela ante la Fed, que se espera que mantenga tipos pero con riesgo de subida en diciembre."
  }
 ]
