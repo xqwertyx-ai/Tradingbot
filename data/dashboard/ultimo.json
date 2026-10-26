@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-26T21:33:51.694528+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-10-26T21:56:32.794572+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -303,21 +303,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 102.00599670410156,
+   "last": 102.00199890136719,
    "date": "2026-10-26",
-   "chg_1d": 0.0019251463530878254,
-   "chg_5d": 0.0002548867063378868,
-   "chg_1m": 0.010260428551782663,
-   "chg_3m": 0.006174782675509416,
-   "vol20_ann": 0.04740952490593074,
-   "ma50": 100.58731979370117,
-   "ma200": 99.570830078125,
-   "dist_ma50": 0.01410393390846898,
-   "dist_ma200": 0.02445662674566318,
-   "rsi14": 57.45581425817825,
-   "from_high": -0.005595682557098081,
-   "from_low": 0.06013298077316476,
-   "z_1d": 0.6584512339846851,
+   "chg_1d": 0.0018858790627407362,
+   "chg_5d": 0.00021568487654000101,
+   "chg_1m": 0.010220834586386562,
+   "chg_3m": 0.0061353488340940565,
+   "vol20_ann": 0.04739298323684506,
+   "ma50": 100.58723983764648,
+   "ma200": 99.57081008911133,
+   "dist_ma50": 0.01406499538116579,
+   "dist_ma200": 0.024416682058527428,
+   "rsi14": 57.405222890813896,
+   "from_high": -0.005634655092319529,
+   "from_low": 0.06009143221066582,
+   "z_1d": 0.6450207767403281,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -385,21 +385,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 79926.9765625,
+   "last": 79945.578125,
    "date": "2026-10-26",
-   "chg_1d": -0.0012125267485646463,
-   "chg_5d": -0.048623931188376046,
-   "chg_1m": -0.06830457920471988,
-   "chg_3m": 0.012188925123972849,
-   "vol20_ann": 0.22680376402396357,
-   "ma50": 81796.26171875,
-   "ma200": 72986.1390234375,
-   "dist_ma50": -0.022852941161020213,
-   "dist_ma200": 0.09509802315798122,
-   "rsi14": 41.21057460475896,
-   "from_high": -0.30177977464964445,
-   "from_low": 0.3648998190122279,
-   "z_1d": -0.06515992141656275,
+   "chg_1d": -0.0009800769749468419,
+   "chg_5d": -0.04840251556418862,
+   "chg_1m": -0.06808774389646399,
+   "chg_3m": 0.012424493843850248,
+   "vol20_ann": 0.22683364196336822,
+   "ma50": 81796.63375,
+   "ma200": 72986.23203125,
+   "dist_ma50": -0.022629973143607485,
+   "dist_ma200": 0.09535149164530465,
+   "rsi14": 41.275013729456056,
+   "from_high": -0.3016172764829528,
+   "from_low": 0.3652174748323469,
+   "z_1d": -0.05266831329314294,
    "trend": "lateral",
    "flags": []
   },
@@ -411,21 +411,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2307.050048828125,
+   "last": 2307.159912109375,
    "date": "2026-10-26",
-   "chg_1d": -0.00853923459760264,
-   "chg_5d": -0.06626125539487238,
-   "chg_1m": -0.14901392557984972,
-   "chg_3m": -0.07042430727766569,
-   "vol20_ann": 0.3184641098021321,
-   "ma50": 2539.1921044921874,
-   "ma200": 2157.8879730224608,
-   "dist_ma50": -0.09142358912244974,
-   "dist_ma200": 0.06912410545425085,
-   "rsi14": 32.767423976173035,
-   "from_high": -0.44515247496289734,
-   "from_low": 0.474326112424875,
-   "z_1d": -0.40371135486931176,
+   "chg_1d": -0.008492020566431946,
+   "chg_5d": -0.06621679012531101,
+   "chg_1m": -0.14897340104832457,
+   "chg_3m": -0.07038004025544631,
+   "vol20_ann": 0.31846229445095064,
+   "ma50": 2539.1943017578124,
+   "ma200": 2157.888522338867,
+   "dist_ma50": -0.09138110836488822,
+   "dist_ma200": 0.06917474569479487,
+   "rsi14": 32.775036686178936,
+   "from_high": -0.4451260527490728,
+   "from_low": 0.47439632082994443,
+   "z_1d": -0.40147920627626166,
    "trend": "lateral",
    "flags": []
   },
@@ -437,21 +437,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 100.44000244140625,
+   "last": 100.37999725341797,
    "date": "2026-10-26",
-   "chg_1d": -0.0077373871002948125,
-   "chg_5d": -0.059494666893561754,
-   "chg_1m": -0.16820346756063076,
-   "chg_3m": 0.019057449777163615,
-   "vol20_ann": 0.33794137216884146,
-   "ma50": 109.4689045715332,
-   "ma200": 88.44751556396484,
-   "dist_ma50": -0.08247914935722189,
-   "dist_ma200": 0.1355887364497932,
-   "rsi14": 34.56085066026769,
-   "from_high": -0.49787185610946183,
-   "from_low": 0.6150557785454223,
-   "z_1d": -0.2599181688518763,
+   "chg_1d": -0.008330187808912148,
+   "chg_5d": -0.06005654660229587,
+   "chg_1m": -0.16870040210945403,
+   "chg_3m": 0.018448641211269656,
+   "vol20_ann": 0.3379194569121161,
+   "ma50": 109.46770446777344,
+   "ma200": 88.4472155380249,
+   "dist_ma50": -0.08301724475304806,
+   "dist_ma200": 0.13491415917172622,
+   "rsi14": 34.4670154834983,
+   "from_high": -0.4981718391136034,
+   "from_low": 0.6140909067488518,
+   "z_1d": -0.27983182609568175,
    "trend": "lateral",
    "flags": []
   },
@@ -775,6 +775,24 @@
  ],
  "titulares": [
   {
+   "title": "Alphabet, Amazon y Microsoft ponen a prueba a la IA con sus resultados trimestrales",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDhIZkxXaGNrUDY3bkxYMlI4aWtmQzB2OERMRmxlc1dfamwxM2o5Rk0wYTM5LVpYWHdBbmZ6bjBQRUo5SlYwb3Z6eGRVbXdTQ3JNNy0tTVJNcHdEUHVsSjQ1TXFYUS1pNEJ2RVY4WmFsUmd0eWI5UXd2dFFjNjRLTmllSWI1c2hrdDVMWmFGMUhZRngzaHhvLUJwLWFIZTVWOTBES29GRFczZDBxYW5CSGhQYmNhaFczM1VHYXJ1TDZ3OVlIRnZGRlM4eVJnNWdfamMtaFBSRVZjZ0FiT3hPUjZrc1haSGhRRW1NbkVRbzR4U03SAd4BQVVfeXFMTllHZmo2b0VsTDZrcW5ZYkZiNVlXcFB3bXg2aGJhMjR6bXRjVDhETDQ5YTh6R21pZkotb0RBcWpVem5rTzJlb2pkX1paRzhEeFlpX20xVFhVUEZqX2JYdDFLaDRhSmtNLVgtUTBsNGRRYWF6THhnVTNiSnZpc2gxZjV4UFJEX0hHZURRNjhBSDZNWHBGeW8zMjlHQTF4X1FKZ3EzZHZOMGUtQ29NYVd3bXB5LWJMU3N4SDExb2k5cEJ2T3M1b2pCdFpabmlLVUJVcDFnWDVwLWIxOUkxeXVR?oc=5",
+   "source": "El Economista",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-26T21:44:28+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Hundreds of leaders discuss the strength of rural places at Richmond Fed conference",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUR5VGs1bDNyN1BOMjlRV2N4YnkwUThrdENkVnRkT1BpUmNCMFBySGxhaUZqXzR1Y3ZtNDJEcmJQSndGWjRaQW9sVkw2S0w5cnpRYlZYQU05TGFvX29HYklDYkFxclFMalZ0ZEcwUWowaEJjdXhleXBiSGdJS0ZFV1pTcFBPNW85OHZjYVJCX3lSVkFwUFZ2anl2LS1qN3E3RHlBY0c4NjQ?oc=5",
+   "source": "EdNC",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T21:30:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Fed loses debit card cap appeal",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45X29IdVNLVHByclNzaXp3X0RDNDN1VnN1enJxdWxrUmo3WmwwVG96NFRMVVYwdTg3WHlOSlNLUEFaejhuTU9CZ1ViaG1TT2VrTEU4dVA1ck5rLTc4ZDdHVmpLWXAwVmt5NlhncERLYTRQWnc2YjFvUjhja0plZw?oc=5",
    "source": "Payments Dive",
@@ -829,20 +847,29 @@
    "score": 3
   },
   {
-   "title": "MPA Weekly Poll: What will the Fed do at this week's meeting?",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2gxb04tcXR1RVlsMTRTN3pXTS1TbXg0SEhSLUs2OW1aVXNFeEFRMzF3azhZLVZ6TzZ3N2VxWVBPeGZwWElpaVRPZmY0dklLVWtMNGVHWDFqMmsyZC1mU3V1Rm43NzBTVTN4QUNOc0ZYeGV0UTRUN3BsSGJ6MGJVWnVJX2ZrcEdZaVdtZno4UWhnOFlZUGJjTWJxYkFkX3prWTJ4ZWxsT25zSEp0TEdwZ1BRWU9mZnV2MG1TV1JkdWRDUQ?oc=5",
-   "source": "Mortgage Professional America",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T20:28:11+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "This Week Could Help Decide Whether the Fed Raises Interest Rates in December",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXBXOENaTXUxUnNSMXRPTmtmTm5mb2dGLTViRVpnM3RRWXNPdkpCbERiXzhqdzd4emJFRXk4VDEwZUhHV1VHa0xJVTNtNHI0T2MwZjNiOWRCdUQzY1M2VFJqTHlPQUR1NGlPblY2N29vc1NQVkpMYUpmQ21MaWtEaXh3?oc=5",
    "source": "Barron's",
    "feed": "Google News · markets",
-   "published": "2026-10-26T20:14:00+00:00",
+   "published": "2026-10-26T20:23:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Social Inflation Piles Added Pressure on Commercial Auto and Liability Results",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNVMFA1cUZYX2pNU0g4UjZ1Ylo3OVM4TWw0ZTlMZkZETENYRUM0Nzd2UlNDT3ZtR1BoSEJWcmwxRWRya1VyX3AwUDd6OTdzNDJkUnVEdk45NVZucDdPNG5rSTlnOS10LXdlX2tRVzBRU2RJZDQtQWlzdTdEVWVPOVRrXzhWZW54S2RkZjNLOXZzdV9IUTBJNTVsU2VEZ05YeHlkQ1JkZEg1SENS?oc=5",
+   "source": "Risk & Insurance",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T20:18:08+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T20:15:45+00:00",
    "category": "macro",
    "score": 3
   },
@@ -865,29 +892,11 @@
    "score": 3
   },
   {
-   "title": "Nebius Stocks Gain Despite Musk's AI-Funding Warning",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2tCTUpBNUxWRURCTUZTSWwybktiaTNDWDBTdUVLQ0dKcXJFY1dhOFpqUlBfQl9Zbktmcl9uYjNoeXJJWVE2YWJtV3lUYmlXeVJmWjFyYzJuRjlRYjNrQ3dKblItTC1SLV9rbmNlRnNKSVlIX0tsaHI5RjJYay1ZMlZzdHhkSldvTUFYLWxaVlVBWE1yT2tjcjNkbGlTdw?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T19:55:21+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
    "title": "Watch Markets Have 'Misunderstanding' of Warsh Fed, Says Axel Merk",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnRNTk9yOEY5blBsRnR2V1ZZVjEyelNGSUZwVW5tMy1lVWtFTVVNMDQyWU14ZlVQZm82elo3M19Fb19iSXFwX3J1cVZ6Mi1VakFLVUN1VUJKYlVlRjg0WDRKLThyakd4elo2VFJzek9PUmpEajBlNHBKbFBTN0RTSEI3S21GalRJLXdNd3ktSTZRU1JFQV9DUTJkRDA1dUozMG5mcjU2MkZRRDA?oc=5",
    "source": "Bloomberg.com",
    "feed": "Google News · markets",
    "published": "2026-10-26T19:53:09+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Loblaw October Food Inflation Report",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSExFQzlaUV9oSnNaR2tvSjhrTXdxam9ULVp0T004Y1ZTNWg5RkJXSEx1ZWdXelJNemlXdFVIZGh6MFhfcS02WS1NZXZqY2lZMklqZ3M3WEw4b3pOblR4RnZ5WVFybjI0QWp0cEx3WjB6eEJLd21NbjhDcjJ4N1F4cWp5ZHF1aW1qWlNuNE0zSTBkWG50LWM1Mms0OA?oc=5",
-   "source": "markets.businessinsider.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T19:25:53+00:00",
    "category": "macro",
    "score": 3
   },
@@ -928,15 +937,6 @@
    "score": 3
   },
   {
-   "title": "Anthropic prepara la mayor salida a Bolsa de la historia mientras dispara ingresos y pérdidas",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU1PeTZmU2VKODFYX1lJTlUzOTN0d2kwSTQyTVpqZkhhTEwzaTRTUTh4OWs1bFFIVGE0NXlzRVpHU0NaN0x1NFBsWVZqSmx2eXFDWjhlY2FjT0FydHh1N1F1elJjZDBuV0tLMEl4cVlfLW1VV3gwcHFOSmd2Q0ZuV1k3bHkzNkxuazJ4TS1sYkZOc2laX2Rz0gGcAUFVX3lxTFBJcVNGTnJwVFpSZHIyTzFDOHc4TG1fMmNlUmZhUHpOdmlaUlFqZWpYRGkzMWJhcmZFdFc1ZjZLYkhlcEgzNldTcG1MN0MzdmxIY0VjbU10dXRUZkFpTk1RVEhqQ0Z6WjVMbFBzR3BGdUtScGNvNG9BZDY1aXBsSmtqYUdwN2w5NHduU1BVYXRfV0xpSkRGWWJjdnVhRw?oc=5",
-   "source": "El Conciso",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-26T19:10:25+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "El Ibex 35 recupera los 19.000 puntos con el BCE y la temporada de resultados en el foco del mercado",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVRDX0NVSmx2MnVCVl83enVQM0RTY2wtdmhMM0Jadlk5cERpVUF3WVBKaGhCaWxGZmZOczhVM3Z0NUVZQXpERXEzRU40NjBQQ3VNZjZWNUJLS1pHRnQxcjU1YWxkMW4xdXdlUTlEMFdFV2lZTHNRNGtkUXJ4dkFuWG9Kc2JDQ3BTZ2xKbGFMR2dsaHhDVDd1SWgyVm5ZY2lwUThkRWJSRFJUZUM1R0I1NXVsbVpVY2p6a013dng1emhEQ0JtSlZoTmsyNVF3SW45REE?oc=5",
    "source": "El Constitucional",
@@ -973,15 +973,6 @@
    "score": 3
   },
   {
-   "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T18:01:48+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Minimum Wage Freeze Hits NYC Workers Amid Rising Inflation",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTQ2NlZIbFVGb29hOFNubEtRaUk5OWFTMXctLTFWWHdBNW5Ibm1VbjR5VnNKT2VDZFNRVlY3Nzc5b1RZcy1pWUVfcExsaTBmNTRNeGpYeXNOdGI3eEFxbV9TSkJmTG5ucUNXZDcwUFYxYThoOFlPUGU0NmNlVXdybGRoZU52WU5kSXA0dUdlWGVZS2M1SFA1eUZ6a2s4QQ?oc=5",
    "source": "The City Reporter",
@@ -1005,15 +996,6 @@
    "source": "Bitcoin Magazine",
    "feed": "Google News · crypto",
    "published": "2026-10-26T17:43:18+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed likely to hold this week, but December hike odds top 70%",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZLRkh0TXlfWFVzb3FmMzduSU5BY2VKTlFyUC1CX1VhQWFpbUo2NjJWRTYxOEFpMkZqTVd4c0hfaWpiWEliYnNFeVJHbjZfa0lnMHk2SXJuNWh1MmVZaHAxVFAzcUxmbUpnMU1mVS01ZC1PLU1weWh5Vm1mcTU3ZFo0ZW9vcktmMDd5NmVDS2RWSVFZd1JvVmw5Y3daQjUwaWRUa1ZtRnJmSno5blZob0R3?oc=5",
-   "source": "InvestmentNews",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T17:15:40+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1117,15 +1099,6 @@
    "score": 3
   },
   {
-   "title": "Stocks climb ahead of tech earnings, central bank calls",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80U3BZYzZHU1hBZHhrbmNVb3FSNUpsUWxGNHFzaVJoZnlTMkRpN09OdHowdFV5RUxNVXB0Ti05UFRfczM1Yy0zNmE0eGx3eU9DVDhyNkVhWVR6aENfbWotLURqMmpQb0VDNG1ROUZYYnV4Ym9iMmZhUE94aWJ2NFk?oc=5",
-   "source": "AFP.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T14:08:26+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "Chamath’s $0 Bitcoin Call Meets Musk’s AI ‘Death’ Warning — Where Could BTC Price Be by 2031?",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0FsR1dMTmp6QnNnNDdmS0xsLUpmZE91c0hOa3F3bVVLSlNZS3lTMXJoQTdrR3JNR1NmaGJtOTRtV0hMUXotZmdGblRNNkpGZUZxOWJ3NVR4U3huRUFqbWg0TVB2QmdfWXVNMHhLVjUtYjUwMTNOOFF4R2hPclJjTm1sWFh1bHJGY3VOdENWcGNtSlg5U1pJdA?oc=5",
    "source": "Yahoo Finance",
@@ -1167,6 +1140,15 @@
    "source": "Valencia Plaza",
    "feed": "Google News · mercados ES",
    "published": "2026-10-26T13:17:16+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVlmeFQtV2VPYXRyYUhfd24xQkxhTFRqYXpsVVhLbjR4NXI0a0VVNGhsLTM4cjNLb05ibnZvVG9yd2g4a2NNbG9HTXhHay1iTmpEM2NtV21DRk5BZ0xhR3ZhX3VsV2FNWjg0bUk3M3lnRHZXZENOcnhaSE5FUDdhR2J3VEJhRU9JM0RoVjJJYjNKVUhJN0ZqMmo5WTJyRjUwQXFuT9IBqgFBVV95cUxPYXlJMVRFWWdjQl9MOFJhYWdTbjZZNm95Q2NSWjJRczlyR3JrSG1rNjZsZXYxTFBMdnRXRzZ4Y2w2aTM2dWR6UGtuRGtEWlJlQ2RfZFBQX1R1YjJDZ2RrVVAyd29zXzdhMVhhV2FZMUZ6cUNMZTJDSW5DRGRpeU9lY1IzdzhHMnpPTjVhazNwcDc4Y19tSG82SjhlSWFCUE9WbkdXWEZ0cnkwdw?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T12:17:38+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1216,15 +1198,6 @@
    "score": 3
   },
   {
-   "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDB0Q3N4MWxNWWdRNUtaNHBIaVhzeldEWEt1eDM0dDJKT3FvMGh4RG82RlgyUW5CdmxvZkJFUThJQkxvWU16NXE0bUE1RkQ0UUhNMXQ3ZWQ3Y0I2bGNzVzB5WlRvMWpFUGdBWGhTWTl2enl4V3UzM0lHa21RbWI5NWR3dlFhWElfaTlJX2ZETExYN1ZfMDgxZWJyeGdQTnRZ?oc=5",
-   "source": "AP News",
-   "feed": "Google News · markets",
-   "published": "2026-10-26T10:41:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Fed to hit pause on rate hikes, but maybe not for long",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
    "source": "Reuters",
@@ -1252,6 +1225,15 @@
    "score": 3
   },
   {
+   "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T05:56:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
    "source": "CoinDesk",
@@ -1268,6 +1250,15 @@
    "published": "2026-10-26T03:11:39+00:00",
    "category": "geopolítica",
    "score": 3
+  },
+  {
+   "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-26T21:15:00+00:00",
+   "category": "otras",
+   "score": 2
   },
   {
    "title": "La bolsa de Brasil cierra con un desplome cercano al 14% la primera jornada tras la victoria de Lula",
@@ -1306,157 +1297,113 @@
    "score": 2
   },
   {
-   "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k?oc=5",
-   "source": "WSJ",
+   "title": "Brazilian stocks plunge after Lula's surprising election victory",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXB0NG1EVV9FZEt5WEd5aDJvVVl1TWlzbnNPU0Zjb2NtWDJNUk1IcEtTc2ZfZ3RjaHlvejJvekMxaXdpTkkyWFZfQ3BvOXNpWkFMZm9OMmhFSS1RaUVlRWN1aTdSUVl0MTZCdGREX3A0ZmlyeTE3Y0JPaE9GUXZ4NEVGdFdqNjNDUG5YZVVXWHB4SjhTQ2F0OURWdmFMczFkZVZpcmlXQko2Qk5DaGc2emVfRUZsajZ2SUp0cA?oc=5",
+   "source": "Yahoo Finance",
    "feed": "Google News · markets",
-   "published": "2026-10-26T16:11:00+00:00",
+   "published": "2026-10-26T13:55:57+00:00",
    "category": "otras",
    "score": 2
+  },
+  {
+   "title": "What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFYySzJrVXdOZzNUdW4ya3hKLTg2Y3FudlM1Y1M4cXo4a1EwQVloYkZvYm9fQTRVaVNpSkZrX25VdDRZLXMzc2FSY24zQUJ4al9OUXZmZ3RpVDhRWGx4Ny1idThGMWE3eUtCOEhqcXhjUm81R01pM3phUDNuaVBja09SVkplUEIwYVU0cDYxTUhmOFVxV1dtWHA3WFhjQjFjZnA4R1VXLXNsa1pPellhdVkzd2FIU1JjN3lXN09qSm9jU2ZIR0FpclkzSDA?oc=5",
+   "source": "24/7 Wall St.",
+   "feed": "Google News · crypto",
+   "published": "2026-10-26T21:42:34+00:00",
+   "category": "cripto",
+   "score": 1
   }
  ],
  "analisis": {
-  "resumen": "Cierre de EE. UU. risk-on: S&P +0,7%, Nasdaq 100 +1,1%, SMH +2,7% y NVDA +2,4%, con el Brent -5,5% (-2,2σ). Los titulares nuevos aportan dos catalizadores: la salida a bolsa de Anthropic impulsa a las tecnológicas, y la caída de cerca del 14% de la bolsa brasileña tras la victoria de Lula da causa a la debilidad de Santander. Todo queda a la espera de la Fed del miércoles, con subida en diciembre descontada por encima del 70%.",
-  "resumen_dia": "Asia abrió y cerró con sesgo ligeramente bajista (Nikkei -0,8% al cierre, Hang Seng de nuevo -4% en 5 días, Shanghái en mínimos de 52 semanas). Europa cerró al alza (DAX +0,9%, Euro Stoxx 50 +0,8%), pero el IBEX quedó lastrado por Santander (-3,1%), atribuido luego al desplome de Brasil tras la sorpresa electoral de Lula. EE. UU. abrió y cerró risk-on, con semiconductores y tecnología rebotando (SMH +2,7%) tras el titular de la salida a bolsa de Anthropic y a la espera de las grandes tecnológicas. El Brent cayó más de un 5% desde máximos de seis meses y el bono a 10 años se mantiene en torno al 5%. Bitcoin permaneció débil bajo 80.000 $ por la cautela ante la Fed, que se espera que mantenga tipos pero con riesgo de subida en diciembre.",
+  "resumen": "Revisión de actualización tras el cierre de EE. UU., sin cambios de precios. Solo hay dos titulares nuevos (resultados de Alphabet, Amazon y Microsoft, y una pieza sobre cripto a cinco años), sin información que altere el cuadro de risk-on con petróleo a la baja. Los focos siguen siendo la Fed del miércoles, las tecnológicas y Brasil.",
+  "resumen_dia": "",
   "clima": "risk-on",
   "noticias": [
    {
-    "id": 55,
+    "id": 0,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Esperada: los resultados de las grandes tecnológicas ya estaban en el calendario y el rebote del sector se ha adelantado.",
+    "impacto": "MSFT, NVDA, SMH y XLK dependen de la guía de gasto en IA; un buen tono sostiene el rebote y una decepción lo revierte.",
+    "importancia": 4
+   },
+   {
+    "id": 54,
     "categoria": "geopolítica",
     "rumor": false,
-    "novedad": "Sorpresa: la victoria de Lula no estaba descontada y la bolsa de Brasil cierra cerca de -14%.",
-    "impacto": "Santander (y en menor medida BBVA) por su exposición a Brasil y a una posible depreciación del real: dirección bajista; la caída del 3,1% en Europa pudo no recoger todo el movimiento.",
+    "novedad": "Sorpresa electoral ya reflejada parcialmente; el cierre brasileño (-14%) llegó después del cierre europeo.",
+    "impacto": "SAN.MC y la banca con exposición a Brasil sufren por la caída del real y de los beneficios locales; riesgo de gap bajista en Europa.",
     "importancia": 4
    },
    {
-    "id": 56,
+    "id": 55,
     "categoria": "sectorial",
     "rumor": false,
-    "novedad": "Sorpresa moderada: el registro de la salida a bolsa de Anthropic se publica y las tecnológicas suben de inmediato.",
-    "impacto": "NVDA, SMH y XLK: valida la demanda de computación de IA y alivia el temor a una burbuja; efecto alcista a corto plazo, ya reflejado en parte en el +2,7% de SMH.",
-    "importancia": 4
-   },
-   {
-    "id": 26,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Esperada: mantener tipos esta semana está descontado y las probabilidades de subida en diciembre ya superan el 70%.",
-    "impacto": "Small caps, cripto y oro son los más sensibles a un tono más duro; solo hay sorpresa si el comunicado recorta o refuerza esa senda.",
-    "importancia": 4
-   },
-   {
-    "id": 9,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "El descenso del petróleo es la noticia del día, aunque su causa no figura en los titulares.",
-    "impacto": "Alivia las expectativas de inflación y favorece a renovables y consumo; perjudica a XLE, que no ha seguido al Brent.",
+    "novedad": "Novedad: la salida a bolsa de Anthropic impulsó a las tecnológicas, y el precio ya la recoge en gran parte.",
+    "impacto": "NVDA y SMH suben por la demanda de cómputo de IA y por el apetito por riesgo.",
     "importancia": 3
    },
    {
-    "id": 1,
-    "categoria": "cripto",
+    "id": 47,
+    "categoria": "macro",
     "rumor": false,
-    "novedad": "Esperada: Bitcoin vuelve a cotizar por debajo de 80.000 $ por posicionamiento defensivo antes de la Fed.",
-    "impacto": "BTC, ETH y SOL con sesgo bajista de corto plazo; un tono duro de la Fed los presionaría más.",
+    "novedad": "Esperada: el mercado asume mantenimiento de tipos el miércoles y una subida en diciembre por encima del 70%.",
+    "impacto": "El riesgo está en el tono: un mensaje más duro presionaría small caps, cripto y oro, y uno más suave los favorecería.",
+    "importancia": 4
+   },
+   {
+    "id": 12,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "El descenso del petróleo está en el precio: Brent -5,5% (-2,2σ).",
+    "impacto": "Alivia el temor inflacionario, lo que favorece a bolsas y oro y presiona a XLE.",
     "importancia": 3
    },
    {
-    "id": 44,
-    "categoria": "macro",
+    "id": 59,
+    "categoria": "ruido",
     "rumor": false,
-    "novedad": "Parcialmente esperada: la inflación japonesa al alza refuerza la subida del BOJ.",
-    "impacto": "Posible apreciación del yen y presión sobre el Nikkei; efecto limitado sobre activos de la tabla.",
-    "importancia": 2
+    "novedad": "Pieza de retrospectiva sin información nueva.",
+    "impacto": "Sin impacto en BTC, ETH ni SOL.",
+    "importancia": 1
    }
   ],
   "divergencias": [
-   "XLE sube un 0,4% (en máximos de 52 semanas, RSI 70) mientras el Brent cae un 5,5%: el sector no sigue al crudo.",
-   "El oro sube un 0,6% con el dólar en máximos de 52 semanas y el bono 10a plano, algo inusual en un contexto de tipos altos.",
-   "Santander cae un 3,1% mientras BBVA sube un 2,2%: la exposición a Brasil explica solo parte de la divergencia entre bancos.",
-   "El S&P 500 sube con el Brent a la baja y la Fed con sesgo de subida: el mercado parece apostar por que el petróleo reduzca la presión inflacionaria."
+   "El Brent cae un 5,5% pero XLE sube un 0,4% y el bono a 10 años apenas se mueve: la energía no sigue al crudo, por ahora.",
+   "El oro sube un 0,6% con el dólar en máximos de 52 semanas y una subida de tipos probable: es un rebote técnico más que una señal macro.",
+   "Bitcoin y ETH siguen débiles en una jornada risk-on con el Nasdaq +1,1%: las criptomonedas no acompañan al apetito por riesgo."
   ],
-  "hipotesis": [
-   {
-    "ticker": "SAN.MC",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "El desplome de Brasil (-14%) y el probable deterioro del real golpean los beneficios de Santander; la parte de la caída que ocurrió tras el cierre europeo puede no estar en precio y supone riesgo de gap bajista.",
-    "objetivo_pct": 4.0,
-    "invalidacion_pct": 2.5,
-    "confianza": 40,
-    "confluencia": [
-     "Noticia nueva con mecanismo claro (exposición a Brasil)",
-     "Tendencia bajista y -11,3% en el mes"
-    ],
-    "contra": "La acción ya perdió un 5,2% intradía y está sobrevendida (RSI 29); el cierre en -3,1% sugiere rebote y BBVA subió un 2,2%.",
-    "sesgos": "Sesgo de anclaje en la narrativa Brasil; la reacción de Europa pudo descontarlo ya.",
-    "ev_pct": 0.0,
-    "operable": false
-   },
-   {
-    "ticker": "XLE",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "XLE sube un 12% en un mes y está sobrecomprado (RSI 70) mientras el Brent corrige un 5,5%; el sector tiende a converger con el crudo si el petróleo sigue cayendo.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 40,
-    "confluencia": [
-     "Divergencia precio-noticia: XLE no baja con el Brent",
-     "Sobrecompra en máximos de 52 semanas"
-    ],
-    "contra": "Tendencia alcista fuerte y riesgo de guerra con Irán que puede reactivar el crudo (hay una hipótesis abierta alcista en BZ=F).",
-    "sesgos": "Sesgo de reversión a la media y de contrarian; cuesta entrar contra una tendencia fuerte.",
-    "ev_pct": -0.1,
-    "operable": false
-   },
-   {
-    "ticker": "ETH-USD",
-    "direccion": "bajista",
-    "horizonte_dias": 7,
-    "tesis": "Con probabilidad alta de subida de tipos en diciembre y un tono duro posible de la Fed, ETH, ya débil frente a BTC, mantiene presión vendedora.",
-    "objetivo_pct": 6.0,
-    "invalidacion_pct": 3.5,
-    "confianza": 38,
-    "confluencia": [
-     "Fuerza relativa negativa frente a BTC (-6,6% 5d vs -4,9%)",
-     "Riesgo de Fed hawkish y temor a la IA"
-    ],
-    "contra": "Ya cae un 14,9% en un mes; entradas de ETF de BTC por 1.080 M$ y posible alivio si la Fed suena menos dura.",
-    "sesgos": "Sesgo de momentum y de narrativa macro; el coste del 0,2% reduce el margen.",
-    "ev_pct": -0.09,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
     "ticker": "SAN.MC",
-    "motivo": "Apertura del IBEX mañana tras el cierre definitivo de la bolsa brasileña."
+    "motivo": "El desplome de Brasil tras el cierre europeo puede provocar un gap bajista en la apertura."
    },
    {
-    "ticker": "NVDA",
-    "motivo": "Seguimiento de la salida a bolsa de Anthropic y los resultados de las grandes tecnológicas."
-   },
-   {
-    "ticker": "BZ=F",
-    "motivo": "Mantener o no el descenso del 5,5%; condiciona XLE y las expectativas de inflación."
-   },
-   {
-    "ticker": "^RUT",
-    "motivo": "Muy sensible al tono de la Fed con el bono 10a cerca del 5%."
+    "ticker": "XLE",
+    "motivo": "Sobrecompra (RSI 70) y Brent a la baja: posible convergencia."
    },
    {
     "ticker": "BTC-USD",
-    "motivo": "Defiende o pierde 80.000 $ antes de la decisión de la Fed."
+    "motivo": "Se mantiene bajo los 80.000 $ a la espera del tono de la Fed."
+   },
+   {
+    "ticker": "MSFT",
+    "motivo": "Resultados y guía de IA como prueba del rebote tecnológico."
+   },
+   {
+    "ticker": "000001.SS",
+    "motivo": "En mínimos de 52 semanas; puede rebotar o reaccionar a la Fed."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Las hipótesis nuevas tienen probabilidades por debajo del 55% y un EV neto inferior al 1%, así que no hay ventaja suficiente antes de la Fed.",
+  "decision_motivo": "Revisión de actualización: solo observación, sin hipótesis nuevas.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10012,
-   "tokens_salida": 5840,
-   "coste_usd": 0.0784
+   "tokens_entrada": 10370,
+   "tokens_salida": 1491,
+   "coste_usd": 0.0357
   }
  },
  "calidad": {
