@@ -54,5 +54,19 @@
    "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap"
   ],
   "coste_usd": 0.0389
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-26T16:52:37+00:00",
+  "hora_madrid": "17:52",
+  "clima": "risk-on",
+  "resumen": "Cierre de Europa con sesgo risk-on moderado: DAX +0,9%, Euro Stoxx 50 +0,8% e IBEX +0,2%, con el Brent -4% al aliviarse el temor inflacionario y el sector tecnológico rebotando antes de los resultados y de la Fed. Frente a la revisión anterior, el IBEX sigue lastrado por Santander (-3,1%) sin causa clara en los titulares, mientras que BBVA sube un 2,2%. Bitcoin sigue débil bajo 80.000 $ por la cautela ante la Fed.",
+  "titulares": [
+   "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap",
+   "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+   "Former Fed Vice Chair Richard Clarida: We expect one more rate hike at the December meeting"
+  ],
+  "coste_usd": 0.0371
  }
 ]
