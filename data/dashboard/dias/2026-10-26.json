@@ -12,5 +12,19 @@
    "More than a third of S&P 500 companies are about to report earnings as market confidence cracks"
   ],
   "coste_usd": 0.0368
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-26T08:51:58+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "Apertura de Europa mixta: DAX (+0,6%) y Euro Stoxx 50 (+0,3%) suben, pero el IBEX cae un -0,7% por Banco Santander (-5,2%, -3,3σ, RSI 29), un movimiento que ningún titular de la lista explica. El Brent corrige un -6,2% (-2,4σ) desde máximos de seis meses, el oro rebota un +0,6% y los futuros de EE. UU. están planos antes de la Fed y de los resultados de las grandes tecnológicas.",
+  "titulares": [
+   "Stocks trade warily in Asia, Brent off six-month top",
+   "Fed Looks Set to Pause After September Rate Hike",
+   "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom"
+  ],
+  "coste_usd": 0.0421
  }
 ]
