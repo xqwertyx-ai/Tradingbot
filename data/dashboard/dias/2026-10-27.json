@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-27T00:30:04+00:00",
+  "hora_madrid": "01:30",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia, Nikkei (+0,9%) y el cripto se mueven sin dirección clara mientras se espera la Fed (previsible pausa con sesgo duro), el BoJ y los resultados de las grandes tecnológicas. Desde la revisión anterior destacan el Brent a la baja (-5,8%), el hundimiento de Brasil tras la victoria de Lula, la oferta de Anthropic en bolsa que impulsa a la tecnología y el aviso de Moody's sobre un posible desplome cripto.",
+  "titulares": [
+   "Nvidia, Intel, Other Major Tech Stocks Surge After Anthropic’s IPO Filing",
+   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "La bolsa de Brasil cierra con un desplome cercano al 14% la primera jornada tras la victoria de Lula"
+  ],
+  "coste_usd": 0.0358
+ }
+]
