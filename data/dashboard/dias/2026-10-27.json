@@ -12,5 +12,19 @@
    "La bolsa de Brasil cierra con un desplome cercano al 14% la primera jornada tras la victoria de Lula"
   ],
   "coste_usd": 0.0358
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-27T08:52:56+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa el tono es ligeramente negativo (IBEX -0,3%, Euro Stoxx -0,3%), con los resultados bancarios en el centro: HSBC cae un 7% pese a batir en beneficios y Santander cae un 3,5%. Asia cerró dispar (Nikkei +1,7%, Hang Seng y Shanghái a la baja) y el Brent retrocede un 3,5%. El euro se debilita con fuerza (-0,6%, -2,1σ), el oro sigue bajo presión y todo el mercado espera a la Fed, con sesgo duro.",
+  "titulares": [
+   "Europa se tiñe de rojo: HSBC se desploma un 7% pese a disparar sus beneficios",
+   "La Bolsa española abre con pérdidas del 0,35 % pendiente de resultados y bancos centrales - EFE",
+   "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why."
+  ],
+  "coste_usd": 0.0452
  }
 ]
