@@ -54,5 +54,19 @@
    "Reunión del BCE: qué esperan los mercados este jueves tras el repunte de la inflación a máximos de tres años"
   ],
   "coste_usd": 0.038
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-27T16:52:24+00:00",
+  "hora_madrid": "17:52",
+  "clima": "risk-on",
+  "resumen": "En el cierre de Europa las bolsas suben (Euro Stoxx +0,8%, DAX +0,7%, IBEX +0,7%) con el Brent en fuerte retroceso (-5,3%) y la tecnología y los semiconductores al frente (SMH +2,6%, ASML +2,7%). Desde la apertura no hay giro de fondo: el euro sigue en mínimos de 52 semanas, el dólar en máximos y el cripto rezagado bajo 80.000 $, a la espera de la Fed con sesgo duro. Revisión de solo observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+   "La Fed se guardará la subida de los tipos para diciembre pese a la presión de la inflación",
+   "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike"
+  ],
+  "coste_usd": 0.0369
  }
 ]
