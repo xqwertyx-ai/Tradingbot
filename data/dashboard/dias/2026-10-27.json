@@ -68,5 +68,20 @@
    "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike"
   ],
   "coste_usd": 0.0369
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-27T21:57:09+00:00",
+  "hora_madrid": "22:57",
+  "clima": "risk-on",
+  "resumen": "Wall Street cierra al alza (S&P +0,6%, Nasdaq +1,3%, Russell +1,2%) liderada por semiconductores (SMH +3,0%), con el Brent en fuerte retroceso (-5,2%) y a las puertas de la decisión de la Fed de mañana. Desde el cierre de Europa no hay giro de fondo: el dólar sigue en máximos de 52 semanas, el euro en mínimos (-2,9σ) y el oro rebota un 0,9%. El mercado descuenta un mantenimiento de tipos (más del 90%) y el riesgo está en el tono duro y en subidas ya en diciembre.",
+  "titulares": [
+   "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
+   "Markets Predict Over 90% Odds Fed Will Leave Rates Unchanged This Month",
+   "Oil prices slide for second straight day as inflation concerns ease"
+  ],
+  "coste_usd": 0.0669,
+  "resumen_dia": "Asia abrió sin rumbo y cerró dispar: el Nikkei subió con el tirón de la IA mientras Hang Seng y Shanghái cayeron, esta última en mínimos de 52 semanas. Europa abrió floja por los resultados bancarios (HSBC y Santander a la baja) pero cerró en verde con chips y tecnología al frente. En EE. UU. el apetito por riesgo se consolidó con SMH +3% y el Russell +1,2%. Todo el día estuvo condicionado por la espera de la Fed (pausa con sesgo duro), un Brent con caídas de más del 5%, un dólar en máximos y un euro en mínimos de 52 semanas. El cripto quedó rezagado, rondando los 80.000 $ en BTC."
  }
 ]
