@@ -40,5 +40,19 @@
    "Europa se tiñe de rojo: HSBC se desploma un 7% pese a disparar sus beneficios"
   ],
   "coste_usd": 0.0463
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-27T14:55:38+00:00",
+  "hora_madrid": "15:55",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. los índices abren al alza (S&P +0,4%, Nasdaq +0,9%) con el petróleo retrocediendo (Brent -5,3%) y la tecnología/semis liderando (SMH +2%), a la espera de la Fed de mañana, que se espera mantenga los tipos con tono duro. Desde la revisión anterior no hay giro de fondo: el dólar sigue en máximos de 52 semanas, el euro en mínimos y el cripto queda rezagado por debajo de 80.000 $.",
+  "titulares": [
+   "S&P 500, Nasdaq open higher as oil pulls back ahead of Fed decision",
+   "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+   "Reunión del BCE: qué esperan los mercados este jueves tras el repunte de la inflación a máximos de tres años"
+  ],
+  "coste_usd": 0.038
  }
 ]
