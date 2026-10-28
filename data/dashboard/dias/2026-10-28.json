@@ -68,5 +68,20 @@
    "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings"
   ],
   "coste_usd": 0.0478
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-28T20:30:53+00:00",
+  "hora_madrid": "21:30",
+  "clima": "mixto",
+  "resumen": "Cierra EE. UU. con subidas moderadas (S&P +0,3%, Nasdaq 100 +0,5%, Russell +0,4%) tras una pausa de la Fed con dos votos a favor de subir y mensaje duro. El mercado sigue contando con una subida en diciembre y el 10 años sube al 5,05%. Tras el cierre, Microsoft sube un 5% por la nube, y eso aún no está en el precio de cierre. El Brent cierra en 110,2 (-3,2%) pese al titular de WSJ que habla de más de 115 $.",
+  "titulares": [
+   "Fed votes in split decision to hold interest rates steady despite sticky inflation",
+   "The Fed held rates steady. Smart people in business say they still expect another hike in December.",
+   "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat"
+  ],
+  "coste_usd": 0.0794,
+  "resumen_dia": "Asia abrió en risk-on tras el rebote tecnológico de EE. UU. y el salto de SK Hynix (+11%), con el Brent cayendo con fuerza. Europa fue mixta: el IBEX cayó un 1,4% por Santander (-5,6%, -3,5σ tras sus cuentas), mientras el Euro Stoxx 50 y el DAX aguantaron. En EE. UU. la Fed dejó los tipos sin cambios con dos disidentes a favor de subir y Warsh insistió en que la inflación sigue alta. También anunció menos reuniones a partir de 2027 y el mercado mantiene la subida de diciembre como escenario central. Los índices acabaron con ligeras subidas y Microsoft sube un 5% tras el cierre, con Alphabet pendiente de resultados. El euro y el dólar siguen en extremos de 52 semanas."
  }
 ]
