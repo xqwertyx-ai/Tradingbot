@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-28T20:30:53.791971+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-10-28T21:57:34.880165+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -280,25 +280,25 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.1154489517211914,
+   "last": 1.1156978607177734,
    "date": "2026-10-28",
-   "chg_1d": -0.0017289590505767949,
-   "chg_5d": -0.006436088220056813,
-   "chg_1m": -0.019185756792016173,
-   "chg_3m": -0.03202459097965227,
-   "vol20_ann": 0.04269045142149015,
-   "ma50": 1.1421135544776917,
-   "ma200": 1.1569092947244644,
-   "dist_ma50": -0.02334671771643093,
-   "dist_ma200": -0.03583715957018685,
-   "rsi14": 28.37565359607538,
-   "from_high": -0.07182380068740313,
+   "chg_1d": -0.0015061979437271944,
+   "chg_5d": -0.006214377494577539,
+   "chg_1m": -0.018966891115793527,
+   "chg_3m": -0.03180859024971883,
+   "vol20_ann": 0.04263514762513139,
+   "ma50": 1.1421185326576233,
+   "ma200": 1.1569105392694474,
+   "dist_ma50": -0.023133038458250876,
+   "dist_ma200": -0.03562304703153496,
+   "rsi14": 28.613486704736616,
+   "from_high": -0.07161668102848406,
    "from_low": 0.0,
-   "z_1d": -0.6562558292508881,
+   "z_1d": -0.5717030604321814,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas",
-    "sobreventa (RSI 28)"
+    "sobreventa (RSI 29)"
    ]
   },
   {
@@ -309,21 +309,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 102.11799621582031,
+   "last": 102.13200378417969,
    "date": "2026-10-28",
-   "chg_1d": -0.0019742325997497145,
-   "chg_5d": 0.003320863043596134,
-   "chg_1m": 0.007378844322498468,
-   "chg_3m": 0.021077832562371057,
-   "vol20_ann": 0.04911136214048503,
-   "ma50": 100.68935974121094,
-   "ma200": 99.60284008026123,
-   "dist_ma50": 0.014188554563076217,
-   "dist_ma200": 0.02525185158909471,
-   "rsi14": 57.72893898171074,
-   "from_high": -0.004503856570360343,
-   "from_low": 0.061296974852335984,
-   "z_1d": -0.6726865282575255,
+   "chg_1d": -0.0018373329867595878,
+   "chg_5d": 0.003458488987076125,
+   "chg_1m": 0.00751702690097189,
+   "chg_3m": 0.021217894236805313,
+   "vol20_ann": 0.049028403790462416,
+   "ma50": 100.68963989257813,
+   "ma200": 99.60291011810303,
+   "dist_ma50": 0.014324849042467225,
+   "dist_ma200": 0.02539176478958116,
+   "rsi14": 57.96783927397912,
+   "from_high": -0.004367303946950951,
+   "from_low": 0.06144255340338223,
+   "z_1d": -0.6260402894132262,
    "trend": "alcista",
    "flags": [
     "en máximos de 52 semanas"
@@ -337,21 +337,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 110.2300033569336,
+   "last": 110.44000244140625,
    "date": "2026-10-28",
-   "chg_1d": -0.03205122922827275,
-   "chg_5d": 0.012957210678768538,
-   "chg_1m": 0.07447126709976493,
-   "chg_3m": 0.23812203603631388,
-   "vol20_ann": 0.3214835036855043,
-   "ma50": 102.22159942626953,
-   "ma200": 91.92749990463257,
-   "dist_ma50": 0.07834355924395764,
-   "dist_ma200": 0.19909715233513814,
-   "rsi14": 56.489184066420535,
-   "from_high": -0.06861001454903315,
-   "from_low": 0.870841934530677,
-   "z_1d": -1.360435143051518,
+   "chg_1d": -0.03020719085860768,
+   "chg_5d": 0.014886994588542368,
+   "chg_1m": 0.0765182413854546,
+   "chg_3m": 0.24048078126097971,
+   "vol20_ann": 0.3188473785551253,
+   "ma50": 102.22579940795899,
+   "ma200": 91.92854990005493,
+   "dist_ma50": 0.0803535221149636,
+   "dist_ma200": 0.20136782927041752,
+   "rsi14": 56.944623217258766,
+   "from_high": -0.06683562428980072,
+   "from_low": 0.8744060738891086,
+   "z_1d": -1.2821637424334462,
    "trend": "alcista",
    "flags": []
   },
@@ -363,21 +363,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4082.0,
+   "last": 4081.199951171875,
    "date": "2026-10-28",
-   "chg_1d": 0.001816105179992089,
-   "chg_5d": -0.016385542168674716,
-   "chg_1m": -0.023374929001383826,
-   "chg_3m": -0.004414550187834876,
-   "vol20_ann": 0.1567227573214458,
-   "ma50": 4319.133974609375,
-   "ma200": 4525.991998291016,
-   "dist_ma50": -0.05490313011900072,
-   "dist_ma200": -0.0980982729219726,
-   "rsi14": 40.131284872160364,
-   "from_high": -0.23247591851806493,
-   "from_low": 0.030677944703951576,
-   "z_1d": 0.13658451597925914,
+   "chg_1d": 0.0016197549102845432,
+   "chg_5d": -0.01657832501882528,
+   "chg_1m": -0.02356634197139118,
+   "chg_3m": -0.004609679284459212,
+   "vol20_ann": 0.15667386496393,
+   "ma50": 4319.117973632812,
+   "ma200": 4525.987998046875,
+   "dist_ma50": -0.05508486313950445,
+   "dist_ma200": -0.09827424356117198,
+   "rsi14": 40.03444434002632,
+   "from_high": -0.23262634888110933,
+   "from_low": 0.030475937677534315,
+   "z_1d": 0.12181752624438102,
    "trend": "bajista",
    "flags": []
   },
@@ -389,21 +389,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 81073.25,
+   "last": 81254.84375,
    "date": "2026-10-28",
-   "chg_1d": 0.0033187502719216333,
-   "chg_5d": -1.1563483137022601e-05,
-   "chg_1m": -0.02645037642648651,
-   "chg_3m": 0.025887572648338963,
-   "vol20_ann": 0.20354019501240245,
-   "ma50": 81884.33328125,
-   "ma200": 73065.7624609375,
-   "dist_ma50": -0.009905231547335913,
-   "dist_ma200": 0.10959288275878132,
-   "rsi14": 46.75552516704161,
-   "from_high": -0.28225917839117487,
-   "from_low": 0.38447454177380824,
-   "z_1d": 0.18328250687835504,
+   "chg_1d": 0.00556605643403052,
+   "chg_5d": 0.0022282832004945075,
+   "chg_1m": -0.024269749315129818,
+   "chg_3m": 0.02818543009695018,
+   "vol20_ann": 0.2042240855903296,
+   "ma50": 81887.96515625,
+   "ma200": 73066.6704296875,
+   "dist_ma50": -0.007731556218816049,
+   "dist_ma200": 0.11206441010873802,
+   "rsi14": 47.60397360647969,
+   "from_high": -0.28065153040217694,
+   "from_low": 0.38757558834367245,
+   "z_1d": 0.30739305252540566,
    "trend": "lateral",
    "flags": []
   },
@@ -415,21 +415,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2349.659912109375,
+   "last": 2362.659912109375,
    "date": "2026-10-28",
-   "chg_1d": 0.0008220415706579054,
-   "chg_5d": -0.014436393959313176,
-   "chg_1m": -0.08698855762473379,
-   "chg_3m": -0.062483945236758154,
-   "vol20_ann": 0.2597863466531675,
-   "ma50": 2533.8865380859374,
-   "ma200": 2158.788384399414,
-   "dist_ma50": -0.07270515992232418,
-   "dist_ma200": 0.08841604350352394,
-   "rsi14": 37.998589818295315,
-   "from_high": -0.4099685942552752,
-   "from_low": 0.5015560522843552,
-   "z_1d": 0.03926408383734089,
+   "chg_1d": 0.006359305271402604,
+   "chg_5d": -0.00898355084252922,
+   "chg_1m": -0.08193712499411832,
+   "chg_3m": -0.05729693555543758,
+   "vol20_ann": 0.261436735209333,
+   "ma50": 2534.1465380859377,
+   "ma200": 2158.853384399414,
+   "dist_ma50": -0.0676703668865527,
+   "dist_ma200": 0.09440498793606555,
+   "rsi14": 39.84367156439067,
+   "from_high": -0.40670411830488307,
+   "from_low": 0.5098637348468809,
+   "z_1d": 0.30374655520615484,
    "trend": "lateral",
    "flags": []
   },
@@ -441,21 +441,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 101.88999938964844,
+   "last": 102.70999908447266,
    "date": "2026-10-28",
-   "chg_1d": 0.006271316512321823,
-   "chg_5d": -0.008657941818476567,
-   "chg_1m": -0.12332016085309727,
-   "chg_3m": -0.002715496415953922,
-   "vol20_ann": 0.26196126243419726,
-   "ma50": 109.39427429199219,
-   "ma200": 88.6159285736084,
-   "dist_ma50": -0.06859842483449863,
-   "dist_ma200": 0.14979328242341894,
-   "rsi14": 38.66158525255302,
-   "from_high": -0.4759898432104269,
-   "from_low": 0.6383714485295795,
-   "z_1d": 0.22602797181046316,
+   "chg_1d": 0.01436967923087451,
+   "chg_5d": -0.000679728156244952,
+   "chg_1m": -0.11626473632796919,
+   "chg_3m": 0.0053105414041514365,
+   "vol20_ann": 0.26746136476416293,
+   "ma50": 109.41067428588867,
+   "ma200": 88.62002857208252,
+   "dist_ma50": -0.061243340699164706,
+   "dist_ma200": 0.15899307119867956,
+   "rsi14": 41.09700523766838,
+   "from_high": -0.47177266614470703,
+   "from_low": 0.651556884743641,
+   "z_1d": 0.5179055220287417,
    "trend": "lateral",
    "flags": []
   },
@@ -783,11 +783,200 @@
  ],
  "titulares": [
   {
-   "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEUwR3Zoa21heXNLWTVvVFdwTDU5ZENUT3U4cTRPcmlIemE3ejZ1UkZTNVN3T25naFBKUzRxcUlQeXhNcGhTRlFGRVhhbVMxS3h0bmpSZlZOWUFCNjdPTjFCT2lWSDhISzVlazJvWU1iVUZJUjFfel84THBHNXA3NldB?oc=5",
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-28T21:55:38+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Federal Reserve holds rates steady amid high inflation",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHNnVsd0pOUzBRUU9uR3R2SzZrXzZlNW9xV3JQWW5YLWItUzc1am81VnRzOWhtRng3ZGU0am1FdFpvTnQ1OVAzcEZjYWx2T0diazVfZ0kxNmEyeHlNMmd6TWotM2Z5ejBoc0FMcXFUN0FzQU94S1BN?oc=5",
+   "source": "The Business Journal",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:48:12+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The Fed Kept Rates Steady in October, but We See Cuts in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUszX0dFRFNpVGRyQ0tkbmt5azUzdzdoOXJaaUx1Z0tFY3I2SWtnbmFBWkpfbmdMUkZSUGkwQzJXOHJKaEl5QVRrbjFrYlNPczl1dGxuN3RkTVU5Yk1YVERuZWFqSzZsTzJ0VEREaXNHOWNoNkJ4cFlBbVhvZGZPUkMzWXYxNGFfanc?oc=5",
+   "source": "Morningstar",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:45:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-28T21:42:24+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:39:20+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed Delivers an October Surprise on Strategy, Not Politics",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2VtR1h6Yy1YUDVVdGNjNmxZcXFBazZWLUROaG5DUWJFWW1OOERjOHExTWdBM1VjOWRuOEp3M005YlQ4Wm92T1FHYzRJVjFrZGgxSlJDOUt6X2FWdjBOc3RGY0FEYUtxMUJrWmloSHFTNDhSc040Y3RKT1JRNTM4bmlldXAwdXpNRVRRQzBaejFfd0VLN2U4SmFWOGVjX0NnYmlhOS1Rcw?oc=5",
+   "source": "Global Finance Magazine",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:38:51+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:34:55+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNURmRi01T1pRa2lMMWNSUFVGUUFfaU9jRGJGSkVVc0FDTjZWSWU4aUVDNjBhSkhVYjFqSHRjZkdiT05UQk1VcVpoREdRT3pXWFV4enk2d3ZQUGRLdWpvZUNWNzJZQWhTXzNlaWJWRUlEQWVub3hOc1FyWjBGclpoZ2dRNndLazBRSThsOERYSkJzOFJXVEw1RTRSUkQxRzBfWC1jMXdwNmFzT0ZmMlFuN1VCNG11eGZlcjhVWThXZEtyWDlxLUVCNnZiWVVjNXBhdjYyNXFn?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:34:07+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Tracking Trump: Fed keeps interest rates steady; Iran war cost update; RFK Jr.’s peptide plan; and more",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempyZ1I4MFlrRjBnVzZma19IcnlkNFUyM1R0aGx0eVU5REpVZTJoUmNiLWpSSlVXMGYtVkl6TV9tU1NoNnpCSk9oYm5mUzA1a2g5WEhpUUtpcDF6ZTJaQXNENmRWWmdNZGRNbjVtcmRaUWluN2Rka1RVNGlGTXA4dnQ5ODY5aXZVVzlGU1AyTEJNWGFLa1hEQ0lGd284UlB0VVBfdS14bjZYWUpvQVNOa1RibGwtMzlnMlRwdEVGOS0tVGFLdkRDZVhmTU1XYl9ianc4MmtZV0w0Ny1aMDE4MG1URXhvLUU?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:33:57+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HTy1FRHJET2ZsWjdodm1pYU11UnkxQnJwU09YdjVUQV9xaEJfc2V6blhkdHJNV3ZLTGtaZ3lYZ2pYTElPQXVLMFl5T2IwVkhaWUo4Y2hrZGxfMXJ3d1NaYXhTSHBXM3RnS2NJMzA1cUppWGxRelEta1pR0gF_QVVfeXFMTXBjUk5HbWZHZHBtbFdrTDU0c2FpdUxrQmtCakJZTUxQUWdCYXcydWFfVmFDdnViazVkRmxhOHNuR1ZNdmdpSUFZUEt4OXphUlR2bjNqejg4UkpZZ3VNWU9DZ0RTMnUzd1lPUEphVTZXV2ktV3BUYXBJNDZrVVRZaw?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:31:46+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed leaves rates steady as governor Lisa Cook dissents",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+   "source": "Axios",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:29:57+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed Holds Rates Steady Despite ‘Elevated’ Inflation",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1BdGtmWVdsaDdsWktpYlk1d2lzWGN2OGdvc3VSNFZxcC1EZ0lWVHhuT1ZpOWphTHoxMzlVY2U2cWxKZDNIZVBhTkR4OXNzbW5fVG41SFZ1b0U1cHFtempLQzVQQmRuQmhpWVJXdy1mV2NxSERSZjZqVnJRZkRJR1diMFY1dkxT?oc=5",
+   "source": "The New York Times",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:27:49+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeU5HMzA2MkNZb2VTbnlRUDhOR0ZNRHdrQy0yQTRTVG5fSWh4VWlUakdUT091eWVjVGpURmxkNVdVV0hRRWdjeEpxYm01VjRLcXFnR0Z3M1F6emM2V0NkSWg0bXRJMklNS2pfMl9mUVlMUDN2S29FckZnSkRoM0ZDTFdkSnBzR3NwcVphMDZhOE9fX2FhOFo0OVBEZk1zS0tnemNnZGFHbkd1TUFGWFRCQkt3aEhsT1BGcGozQ1V3OEpTU3hOeHlwTWh3WXUzMzlKRXVrS0pSU1AxbnRUaWJKcm1CX01oVmR2?oc=5",
+   "source": "MarketWatch",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:27:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bessent Plays Down Concerns Over AI Financing, Fed Rate Policy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEVESE1Tb0FzR0xWY0NTUGVlNmFtWGhvdk9LVERpci0wY1VwMGtvMVU5T0RaOWktSkpZWWwxQnV0YkZyNU5uZC1qT0NXR1J3dDhwZ3puZXgtdkFBSzUtTHVGbHpQQ09nbjExRm9vRUQtWVphSEFOQ203OWtvd1FHck13alNJQ0ZGdjlzV09uT09icWFZd0M2TGJ6Zk50TlIxYU54cHk1ZUZ2Q0FDNTVSZm1R?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:26:25+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Global stocks hold gains after Fed decision, oil prices rise",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTWhSMy1kVWZYQ0xpc2ZCY0ZoVXkzWDY1UGhXdk5KaThOV0I4NG85U0JGSVgyNEgzNW9pWTduVE8zOVVFWXExQ2hIUElvclN1Y3ZaeW4yc2d6bFJIQ2xXaHIxeXIteGpmaGphYkhOb3BabHpHWHB1aE5nRUdoRUdleWZiSTEySlAxTmkybktJaFRZeUdGMzg2VklEMUVWNUpReFpvejBtLTFZRktmNVVOQi1IcVItd2lmVy13d3JIUkRJZkJlUTZtRlVRR3V3X1VnMjNRd0N2bDNBVHFBdld3eFVEN1BCTVpyMHBNYzMyYw?oc=5",
+   "source": "Central Oregon Daily",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:20:04+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmJ0VE5rbEEtVEU3aXoybnhqXzNCNlltcS15UmUxd2E1eGxsdHBVVHdnSGs0MG5iSGhyUDN4LTZJbzNSdTNFLTk1ckFBQm5Pb0ExWXFMT3BfLVRwZ3FaYXRublNqRGczQ3E4NTBPckZqdFQtdjN0X2dhOXZRNkFEOEQ3bzVRN2lNbVZQQlBtZGlYUEdpeEd2WC1aWEFfN1RyU3NtTFFHR1ZfYXl3VUhXVGU4VzltNk9tS3BYOFJ3R2RGYTcwamR4OHhTWEF2OGNuNVhBYXR3VTRVdUxfY2FiN3FHODVyYmlJS0tGajc4X1RzRWlMNXBaYTdn?oc=5",
+   "source": "The Motley Fool",
+   "feed": "Google News · crypto",
+   "published": "2026-10-28T21:16:45+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Federal Reserve holds interest rates steady",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:16:22+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "News | Fed leaves interest rates unchanged with two dissents",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOThGdlNNWkNweEJ0WnRJb0dZTjZvNVcyY0g4VmVhRnVNNTYwUlBLWTdTOHBrMDV4TE5Hc0V5LTFqdTIwVEd3NlhNcHVheVU0SS1vMDlpemcwNUpkQ1htRk1sQzg2TExwak1la28yTEpOMzFQMGFtRHVhNUpSamI2UktaejNYMl9tWHg3OWZsQ3BFNXVLODVsRzluUQ?oc=5",
+   "source": "CoStar",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:15:49+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLW5MTWt3NU5JRHl0X1plZ0RLSEtkeG0tSGtwVG1WY3lBZnlXaGd5VzktQ3BDOWZkZTBNSl8wZnVXQllIc0ZwQUl2R2lfQjJuX1hzMEtWXzR0dWZIVG45VWNDZHppRHJTM0M0aTBkRXdpcEo5TkhhbzVZRzZuc2xDbC1iTUUzMjN6TVV4YVZZSmJnd2Vsc2Q1Z2Juem1HSTFWUVBKOUFreFpHdGxTdnJj?oc=5",
    "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-10-28T20:24:00+00:00",
+   "published": "2026-10-28T21:12:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Ford beats on earnings, misses Wall Street expectations on revenue",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTNveDNoMXpWOFp5QzlBb1NNRFl6OWZPX2tQcnJXbnE0M3lYREthZ2NNck1PM3NQVUw3Z24xZ3N0OWxfMkRBZ0tSYWdDRzhaeklfS2dubFdqUWRuc1BWV18tVE5qdVpIYkdFcDBlbWRlMXdyTWdxT0EyNkRyWWtPb1BtNkNSdHRkSmVNVmMtX282bTFDVlB5bDFFTFhyLXlfLWd1ZkVzX1lVZDZF?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:10:53+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "COMMENTARY: TRADING DAY Fed pauses, Big Tech reports",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83NXdIMU9qaXloUFdPYjNyNHFmZUVjdVlEcTFINkRTNTV5aHpzNG5qMUdIVnJUVFl5aWtnc012Y3lIUmJiWGJGQS1MU1pYQkJwMDREVW1oT28zTjlCQmF5VlNLLU5yN05UVVRzcUdJb0IxdkRXem1zWHJwaGhDd0RjSFV6Wmt0Q1hPSUJHa0sxRW54b3NBUmUzREdnaXZLaU4wb2F3?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:09:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE9pXzV6aEE4Rk1WdmFrSURVMTlTUDgtTmU4c0x2bWdILW1DVzRyZkY1RksxQ2hqNFdqSi1aeXlzd293ei1NZUtaUGtRM3lLYzZQZzRDSEZmRXphNktwNlNjS2ZEMmFHNXJnRjJPekxQTW41c08xYTlZS3pBVDJEY01ZWmpjLV9UX0EzOTNkSlQ5QQ?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:08:57+00:00",
    "category": "macro",
    "score": 3
   },
@@ -796,7 +985,70 @@
    "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "feed": "MarketWatch",
-   "published": "2026-10-28T20:22:00+00:00",
+   "published": "2026-10-28T21:07:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Tim Draper Warns Bitcoin Adoption Could Spark Bank Runs and Erode Dollar Trust",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkSkdtWDlrQjN2NkR0N29MeXVINFFIUFd1YlNMalc3R0JGNGppc2V0V1V2WjdfeVozX184RVE4SDZrTVJWSF9HT29JSVVqN091TXZuZC1pQ3pmdkwzSkl6dFNMNFc0eGJBWjRDRmtfTDZmQXlhSFE?oc=5",
+   "source": "BigGo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-28T21:05:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Update: US Equity Indexes Rise, Treasury Yields Fall After Fed Stays on Hold",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVkM3VkaVE1X0VFdVB0T3FVSXpINmRLVHkxaExLeENZbkxiQktrWDhwczVIVUwzVUt4a2hVUFhtVDVadTVNQVZMbXhqQV9EbXdkMkIyRVltMW1TTlQ5M0JMbkZSLTNlbVk5MHp4Z3lqZ0FaTkVJbzlfWXF0VlFXeDRWNTBzN0hMSXV2bl9yVTZDRnA2cVlQdDJ6aGI?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:03:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-28T21:02:56+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bond market swings, but US stocks remain steady after the Fed says it won’t raise interest rates",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1BwQl91NVpoNVR5QmdqZlprLWNFaGc0Z0drVVhrV0xhcTRLYi1VeUFHUTdjUldvSW5PWGV1anhRdWNrZXEtbFZvc3VMRHJOY2ptQWpJcmRTS18zR0R5OFZNTl94Tk0zZVdjZ28xU3JMNU5zOHpveE92TE00b3FRM2d1Y3BvV25TR2FKSFFlWFI1UUZ1Wl9oUG53?oc=5",
+   "source": "Camden News",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T21:00:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-28T20:59:23+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:50:28+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+   "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-28T20:49:00+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -805,16 +1057,142 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
    "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-10-28T20:21:00+00:00",
+   "published": "2026-10-28T20:48:00+00:00",
    "category": "macro",
    "score": 3
   },
   {
-   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+   "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-28T20:45:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDVrWWJuNFJ6Mk12dzhsQ2x5VUVnOFlVR2xaaXFwS1Z1dU5CSzM1bXdIOTBMT0xPZnFSTjIwTENlQlZiY1p5YzBfVlZoRWJDMzlIY29TRHY0WVVCVWFkYnpydjM5MUlWSzNjZjg0NWYtMFBSWlpoNkVCLVZxeUNlZEhjNlhIQkhYa0xGRzRZc2Jzc3RMTnh2SnpneDg0SVhZanc?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:44:28+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "REACCIONES-La Reserva Federal mantiene los tipos sin cambios y los mercados suben con moderación",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdGJhMjNRbUpHeEF0Y0R5WHNWS09FakZzaUtFc0F4Zzhyd3EyamdDMmI4eHlWSmw2cUtSQkxEdENmX3NyM3dNMkdMWVFUZEwtcGptUmtlaVRpcTY4S3dlclVEa2xoeEVmcUdvX2oyVWZfZGx6bFh4RU94ZkRzbDQxMlJrSTVpUWc5VWQ0ZG9XRUsxS3VpQ3V1dms3bGkzc2dralBteGdoV1UtamtwVzI5UGc0M2FzaUNQT3RNcTNmcmQ2dmZDRVhNblVRVWVDd2cwaTBEVEZld1dWWnZrSVFtd2c4aWdUc1k?oc=5",
+   "source": "MarketScreener España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-28T20:37:41+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:37:21+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
    "source": "CNBC",
    "feed": "CNBC",
-   "published": "2026-10-28T20:20:16+00:00",
+   "published": "2026-10-28T20:35:33+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Despite pausing rate hikes, ‘inflation is too high’: Fed chair",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3NuT3h0OUYxU0x4ZUk2THhkblppajlUU3hjN3Z4OUF6Mmk3cHhJOHl5b3VQMHNoc2NXUzdVN0ozQU9GMGZQUHdmUFFBVHdTZzRLS0taOGlKeXNuMDh5UV8yWVQtcE82a2tZQjdxZHpGRVR3UjRFNVZIOTg0dktmOGU4WS0zaDEtbmp2ZmpFZk5IZ180c3NZMEN6bGJrQ3dqM3kyRw?oc=5",
+   "source": "Multifamily Dive",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:34:39+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Divided Fed holds rates steady as investors bet on December hike",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVpnQVZmSXB5R2FSejJ6ejNhZUNGMGszQmhaX0FKWk9PZXR1SHNCcGFXeGJnRXVmZVVRQkhuc1ZNc0VfMi1RdEtQNjBkam55SnJJaFI5Q0N4VDRHVWZnUHVLcnFtQkc4V2VUcXZhckZYdU5MUkZJMEEyQnNVcWdKR2ZaZG9NT1I0eFp4YmV2SUlTdlZzdURFQTR0UHZ1UGoyYVJFOC1fWWhEQQ?oc=5",
+   "source": "RealEstateNews.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:31:46+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Munis stay quiet as Fed holds rates",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RSXlmWW1wMG5xRTZuZVQwRU9UUXRfQ0tsVHhNNmRCYlpNWmlidUgyb1VZd1l1TXoxOHNZYzdscEhnaHZpbFR6R3VxdktxdEtMN242MlllZmRHeW9BSmdqUnlwR3BySjlTNnd1dE1SWlUteXZK?oc=5",
+   "source": "Bond Buyer",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:30:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed to cut back on rate-setting meetings, Fed chair Warsh says",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjVEYjRLeGdLYmw4dTJQRkcwNldUNkJyaXNKZ2NSZ0RHQVZfbUVSU0hiWU5HOUctRlc0dUZRRVA2elRkQWRkTmtUNWQ1aTMydDdweFFSY2ZQX184SzlVY2hfT3BuVmNzOFhlWVRmeVZ2clRxOVQ0MEduam4xb0gtU0pYY0tUdXQyR0l0M0MxNHVuSVdCUW82bHJMQzFvczFGNWxuTVFJSElRckxpTXNBXzR5aUs3NUg5M3FHOQ?oc=5",
+   "source": "WZTV",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:27:11+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The bond market swings, but stocks remain steady after the Fed says it won't raise interest rates",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMS15TGh0RC00ZWcyMUhwdTJVVU5DcFNyWTlzcXpkVEhiWXJaT2Qwc2VXVERFM29kcGJtallidHBJU2ZYSnd1cVg2aUkxbk5WYkhpYlFhR2hnU2hBb2RmV2tUTFNjM09Hd1BhRmRWbkwtamNDMmgtRldTRnVzNVNfNl9XeDVJLXFrbjEwclVHNUp5V3dhb2x2RzdnaFFRdnJMSHhTczhfa2FyU1VIWHNTQUlGZElsYXA1X2NFY1drNmhWcDEtUFFoWVJYeVhpSlRyakdF?oc=5",
+   "source": "Los Angeles Times",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:25:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin Returns to $81,000 After Fed Holds Rates -- 2nd Update",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNci1pcF9BdDdLNkJ6dTUtOFkwQ1RRMzZQcWtmc2RqVl9GTHNiSy1YUTdQbnBPX1FkUmFOY0FBbGx1M19DQTY5T1cwT2g5TVRQR2hCMGxPMzZBTGxhMkdodGVyV2ZJZllpbXlUUmN5czBubEVJSEh2NTk3OGNFVmpFZmg3b3Z2LVJkYzFnZWthT0pNYVBJX0pNSUFmNjNZVjJSSUgwYlMzcEozT19rdjlydQ?oc=5",
+   "source": "marketscreener.com",
+   "feed": "Google News · crypto",
+   "published": "2026-10-28T20:24:45+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFJMUDA1UWY0NlpyWjR4TWVLM0NXTVpPdFNwRUVLWWNUUVpwM2xHU1hmaFdxUHVXYTBEVE9LMnJWRl9leVV0R3ZnVU01Y0hUcTI3V0xfX0pfbVF6aTYwRHEzblloS21hTFRrSHZFdDBSVHdRNmpURGZPR0JsVmtmcFlvdWhJb2xNZFF5YVBHMUIyaThjUnc1RA?oc=5",
+   "source": "Fortune",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:24:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed Leaves Rates Unchanged, Oil Tops $115 | Markets P.M. for Oct. 28",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEUwR3Zoa21heXNLWTVvVFdwTDU5ZENUT3U4cTRPcmlIemE3ejZ1UkZTNVN3T25naFBKUzRxcUlQeXhNcGhTRlFGRVhhbVMxS3h0bmpSZlZOWUFCNjdPTjFCT2lWSDhISzVlazJvWU1iVUZJUjFfel84THBHNXA3NldB?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:24:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+   "source": "Reuters",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T20:23:48+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "La IA dispara a Microsoft en bolsa con 36.600 millones en beneficios con el buen momento de cloud y Azure",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTnY0em9QVzVPQjVrVUU4OWI5Q3VVTHlYb0lmQXA0ZTZBckFXb0NmeGFjWVdqaUFxcW93MW9XN3FBem5DMF8wUWh0S29qa0N5aUFad3Q2UGl5WjFkTXhybjY1XzBlOUlGdy1ya0ZudHp1YzlJU0RsYkpLSllsNEtocXVqUTRFM3JDb1Jrd0k0Q3dGeFQ1VEVaZUN1WHlGTDNIZGxJNG9UNTJKS2dmR0ViN3k4QWlNN2N0Z2t1cVpSNlN6UUZKaGZ2cjBaMHk3cHRsdnNNSlJITno?oc=5",
+   "source": "Business Insider España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-10-28T20:19:45+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -828,38 +1206,11 @@
    "score": 3
   },
   {
-   "title": "Iran’s Inflation Hits 88.7% as Officials Warn of Job Losses, Winter Shortages and Social Unrest - National Council of Resistance of Iran",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanlUZ1RLTHZpNU8wMm8tUGpBR0lYV19xdlU1VkVsVEVMVDFRa1lnS3drNno5bW5pNTF3T2dFOWNMaTRDUkRwb3l3bGNiZjlHa0hTWG5rVFRZd3p1ZHNPNzBubzRCVFZ0ZXZMZnlIVlpaTkRUNThPekk5US1wSFpiV0NPNUU0MFZfMHhUZnprTUJtVWxPWHRHa0lDYXBib18wMm50UDFLQXQ0SGFMM1RralhFckdoSU9qbkE3eV90STM2dHU5TjF6WWhSVHdTODQ?oc=5",
-   "source": "National Council of Resistance of Iran - NCRI",
+   "title": "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
+   "source": "Bloomberg.com",
    "feed": "Google News · markets",
-   "published": "2026-10-28T20:15:14+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "source": "AP News",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T20:15:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Options traders break down a massive Alphabet trade into earnings",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-28T20:13:59+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Says Politics Played No Role in Keeping Rates Steady Ahead of Midterm Elections",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ3FpRmZjWlZiSzhOV0F2SHZYMW1aVDhpNUNvLU5PT21TWmI4c1Iyd1FmMHlNWU1CRlpBMmVNVWk4VW1TYS02NWI3UWpobjhOOUZLaFFzc1ZFdURFUlF6TXAxTzhaTGdvVWNyY2lIb1JrazN6bl9sakpoS0VXaVVyQUtLUS1YWUl5LVEzdktqdDR2ZGRhNTJNZUdWMExzTUFwbHRPRk9ka3N5MnhxSUo5RTFMZ0hZeVFRNnpUeFFiTGVrUTNHbWZIR0M5Rk9XZFY0SFFQZ00tQjFydVlmamUxYzZ6Mmx5Z3FD?oc=5",
-   "source": "C-SPAN",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T20:11:08+00:00",
+   "published": "2026-10-28T20:16:34+00:00",
    "category": "macro",
    "score": 3
   },
@@ -873,15 +1224,6 @@
    "score": 3
   },
   {
-   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-28T20:06:21+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "The Fed Kept Rates Unchanged. Stocks Edged Up.",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUsyMWp5U2l6T1hlTkRpOE9ZQV9ZNHFzQWI4d3JQSGYtSWFCLWhiUjF6SGRQdERtNU5LN2FKeFRlWDNfN2l5akF2Rk9EZWVTQ1JQak1vS3VhbGtXQUxoZnhxSHJEcF9KRWlHZ1FYalVfODN3a1k3djgxOVRSWHJoYVRyOHctZEFSWF8yZkVJMDJJeWN6Smljem9CNFI?oc=5",
    "source": "Yahoo Finance",
@@ -891,11 +1233,11 @@
    "score": 3
   },
   {
-   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-   "source": "WSJ",
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+   "source": "Reuters",
    "feed": "Google News · markets",
-   "published": "2026-10-28T20:03:45+00:00",
+   "published": "2026-10-28T20:03:43+00:00",
    "category": "macro",
    "score": 3
   },
@@ -913,16 +1255,7 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0dVZ2pLaVAwNTlaVFZWbElkMFRxRF82MmNpcWxSamRVOHFKcHBTT2p1dEVtX1lHUXdaWUktQUQyeEx6Y3NVQ3FIcldSVnUtd1ByX2lETE5qek8zZFh1aU1BcXVmWmJCbkZtQUxNeER4VzR3MTdyUjJVMnI0b3VSajA3bHNBQzZoSUsydGNWRzJ5V1RKYVViaEJiNA?oc=5",
    "source": "The New York Times",
    "feed": "Google News · markets",
-   "published": "2026-10-28T20:02:55+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T20:01:12+00:00",
+   "published": "2026-10-28T20:02:56+00:00",
    "category": "macro",
    "score": 3
   },
@@ -945,20 +1278,11 @@
    "score": 3
   },
   {
-   "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
-   "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "feed": "MarketWatch",
-   "published": "2026-10-28T19:56:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "The Fed held rates steady. Smart people in business say they still expect another hike in December.",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUhhSVlOdDVKRUhhaXpoWGxuMjltYjRzeFZnc0JDUGpkQmxpazMwOVBieHhSS2NCbXloMVl3U2ptT0tINFNjNTZsaHlDTk1HekpSQncwRGg2ci0tOVRYLTlsODdTaWd0X2VpOXpVMTZDVWpuTWR4ZVdGWHhDMWtqOFoxbnNKa0lPUFZEclNlMTRkMmkybTlxOA?oc=5",
-   "source": "Business Insider",
+   "title": "Federal Reserve makes interest rate decision ahead of midterms",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
+   "source": "Fox Business",
    "feed": "Google News · markets",
-   "published": "2026-10-28T19:55:12+00:00",
+   "published": "2026-10-28T19:55:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -972,29 +1296,20 @@
    "score": 3
   },
   {
-   "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-28T19:53:25+00:00",
+   "title": "A hawkish Fed holds rates steady amid rising inflation",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1NJZEpPbXcwclhKcWRHNWxPWFJkWmFZQ2tuRFNZbnhscE1pNFRiMjZteHFUWllnWThTWGtMbFJaTmdEMXRPdEVvU0R1cE1vLWJRQm1HVWNFcHk4OW14ZmxjTWs5bktZUzV6MDNENUVWM3UtcVN5VGkwZ3BZclgzVmZNUjRoS2pVdGdEUlV3?oc=5",
+   "source": "The Real Economy Blog",
+   "feed": "Google News · markets",
+   "published": "2026-10-28T19:51:58+00:00",
    "category": "macro",
    "score": 3
   },
   {
-   "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFJMUDA1UWY0NlpyWjR4TWVLM0NXTVpPdFNwRUVLWWNUUVpwM2xHU1hmaFdxUHVXYTBEVE9LMnJWRl9leVV0R3ZnVU01Y0hUcTI3V0xfX0pfbVF6aTYwRHEzblloS21hTFRrSHZFdDBSVHdRNmpURGZPR0JsVmtmcFlvdWhJb2xNZFF5YVBHMUIyaThjUnc1RA?oc=5",
-   "source": "Fortune",
+   "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5",
+   "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-10-28T19:50:45+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed holds rates steady despite dissents",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzhza3JvMXJVcjdaNnFsM1ZHOVJuQU9MaFljVzRodmhPZkg5Y2xxNUVqOE5tNHc3ZUtMcjliM09rclQ1X2NqbFREckhfREJfTU94Z2hfQ1ZfWXNrdFVoc3pQcjdNZDRKRk9NR0VYRUNXSkpzeW8zdjVOZ1NSZjdaeVRjNDg1bVJUcmc?oc=5",
-   "source": "Semafor",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:50:00+00:00",
+   "published": "2026-10-28T19:50:44+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1006,465 +1321,98 @@
    "published": "2026-10-28T19:41:59+00:00",
    "category": "macro",
    "score": 3
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Announces Interest Rates Will Remain Steady Amid Elevated Inflation",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFh1TkxQOUJnamMzRV9uLXlGa2RDRHNDZjFfaEhVQXhzSE9SaUREQ1BCX3B0Q3FNOHQ4MnJnTktkLTVSZmI4SFdrWE9QNk84Wm1qUVR1U2FsZWVJdTBjSENCblMwbmx0NVNsQzZPUFh2b3NNRDBMX2hjRmtJc1RSSlgwdDRrel85TExhcm5SNUlIUXNTemNTbVYyYUJVQWJtMUNXS2lUZWJRSzU1NDF0bE1abHFRcFJiM091NndZcmtXS19Ub0VSNmN1TVhkRXdvRWEwRVdTOUk?oc=5",
-   "source": "C-SPAN",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:41:06+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed votes in split decision to hold interest rates steady despite sticky inflation",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:39:27+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bitcoin Surges Above $81,000 Ahead of Fed Decision – Will BTC Price Rally Toward $88K or Drop to $76K?",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEV6M3hpT29zMmtpWmJEaVNNTWliOERaY2VSSlV3THNQamlfZGpyR19zN2QyaVVSMWtsQWhaRjVHZm5lSm85Z0lVQ3dBdE5rMC1zQlRnNWRYV3owTXUzcnBRRUlSOV8wdEQ1X3VmTDU5aXlXN3VfdnZBVUdYSlNydml0UTlUTHlqMUhkMmlXaHl1bzRTY3hpY1B0MDJZTGJwRFg1eVRVdWlDVFZaakhCbVdNSnA4Z0puUHRpTHNHQmZwa3VtNUJpU0hqVFQ3UQ?oc=5",
-   "source": "CryptoRank",
-   "feed": "Google News · crypto",
-   "published": "2026-10-28T19:38:26+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:35:26+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed's Warsh says US economy not running too hot",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkEyTjdocVJTajR1TGpGWW5sbVdtZEpKZ2QzLVRCWWxQZkpyQmM5c0tBMEFkd1dtTXgyb1JJWGhSdFFfS2tWNWJLYmpvemw0ODBhYi1CSUVZLUZIc1ExU3ZLQXNkMmlXSHNTVnk1bUlKMEdCeENkSDZwRE9UVDJ1WHJNUzFlLUFWVzNJbXQ0VUt6ZC1hWkE?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:30:51+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Biotechs buck a sluggish IPO market, but investors should tread warily",
-   "link": "https://www.cnbc.com/2026/10/28/biotech-ipo-market-investor-risks.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-28T19:29:17+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
-   "title": "Fed holds rates steady days before the midterms, even as inflation runs hot",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUwzSmhPUV90MjNhaUZhME9LdDBBN3RWT3NaMTNJeGtNNmY3VldDUUg0RFAtSEF2ajNuNWd1TVdsRHd4SlAyX1N0dUQzUXVVcDVUMTBqRElPaGJxLXFPMWNPbE4wNGlXb05odFFQdTh4MHhPQUY5UXRuWUhvUWdNWHBGZEJwZURqQlNZWW5XWTM3RnpJVjcxTGY0dXlEQ3ZoN0lYUUdXRQ?oc=5",
-   "source": "Fortune",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:23:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Holds Rates Steady but Two Officials Sought Another Increase",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazBCeUZ1clQ5WktEdzg0Y0daaUdFLWEtRk9FSklTSnd6ajZUa0hRTzdYREpJZHJ2NlBrWlhGdUkxbjlOUHVYbk9KX1pORklGRzdYMFlHUnB4bjA1X2lndHVHdEVCZGxuN3pYOVIwY1NMMlh2ZlF5YkQtS3lsZ0xpRGZtaUphcThQbllYMVd2RkZkakVrLVE?oc=5",
-   "source": "WSJ",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:22:05+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQ0VFWXdmaEtZOUdqVEg3NGVnLVgzSV9CWlNfMUswZnY4TEVQaWR6ejNtYzlBU3cySmdzOHVZbS02UDJCa015T2U1SlpmTFNjM05rWWhucjludVNKUHJtM3pxd0dRRTR4aTJCN3dhd09ndlVwa2VJSFdTS3lJMDVUVE5SR0d5Vnl3ZFh1MGtrbnNTNS1sMTFSQ29lNHBWcWlFVWlETVdZNzRUYlZGLWthaVdkTHJGaXJscl9WNDI2NDVlLVhoekEyQ2hBS092cWlHemlBUlBfdm5kdTZYckVmMW82czBYSkh0SFhrSGRrbEtJV2M?oc=5",
-   "source": "KTVN",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:20:53+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Holds Rates, but Dissent Keeps Bitcoin, Gold and Tech Stocks Under Pressure",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDRqa242YjN1OGhJSmM0V0tkTkNxZXJRLWFzb21PRldGeGIyTUF1dl9aOTFJODBiVEdVZHZvalFka2VZdk9TRmJObWF3dXAwSGltXzhoWjNNRUNmWXZXS0VOUnZVTDFQVl9tMnZTcS05WjVhZ2EwZC1BQTZGaVN2eG1leEpEQ2R6c0ZQamxJbnZpcVBZREhLTXRyaVRKMF9CNWg5dlJJRVRRSlVmenpOMXBXRjJvOEYtZWY2eFVaYw?oc=5",
-   "source": "Investing.com",
-   "feed": "Google News · crypto",
-   "published": "2026-10-28T19:20:16+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed plans to eliminate some rate-setting meetings, chairman says",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWRweGRCU2VUY3RzRjRaeXpXb1BEY0xxM1Y3aVVLYnQ1eUZ1Tl9xMmNaOG85d2hBU0ZVZmZ5RHYzamdldllkOFpPNEdYR2FqZ0tKVThCdHE2M0hxX09GanZCOWNURjkzRF92LUdEWmJOYTlPbEQ1N2lTRWc0ZmxpMzNDS0ZIblBSSFpsNDRETVFpZGZKQmlj?oc=5",
-   "source": "NBC News",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:20:11+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed leaves interest rates unchanged despite inflation in the US",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkZ4MjgyNUxNMy1YdDNIZU9zVkg5YW4wZGFnWXlJaXpFN21CWmt1NUtwZ1NFem5WbmlabmZidHluTmhOdnhTSDN4VUhGZGpYb0ljcHpfOG90cXFWTWdWVkZ1VkVQY2VPWWU5OHA3TEpTa0V4ZXN3SUJTQU9zQ0x4c2xUcmt1U2ZNN1l2X3BqZ2pUZ2xyemVlU201ckZ2Q2RpQ1NsVUpXalRlSV9C0gGyAUFVX3lxTE5STllLXzlnRG9TMzhlUXZZUl91SEhzbnZ3ZTRzel9FcElGemJVWXFXc3g0S0x3VUthZmUtdW8zNnVfbkQxS1QwTnp1bjdxb2dYdHREUDE0WjJtVDVUUTB2N1V3ekNBcTNJZm1uWEpURlRQOTFsMGhWaVAzUFlEVzdSaW9BYmpXbjRpNmh3ckRCcTNOVVZWZDZzRUNQa3p4RWQzZ1dXYXV2ZlJpWXVFWlBoU2c?oc=5",
-   "source": "Al Jazeera",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:19:10+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "US Fed Chair Warsh warns inflation remains too high as energy prices climb",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX19Gb013NkFUZTN4UnBCMXN2c01YS1VvV2w3ekg1TEFPbVo3R0tXQmFQLWZfajljdTI1dTlRd2YyTDg1endBRGFNVW02X1hIS0FUdW5BaXZ1V193VE1MUXZoWHIzVWY4VlliYmpLQlBUdDZPdTUwNWh2bzE2ZzJYMUdjaEIyQnpRSG01d1AyQm5xZlFyU2c4TmJzZTFpei1mSE8ybUVETFQyLVh4WUV6RjNIRVF1dw?oc=5",
-   "source": "Anadolu Ajansı",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:18:32+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT0F4dzFlblpyekxzNklQUjRZc1BhQ1V5c0h4WG5vbUxoTHBLVDhOeTA5TnZDdWNzalZTN0lla2lkNzlXZXZHbGlMSW5qekZ2ZTNtQnV2dWdwSFJZZmc3MTdRMmlfS2E2eWtIeDhNR29QUnV3WlpyaHVhOHZJbWFhTS01by1SRlJUQ1ctbzE3RnMyNS0zeTN4cDJlbjdxZ1BtQ3JWNzJPeDdJR19uWnJ3TGcwZTdOTEd2Mmdua3pBV3gwVjdRaktqTXc0V1A2c2xiSGlvUmJ4S3JGX3VKVmthVFJYZVFMbk12YWZOVklzdE50MVJ6Q0pZcHAyT2c?oc=5",
-   "source": "WPSD Local 6",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:17:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEFOdmtXekNuZGxyRXVLM0ttS0U4RURVNktEdDJTVzZ5a0xRbk5hemw1MjJJR1J6ZnVfNzVaRmVjb3lpekk1Q3kxWmgxVkphNEVlS0hnNVVMZWJzejRXenhRalJkN3Vvd01zRWNBQU44aDJpRG52bEp0QVlSWXdkZmwxWGh5TkNITVdNUk0yODN4S1FqR2FSbzlTU002enpWS1hNamZzbE9YRDNuM3BweG5KNDlUeHN2R25RdzNGcFV5dw?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:14:18+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Holds Interest Rates Despite High Inflation Data As Midterms Loom",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaTl5c0pRYVpDdlBPRER5Nmp5ZnZWb3NqOUhGQjJfTHFwajVOWE5Pa3V5RHVKX0hIM3BoOFdkX2JmVUNXNlVWMDFrc1pHQ3o4WlA4cGo2ZlBZWl90NFcyQ3lUUzlwT0ZWV1B4aS02MFppbGU4UFAyc2wxM3RSNVRjbVJUR2RzSW9kVDl5QjgzemFFd0psam04QTZ3N2tsZjVSTHp0OGtfU1Y3TDhmbFRHSFFIUkdLeUV1NzdUaGZn?oc=5",
-   "source": "Forbes",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:12:23+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Federal Reserve makes interest rate decision ahead of midterms",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
-   "source": "Fox Business",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:12:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Federal Reserve holds interest rates steady even as inflation remains high",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk0Z0Z0eFNvREs4Ti1FcWtjNjZSUEJF?oc=5",
-   "source": "CBS News",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:11:53+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed holds interest rates steady",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaG9HdTNQVWliSHRZdFZYeElubzNwUXFkbmQtcF9RRHZMR2YtNkJpZDVZMlV1V196R1drcDduUEZrUDJTWkFyU1hnc0NHU0dLek5LcFNhazNPeUNlbE1HcDl3SmRuMVYwUXlqbUpsZENyMWp4Vl9xdzZsY0hkTk5oOVRVdkhldw?oc=5",
-   "source": "Gray TV",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:11:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Warsh to attend Fed jobs and productivity task force hearing to refine views",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3NKYWdscDhfT0FRMlFvMEFVUExBaVE5Z3NES0pDQVZiT3pXOVRNWVprZmFpRGVzaUlRVktsNVlXeEdtOGhibVBiQlVMT0prOFlfTlpYWGhySHJzR0pHTXBmQXl4VDctNnBSVU5RYkZNLUxvUGl6X0VqSWY4cjlWQmVtUHAwQVlWZnJqQWNHMTJMSldZMlR4N1M0OUI5dGw3bVRkcm1BYlZGTHVqUW9YXw?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:10:09+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Holds Rates Steady, But Two Members Favored a Hike | Economy | U.S. News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1ZRNHhIRHZlWml2RV9PWTJWVFoxUlVOOE5VN29MOV9VM2R2djVNVjFXTWJqMDhlZXJnNEJMR2ItT3ZvdmNxR3BaOHZGLWJOSEF3YXZQLURsSDFsZUNJY0NZS2RVZlZiTEJOVVIxQUFmcVNZalJnbTNhVlVlUGtwMkxlTkw1anUwTkFCY1lVMG5fUVgzeHFLM0NmOTQ3OHktWkhVWENrQW5ETTIwT2c?oc=5",
-   "source": "U.S. News & World Report",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:04:08+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEVyM1lDY2RtTmtlRktDOHBrVzR3bGtFajBVSWZLc0xnNUFrbGRwYjR2allBWllLQlZtWlZZeVB2RnlOTGFCX3dINGF4d3d4OVZEWVRYUG1DNXJ2bG5oZFpRS0ZlTm9WQ1kxX1Ribm5KOURXUURBS1JfTUFERVZrS2tsWWlkQmNQUUVWZXJFZ29VZV9nQzJ1dVN5TEXSAaIBQVVfeXFMUHk1Nl9IWTFPaWtFSmJIUXVLVFlFa0NGR3J3WmE3VHhfMVpTZW80MEhDaTQtRmVjRWFSZWFxM2ZXUjRBSWtRV0JSZkRTeDhpUkFFRnlWSk80T0N0UFMwMmVfeUszVjJrOUkxNGhRTDMwbHJXcDN5cG1LajcwNTlxemNubkRFZTk3Q1dmLVhVdE5aSHI2X1kzMUp0dW5qQjJPQnN3?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:02:45+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:02:32+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T19:00:52+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkVoN1pJbDg0SnFHSl90ODVwYTlmQ3VTLWRGT2pwUEtpNWo5bGNpeVpLLXZ6ZEIwczhlc2RGQkRQaHRuV3lBSEJUenQzY1VteEVBNl9kNUx5V2FPQURURzBUZ1Z2a1BuZmQ4Q2xlTzlxRm0zRjVlWFppN1dkYVRlUUM1LThQWXRWaVRRTE44dzlCT2RPRHJkbWZ3?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:56:48+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:56:06+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
-   "title": "Fed Chairman Warsh: Ensuring price stability and quashing inflation is not about a fixed date",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFNQd2hfSmFlZnZzLWx4VndHSGJ3OTBQeWdtSVJaSXp5c0FOY0JlaEprdlo4MDA1U2pHV0x0bFRzbjJPYnVGS0JuSVFUbE9NUGdJdHd5UldZMmw1bDJvTmw4dWozOXRDN0NyZzB2N1hwS2pYWTlucURVdVM3bDV6dzJqMnFIUF9ER3pXM2dhU1kwSDVXSlBWbW1tMzltbUVwS0hBZzZ4clkxU0NFazcxSmF0LU4yckJvS2V1ZTFka2twRGpGTU8zMDN5N0VpSEMt?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:46:22+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Budgeting For Growth In A Time Of Inflation",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPak5udmc5OHNVdHRNenZMNm03dWowU2JxblNhR1ltdDhjY1FySlVrT1E2NEhLSFlpLVlabEZIYzlZeXNkLVdvRERZajV3WkFLdUJkSnFKa2t0UmJaLXpIalY4TGotVEFrbGZGZnNBVUFiZi00Qm13T3hXX0NIMm9rT2tIMWw1TmUxYWFBekJxQWhqb18xYndKWGJGWWhpUUMyamFpQmFyLXRWNVV6XzNr?oc=5",
-   "source": "Forbes",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:45:29+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Federal Reserve holds interest rates steady despite elevated inflation",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWx5T3J6azZ4Y0loQlpjNXM2LWRCaGtwUGhHWU51dWxZbl9lNXgtWlZ2QVYyZHFwanpHSEg0X0tyNFdUekhXSnFCZUtwS2w3QXUwal9RQ1dBaUQ3U3A1dzhtZGhFNXFYUUlBRERJU3RwbE1QNGFsYkppczVGamNTR2RGTU9BUEMxQi15RUN5SkpxMC01V2hTdk93?oc=5",
-   "source": "MS NOW",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:45:12+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Federal Reserve leaves interest rates unchanged despite rising inflation",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHhyOWk0NW9KMUxVdWU1d015dG1YZmdWV2JsbGFRbTV5UFUxZUdENy10ZHl4M3FQakxWNW53enE3Um9IT3NCUUtDaDlkLWpXX0lpUWZPV214WURKVVdLcWtTczUzdjZiVm9HUFNzRmVSeUd2TzF2VDBpWlFvbzdyeWotdl9zOVAzaDhCZW9MQQ?oc=5",
-   "source": "NBC News",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:44:23+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Warsh ya marca su estilo en la Fed: reducirá el número de reuniones de política monetaria a 7 en 2027 y a 6 en 2028",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYzZMbGY4V19KSHRWcXp5aWU2MlBBZ3l2SVE1WnMtendzWGhzdkNhdVFGTjFOZWZCMW9DbGFBQ3dCY184NF9iS1NoMU0wSy1FaC1pZ0Nvbl9Ec2ktQjFGNzZpNllvZGk1X0MzblpINXdha1h1SDZLNHE1dUwzOUtJRGl0R2h2UUppNzNPZkdOQ3M3ZktXTWpZRlVGV3BUUXBVQmgzb252REU1NGk3SzZidVhVaVUzeDhMbkRlMEp2RENtVXdndEt2YnBUQ2h2RW05X1pUQzloaGVzSXlZdFFTUVVjRDZtM3oxb1BsWHl4UkRma1ZTU1hWcUNZTHpnRWJMZ1FVaXpQNnQydVRBcXQxQXdXSWRMZ3RfdE5KRm9n0gGIAkFVX3lxTE5FcGpIV1hFcUNSVHhzbTd5RVZMbGVRbm93UFhjcDVJOU85S0hfUUpUUnE0WktPZnlydU55T2JKVnVBMUZQdkw2d2RwcGZ4azBoM2lfODJZb3FmR1EwdG41aXZtbFNrZzZuNVpuZ1ZOa3l6NWJDVVEyQTFfcFdLVF9UeGVwQ3VTSW53eUtBMnhVaWJfS19udUZyam9nQXh4V3lMdEdpeGM5a1FpQnEyR0ROSHlDenlYMFRjdm9FVFV6OHdwV0RXU3BvQlRZUVI4R0dmNGNITlVRYXRmYUhpcS1Ja3JuQ3hUSXZtX1czTmJtX01hUkR4eHNqbC1IN2I2eFZ2T0lVRk5LYQ?oc=5",
-   "source": "El Economista",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-28T18:43:07+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Keeps Rates Put, Hints at Post-Midterm Hike",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdV9Ib0JFTUJpTHJKRW9obzBqRmVzcTFpZlJSWkN6cERDQm9MUUpfc29KV2lrck14enNpVnN0S0JmMnFqZC1fRm1GUWtSTGlaSWUyNFY4NVdBLWpRQUhxUFh2dnV5Rk9Uc1hSYWEyYUJyVFVqUWxxdVZSZzNYTkVOZTZUVzBxMlE?oc=5",
-   "source": "Multifamily Housing News",
-   "feed": "Google News · markets",
-   "published": "2026-10-28T18:42:44+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTC00TGFfS0lVQmxxV2dTMFZIdnpoYnMyM0RmemRubEpjcnNadkh4Z3YwZDdmN1BYemtBMHJOVFFLTDc4WUtwcUhaZEtNVkFkdHBGNE1HbndEYzFNOG1Eelo5azdsQU9QMUgwUU9TMnlxN2ViTzNQdm10ZXpuZVVGMm55Q3lzYmdWLVB3VlJ5TXhyVVRuWWRCWg?oc=5",
-   "source": "The Defiant",
-   "feed": "Google News · crypto",
-   "published": "2026-10-28T18:37:23+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bitcoin near $80.8K as Fed holds rates, two officials seek hike",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tYTFHS3VQcXN2NXdhUnZ2VkFmakFvRGhtQlZQeGUzTFUzWDFUY25XSU5TRmxFY3lsUGE2VEFVeTc3Tlg1a3NNSTQ3RF8yNVZxTHliVUZNOHdnRFZJM1lYaklQMG9vSGJT?oc=5",
-   "source": "Crypto News",
-   "feed": "Google News · crypto",
-   "published": "2026-10-28T18:33:13+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "El FOMC mantiene los tipos estables y los mercados avanzan con moderación",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGlmWWN4enYtaXZvYnlhdzBzNDhxc25FdWZDakw4NW00NFlrNnY5QnRPRXNCek5uNXFpajBwX193WUV5eVhBVjFXUnBvcko1Q3VoYzFKMmVrSGJ2LXBlQnpTNkJrQXVTeDdvRVZoOHVlX1lZbjZjb01mb1FIS181aVRtMG1fbjVyN2gwRzdEUDlBcXFwNlRmbUhpYTREWGJqWVFweU5nS3p0NURFWmlLZVNjU0RuVkpEb3ZONGhyS3VHanh6aG1NSw?oc=5",
-   "source": "MarketScreener España",
-   "feed": "Google News · mercados ES",
-   "published": "2026-10-28T18:32:50+00:00",
-   "category": "macro",
-   "score": 3
   }
  ],
  "analisis": {
-  "resumen": "Cierra EE. UU. con subidas moderadas (S&P +0,3%, Nasdaq 100 +0,5%, Russell +0,4%) tras una pausa de la Fed con dos votos a favor de subir y mensaje duro. El mercado sigue contando con una subida en diciembre y el 10 años sube al 5,05%. Tras el cierre, Microsoft sube un 5% por la nube, y eso aún no está en el precio de cierre. El Brent cierra en 110,2 (-3,2%) pese al titular de WSJ que habla de más de 115 $.",
-  "resumen_dia": "Asia abrió en risk-on tras el rebote tecnológico de EE. UU. y el salto de SK Hynix (+11%), con el Brent cayendo con fuerza. Europa fue mixta: el IBEX cayó un 1,4% por Santander (-5,6%, -3,5σ tras sus cuentas), mientras el Euro Stoxx 50 y el DAX aguantaron. En EE. UU. la Fed dejó los tipos sin cambios con dos disidentes a favor de subir y Warsh insistió en que la inflación sigue alta. También anunció menos reuniones a partir de 2027 y el mercado mantiene la subida de diciembre como escenario central. Los índices acabaron con ligeras subidas y Microsoft sube un 5% tras el cierre, con Alphabet pendiente de resultados. El euro y el dólar siguen en extremos de 52 semanas.",
+  "resumen": "Tras el cierre de EE. UU. se confirma una Fed en pausa con dos disidencias a favor de subir y el mercado apostando por una subida en diciembre; Warsh anuncia menos reuniones del FOMC. Tras el cierre, Microsoft sube alrededor de un 4% por la nube y Alphabet decepciona (cae en extendido), con lo que los resultados de megacaps divergen. Es una revisión de solo observación, sin hipótesis nuevas.",
+  "resumen_dia": "",
   "clima": "mixto",
   "noticias": [
    {
-    "id": 26,
-    "categoria": "macro",
+    "id": 0,
+    "categoria": "resultados",
     "rumor": false,
-    "novedad": "La pausa era esperada, pero los dos votos a favor de subir (primera doble discrepancia desde 1992) refuerzan el sesgo duro.",
-    "impacto": "Los tipos altos presionan a small caps, cripto y oro; el mercado ya descuenta gran parte, por eso la reacción es contenida (S&P +0,3%).",
+    "novedad": "Superó las expectativas de nube e ingresos; el movimiento posterior al cierre aún no está en el precio de 531.",
+    "impacto": "MSFT con gap alcista probable en la apertura de mañana; apoya a XLK y al tema de la IA en la nube, aunque el beneficio ya se anticipa parcialmente tras la subida del 4,3% en un mes.",
     "importancia": 5
    },
    {
-    "id": 19,
+    "id": 10,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Que se espere una subida en diciembre ya estaba en los precios; no hay sorpresa nueva.",
-    "impacto": "Mantiene el 10 años cerca del 5% y el dólar firme, con presión sobre EURUSD y renta variable de duración larga.",
+    "novedad": "La pausa era esperada, pero la disidencia a favor de subir (Cook y otro votante, ver id 42 y 17) refuerza el sesgo duro.",
+    "impacto": "Mantiene el riesgo de subida en diciembre; presiona a small caps, bonos y activos de duración larga, y apoya al dólar.",
+    "importancia": 5
+   },
+   {
+    "id": 4,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Sorpresa moderada: menos reuniones del FOMC desde el próximo otoño y revisión del balance a principios de 2027.",
+    "impacto": "Los rendimientos cortos bajan por menor frecuencia de decisiones y menor probabilidad de subida inmediata, pero el 10 años cierra en 5,05%, lo que indica que la curva se aplana.",
     "importancia": 3
    },
    {
-    "id": 3,
+    "id": 7,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Superó las previsiones de ingresos y beneficio, impulsado por la nube. El cierre de hoy (-0,1%) no recoge el alza del 5% posterior.",
-    "impacto": "Se espera un gap alcista de MSFT al abrir mañana y arrastre positivo sobre XLK y Nasdaq 100, con la IA/nube como mecanismo.",
+    "novedad": "Falla las expectativas de beneficio y cae en extendido, no descontado en el cierre.",
+    "impacto": "Presión sobre megacaps y publicidad digital; compensa parte del impulso de MSFT en el Nasdaq 100 mañana.",
     "importancia": 4
    },
    {
-    "id": 0,
+    "id": 43,
     "categoria": "geopolítica",
     "rumor": false,
-    "novedad": "El petróleo por encima de 115 $ choca con el cierre del Brent en 110,2 (-3,2%); parece un máximo intradía que se ha rechazado.",
-    "impacto": "Alimenta la inflación, y por tanto el sesgo duro de la Fed, y respalda a XLE; el rechazo de máximos limita el alza.",
+    "novedad": "El titular habla de más de 115 $ en el petróleo, pero el Brent cierra en 110,4 (-3,0%), así que fue un máximo intradía rechazado.",
+    "impacto": "Brent y XLE con alta volatilidad ligada a la guerra de Irán; si se mantiene el rechazo, presión bajista para la energía.",
     "importancia": 4
    },
    {
-    "id": 21,
-    "categoria": "política/regulación",
+    "id": 58,
+    "categoria": "macro",
     "rumor": false,
-    "novedad": "Es un cambio institucional nuevo: 7 reuniones en 2027 y 6 en 2028. Los tramos cortos de la curva bajan por la interpretación de que habrá menos subidas.",
-    "impacto": "Efecto limitado a corto plazo; añade incertidumbre sobre la comunicación de la Fed y hace que cada reunión pese más.",
-    "importancia": 2
-   },
-   {
-    "id": 1,
-    "categoria": "resultados",
-    "rumor": false,
-    "novedad": "Los resultados de ServiceNow quedaron por debajo de lo esperado, aunque elevó su perspectiva de IA.",
-    "impacto": "Puede pesar sobre el software y servir de contrapeso al efecto positivo de MSFT.",
+    "novedad": "La inflación británica sube de nuevo y refuerza la idea de subida del Banco de Inglaterra.",
+    "impacto": "Tono global de tipos al alza: apoya a las divisas con tipos altos y lastra la renta variable de duración larga.",
     "importancia": 2
    }
   ],
   "divergencias": [
-   "El WSJ habla de petróleo sobre 115 $ y el Brent cierra en 110,2 (-3,2%): la subida intradía se rechazó pese al riesgo geopolítico.",
-   "Titulares duros de la Fed y el 10 años subiendo, pero S&P, Nasdaq 100 y Russell suben: el mercado ya descontaba la subida de diciembre.",
-   "SMH (+1,7%) y ASML (+1,7%) suben mientras NVDA cae un 1,2%: rotación dentro de los chips, no un tirón generalizado.",
-   "Santander cae un 5,6% (-3,5σ) y el Euro Stoxx 50 sube un 0,1%: el castigo es idiosincrático, no sistémico."
+   "Un Fed duro con dos votos a favor de subir y el 10 años en 5,05% debería lastrar a las small caps, pero el Russell sube un 0,4% y es de lo mejor de la semana (+1,8% en 5 días).",
+   "Se habla de petróleo sobre 115 $, pero el Brent cierra con -3,0%: el mercado no valida la prima geopolítica.",
+   "El dólar está en máximos de 52 semanas pero cae un 0,2% hoy, y el EUR/USD, en mínimos, también cede un 0,2%: no hay una tendencia clara del dólar tras la Fed.",
+   "Santander cae un 5,6% sin contagio relevante al Euro Stoxx (+0,1%) ni a BBVA (-1,1%), lo que apunta a un problema propio y no sectorial."
   ],
-  "hipotesis": [
-   {
-    "ticker": "MSFT",
-    "direccion": "alcista",
-    "horizonte_dias": 3,
-    "tesis": "El salto del 5% tras el cierre por la nube debería abrir con un gap alcista sobre el cierre de 531, y la revisión de estimaciones tras un resultado sólido suele dar continuidad.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 62,
-    "confluencia": [
-     "Sorpresa positiva de resultados no reflejada en el cierre de hoy",
-     "Tendencia alcista (+4,3% en 1 mes) y Nasdaq con sesgo comprador"
-    ],
-    "contra": "Los movimientos tras el cierre pueden diluirse en la apertura; la Fed dura y el 10 años en el 5% restan múltiplo a las tecnológicas, y los resultados de Alphabet pueden mover el sector.",
-    "sesgos": "Me ancla el titular del +5% sin precio verificado de after-hours; riesgo de narrativa tras el hecho. Probabilidad moderada por el riesgo de que el gap se desvanezca.",
-    "ev_pct": 1.0,
-    "operable": true
-   },
-   {
-    "ticker": "SAN.MC",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Rebote técnico tras una caída del 15% en un mes y un movimiento de -3,5σ con RSI 27, sin contagio al resto del sector.",
-    "objetivo_pct": 4.0,
-    "invalidacion_pct": 3.0,
-    "confianza": 42,
-    "confluencia": [
-     "Sobreventa extrema (RSI 27)",
-     "Movimiento anómalo de -3,5σ idiosincrático"
-    ],
-    "contra": "Tras resultados negativos suele haber continuación (deriva post-resultados), y la causa es nueva y fundamental, no solo técnica.",
-    "sesgos": "Sesgo de reversión a la media. Pesa más la tendencia bajista y el castigo reciente, de ahí la probabilidad inferior al 50%.",
-    "ev_pct": -0.16,
-    "operable": false
-   },
-   {
-    "ticker": "000001.SS",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Rebote técnico desde mínimos de 52 semanas con RSI 29, tras -6,7% en un mes.",
-    "objetivo_pct": 2.0,
-    "invalidacion_pct": 1.5,
-    "confianza": 44,
-    "confluencia": [
-     "Sobreventa (RSI 29) en mínimos de 52 semanas",
-     "Revisión de Asia previa con tono positivo y rebote tecnológico"
-    ],
-    "contra": "Tendencia bajista clara, dólar y rendimientos altos, sin catalizador nuevo; los mínimos pueden romperse.",
-    "sesgos": "Sesgo de reversión; no hay mecanismo fundamental claro, solo posicionamiento técnico.",
-    "ev_pct": -0.06,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
     "ticker": "MSFT",
-    "motivo": "Apertura de mañana: confirmar si el gap del 5% se mantiene."
+    "motivo": "Gap alcista de unos 4-5% previsible en la apertura tras resultados; hay que ver si se mantiene."
    },
    {
-    "ticker": "^NDX",
-    "motivo": "Resultados de Alphabet tras el cierre y reacción a MSFT con la Fed dura."
+    "ticker": "NVDA",
+    "motivo": "Cae un 1,2% hoy y un 3% en 5 días mientras otros chips suben; la reacción a MSFT y Alphabet puede aclarar su dirección."
    },
    {
     "ticker": "BZ=F",
-    "motivo": "Rechazo de 115 $ intradía frente al riesgo geopolítico y su efecto en la inflación."
-   },
-   {
-    "ticker": "EURUSD=X",
-    "motivo": "Mínimos de 52 semanas con RSI 28 y 10 años en el 5%: decisión entre rebote o ruptura."
+    "motivo": "Rechazo de máximos intradía; el próximo movimiento marcará si la prima de guerra persiste."
    },
    {
     "ticker": "SAN.MC",
-    "motivo": "Sobreventa extrema; ver si se estabiliza o hay más ventas."
+    "motivo": "Movimiento de -3,5σ con RSI 27, candidato a rebote o a nuevas caídas si siguen las revisiones tras sus cuentas."
+   },
+   {
+    "ticker": "^RUT",
+    "motivo": "Resiste pese a la Fed dura; vulnerable si el 10 años sigue subiendo."
    }
   ],
-  "decision": "operar",
-  "decision_motivo": "1 plan(es) con valor esperado neto ≥ 1% y probabilidad ≥ 55: MSFT.",
+  "decision": "no operar hoy",
+  "decision_motivo": "Revisión de actualización solo de observación: las decisiones se toman con precios de cierre de EE. UU.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10216,
-   "tokens_salida": 5894,
-   "coste_usd": 0.0794
+   "tokens_entrada": 10524,
+   "tokens_salida": 1816,
+   "coste_usd": 0.0392
   }
  },
  "calidad": {

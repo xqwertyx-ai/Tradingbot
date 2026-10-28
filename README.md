@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**miércoles 28 oct 2026 · revisión de cierre EE. UU. · 21:30 (Madrid)**
+**miércoles 28 oct 2026 · revisión de actualización · 22:57 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> Cierra EE. UU. con subidas moderadas (S&P +0,3%, Nasdaq 100 +0,5%, Russell +0,4%) tras una pausa de la Fed con dos votos a favor de subir y mensaje duro. El mercado sigue contando con una subida en diciembre y el 10 años sube al 5,05%. Tras el cierre, Microsoft sube un 5% por la nube, y eso aún no está en el precio de cierre. El Brent cierra en 110,2 (-3,2%) pese al titular de WSJ que habla de más de 115 $.  
-> **Decisión:** operar — 1 plan(es) con valor esperado neto ≥ 1% y probabilidad ≥ 55: MSFT.
+> Tras el cierre de EE. UU. se confirma una Fed en pausa con dos disidencias a favor de subir y el mercado apostando por una subida en diciembre; Warsh anuncia menos reuniones del FOMC. Tras el cierre, Microsoft sube alrededor de un 4% por la nube y Alphabet decepciona (cae en extendido), con lo que los resultados de megacaps divergen. Es una revisión de solo observación, sin hipótesis nuevas.  
+> **Decisión:** no operar hoy — Revisión de actualización solo de observación: las decisiones se toman con precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -19,10 +19,10 @@
 | **IBEX 35** | 18.884 | 🔴▼ -1.4% | 🔴▼ -3.2% | ➡️ lateral |
 | **Nikkei 225** | 63.268 | 🔵▲ +1.7% | 🔴▼ -4.7% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 5.045 | ▲ +5 pb | ▼ -21 pb | ➡️ lateral |
-| **EUR/USD** | 1.115 | 🔴▼ -0.2% | 🔴▼ -1.9% | ↘️ bajista |
-| **Brent** | 110.23 | 🔴▼ -3.2% | 🔵▲ +7.4% | ↗️ alcista |
-| **Oro** | 4.082 | 🔵▲ +0.2% | 🔴▼ -2.3% | ↘️ bajista |
-| **Bitcoin** | 81.073 | 🔵▲ +0.3% | 🔴▼ -2.6% | ➡️ lateral |
+| **EUR/USD** | 1.116 | 🔴▼ -0.2% | 🔴▼ -1.9% | ↘️ bajista |
+| **Brent** | 110.44 | 🔴▼ -3.0% | 🔵▲ +7.7% | ↗️ alcista |
+| **Oro** | 4.081 | 🔵▲ +0.2% | 🔴▼ -2.4% | ↘️ bajista |
+| **Bitcoin** | 81.255 | 🔵▲ +0.6% | 🔴▼ -2.4% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -39,22 +39,24 @@
 
 ## 📰 Noticias clave
 
-- **[macro]** [Fed votes in split decision to hold interest rates steady despite sticky inflation](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5) <sub>Yahoo Finance · 28/10 20:39 · ●●●●●</sub>  
-  La pausa era esperada, pero los dos votos a favor de subir (primera doble discrepancia desde 1992) refuerzan el sesgo duro. **Impacto:** Los tipos altos presionan a small caps, cripto y oro; el mercado ya descuenta gran parte, por eso la reacción es contenida (S&P +0,3%).
-- **[resultados]** [Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html) <sub>CNBC · 28/10 21:20 · ●●●●</sub>  
-  Superó las previsiones de ingresos y beneficio, impulsado por la nube. El cierre de hoy (-0,1%) no recoge el alza del 5% posterior. **Impacto:** Se espera un gap alcista de MSFT al abrir mañana y arrastre positivo sobre XLK y Nasdaq 100, con la IA/nube como mecanismo.
-- **[geopolítica]** [Fed Leaves Rates Unchanged, Oil Tops $115](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEUwR3Zoa21heXNLWTVvVFdwTDU5ZENUT3U4cTRPcmlIemE3ejZ1UkZTNVN3T25naFBKUzRxcUlQeXhNcGhTRlFGRVhhbVMxS3h0bmpSZlZOWUFCNjdPTjFCT2lWSDhISzVlazJvWU1iVUZJUjFfel84THBHNXA3NldB?oc=5) <sub>WSJ · 28/10 21:24 · ●●●●</sub>  
-  El petróleo por encima de 115 $ choca con el cierre del Brent en 110,2 (-3,2%); parece un máximo intradía que se ha rechazado. **Impacto:** Alimenta la inflación, y por tanto el sesgo duro de la Fed, y respalda a XLE; el rechazo de máximos limita el alza.
-- **[macro]** [The Fed held rates steady. Smart people in business say they still expect another hike in December.](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUhhSVlOdDVKRUhhaXpoWGxuMjltYjRzeFZnc0JDUGpkQmxpazMwOVBieHhSS2NCbXloMVl3U2ptT0tINFNjNTZsaHlDTk1HekpSQncwRGg2ci0tOVRYLTlsODdTaWd0X2VpOXpVMTZDVWpuTWR4ZVdGWHhDMWtqOFoxbnNKa0lPUFZEclNlMTRkMmkybTlxOA?oc=5) <sub>Business Insider · 28/10 20:55 · ●●●</sub>  
-  Que se espere una subida en diciembre ya estaba en los precios; no hay sorpresa nueva. **Impacto:** Mantiene el 10 años cerca del 5% y el dólar firme, con presión sobre EURUSD y renta variable de duración larga.
-- **[política/regulación]** [Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years](https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html) <sub>CNBC · 28/10 20:53 · ●●</sub>  
-  Es un cambio institucional nuevo: 7 reuniones en 2027 y 6 en 2028. Los tramos cortos de la curva bajan por la interpretación de que habrá menos subidas. **Impacto:** Efecto limitado a corto plazo; añade incertidumbre sobre la comunicación de la Fed y hace que cada reunión pese más.
-- **[resultados]** [ServiceNow’s stock slides as earnings miss clouds a raised AI outlook](https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories) <sub>MarketWatch · 28/10 21:22 · ●●</sub>  
-  Los resultados de ServiceNow quedaron por debajo de lo esperado, aunque elevó su perspectiva de IA. **Impacto:** Puede pesar sobre el software y servir de contrapeso al efecto positivo de MSFT.
+- **[resultados]** [Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html) <sub>CNBC · 28/10 22:55 · ●●●●●</sub>  
+  Superó las expectativas de nube e ingresos; el movimiento posterior al cierre aún no está en el precio de 531. **Impacto:** MSFT con gap alcista probable en la apertura de mañana; apoya a XLK y al tema de la IA en la nube, aunque el beneficio ya se anticipa parcialmente tras la subida del 4,3% en un mes.
+- **[macro]** [Fed leaves rates steady as governor Lisa Cook dissents](https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5) <sub>Axios · 28/10 22:29 · ●●●●●</sub>  
+  La pausa era esperada, pero la disidencia a favor de subir (Cook y otro votante, ver id 42 y 17) refuerza el sesgo duro. **Impacto:** Mantiene el riesgo de subida en diciembre; presiona a small caps, bonos y activos de duración larga, y apoya al dólar.
+- **[resultados]** [Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNURmRi01T1pRa2lMMWNSUFVGUUFfaU9jRGJGSkVVc0FDTjZWSWU4aUVDNjBhSkhVYjFqSHRjZkdiT05UQk1VcVpoREdRT3pXWFV4enk2d3ZQUGRLdWpvZUNWNzJZQWhTXzNlaWJWRUlEQWVub3hOc1FyWjBGclpoZ2dRNndLazBRSThsOERYSkJzOFJXVEw1RTRSUkQxRzBfWC1jMXdwNmFzT0ZmMlFuN1VCNG11eGZlcjhVWThXZEtyWDlxLUVCNnZiWVVjNXBhdjYyNXFn?oc=5) <sub>CNBC · 28/10 22:34 · ●●●●</sub>  
+  Falla las expectativas de beneficio y cae en extendido, no descontado en el cierre. **Impacto:** Presión sobre megacaps y publicidad digital; compensa parte del impulso de MSFT en el Nasdaq 100 mañana.
+- **[geopolítica]** [Fed Leaves Rates Unchanged, Oil Tops $115 | Markets P.M. for Oct. 28](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEUwR3Zoa21heXNLWTVvVFdwTDU5ZENUT3U4cTRPcmlIemE3ejZ1UkZTNVN3T25naFBKUzRxcUlQeXhNcGhTRlFGRVhhbVMxS3h0bmpSZlZOWUFCNjdPTjFCT2lWSDhISzVlazJvWU1iVUZJUjFfel84THBHNXA3NldB?oc=5) <sub>WSJ · 28/10 21:24 · ●●●●</sub>  
+  El titular habla de más de 115 $ en el petróleo, pero el Brent cierra en 110,4 (-3,0%), así que fue un máximo intradía rechazado. **Impacto:** Brent y XLE con alta volatilidad ligada a la guerra de Irán; si se mantiene el rechazo, presión bajista para la energía.
+- **[macro]** [US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5) <sub>Bloomberg.com · 28/10 22:39 · ●●●</sub>  
+  Sorpresa moderada: menos reuniones del FOMC desde el próximo otoño y revisión del balance a principios de 2027. **Impacto:** Los rendimientos cortos bajan por menor frecuencia de decisiones y menor probabilidad de subida inmediata, pero el 10 años cierra en 5,05%, lo que indica que la curva se aplana.
+- **[macro]** [U.K. Inflation Jumps Again, Strengthening Case for Rate Hike](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5) <sub>WSJ · 28/10 20:50 · ●●</sub>  
+  La inflación británica sube de nuevo y refuerza la idea de subida del Banco de Inglaterra. **Impacto:** Tono global de tipos al alza: apoya a las divisas con tipos altos y lastra la renta variable de duración larga.
 
-**Divergencias precio-noticia:** El WSJ habla de petróleo sobre 115 $ y el Brent cierra en 110,2 (-3,2%): la subida intradía se rechazó pese al riesgo geopolítico. · Titulares duros de la Fed y el 10 años subiendo, pero S&P, Nasdaq 100 y Russell suben: el mercado ya descontaba la subida de diciembre. · SMH (+1,7%) y ASML (+1,7%) suben mientras NVDA cae un 1,2%: rotación dentro de los chips, no un tirón generalizado. · Santander cae un 5,6% (-3,5σ) y el Euro Stoxx 50 sube un 0,1%: el castigo es idiosincrático, no sistémico.
+**Divergencias precio-noticia:** Un Fed duro con dos votos a favor de subir y el 10 años en 5,05% debería lastrar a las small caps, pero el Russell sube un 0,4% y es de lo mejor de la semana (+1,8% en 5 días). · Se habla de petróleo sobre 115 $, pero el Brent cierra con -3,0%: el mercado no valida la prima geopolítica. · El dólar está en máximos de 52 semanas pero cae un 0,2% hoy, y el EUR/USD, en mínimos, también cede un 0,2%: no hay una tendencia clara del dólar tras la Fed. · Santander cae un 5,6% sin contagio relevante al Euro Stoxx (+0,1%) ni a BBVA (-1,1%), lo que apunta a un problema propio y no sectorial.
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-28._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -62,27 +64,20 @@
 | 🔵▲ **Banco Santander** | Rebote técnico tras una caída del 15% en un mes y un movimiento de -3,5σ con RSI 27, sin contagio al resto del sector. | 5 ses. | +4.0% / −3.0% | 42% | -0.2% 👀 |
 | 🔵▲ **Shanghái Compuesto** | Rebote técnico desde mínimos de 52 semanas con RSI 29, tras -6,7% en un mes. | 5 ses. | +2.0% / −1.5% | 44% | -0.1% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **Microsoft** · Los movimientos tras el cierre pueden diluirse en la apertura; la Fed dura y el 10 años en el 5% restan múltiplo a las tecnológicas, y los resultados de Alphabet pueden mover el sector. Sesgos: Me ancla el titular del +5% sin precio verificado de after-hours; riesgo de narrativa tras el hecho. Probabilidad moderada por el riesgo de que el gap se desvanezca.
-- **Banco Santander** · Tras resultados negativos suele haber continuación (deriva post-resultados), y la causa es nueva y fundamental, no solo técnica. Sesgos: Sesgo de reversión a la media. Pesa más la tendencia bajista y el castigo reciente, de ahí la probabilidad inferior al 50%.
-- **Shanghái Compuesto** · Tendencia bajista clara, dólar y rendimientos altos, sin catalizador nuevo; los mínimos pueden romperse. Sesgos: Sesgo de reversión; no hay mecanismo fundamental claro, solo posicionamiento técnico.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **Microsoft** — Apertura de mañana: confirmar si el gap del 5% se mantiene.
-- **Nasdaq 100** — Resultados de Alphabet tras el cierre y reacción a MSFT con la Fed dura.
-- **Brent** — Rechazo de 115 $ intradía frente al riesgo geopolítico y su efecto en la inflación.
-- **EUR/USD** — Mínimos de 52 semanas con RSI 28 y 10 años en el 5%: decisión entre rebote o ruptura.
-- **Banco Santander** — Sobreventa extrema; ver si se estabiliza o hay más ventas.
+- **Microsoft** — Gap alcista de unos 4-5% previsible en la apertura tras resultados; hay que ver si se mantiene.
+- **NVIDIA** — Cae un 1,2% hoy y un 3% en 5 días mientras otros chips suben; la reacción a MSFT y Alphabet puede aclarar su dirección.
+- **Brent** — Rechazo de máximos intradía; el próximo movimiento marcará si la prima de guerra persiste.
+- **Banco Santander** — Movimiento de -3,5σ con RSI 27, candidato a rebote o a nuevas caídas si siguen las revisiones tras sus cuentas.
+- **Russell 2000** — Resiste pese a la Fed dura; vulnerable si el 10 años sigue subiendo.
 - **S&P 500** — en máximos de 52 semanas
 - **DAX** — cruza al alza su media de 50 sesiones
 - **Shanghái Compuesto** — en mínimos de 52 semanas, sobreventa (RSI 29)
 - **Bono EE. UU. 10a (%)** — cruza al alza su media de 50 sesiones
+- **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 29)
 - **Índice dólar** — en máximos de 52 semanas
 - **Financieras (XLF)** — cruza al alza su media de 50 sesiones
 - **Tecnología (XLK)** — cruza al alza su media de 50 sesiones
@@ -92,16 +87,19 @@
 
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
-Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 6.
+Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 7.
+
+**Se compran en la próxima sesión:** VRT (reacción +16.1%), FLEX (reacción +11.3%)
 
 | Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |
 |---|---|--:|--:|--:|
-| ALLE | 2026-10-23 | 2/40 | +nan% | +nan% |
-| BX | 2026-10-23 | 2/40 | +nan% | +nan% |
-| NDAQ | 2026-10-23 | 2/40 | +nan% | +nan% |
-| ROP | 2026-10-23 | 2/40 | +nan% | +nan% |
-| EFX | 2026-10-21 | 4/40 | +nan% | +nan% |
-| HAS | 2026-10-21 | 4/40 | +nan% | +nan% |
+| PNR | 2026-10-28 | 0/40 | +0.0% | +0.0% |
+| ALLE | 2026-10-23 | 3/40 | +0.9% | +1.6% |
+| BX | 2026-10-23 | 3/40 | -0.8% | +1.6% |
+| NDAQ | 2026-10-23 | 3/40 | +2.9% | +1.6% |
+| ROP | 2026-10-23 | 3/40 | +0.6% | +1.6% |
+| EFX | 2026-10-21 | 5/40 | +0.3% | -0.1% |
+| HAS | 2026-10-21 | 5/40 | +4.1% | -0.1% |
 
 ## 📈 Tendencias (6 meses)
 
@@ -121,13 +119,13 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 6.
 | Hang Seng | 23.041 | 🔴▼ -0.7% | 🔴▼ -3.5% | 🔴▼ -6.9% | 🔴▼ -9.0% | 32 | ↘️ bajista | — |
 | Shanghái Compuesto | 3.648 | 🔴▼ -1.3% | 🔴▼ -2.3% | 🔴▼ -6.7% | 🔴▼ -5.7% | 29 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 29) |
 | Bono EE. UU. 10a (%) | 5.045 | ▲ +5 pb | ▼ -10 pb | ▼ -21 pb | ▲ +38 pb | 47 | ➡️ lateral | cruza al alza su media de 50 sesiones |
-| EUR/USD | 1.115 | 🔴▼ -0.2% | 🔴▼ -0.6% | 🔴▼ -1.9% | 🔴▼ -3.2% | 28 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 28) |
-| Índice dólar | 102.12 | 🔴▼ -0.2% | 🔵▲ +0.3% | 🔵▲ +0.7% | 🔵▲ +2.1% | 58 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 110.23 | 🔴▼ -3.2% | 🔵▲ +1.3% | 🔵▲ +7.4% | 🔵▲ +23.8% | 56 | ↗️ alcista | — |
-| Oro | 4.082 | 🔵▲ +0.2% | 🔴▼ -1.6% | 🔴▼ -2.3% | 🔴▼ -0.4% | 40 | ↘️ bajista | — |
-| Bitcoin | 81.073 | 🔵▲ +0.3% | 🔴▼ -0.0% | 🔴▼ -2.6% | 🔵▲ +2.6% | 47 | ➡️ lateral | — |
-| Ethereum | 2.350 | 🔵▲ +0.1% | 🔴▼ -1.4% | 🔴▼ -8.7% | 🔴▼ -6.2% | 38 | ➡️ lateral | — |
-| Solana | 101.89 | 🔵▲ +0.6% | 🔴▼ -0.9% | 🔴▼ -12.3% | 🔴▼ -0.3% | 39 | ➡️ lateral | — |
+| EUR/USD | 1.116 | 🔴▼ -0.2% | 🔴▼ -0.6% | 🔴▼ -1.9% | 🔴▼ -3.2% | 29 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 29) |
+| Índice dólar | 102.13 | 🔴▼ -0.2% | 🔵▲ +0.3% | 🔵▲ +0.8% | 🔵▲ +2.1% | 58 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 110.44 | 🔴▼ -3.0% | 🔵▲ +1.5% | 🔵▲ +7.7% | 🔵▲ +24.0% | 57 | ↗️ alcista | — |
+| Oro | 4.081 | 🔵▲ +0.2% | 🔴▼ -1.7% | 🔴▼ -2.4% | 🔴▼ -0.5% | 40 | ↘️ bajista | — |
+| Bitcoin | 81.255 | 🔵▲ +0.6% | 🔵▲ +0.2% | 🔴▼ -2.4% | 🔵▲ +2.8% | 48 | ➡️ lateral | — |
+| Ethereum | 2.363 | 🔵▲ +0.6% | 🔴▼ -0.9% | 🔴▼ -8.2% | 🔴▼ -5.7% | 40 | ➡️ lateral | — |
+| Solana | 102.71 | 🔵▲ +1.4% | 🔴▼ -0.1% | 🔴▼ -11.6% | 🔵▲ +0.5% | 41 | ➡️ lateral | — |
 | Semiconductores (SMH) | 567.67 | 🔵▲ +1.7% | 🔵▲ +2.0% | 🔴▼ -6.5% | 🔵▲ +5.3% | 49 | ➡️ lateral | — |
 | Financieras (XLF) | 56.13 | 🔵▲ +0.4% | 🔵▲ +0.2% | 🔵▲ +3.9% | 🔴▼ -1.5% | 57 | ↗️ alcista | cruza al alza su media de 50 sesiones |
 | Energía (XLE) | 68.45 | 🔵▲ +0.4% | 🔵▲ +0.4% | 🔵▲ +11.2% | 🔵▲ +16.1% | 62 | ↗️ alcista | — |
@@ -160,7 +158,7 @@ Registro completo: [`data/dashboard/hipotesis.csv`](data/dashboard/hipotesis.csv
 
 - Precios: 3 contrastados, 26 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 0 sin dato.
 - Fuentes de precio usadas: Yahoo (29).
-- Titulares: Google News · mercados ES: ok (99); Google News · markets: ok (100); Google News · crypto: ok (100); CNBC: ok (30); MarketWatch: ok (10); CoinDesk: ok (25); Expansión: ok (52).
+- Titulares: Google News · mercados ES: ok (100); Google News · markets: ok (100); Google News · crypto: ok (100); CNBC: ok (30); MarketWatch: ok (10); CoinDesk: ok (25); Expansión: ok (52).
 - Análisis: claude-sonnet-5-5.
 - Reglas de tendencia: alcista si el precio está sobre sus medias de 50 y 200 sesiones y sube en el mes; bajista al revés; si no, lateral.
 
