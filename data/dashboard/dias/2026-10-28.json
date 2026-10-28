@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-28T00:34:36+00:00",
+  "hora_madrid": "01:34",
+  "clima": "risk-on",
+  "resumen": "En la apertura de Asia el Nikkei sube un 3,0% siguiendo el rebote de EE. UU. (S&P +0,6%, Nasdaq 100 +1,3%, SMH +2,7%) y el Brent cae un 5,1%. El mercado está a la espera de la decisión de la Fed del miércoles: se descuenta mayoritariamente que mantiene los tipos, con sesgo duro y posibles subidas en diciembre. Es una revisión de solo observación; Europa y Hong Kong aún reflejan el cierre del 26-oct.",
+  "titulares": [
+   "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
+   "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
+   "Oil prices slide for second straight day as inflation concerns ease"
+  ],
+  "coste_usd": 0.0447
+ }
+]
