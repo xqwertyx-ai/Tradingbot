@@ -40,5 +40,19 @@
    "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market"
   ],
   "coste_usd": 0.0373
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-28T14:53:19+00:00",
+  "hora_madrid": "15:53",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. el S&P 500 y el Nasdaq 100 están planos (+0,1% / 0,0%), con los chips al alza (SMH +0,9%) tras SK Hynix y las megacaps cediendo antes de la Fed y de los resultados de Microsoft y Alphabet. Europa ha empeorado desde la revisión anterior: el IBEX cae un 1,3% y Santander un 5,1% (-3,2σ), con los bonos presionando y el 10 años de EE. UU. en el 5,02%. El mercado espera una pausa de la Fed con sesgo duro; el euro y el dólar siguen en extremos de 52 semanas.",
+  "titulares": [
+   "Bolsa e Ibex 35 hoy, en directo | El Ibex cae más de un 1% golpeado por Santander (-5%), los bonos y a la espera de la Fed",
+   "Fed meeting: No hike expected, but all eyes on Warsh for what's next",
+   "S&P 500, Nasdaq open higher as SK Hynix lifts chips; Fed in focus"
+  ],
+  "coste_usd": 0.0393
  }
 ]
