@@ -26,5 +26,19 @@
    "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market"
   ],
   "coste_usd": 0.0384
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-28T08:53:05+00:00",
+  "hora_madrid": "09:53",
+  "clima": "mixto",
+  "resumen": "Asia cierra con tono positivo (Nikkei +1,1%, Shanghái +0,9%, HSI +0,2%) apoyada por el salto de SK Hynix (+11%) y el rebote tecnológico de EE. UU. Europa abre floja (IBEX -1,1%, Santander -3,3% tras sus cuentas) y todo el mercado espera la Fed de hoy: pausa casi segura, con sesgo duro y subida descontada para diciembre. Un IPC australiano por encima de lo previsto y el Brent alto mantienen el temor inflacionista.",
+  "titulares": [
+   "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
+   "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027",
+   "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market"
+  ],
+  "coste_usd": 0.0373
  }
 ]
