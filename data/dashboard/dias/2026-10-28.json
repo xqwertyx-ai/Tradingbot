@@ -12,5 +12,19 @@
    "Oil prices slide for second straight day as inflation concerns ease"
   ],
   "coste_usd": 0.0447
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-28T08:17:44+00:00",
+  "hora_madrid": "09:17",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa el IBEX cede un 0,5% lastrado por Santander (-2,7%) tras sus cuentas, mientras el Euro Stoxx 50 queda plano y Asia cierra al alza gracias a SK Hynix (+11%) y al tirón tecnológico de EE. UU. El mercado espera la decisión de la Fed de hoy: pausa casi segura, con riesgo de tono duro y subida en diciembre. Un IPC australiano superior al previsto y el Brent alto mantienen vivo el temor inflacionista.",
+  "titulares": [
+   "Los mercados prevén que la Fed pause hoy los tipos, aunque descuentan una subida en diciembre",
+   "Bolsa e Ibex 35 hoy, en directo | El Ibex abrirá con dudas tras las cuentas de Santander y a la espera de la Fed",
+   "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market"
+  ],
+  "coste_usd": 0.0384
  }
 ]
