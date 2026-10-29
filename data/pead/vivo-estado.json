@@ -1,68 +1,105 @@
 {
- "generado": "2026-10-29T00:55:59.664193+00:00",
- "sesion": "2026-10-28",
+ "generado": "2026-10-29T21:56:07.345258+00:00",
+ "sesion": "2026-10-29",
  "inicio": "2026-10-15",
  "resumen": {
-  "abiertas": 7,
+  "abiertas": 9,
   "cerradas": 0
  },
- "pendientes": [],
+ "pendientes": [
+  {
+   "ticker": "CVNA",
+   "anuncio": "2026-10-28",
+   "ra": 0.16063595653058282
+  },
+  {
+   "ticker": "TXT",
+   "anuncio": "2026-10-29",
+   "ra": 0.12052043319700756
+  },
+  {
+   "ticker": "GEN",
+   "anuncio": "2026-10-28",
+   "ra": 0.16193062166601147
+  },
+  {
+   "ticker": "HII",
+   "anuncio": "2026-10-29",
+   "ra": 0.1361336279669212
+  }
+ ],
  "abiertas": [
   {
    "ticker": "EFX",
    "entrada": "2026-10-21",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.02175765737923241,
+   "spy": -0.004824847526591625,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
    "entrada": "2026-10-21",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.04885964644582641,
+   "spy": -0.004824847526591625,
    "ra": 0.1086380551832475
   },
   {
    "ticker": "ALLE",
    "entrada": "2026-10-23",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": 0.04514472021417881,
+   "spy": 0.012355770636239605,
    "ra": 0.12199846250366275
   },
   {
    "ticker": "BX",
    "entrada": "2026-10-23",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": 0.022293779996642282,
+   "spy": 0.012355770636239605,
    "ra": 0.09559181653854698
   },
   {
    "ticker": "NDAQ",
    "entrada": "2026-10-23",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": 0.02964119527977327,
+   "spy": 0.012355770636239605,
    "ra": 0.08650805122745209
   },
   {
    "ticker": "ROP",
    "entrada": "2026-10-23",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": 0.026270093721712406,
+   "spy": 0.012355770636239605,
    "ra": 0.10907812761505897
   },
   {
    "ticker": "PNR",
    "entrada": "2026-10-28",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": 0.022836624647909476,
+   "spy": -0.0038197255200072,
    "ra": 0.12242820941802135
+  },
+  {
+   "ticker": "FLEX",
+   "entrada": "2026-10-29",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.11269366783017953
+  },
+  {
+   "ticker": "VRT",
+   "entrada": "2026-10-29",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.16140156376079462
   }
  ],
  "cerradas_recientes": []
