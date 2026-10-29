@@ -68,5 +68,20 @@
    "Christine Lagarde to Resign Early as ECB President"
   ],
   "coste_usd": 0.0404
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-29T21:57:11+00:00",
+  "hora_madrid": "22:57",
+  "clima": "mixto",
+  "resumen": "En el cierre de EE. UU. el Nasdaq-100 cae un 1,4% por Alphabet (-12%) y el miedo a la disrupción por IA (ServiceNow), mientras el Russell 2000 (+1,0%) y las financieras (+1,4%) resisten. Tras el cierre llegan nuevas caídas por resultados (Amazon cerca de -11% por el capex, Intel -16% a -20% por la guía débil), que aún no están en el precio de cierre. El Brent recorta la caída al -3,3% desde el -4,7% de Europa, el TNX baja 6 pb y el dólar cede un 0,3% pese a la inflación alta.",
+  "titulares": [
+   "Alphabet registra la mayor caída de su historia en bolsa tras sus resultados y los analistas recortan su potencial",
+   "Amazon reduce los beneficios, dispara su gasto en capital y se desploma un 11%",
+   "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears"
+  ],
+  "coste_usd": 0.0891,
+  "resumen_dia": "Asia abrió digiriendo una Fed dura (tipos sin cambios, subida de diciembre probable). Alphabet decepcionó y ServiceNow y Fortinet cayeron, con el Nikkei al alza y Hang Seng y Shanghái débiles (Shanghái en mínimos de 52 semanas). En Europa, la banca española cayó tras resultados (IBEX -0,1% al cierre) y el BCE mantuvo tipos pero avisó de una subida en diciembre. Aun así el DAX subió un 1,3%. En EE. UU. el PIB del 3T (3,4%) fue fuerte y el PCE (3,6%) salió en línea. Alphabet registró su peor caída post-resultados y el Nasdaq-100 cedió un 1,4%, mientras small caps y financieras subían y el Brent corregía con fuerza. Tras el cierre, Amazon e Intel cayeron de forma abrupta, así que la sesión termina con sesgo de rotación fuera de grandes tecnológicas y riesgo de gap bajista en el Nasdaq."
  }
 ]
