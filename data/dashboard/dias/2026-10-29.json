@@ -26,5 +26,19 @@
    "Fed Holds Rates Steady, Upgrades Economy From 'Solid' To 'Strong'"
   ],
   "coste_usd": 0.0385
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-29T09:51:53+00:00",
+  "hora_madrid": "10:51",
+  "clima": "mixto",
+  "resumen": "En el cierre de Asia el sesgo es mixto: el Nikkei sube un 1,1% pero Hang Seng (-0,6%) y Shanghái (-0,8%, mínimos de 52 semanas) siguen débiles, con la Fed dura de fondo y Samsung cayendo pese a beneficios récord. Frente a la revisión anterior, Alphabet cae cerca de un 10% en premarket y la banca española se hunde (BBVA -6,1%, SAN -3,0%) antes del BCE, mientras el Brent corrige un 4,1% pese al récord de refino de Shell.",
+  "titulares": [
+   "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+   "Fed Holds Rates Steady, Upgrades Economy From 'Solid' To 'Strong'",
+   "BBVA se desploma tras sus resultados y tumba al IBEX 35"
+  ],
+  "coste_usd": 0.0377
  }
 ]
