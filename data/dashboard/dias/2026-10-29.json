@@ -40,5 +40,19 @@
    "BBVA se desploma tras sus resultados y tumba al IBEX 35"
   ],
   "coste_usd": 0.0377
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-29T15:00:08+00:00",
+  "hora_madrid": "16:00",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. dominan la caída de Alphabet (cerca de -13%, mayor caída post-resultados de su historia) y el PCE de septiembre en 3,6% anual, en línea con lo esperado, con PIB del 3T en 3,4%. El BCE mantuvo tipos en el 2,5% con sesgo hawkish (diciembre en foco) y Lagarde anunció su salida anticipada. El Nasdaq-100 cae un 1,5% mientras small caps, financieras y Europa resisten; el Brent corrige un 4,9%.",
+  "titulares": [
+   "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
+   "September PCE inflation rises 3.6% annually, matching expectations",
+   "Third-quarter U.S. GDP grew at 3.4% rate as September inflation accelerates"
+  ],
+  "coste_usd": 0.0383
  }
 ]
