@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-29T00:19:22+00:00",
+  "hora_madrid": "01:19",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia se digiere la reunión de la Fed de ayer: tipos sin cambios con dos disidencias, tono percibido como duro (la subida de diciembre se ve probable) y Warsh recortando el calendario de reuniones. Tras el cierre de EE. UU., MSFT sube por la nube, Alphabet decepciona y ServiceNow y Fortinet caen. El Nikkei abre con un +1,6%, mientras Hang Seng y Shanghái siguen débiles y en tendencia bajista.",
+  "titulares": [
+   "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
+   "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
+   "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat"
+  ],
+  "coste_usd": 0.0344
+ }
+]
