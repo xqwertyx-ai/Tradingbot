@@ -12,5 +12,19 @@
    "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat"
   ],
   "coste_usd": 0.0344
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-29T08:51:49+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa domina la caída de la banca española tras resultados (SAN -7,6%, BBVA -6,3%, IBEX -0,8%) a la espera del BCE, mientras DAX y Euro Stoxx 50 aguantan. Alphabet cae cerca de un 10% tras sus resultados y los futuros del Nasdaq-100 bajan más de un 1%. La Fed mantuvo los tipos con tono duro y el Brent corrige un 4,1% pese a que Shell publica beneficios récord en refino.",
+  "titulares": [
+   "El Ibex cae con fuerza arrastrado por los abultados recortes de BBVA tras resultados",
+   "Google -10% tras resultados, enfría los ánimos. Apertura en video por Cárpatos 29-10-2026",
+   "Fed Holds Rates Steady, Upgrades Economy From 'Solid' To 'Strong'"
+  ],
+  "coste_usd": 0.0385
  }
 ]
