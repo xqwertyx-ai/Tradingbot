@@ -54,5 +54,19 @@
    "Third-quarter U.S. GDP grew at 3.4% rate as September inflation accelerates"
   ],
   "coste_usd": 0.0383
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-29T16:52:18+00:00",
+  "hora_madrid": "17:52",
+  "clima": "mixto",
+  "resumen": "En el cierre de Europa domina la divergencia entre bolsas: DAX (+1,3%) y Euro Stoxx 50 (+0,6%) suben tras el BCE, que mantuvo tipos pero avisa de una subida en diciembre, mientras el IBEX (-0,1%) cede por BBVA (-2,6%) tras sus resultados. En EE. UU. el Nasdaq-100 cae (-1,4%) por Alphabet (-12%, peor caída post-resultados de su historia) y los miedos a la disrupción por IA (ServiceNow -25%), mientras small caps y financieras resisten. El Brent corrige un 4,7% (-2,1σ) a pesar de los resultados récord de refino de Shell.",
+  "titulares": [
+   "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+   "ECB flags December hike but sees yield rise hitting growth",
+   "Christine Lagarde to Resign Early as ECB President"
+  ],
+  "coste_usd": 0.0404
  }
 ]

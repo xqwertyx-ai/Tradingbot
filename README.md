@@ -2,27 +2,27 @@
 
 # 📊 Radar de mercados
 
-**jueves 29 oct 2026 · revisión de apertura EE. UU. · 16:00 (Madrid)**
+**jueves 29 oct 2026 · revisión de cierre Europa · 17:52 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> En la apertura de EE. UU. dominan la caída de Alphabet (cerca de -13%, mayor caída post-resultados de su historia) y el PCE de septiembre en 3,6% anual, en línea con lo esperado, con PIB del 3T en 3,4%. El BCE mantuvo tipos en el 2,5% con sesgo hawkish (diciembre en foco) y Lagarde anunció su salida anticipada. El Nasdaq-100 cae un 1,5% mientras small caps, financieras y Europa resisten; el Brent corrige un 4,9%.  
-> **Decisión:** no operar hoy — Revisión de apertura de EE. UU.: solo observación; las decisiones se toman con los cierres de EE. UU.
+> En el cierre de Europa domina la divergencia entre bolsas: DAX (+1,3%) y Euro Stoxx 50 (+0,6%) suben tras el BCE, que mantuvo tipos pero avisa de una subida en diciembre, mientras el IBEX (-0,1%) cede por BBVA (-2,6%) tras sus resultados. En EE. UU. el Nasdaq-100 cae (-1,4%) por Alphabet (-12%, peor caída post-resultados de su historia) y los miedos a la disrupción por IA (ServiceNow -25%), mientras small caps y financieras resisten. El Brent corrige un 4,7% (-2,1σ) a pesar de los resultados récord de refino de Shell.  
+> **Decisión:** no operar hoy — Revisión de cierre de Europa, solo observación: las decisiones se toman con los precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **S&P 500** | 7.713 | 🔴▼ -0.4% | 🔵▲ +0.8% | ↗️ alcista |
-| **Nasdaq 100** | 29.374 | 🔴▼ -1.5% | 🔴▼ -3.4% | ➡️ lateral |
-| **IBEX 35** | 18.868 | 🔴▼ -0.1% | 🔴▼ -2.9% | ➡️ lateral |
+| **S&P 500** | 7.714 | 🔴▼ -0.4% | 🔵▲ +0.8% | ↗️ alcista |
+| **Nasdaq 100** | 29.401 | 🔴▼ -1.4% | 🔴▼ -3.3% | ➡️ lateral |
+| **IBEX 35** | 18.858 | 🔴▼ -0.1% | 🔴▼ -2.9% | ➡️ lateral |
 | **Nikkei 225** | 63.954 | 🔵▲ +1.1% | 🔴▼ -2.9% | ➡️ lateral |
-| **Bono EE. UU. 10a (%)** | 4.966 | ▼ -8 pb | ▼ -33 pb | ➡️ lateral |
+| **Bono EE. UU. 10a (%)** | 4.995 | ▼ -5 pb | ▼ -30 pb | ➡️ lateral |
 | **EUR/USD** | 1.116 | 🔵▲ +0.3% | 🔴▼ -1.6% | ↘️ bajista |
-| **Brent** | 109.65 | 🔴▼ -4.9% | 🔵▲ +5.9% | ↗️ alcista |
-| **Oro** | 4.043 | 🔴▼ -0.2% | 🔴▼ -3.4% | ↘️ bajista |
-| **Bitcoin** | 81.161 | 🔴▼ -0.1% | 🔴▼ -0.6% | ➡️ lateral |
+| **Brent** | 109.85 | 🔴▼ -4.7% | 🔵▲ +6.1% | ↗️ alcista |
+| **Oro** | 4.028 | 🔴▼ -0.6% | 🔴▼ -3.8% | ↘️ bajista |
+| **Bitcoin** | 81.174 | 🔴▼ -0.1% | 🔴▼ -0.6% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -32,29 +32,29 @@
 - **09:51 · apertura Europa** 🟡 En la apertura de Europa domina la caída de la banca española tras resultados (SAN -7,6%, BBVA -6,3%, IBEX -0,8%) a la espera del BCE, mientras DAX y Euro Stoxx 50 aguantan. Alphabet cae cerca de un 10% tras sus resultados y los futuros del Nasdaq-100 bajan más de un 1%. La Fed mantuvo los tipos con tono duro y el Brent corrige un 4,1% pese a que Shell publica beneficios récord en refino.
 - **10:51 · cierre Asia** 🟡 En el cierre de Asia el sesgo es mixto: el Nikkei sube un 1,1% pero Hang Seng (-0,6%) y Shanghái (-0,8%, mínimos de 52 semanas) siguen débiles, con la Fed dura de fondo y Samsung cayendo pese a beneficios récord. Frente a la revisión anterior, Alphabet cae cerca de un 10% en premarket y la banca española se hunde (BBVA -6,1%, SAN -3,0%) antes del BCE, mientras el Brent corrige un 4,1% pese al récord de refino de Shell.
 - **16:00 · apertura EE. UU.** 🟡 En la apertura de EE. UU. dominan la caída de Alphabet (cerca de -13%, mayor caída post-resultados de su historia) y el PCE de septiembre en 3,6% anual, en línea con lo esperado, con PIB del 3T en 3,4%. El BCE mantuvo tipos en el 2,5% con sesgo hawkish (diciembre en foco) y Lagarde anunció su salida anticipada. El Nasdaq-100 cae un 1,5% mientras small caps, financieras y Europa resisten; el Brent corrige un 4,9%.
-- <sub>cierre Europa · prevista ~17:50</sub>
+- **17:52 · cierre Europa** 🟡 En el cierre de Europa domina la divergencia entre bolsas: DAX (+1,3%) y Euro Stoxx 50 (+0,6%) suben tras el BCE, que mantuvo tipos pero avisa de una subida en diciembre, mientras el IBEX (-0,1%) cede por BBVA (-2,6%) tras sus resultados. En EE. UU. el Nasdaq-100 cae (-1,4%) por Alphabet (-12%, peor caída post-resultados de su historia) y los miedos a la disrupción por IA (ServiceNow -25%), mientras small caps y financieras resisten. El Brent corrige un 4,7% (-2,1σ) a pesar de los resultados récord de refino de Shell.
 - <sub>cierre EE. UU. · prevista ~21:15</sub>
 
 ## 📰 Noticias clave
 
-- **[resultados]** [Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop](https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html) <sub>CNBC · 29/10 14:46 · ●●●●●</sub>  
-  Sorpresa negativa: el mercado no descontaba una caída de esta magnitud en Alphabet y su relato de IA. **Impacto:** Presiona GOOGL, el Nasdaq-100 (NDX -1,5%), XLK y software/ciberseguridad por el temor a que la IA erosione la búsqueda; rotación hacia small caps y otros sectores.
-- **[macro]** [September PCE inflation rises 3.6% annually, matching expectations](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbmlwRW9tNDdlbEk3emRLYXM5S0tJQWpTal9GUHp4TktnZVEtdXNmTkZQYW5RNjRveEZMaXlRY0RXYzktd0FjMGNhWlpFZ01yanItcnh3UTNhaUE?oc=5) <sub>Fox Business · 29/10 15:03 · ●●●●</sub>  
-  PCE de septiembre en el 3,6% anual, en línea con lo esperado; la subida mensual refuerza una subida de la Fed en diciembre ya descontada en parte. **Impacto:** Tipos altos más tiempo: soporte para el dólar, presión sobre duración y tecnología de alta valoración; el 10 años (4,97%) cae sin embargo 8 pb.
-- **[macro]** [Third-quarter U.S. GDP grew at 3.4% rate as September inflation accelerates](https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2hvb1dTSlVIcFQwUWJtTWZRazM4ZGJsVGRSb0xMRlZwVDRNM1RNYmxtbDYwNnF4dzZVZXpDRUFRNHpfRmU4Q0psS2NVWi1JVWJWdXNyS3FCRm5jUDdNM3dwWTRYY1hldjhaNGdhclNjMTcyN2hOM2RnODg0WkNBNi1FYlR4VjY1eDNmd0c4OUU5enpRZ285NnAweDJpN1lFWGozUG9IcTJlSjZtX3FDb3c2ZTBsbjJqaHRPZ3BwTjJfNll0?oc=5) <sub>CNBC · 29/10 15:27 · ●●●●</sub>  
-  PIB del 3T en 3,4%, por encima de lo previsto: sorpresa positiva de crecimiento. **Impacto:** Economía caliente más inflación elevan el riesgo de subidas adicionales; favorece financieras y cíclicas (XLF +1,7%, RUT +1,1%).
-- **[macro]** [ECB Leaves Rates Unchanged, Cites Energy Shock as Inflation Driver as December Hike Moves Into Focus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkxKY1VlOXpyUzVMNXR5NS1vc1RkOVRZRjBZb2NHbHlSaVZtUU1JVFBZTy1hS0JLcTBHeTVJX1VzZldJRy1WSmJRZXRZeFAwZ3pacERBOVBXeTZLVDE1N1JXQTBBM1B2MmdMUHBXYVg3MXdCc0dEMjh1UUFFYW1mS19DN0h3NWlzRVA3MXJWMUdMb19HQzdNQmkzM2ZwWXJWY19CMTVFV0NlUnFSREZNX2VBSjBlcDEtVVJUS2lTMlB0Ykk1VGt2UWpSdUItWUZ5RTNLVg?oc=5) <sub>Morningstar · 29/10 15:11 · ●●●</sub>  
-  BCE sin cambios en el 2,5%, esperado, pero con la subida de diciembre en el radar por el shock energético. **Impacto:** Soporte moderado para el euro y apoyo a los bancos europeos a medio plazo; el Euro Stoxx 50 sube un 0,8% y el DAX un 1,5%.
-- **[política/regulación]** [Christine Lagarde to Resign Early as ECB President](https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzdxQXdBY2xpYmxjbER5SnUxc2ZHM1JCZlJLYmJkaTJjbjNTLV9vZWEzblBWN0EzUWdvTzItY1NfSzFVV3VWMHNObHViNFl1S1NGSFJnaEF5cmlQMUR3dENYaTk4SGt5TkE4akxwV1pGZE0tN0F3NG56WjVib1BrcW91NHBGVHhHWUMwWThPYzl1US1rdEVB?oc=5) <sub>WSJ · 29/10 14:15 · ●●●</sub>  
-  Salida anticipada de Lagarde: sorpresa que añade incertidumbre sobre la sucesión y la credibilidad del BCE. **Impacto:** Posible prima de riesgo en deuda de la eurozona y volatilidad del euro; efecto directo aún limitado en precios.
-- **[resultados]** [El Ibex cae arrastrado por los abultados recortes de BBVA tras sus resultados](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZDItT0VpZ0otaUphQmlUV1BMNHBBR1dUaHZXcm5EWTdOMHNWYlNwOUZTdGJadjZ0OE5Tb1pGdkVqT1pRdE1xYmxtaFdla1dNVHJIbkNJaHVjQkRyektEdlhldEhBNktpTFM3Q2VRdERweTFjaDlpaUkySGIxSmh5UlJIemRYSkpFaGllYUwta1lwMVBkYTVvUUZLN0Vjd3IzX3RBWEpJMkdJV3o4V0hUamM0M2M1bDhfMEFSQWhLd1VIVzVydmtabl8zem9tQQ?oc=5) <sub>MarketScreener España · 29/10 13:52 · ●●●</sub>  
-  Caídas de BBVA tras resultados peor de lo que el mercado esperaba, con recogida de beneficios en la banca. **Impacto:** Lastra el IBEX (-0,1%) y a SAN/BBVA; la sobreventa de SAN (RSI 26) apunta a rebote técnico posible.
+- **[resultados]** [Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop](https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html) <sub>CNBC · 29/10 17:35 · ●●●●●</sub>  
+  Sorpresa negativa: la mayor caída post-resultados de su historia revela que el mercado no descontaba un daño a la búsqueda por la IA. **Impacto:** Presiona a Alphabet y al Nasdaq-100 (-1,4%) y a XLK (-1,3%), con contagio a software como ServiceNow (-25%) y MSFT (-1,2%); apunta a rotación hacia small caps y financieras.
+- **[macro]** [ECB flags December hike but sees yield rise hitting growth](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5) <sub>Reuters · 29/10 17:16 · ●●●●</sub>  
+  En gran parte esperada: el BCE mantiene tipos pero señala la subida de diciembre; la caída de rendimientos sugiere que el mercado ya lo descontaba. **Impacto:** Euro y bancos europeos tienen apoyo teórico por mayores tipos, pero el aviso de que la subida de rendimientos dañará el crecimiento limita las bolsas; EUR/USD +0,3% desde mínimos.
+- **[resultados]** [El Ibex cierra en rojo arrastrado por las abultadas caídas de BBVA tras sus resultados](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkZwS2hQcHRsbWFsdUJBR1NNRWx3ajFtYlhZSUZ5eHY4UGVHOHhja0xCUVBvWkpSM29pRUNQMndWN09mRFp6QTk4bWhVLVk2SC1DN2NjQnhVWWdQNkxkM3pXTGZwSURBVy1tSkhWakJoM3h2cDBoQzV6Vm91Rk4xZ2F3Q21xOTJXWDRGQ3lYaG53bl9lMEJXOXFwZ3pUMW00SEkxUEJaZXZ3MS1CSnhTWkVMWk51TnU1aUp6RWdXekltYmxiM2RMajE4cUcxRmYzc3pXU1pfTDNWUQ?oc=5) <sub>MarketScreener España · 29/10 17:42 · ●●●●</sub>  
+  Sorpresa negativa de BBVA tras resultados flojos, con caída de la banca española tras la del apertura. **Impacto:** BBVA (-2,6%) y SAN (-1,2%) arrastran al IBEX pese a la subida del Euro Stoxx; el sector sufre un castigo propio, no sistémico.
+- **[macro]** [US economy grows faster than expected but inflation rises to 3.7%](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjl0SzVBY2NCaVlfTFh0R2ItSTFHUERrR1M0ZU9BQWRmb0l1VVBfZFVmMThzYXNuVi1PMXphS2pWZ3ZiMHR1Q012Nms4MHJpMmtRb3BrejdnYXNZb3ZSYXB0Vnl1ZEdMWWkxUENaWExZRWRPWVVIY0xKZUZwV0h4YTdNMA?oc=5) <sub>The Guardian · 29/10 16:28 · ●●●●</sub>  
+  PCE de septiembre en 3,6-3,7%, en línea con lo esperado, y PIB del 3T mejor de lo previsto; la dureza de la Fed ya se descontaba. **Impacto:** Mantiene alta la probabilidad de subida de la Fed en diciembre, con soporte al dólar (máximos de 52 semanas) y presión sobre activos de duración y cripto; los rendimientos bajan (TNX -0,05).
+- **[política/regulación]** [Christine Lagarde to Resign Early as ECB President](https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzdxQXdBY2xpYmxjbER5SnUxc2ZHM1JCZlJLYmJkaTJjbjNTLV9vZWEzblBWN0EzUWdvTzItY1NfSzFVV3VWMHNObHViNFl1S1NGSFJnaEF5cmlQMUR3dENYaTk4SGt5TkE4akxwV1pGZE0tN0F3NG56WjVib1BrcW91NHBGVHhHWUMwWThPYzl1US1rdEVB?oc=5) <sub>WSJ · 29/10 17:08 · ●●●</sub>  
+  Sorpresa institucional: la salida anticipada de Lagarde añade incertidumbre sobre la sucesión y la continuidad de la política del BCE. **Impacto:** Posible prima de riesgo de gobernanza en euro y deuda de la eurozona; el efecto en precios hoy es limitado (EUR/USD sube).
+- **[resultados]** [Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high](https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html) <sub>CNBC · 29/10 17:13 · ●●●</sub>  
+  Los beneficios récord de refino son positivos para el sector, pero el crudo cae de todos modos (-4,7%). **Impacto:** Soporta a las petroleras y a XLE (-0,1%, mantiene su resistencia) pese al Brent; los márgenes de refino son distintos del precio del crudo.
 
-**Divergencias precio-noticia:** Las financieras (XLF +1,7%, +2,2σ) y la banca europea de referencia suben mientras BBVA y SAN caen con fuerza: el castigo es específico de resultados españoles, no sectorial. · El Brent cae un 4,9% pese a la inflación alta y el riesgo geopolítico, mientras XLE apenas cede un 0,1%: la energía bursátil no sigue al crudo. · El 10 años baja 8 pb a pesar de un PCE al alza y un PIB fuerte, lo que sugiere demanda de refugio por la caída tecnológica o un PCE ya descontado. · MSFT cae un 1,8% pese a subir tras sus resultados la víspera: el contagio de Alphabet pesa más que su propia noticia.
+**Divergencias precio-noticia:** El Brent cae un 4,7% (-2,1σ) pese a los beneficios récord de refino de Shell, y XLE apenas cede (-0,1%): el sector energético no sigue al crudo. · El rendimiento a 10 años baja (-0,05) con inflación y PIB fuertes y una Fed dura, mientras el dólar apenas cede (-0,2%): el mercado ya descontaba el PCE. · Russell 2000 (+1,0%) y financieras (XLF +1,4%) suben con rendimientos del 5% y subida inminente de tipos, a pesar de ser sensibles a la financiación. · El Euro Stoxx (+0,6%) y el DAX (+1,3%) suben con un BCE que avisa de una subida en diciembre, mientras el IBEX cae por su banca.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-28._
+_Revisión de cierre Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-10-28._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -66,16 +66,14 @@ _Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran c
 
 ## 👀 Valores a vigilar
 
-- **Nasdaq 100** — Contagio de Alphabet a tecnología y software; vigilar si la caída se extiende o se agota al cierre.
-- **Brent** — Caída anómala de -2,2σ: ver si se estabiliza o continúa la corrección.
-- **Banco Santander** — Sobreventa con RSI 26 tras resultados; posible rebote técnico.
-- **Energía (XLE)** — Divergencia con el Brent tras un +11% mensual.
-- **EUR/USD** — En mínimos de 52 semanas con BCE hawkish y salida de Lagarde.
+- **Banco Santander** — Sobreventa (RSI 26), -14,7% en un mes; vigilar si estabiliza o si el castigo de BBVA se extiende.
+- **Brent** — Corrección de -2,1σ con riesgo geopolítico de fondo: ver si sostiene o extiende la caída.
+- **Tecnología (XLK)** — Cruza a la baja su media de 50 sesiones tras Alphabet; atento a Amazon tras el cierre de EE. UU.
+- **EUR/USD** — En mínimos de 52 semanas con un rebote de +0,3%; sensible a la sucesión en el BCE y a la Fed.
+- **Nasdaq 100** — Resultados de Amazon tras el cierre con el gasto en IA bajo escrutinio, tras un día de fuerte castigo.
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **Bono EE. UU. 10a (%)** — cruza a la baja su media de 50 sesiones
 - **Índice dólar** — en máximos de 52 semanas
-- **Financieras (XLF)** — movimiento anómalo hoy (+2.2σ)
-- **Tecnología (XLK)** — cruza a la baja su media de 50 sesiones
 - **Apple** — en máximos de 52 semanas
 - **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 71)
 
@@ -103,35 +101,35 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 7.
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| S&P 500 | 7.713 | 🔴▼ -0.4% | 🔵▲ +0.6% | 🔵▲ +0.8% | 🔵▲ +3.0% | 50 | ↗️ alcista | — |
-| Nasdaq 100 | 29.374 | 🔴▼ -1.5% | 🔵▲ +1.4% | 🔴▼ -3.4% | 🔵▲ +3.9% | 44 | ➡️ lateral | — |
-| IBEX 35 | 18.868 | 🔴▼ -0.1% | 🔴▼ -0.2% | 🔴▼ -2.9% | 🔴▼ -5.6% | 41 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.216 | 🔵▲ +0.8% | 🔵▲ +2.1% | 🔴▼ -0.8% | 🔴▼ -3.3% | 52 | ➡️ lateral | — |
-| Russell 2000 | 2.861 | 🔵▲ +1.1% | 🔵▲ +2.7% | 🔵▲ +2.3% | 🔴▼ -2.4% | 59 | ➡️ lateral | — |
-| DAX | 26.086 | 🔵▲ +1.5% | 🔵▲ +2.8% | 🔵▲ +3.5% | 🔵▲ +0.3% | 62 | ↗️ alcista | — |
+| S&P 500 | 7.714 | 🔴▼ -0.4% | 🔵▲ +0.7% | 🔵▲ +0.8% | 🔵▲ +3.0% | 50 | ↗️ alcista | — |
+| Nasdaq 100 | 29.401 | 🔴▼ -1.4% | 🔵▲ +1.5% | 🔴▼ -3.3% | 🔵▲ +4.0% | 44 | ➡️ lateral | — |
+| IBEX 35 | 18.858 | 🔴▼ -0.1% | 🔴▼ -0.3% | 🔴▼ -2.9% | 🔴▼ -5.6% | 41 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.207 | 🔵▲ +0.6% | 🔵▲ +2.0% | 🔴▼ -1.0% | 🔴▼ -3.4% | 51 | ➡️ lateral | — |
+| Russell 2000 | 2.860 | 🔵▲ +1.0% | 🔵▲ +2.7% | 🔵▲ +2.3% | 🔴▼ -2.4% | 59 | ➡️ lateral | — |
+| DAX | 26.040 | 🔵▲ +1.3% | 🔵▲ +2.6% | 🔵▲ +3.3% | 🔵▲ +0.1% | 61 | ↗️ alcista | — |
 | Nikkei 225 | 63.954 | 🔵▲ +1.1% | 🔴▼ -1.0% | 🔴▼ -2.9% | 🔴▼ -1.0% | 44 | ➡️ lateral | — |
-| Hang Seng | 22.959 | 🔴▼ -0.6% | 🔵▲ +0.1% | 🔴▼ -6.8% | 🔴▼ -11.2% | 31 | ↘️ bajista | — |
-| Shanghái Compuesto | 3.651 | 🔴▼ -0.8% | 🔴▼ -0.2% | 🔴▼ -7.6% | 🔴▼ -4.3% | 33 | ↘️ bajista | en mínimos de 52 semanas |
-| Bono EE. UU. 10a (%) | 4.966 | ▼ -8 pb | ▲ +1 pb | ▼ -33 pb | ▲ +22 pb | 41 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| Hang Seng | 23.095 | 🔵▲ +0.2% | 🔴▼ -2.4% | 🔴▼ -5.8% | 🔴▼ -10.5% | 33 | ↘️ bajista | — |
+| Shanghái Compuesto | 3.681 | 🔵▲ +0.9% | 🔴▼ -0.8% | 🔴▼ -6.8% | 🔴▼ -5.0% | 36 | ↘️ bajista | en mínimos de 52 semanas |
+| Bono EE. UU. 10a (%) | 4.995 | ▼ -5 pb | ▲ +4 pb | ▼ -30 pb | ▲ +25 pb | 43 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
 | EUR/USD | 1.116 | 🔵▲ +0.3% | 🔴▼ -0.6% | 🔴▼ -1.6% | 🔴▼ -3.3% | 34 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 102.05 | 🔴▼ -0.1% | 🔵▲ +0.4% | 🔵▲ +0.6% | 🔵▲ +2.3% | 56 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 109.65 | 🔴▼ -4.9% | 🔴▼ -3.1% | 🔵▲ +5.9% | 🔵▲ +21.7% | 54 | ↗️ alcista | movimiento anómalo hoy (-2.2σ) |
-| Oro | 4.043 | 🔴▼ -0.2% | 🔴▼ -0.4% | 🔴▼ -3.4% | 🔴▼ -1.6% | 37 | ↘️ bajista | — |
-| Bitcoin | 81.161 | 🔴▼ -0.1% | 🔵▲ +0.5% | 🔴▼ -0.6% | 🔵▲ +1.1% | 47 | ➡️ lateral | — |
-| Ethereum | 2.344 | 🔴▼ -0.6% | 🔴▼ -0.5% | 🔴▼ -5.2% | 🔴▼ -6.6% | 38 | ➡️ lateral | — |
-| Solana | 101.74 | 🔴▼ -0.6% | 🔴▼ -0.5% | 🔴▼ -7.0% | 🔴▼ -6.8% | 39 | ➡️ lateral | — |
-| Semiconductores (SMH) | 561.35 | 🔴▼ -1.1% | 🔵▲ +7.3% | 🔴▼ -7.8% | 🔵▲ +3.9% | 47 | ➡️ lateral | — |
-| Financieras (XLF) | 57.08 | 🔵▲ +1.7% | 🔵▲ +0.8% | 🔵▲ +6.9% | 🔵▲ +0.3% | 64 | ↗️ alcista | movimiento anómalo hoy (+2.2σ) |
-| Energía (XLE) | 68.36 | 🔴▼ -0.1% | 🔵▲ +1.2% | 🔵▲ +11.1% | 🔵▲ +14.8% | 61 | ↗️ alcista | — |
-| Tecnología (XLK) | 188.51 | 🔴▼ -1.3% | 🔵▲ +3.4% | 🔴▼ -3.7% | 🔵▲ +7.5% | 48 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| NVIDIA | 214.00 | 🔴▼ -0.6% | 🔵▲ +0.8% | 🔴▼ -6.3% | 🔵▲ +6.6% | 43 | ➡️ lateral | — |
-| Apple | 349.20 | 🔵▲ +1.6% | 🔵▲ +0.3% | 🔵▲ +4.9% | 🔵▲ +13.0% | 62 | ↗️ alcista | en máximos de 52 semanas |
-| Microsoft | 521.47 | 🔴▼ -1.8% | 🔵▲ +0.1% | 🔵▲ +1.7% | 🔵▲ +12.2% | 49 | ↗️ alcista | — |
-| ASML | 1.681 | 🔵▲ +1.1% | 🔵▲ +7.7% | 🔴▼ -7.2% | 🔵▲ +3.2% | 50 | ➡️ lateral | — |
-| Banco Santander | 10.50 | 🔴▼ -1.3% | 🔴▼ -8.6% | 🔴▼ -14.9% | 🔴▼ -16.5% | 26 | ↘️ bajista | sobreventa (RSI 26) |
-| BBVA | 21.85 | 🔴▼ -2.7% | 🔴▼ -1.5% | 🔴▼ -11.9% | 🔴▼ -11.5% | 33 | ➡️ lateral | — |
-| Inditex | 56.48 | 🔴▼ -1.1% | 🔵▲ +0.4% | 🔵▲ +4.7% | 🔴▼ -2.2% | 58 | ↗️ alcista | — |
-| Iberdrola | 22.14 | 🔵▲ +0.5% | 🔵▲ +1.8% | 🔵▲ +7.4% | 🔵▲ +7.2% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
+| Índice dólar | 102.01 | 🔴▼ -0.2% | 🔵▲ +0.4% | 🔵▲ +0.6% | 🔵▲ +2.2% | 56 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 109.85 | 🔴▼ -4.7% | 🔴▼ -2.9% | 🔵▲ +6.1% | 🔵▲ +21.9% | 54 | ↗️ alcista | movimiento anómalo hoy (-2.1σ) |
+| Oro | 4.028 | 🔴▼ -0.6% | 🔴▼ -0.8% | 🔴▼ -3.8% | 🔴▼ -1.9% | 36 | ↘️ bajista | — |
+| Bitcoin | 81.174 | 🔴▼ -0.1% | 🔵▲ +0.5% | 🔴▼ -0.6% | 🔵▲ +1.1% | 47 | ➡️ lateral | — |
+| Ethereum | 2.353 | 🔴▼ -0.2% | 🔴▼ -0.1% | 🔴▼ -4.8% | 🔴▼ -6.3% | 39 | ➡️ lateral | — |
+| Solana | 101.83 | 🔴▼ -0.5% | 🔴▼ -0.4% | 🔴▼ -7.0% | 🔴▼ -6.8% | 39 | ➡️ lateral | — |
+| Semiconductores (SMH) | 561.54 | 🔴▼ -1.1% | 🔵▲ +7.3% | 🔴▼ -7.8% | 🔵▲ +3.9% | 47 | ➡️ lateral | — |
+| Financieras (XLF) | 56.94 | 🔵▲ +1.4% | 🔵▲ +0.5% | 🔵▲ +6.6% | 🔴▼ -0.0% | 63 | ↗️ alcista | — |
+| Energía (XLE) | 68.38 | 🔴▼ -0.1% | 🔵▲ +1.2% | 🔵▲ +11.2% | 🔵▲ +14.8% | 61 | ↗️ alcista | — |
+| Tecnología (XLK) | 188.53 | 🔴▼ -1.3% | 🔵▲ +3.4% | 🔴▼ -3.7% | 🔵▲ +7.5% | 48 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| NVIDIA | 213.39 | 🔴▼ -0.9% | 🔵▲ +0.6% | 🔴▼ -6.6% | 🔵▲ +6.3% | 42 | ➡️ lateral | — |
+| Apple | 349.95 | 🔵▲ +1.8% | 🔵▲ +0.5% | 🔵▲ +5.1% | 🔵▲ +13.3% | 62 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 524.60 | 🔴▼ -1.2% | 🔵▲ +0.7% | 🔵▲ +2.3% | 🔵▲ +12.9% | 51 | ↗️ alcista | — |
+| ASML | 1.674 | 🔵▲ +0.6% | 🔵▲ +7.2% | 🔴▼ -7.6% | 🔵▲ +2.7% | 49 | ➡️ lateral | — |
+| Banco Santander | 10.51 | 🔴▼ -1.2% | 🔴▼ -8.5% | 🔴▼ -14.7% | 🔴▼ -16.3% | 26 | ↘️ bajista | sobreventa (RSI 26) |
+| BBVA | 21.87 | 🔴▼ -2.6% | 🔴▼ -1.4% | 🔴▼ -11.9% | 🔴▼ -11.4% | 33 | ➡️ lateral | — |
+| Inditex | 56.28 | 🔴▼ -1.4% | 🔵▲ +0.1% | 🔵▲ +4.4% | 🔴▼ -2.6% | 57 | ↗️ alcista | — |
+| Iberdrola | 22.10 | 🔵▲ +0.3% | 🔵▲ +1.7% | 🔵▲ +7.2% | 🔵▲ +7.0% | 71 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 71) |
 
 </details>
 
