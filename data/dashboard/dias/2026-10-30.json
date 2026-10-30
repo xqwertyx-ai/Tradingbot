@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-10-30T00:58:58+00:00",
+  "hora_madrid": "01:58",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Asia el Nikkei cotiza en -0,7% y el cripto se desploma tras el reporte de un hackeo en Binance (BTC -5,2%, ETH -5,9%, SOL -7,5%). Tras el cierre de EE. UU., Amazon (-11%) e Intel (-21%) caen tras resultados y los futuros del Nasdaq-100 bajan. La Fed mantiene tipos con 10-2 a favor y el IPC al alza sostiene las apuestas de subida; el BCE avisa de una subida en diciembre.",
+  "titulares": [
+   "Binance Hack – Hot Wallets Lose $3.5bn in Potential Record Crypto Hack",
+   "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+   "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates"
+  ],
+  "coste_usd": 0.0354
+ }
+]
