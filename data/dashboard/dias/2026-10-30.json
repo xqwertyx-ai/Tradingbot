@@ -68,5 +68,20 @@
    "Tech Stocks Sell Off as Intel, Amazon Earnings Spook Investors"
   ],
   "coste_usd": 0.0379
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-10-30T21:26:26+00:00",
+  "hora_madrid": "22:26",
+  "clima": "risk-off",
+  "resumen": "Cierre de EE. UU. con risk-off marcado: Nasdaq 100 -3,5%, SMH -7,0% y XLK -4,9% tras Intel (~-30%) y Amazon, que llevan al S&P 500 a -1,8%. Desde el cierre de Europa se suman más voces de la Fed (Logan: «al menos dos subidas más»). La energía resiste (XLE +1,9%, en máximos de 52 semanas) y el oro cae un 3,6% hasta mínimos de 52 semanas. No hay nada nuevo que justifique perseguir lo que ya se ha movido más de 3σ.",
+  "titulares": [
+   "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+   "Fed needs at least two more rate hikes, Logan says",
+   "$6.3 billion Binance hack is largest crypto theft on record"
+  ],
+  "coste_usd": 0.0754,
+  "resumen_dia": "Asia abrió débil por el hackeo de Binance (cripto -5% a -7%) y la tecnología tras Amazon, Intel y Alphabet; cerró con Nikkei y Shanghái a la baja (Shanghái en mínimos de 52 semanas) y el BOJ declarando alcanzado el 2% sin subir tipos. Europa cayó con la tecnología y la banca española muy castigada (SAN y BBVA -3,7%), con el BCE avisando de una subida en diciembre. En EE. UU. la venta se aceleró: Intel se hundió ~30%, los semiconductores perdieron un 7% y el Nasdaq 100 un 3,5%, con el PCE al 3,6% y varios miembros de la Fed (Musalem, Logan) pidiendo más subidas. Binance se confirmó como el mayor robo cripto registrado, y el oro cayó a mínimos de 52 semanas mientras la energía marcaba máximos. Jornada risk-off de manual, con la semana que viene cargada de eventos (elecciones de mitad de mandato, empleo, Apple)."
  }
 ]
