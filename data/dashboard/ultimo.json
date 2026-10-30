@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-30T21:26:26.069654+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-10-30T21:55:38.871957+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -392,21 +392,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 76717.453125,
+   "last": 76604.25,
    "date": "2026-10-30",
-   "chg_1d": -0.013598904051685845,
-   "chg_5d": -0.0413195336985297,
-   "chg_1m": -0.07061328918640286,
-   "chg_3m": -0.014298237240341738,
-   "vol20_ann": 0.25136238158362667,
-   "ma50": 81881.51828125,
-   "ma200": 73113.00671875,
-   "dist_ma50": -0.06306753055692316,
-   "dist_ma200": 0.049299660457345684,
-   "rsi14": 33.16367008736134,
-   "from_high": -0.30660056806049374,
-   "from_low": 0.3100913157087941,
-   "z_1d": -0.7178140995440003,
+   "chg_1d": -0.01505442273767299,
+   "chg_5d": -0.04273414823852173,
+   "chg_1m": -0.07198467829946609,
+   "chg_3m": -0.01575272400074801,
+   "vol20_ann": 0.2521702442598253,
+   "ma50": 81879.25421875,
+   "ma200": 73112.440703125,
+   "dist_ma50": -0.06442418496701496,
+   "dist_ma200": 0.04775944098287699,
+   "rsi14": 32.90023279244916,
+   "from_high": -0.3076237378787211,
+   "from_low": 0.30815816458173617,
+   "z_1d": -0.7946432198157775,
    "trend": "lateral",
    "flags": []
   },
@@ -418,21 +418,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2239.25,
+   "last": 2237.139892578125,
    "date": "2026-10-30",
-   "chg_1d": -0.004555811869942805,
-   "chg_5d": -0.03767648211401353,
-   "chg_1m": -0.0990886147466703,
-   "chg_3m": -0.08322739068632945,
-   "vol20_ann": 0.29755706412148475,
-   "ma50": 2525.740537109375,
-   "ma200": 2158.457366333008,
-   "dist_ma50": -0.11342833236435834,
-   "dist_ma200": 0.037430729430737,
-   "rsi14": 30.174608275904205,
-   "from_high": -0.4274574797366869,
-   "from_low": 0.4309983213950441,
-   "z_1d": -0.2104959058421281,
+   "chg_1d": -0.005493846555411408,
+   "chg_5d": -0.03858330627269879,
+   "chg_1m": -0.09993756854837843,
+   "chg_3m": -0.08409129095967294,
+   "vol20_ann": 0.29754026746666135,
+   "ma50": 2525.6983349609377,
+   "ma200": 2158.4468157958986,
+   "dist_ma50": -0.11424897359615815,
+   "dist_ma200": 0.036458195868592336,
+   "rsi14": 30.043350240439196,
+   "from_high": -0.42799700244355154,
+   "from_low": 0.4296498519616774,
+   "z_1d": -0.25383669041924195,
    "trend": "lateral",
    "flags": []
   },
@@ -444,21 +444,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 95.23999786376953,
+   "last": 95.30000305175781,
    "date": "2026-10-30",
-   "chg_1d": -0.002661264350634296,
-   "chg_5d": -0.059109051814324465,
-   "chg_1m": -0.12735497750946057,
-   "chg_3m": -0.08534730916943334,
-   "vol20_ann": 0.3431107191095444,
-   "ma50": 109.21134735107422,
-   "ma200": 88.73072772979737,
-   "dist_ma50": -0.12792946727771748,
-   "dist_ma200": 0.07335981908988942,
-   "rsi14": 28.99718705921478,
-   "from_high": -0.49293489029448556,
-   "from_low": 0.5314407124618252,
-   "z_1d": -0.09287350183913817,
+   "chg_1d": -0.002032899171476754,
+   "chg_5d": -0.05851625110570713,
+   "chg_1m": -0.12680517459266005,
+   "chg_3m": -0.08477103966199617,
+   "vol20_ann": 0.3432224925289659,
+   "ma50": 109.21254745483398,
+   "ma200": 88.7310277557373,
+   "dist_ma50": -0.1273896152713574,
+   "dist_ma200": 0.07403244910116302,
+   "rsi14": 29.06974292332181,
+   "from_high": -0.49261541803584796,
+   "from_low": 0.5324055842583957,
+   "z_1d": -0.07094464888312538,
    "trend": "lateral",
    "flags": [
     "sobreventa (RSI 29)"
@@ -491,32 +491,6 @@
    "flags": [
     "movimiento anómalo hoy (-3.3σ)"
    ]
-  },
-  {
-   "ticker": "XLF",
-   "name": "Financieras (XLF)",
-   "group": "Sectores",
-   "key": false,
-   "level": false,
-   "fuente": "Yahoo",
-   "calidad": "sin contraste",
-   "last": 56.5099983215332,
-   "date": "2026-10-30",
-   "chg_1d": -0.007551814463410911,
-   "chg_5d": 0.010912285849793646,
-   "chg_1m": 0.05705198820226709,
-   "chg_3m": -0.015162124963177703,
-   "vol20_ann": 0.12714288324568582,
-   "ma50": 55.94600006103516,
-   "ma200": 53.72235000610352,
-   "dist_ma50": 0.010081118576533488,
-   "dist_ma200": 0.05188991760622863,
-   "rsi14": 58.18641104153979,
-   "from_high": -0.03500688189349688,
-   "from_low": 0.1819702300427548,
-   "z_1d": -0.9518652542432375,
-   "trend": "alcista",
-   "flags": []
   },
   {
    "ticker": "XLE",
@@ -796,11 +770,47 @@
  ],
  "titulares": [
   {
+   "title": "Watch Wall Street Punishes Tech Stocks on Earnings Misses",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOERnQVFGSnVtUlNVTDVYUHNxYzFYbzhEMDVuWDhMZjZWU0NiWVlhSEtfc0NfUkl4N0JwLXRWZDh4Yk9uRURjSUE5bGEzNkJONC1ueFlRYWlsenROTmZwMy04ZjJtR3RlSUdIckwxSS1MbVY2QURmVExyb2RIU3FGWlhmVFYwYlJpVlVzSGpaOFhfOUN4bXRzSkpR?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-10-30T21:37:45+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+   "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-10-30T21:30:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "feed": "MarketWatch",
    "published": "2026-10-30T21:23:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "$6.3 billion Binance hack is largest crypto theft on record",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-10-30T21:21:17+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
+   "title": "Agriculture Secretary praises Trump administration's affordability policies as food inflation eases",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtZHJacEYwaEY5ZVFMM2VoUDRVRjBPdGYxM0k4NjItSWtNaTZnSWhiR1FDSlRvUjlZeWxPYWlPdW1Fa0RoWjl1TUFiY2FPWWUyT1MwSV9SSUpCMHc?oc=5",
+   "source": "Fox Business",
+   "feed": "Google News · markets",
+   "published": "2026-10-30T21:20:47+00:00",
    "category": "macro",
    "score": 3
   },
@@ -819,6 +829,15 @@
    "source": "Tablet Magazine",
    "feed": "Google News · crypto",
    "published": "2026-10-30T21:07:07+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
+   "title": "Tech stocks and crypto crash against a perfect storm as 'Bloody Friday' selloff shocks markets",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHZKSTJ0UEtCUTR4dWFXNHFyU18zZm9XUGlCNklic09KQWREeWowX05wSEFpaEM5clVuTko1cVhwak5iSWk1MW9paERST3dsNjVYQkM0NlpxSjJfdHRGX3dDcnJ3aFR5cElGSzRjdG53aGtOdk1MdHBaWG5tbHV0ZEFrd2dTUjFyMHBLZWZkLU1BbDhIY3JYMlVpVm5fSXFHTUE2clIyanJZV0tqdWVPOGMxRUw3TEt1UHBBSWMteG5UTGlMUVd3eGZTajBZQWxIRC1BQTM3dw?oc=5",
+   "source": "Fast Company",
+   "feed": "Google News · crypto",
+   "published": "2026-10-30T20:49:31+00:00",
    "category": "cripto",
    "score": 3
   },
@@ -922,15 +941,6 @@
    "score": 3
   },
   {
-   "title": "Tech stocks and crypto are crashing against a perfect storm as markets head for their worst day in months",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHZKSTJ0UEtCUTR4dWFXNHFyU18zZm9XUGlCNklic09KQWREeWowX05wSEFpaEM5clVuTko1cVhwak5iSWk1MW9paERST3dsNjVYQkM0NlpxSjJfdHRGX3dDcnJ3aFR5cElGSzRjdG53aGtOdk1MdHBaWG5tbHV0ZEFrd2dTUjFyMHBLZWZkLU1BbDhIY3JYMlVpVm5fSXFHTUE2clIyanJZV0tqdWVPOGMxRUw3TEt1UHBBSWMteG5UTGlMUVd3eGZTajBZQWxIRC1BQTM3dw?oc=5",
-   "source": "Fast Company",
-   "feed": "Google News · crypto",
-   "published": "2026-10-30T20:04:52+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
    "title": "Can AI be blamed for inflation? Partly, yes.",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlc0RWNDRHODdTVldZLXR2VlBaYTN1Y2F6ZW1PYUM5M0xteTJoS1R4NWxJQ1VUX3pLRllZTURVT3A1T3FvN2ViQTFESF9HRGpCQWFYUHBfM1oyWGZJdGQ5NXBkYU1ZVlV3ODVWSWdsd0ZONmF4S0huQw?oc=5",
    "source": "CFO Brew",
@@ -946,6 +956,24 @@
    "feed": "Google News · markets",
    "published": "2026-10-30T20:03:43+00:00",
    "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Record Binance Hack Shows No Crypto Firm Is Too Big to Breach",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWRmeVhmQjF3WHVyU3hNSFVqbnU1LXctS1k2NkpUZUFLbm81ODNXMWFidjdtaGl4RFg4TVlkVWhUTWFKNmhaenJCYXViQ3JiUEpmY2gxbjJjMXFYYnRvU05NUmt3UzRtV1hLUlBaQi1SSk9PakhieHdjNnhhREd1T1Zkem1FLXJoWWFlaDRWT1IyUWh3Y19tbGhaa0lFMHBVRzVXSTlLY3B1eEZUcWgxbUNn?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · crypto",
+   "published": "2026-10-30T20:02:04+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
+   "title": "Wall Street Delivers Stark Warning for AI Stocks as Earnings Beats Fail to Deliver",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZtSEIySnN0T1Y0WElOQUdQMnRUbDJrZ01vNjBPNDBZOVRtemtvbVFEeUsyQk1DZXlrRmh1MEJ4bVg1cEZrQjBMQ3NoRGlwR2lJaFpGa1JScjhBMTllWlFhRHBlSkQ4TFZtODhmV1k5dlVlVkdQeEhRbkozSFVrdTBsaVVULXUyOERlUG9qVFNRQjdZOHJPU0lYdEFvUnM?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-10-30T20:00:42+00:00",
+   "category": "geopolítica",
    "score": 3
   },
   {
@@ -1021,15 +1049,6 @@
    "score": 3
   },
   {
-   "title": "FOMC Will Need to Raise Interest Rate 'Soon' to Tame Inflation, St. Louis Fed's Musalem Says",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFZ6Rk5FdEtFME1rVHl4R05XM0lBanpOaEFyZnl2dWZpNzFIU2k4NGUtOTBaXy1jX3h3YlBWUlZYV0lZVXVWUjZiaHBWaTExLTZsSmx3b2FCa0NEd3Baekk3di1YeV83anduN1BMdWFxMXNyb3pxT2FyUk1FT3NzbzZTNFF1cHVSUm9BUHNmMWxqODRRdV84cjl3?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-30T19:33:30+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Consumer sentiment is lower than at the 9.1% inflation peak — top 10% do half of consumer spending",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1A5MWRuRl90TDhobHpyMHF4YldrYkNhM1ZNNEVxVktfeF8wNU5xakVVNF9MOUZBc3BlVy1TZkN0aEJzTGVzZHluQ0lod191ZTJMcDRoMUFJanJIOHBieGR3cjFPbUhGdGFSZnU0RnkzWHQ5eTF6SWZ2OWRJT2pNcHFMdlEwMWp6LV82NUQ4bjZlSlRjTUo4RTAyXzNfMVhCZVNUMHZpN2d4U2c?oc=5",
    "source": "Fortune",
@@ -1072,6 +1091,15 @@
    "feed": "Google News · markets",
    "published": "2026-10-30T18:53:49+00:00",
    "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin Price Could Fall as Dollar Debasement Trade Unravels, Connection Capital Founder Warns",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMG00alNNVmZBNkxLallNbHNfVWpKRkxvOXp3UlZ5N2pEVmN3TGNvT1lXTkphTkU5cHRpYUVwWHBYcTNlX2tuU3lrSENDX0djRGkxeC1ISWI5UEpYVThQWXFFZ1NGYnlsUUFycjdUM2tsc1RVM3lfSTN4R2hkMmJrRnQzdEplRGM4VVU4Z3pXdkwwVVBvdVU3TUkyVFE?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-30T18:15:41+00:00",
+   "category": "geopolítica",
    "score": 3
   },
   {
@@ -1120,12 +1148,12 @@
    "score": 3
   },
   {
-   "title": "Bitcoin Price Forecast: BTC/USD 12.5% Plunge Nears Critical Support",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblNNZVRhaEl0cXM4Q0MteUlqWm12OGZERS1uSEpUVDdRZTM5MUYtQnpqbDVKeEs5MkJQNEFiN0R5WDQwVUZ6ZjdmOGRVSF9XNlJjMjBaTGdlNVVyQ3JrbDNhMVFVNGxIaGQ0N29EYUc2bWJDLUt2d1RlNXl4azFCU0F6RWV1T0YzOWhGRjhNa0tuM1lQakpvVGdLemNlWi14YlJJeHJobGlLSUF6TjdGY0QwZVN5RWc3TXFqNFQyanFfWlpMQkVyWXNuczltU2FK0gHQAUFVX3lxTE5uU01lVGFoSXRxczhDQy15SWpabXY4ZkRFLW5ISlRUN1FlMzkxRi1CempsNUp4SzkyQlA0QWI3RHlYNDBVRnpmN2Y4ZFVIX1c2UmMyMFpMZ2U1VXJDcmtsM2ExUVU0bEhoZDQ3b0RhRzZtYkMtS3Z3VGU1eXhrMUJTQXpFZXVPRjM5aEZGOE1rS24zWVBqSm9UZ0t6Y2VaLXhiUkl4cmhsaUtJQXpON0ZjRDBlU3lFZzdNcWo0VDJqcV9aWkxCRXJZc25zOW1TYUo?oc=5",
-   "source": "FOREX.com",
+   "title": "Pa. attorney general launches campaign warning of crypto scams",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcklsSWJmX3kwUzFLZF8yUlFmZFJzSWNZQk0xMjhzUlAtR19FTVRFam8xMHJCaVBib3RabFpDQkVoMzJ1X0FSc2d5SGFfNGlrNG1nNmR4VGlNNjc2LXFtQ0lSQXFYV0QtZWpTYUotdWlwa3VxZXpZeG1rS3RLczdNeXlELXZQMk85Y0ZNTldORVA0ZEF4QVRDeGRCZE9rV1VIeUZRS2tJRdIBuwFBVV95cUxNb2JGRHFjSC00TnNDVnRfVHJrOVMxY2c4cmxpUXc3d00xTVlMXzdETmhHUmRTSXhIV3k3TUVGMzJpbTFIREt6dkhNVXpGUVVjS0ZBb2t0c0d3X1dnVlZESlJkcGVEYk0wOVpiamJyaVNSQms4WFBmMjVBd0Ztbkt4NmJNM2dJT1k3V1hhNHpZb2JiWFZlby1LQlllTUpyalR6VGYwclF5MW5fcFh0eG11TkVMX3VLVmN1TGtj?oc=5",
+   "source": "PennLive.com",
    "feed": "Google News · crypto",
-   "published": "2026-10-30T17:47:54+00:00",
-   "category": "cripto",
+   "published": "2026-10-30T17:41:00+00:00",
+   "category": "geopolítica",
    "score": 3
   },
   {
@@ -1144,15 +1172,6 @@
    "feed": "Google News · markets",
    "published": "2026-10-30T17:35:43+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "10 crypto scams and the warning signs each one missed",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vT0cwQ3U0TkJpWGZiSUtwVDhkRzB6UnZfRi01T1VUNk1OLUJMV3lRSWlWVFFyNGpBTmN6RklaSHFXMVRMU1RGeEY0YTRocHhoZ1g4?oc=5",
-   "source": "qz.com",
-   "feed": "Google News · crypto",
-   "published": "2026-10-30T17:28:50+00:00",
-   "category": "geopolítica",
    "score": 3
   },
   {
@@ -1192,8 +1211,17 @@
    "score": 3
   },
   {
+   "title": "Deutsche Bank's AI Dollar Warning Could Hit Bitcoin, Gold, and Stocks",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHNvaWN4WGk3bi1DOVVZOGxNRmFSUkxkTlI2UkpZS3ZIbU1MTmFTTHo5QnRtNW9kRGo3a3hCcnRBejZZZTFLakJhN3hFRlVtYk9qUDdlUGRxQXlhSUJDZloyUGx4SEJWS1JCcmxVeC1zMG96Y0UtZnd4YnRwWEFKWDdHVXl2eU92aWJza3ozQmhTejVrM0VVNDVhV1BoUUEtc29r?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-10-30T17:00:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
    "title": "El BCE activa la sucesión de su economista jefe, Philip Lane",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWpSTTF2UVBiQ2hQV1FvZnhQNUdjUFlpLXItQTRxMXdKQTZCVmd4TzBudEFRaC05OE1EanBYekt3OGtzRUZRSGI1dmlDczR4Und1aXdlRGtzR1l4aHByZTBSMld6UUJyeFhwVmJSVmxrMjgxMTNqTUNoZVdVcWZTUTVySU02eVdFcmE2Tl9ELWZ3TzhRTTBJaW0yWUtNZ2xFVWE3SEdoMmNwblhWaVo0UUp1VkFrWlNZZXZTeUtObkNQMGpwMjYzQWZRVFVXZzczaXJKVXVXSdIB1wFBVV95cUxPYWpSTTF2UVBiQ2hQV1FvZnhQNUdjUFlpLXItQTRxMXdKQTZCVmd4TzBudEFRaC05OE1EanBYekt3OGtzRUZRSGI1dmlDczR4Und1aXdlRGtzR1l4aHByZTBSMld6UUJyeFhwVmJSVmxrMjgxMTNqTUNoZVdVcWZTUTVySU02eVdFcmE2Tl9ELWZ3TzhRTTBJaW0yWUtNZ2xFVWE3SEdoMmNwblhWaVo0UUp1VkFrWlNZZXZTeUtObkNQMGpwMjYzQWZRVFVXZzczaXJKVXVXSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT090Vkx6V21Xa05Na3Z6UkNEaS04NUFTaUU3SGQzYjVDeW80M2lBTTV6Y1hUdGo4MHRnc2tkcnMyeU9SRzFLRHlTSDB5Z2h2Y1RrQkMzOG0talU3T29WY0owODZqaXdacUZ0NnlmSzB3Qjc5cHphd25tcFFodjBrY2FneFNHQUJxbktmSnhya0NhZnB6ckRXM1dka1NsWFVJTGtNMjZXS0pnMnl2ZngxVlo2b2dETmo0YVM4UDB6dnZDXzDSAdcBQVVfeXFMT2FqUk0xdlFQYkNoUFdRb2Z4UDVHY1BZaS1yLUE0cTF3SkE2QlZneE8wbnRBUWgtOThNRGpwWHpLdzhrc0VGUUhiNXZpQ3M0eFJ3dWl3ZURrc0dZeGhwcmUwUjJXelFCcnhYcFZiUlZsazI4MTEzak1DaGVXVXFmU1E1cklNNnlXRXJhNk5fRC1md084UU0wSWltMllLTWdsRVVhN0hHaDJjcG5YVmlaNFFKdVZBa1pTWWV2U3lLTm5DUDBqcDI2M0FmUVRVV2c3M2lySlV1V0k?oc=5",
    "source": "Cinco Días",
    "feed": "Google News · mercados ES",
    "published": "2026-10-30T16:55:10+00:00",
@@ -1237,15 +1265,6 @@
    "score": 3
   },
   {
-   "title": "Fed's Musalem says a rate hike is needed 'soon'",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcF91d1VFeE1CZU9EaXZSS1VObjNNSlFhTnlOeUpsczYyeVJWLUtzbUJDNzlVa285emJzVk9zUWVEWWstOE9rZ0xScVlLTVVsXzFVWDU4eEtMaFlVdXY3ZGJYZmo3a2pTalZGT2NDSzR0UHhnUmZnNWdRM3FacnEzdHM3ZjE5N3ZrRVRINWowSFN3Y1d0bDNN?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-10-30T16:32:23+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Fed officials are already saying they’ll need to get back to hiking rates",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5",
    "source": "CNBC",
@@ -1282,15 +1301,6 @@
    "score": 3
   },
   {
-   "title": "$6.3 billion Binance hack is largest crypto theft on record",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckIwSHdXN2lheHpaYVZiVXRYN2dfZ1JzTmFNUDM5NFJuN3EyTTRVR2RRR2FVbU4tTHpQSkkwTWlIRGN1N214emE4VnhiZmN4V2JuRUR6NGJqNk1zZG9IR0ZpYVNhbUZ0QlJjN1lzb0txNW1QWXpQeGZfTE1Bc09zOVZZLUdOVi1Selk3MktXZ0dVUFpGZ3pmc0NUa1RxZENJTEVPQzZHNVg?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · crypto",
-   "published": "2026-10-30T16:18:43+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
    "title": "Intel sufre el mayor desplome en Bolsa de su historia: se hunde un 30% tras sus previsiones",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3VNVVFyRzhnUGw2RF9IbVJnaHBYdFhsVzNhVFdCWDFSckQ3NVA0YnBTS1NmWm1Sb0s1MWFudHBZUHdPOFZnUEIyYzFIR1NmR21ORDJWNHZIak5XN00zZXQyWXRxZnFjSUlVc1hjRlpUMmxxdm5RbTlyZTNONHZYUFV2OUs1M2liT3VCLdIBkgFBVV95cUxNNnJiZmFIdXg3V042NVp2djg2NFlxSDQxSk9Eb0V6Vjd6Z1lrdjk4V19HR0tzdXE1aW5JS3hFNE0wV01CNDFndVBCcEk3SmlRMXowNHMxUUZIUWpCM3daTlNMZzZsVEJJNTJ4MlE0MFFKWTltdlZZczlwZlFnMFloZGk0cWlxZkViTF9aYjdYVlhUQQ?oc=5",
    "source": "El Boletín",
@@ -1298,197 +1308,107 @@
    "published": "2026-10-30T16:15:23+00:00",
    "category": "resultados",
    "score": 3
-  },
-  {
-   "title": "Tech Stocks Sell Off as Intel, Amazon Earnings Spook Investors",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUtOUzlBVExJN1Y3RDZTaWF3ZFVacGt1Wnc4UEJHZnJUZzNLZk1nQ3dzNVNfbS1RZWRUSFFqeF8xM09RRm52dFlwNzMwa2w4VUl4VXc2T212akJ3bDNfNGRxOExVTFlnVFhhWGRhRDduXzRzcTNYTmVxX19LTENXMllIVjhPUktURHV4RG5DSWNYSXlhTHJMMXdB?oc=5",
-   "source": "Morningstar",
-   "feed": "Google News · markets",
-   "published": "2026-10-30T16:11:41+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-   "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-30T15:14:27+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Here are the stocks reporting next week that have a history of earnings beats and big share gains",
-   "link": "https://www.cnbc.com/2026/10/30/here-are-stocks-reporting-next-week-that-usually-beats-and-see-big-share-gains.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-10-30T15:04:26+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Zach Morris Receives Grant to Build First Inflation Measure for People with Disabilities",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0Y3U2VCVTBSc0FuVElOQ25Bc3FoQXB5ZkZGMmY5NlFfOU02MW43eF95bU94Vl9zUUdTbG1ybjY3YzlXQWlCeTlCT3U5Q1VLU3g2dUphSmswNDdXbnNuSFBnNFpiSjJlRTJIZVRhQU9aeVJpMjAtRzRuVHhTSHc1dFhEV19NaEJqVkgyMHVzeWFtVlpBZmFsRUNzcjJ2clZwY0Rjem5XcGxYMkFjdlFZVklGZGxqOU05UG9vQVNvUDZDSThTZl80?oc=5",
-   "source": "SBU News",
-   "feed": "Google News · markets",
-   "published": "2026-10-30T14:52:01+00:00",
-   "category": "macro",
-   "score": 3
   }
  ],
  "analisis": {
-  "resumen": "Cierre de EE. UU. con risk-off marcado: Nasdaq 100 -3,5%, SMH -7,0% y XLK -4,9% tras Intel (~-30%) y Amazon, que llevan al S&P 500 a -1,8%. Desde el cierre de Europa se suman más voces de la Fed (Logan: «al menos dos subidas más»). La energía resiste (XLE +1,9%, en máximos de 52 semanas) y el oro cae un 3,6% hasta mínimos de 52 semanas. No hay nada nuevo que justifique perseguir lo que ya se ha movido más de 3σ.",
-  "resumen_dia": "Asia abrió débil por el hackeo de Binance (cripto -5% a -7%) y la tecnología tras Amazon, Intel y Alphabet; cerró con Nikkei y Shanghái a la baja (Shanghái en mínimos de 52 semanas) y el BOJ declarando alcanzado el 2% sin subir tipos. Europa cayó con la tecnología y la banca española muy castigada (SAN y BBVA -3,7%), con el BCE avisando de una subida en diciembre. En EE. UU. la venta se aceleró: Intel se hundió ~30%, los semiconductores perdieron un 7% y el Nasdaq 100 un 3,5%, con el PCE al 3,6% y varios miembros de la Fed (Musalem, Logan) pidiendo más subidas. Binance se confirmó como el mayor robo cripto registrado, y el oro cayó a mínimos de 52 semanas mientras la energía marcaba máximos. Jornada risk-off de manual, con la semana que viene cargada de eventos (elecciones de mitad de mandato, empleo, Apple).",
+  "resumen": "Revisión de actualización tras el cierre de EE. UU.: los titulares nuevos confirman la narrativa del día, con castigo a la tecnología por resultados decepcionantes (Intel, Amazon) y un oro que cae a mínimos de un año pese a las tensiones con Irán por las apuestas de subida de tipos de la Fed. No aparece ningún catalizador distinto del ya recogido en la revisión de las 22:26.",
+  "resumen_dia": "",
   "clima": "risk-off",
   "noticias": [
    {
-    "id": 5,
+    "id": 0,
     "categoria": "resultados",
     "rumor": false,
-    "novedad": "Sorpresa negativa: los resultados de Amazon e Intel reavivan las dudas sobre el retorno del gasto en IA, aunque la tecnología ya venía corrigiendo (-6,9% en 1 mes el Nasdaq 100).",
-    "impacto": "SMH, XLK, NVDA, ASML y NDX bajan por revisión de márgenes y de la demanda de chips; el contagio a AMD y a proveedores de IA es directo.",
-    "importancia": 5
-   },
-   {
-    "id": 38,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Parcialmente descontada: el IPC y el PCE al 3,6% ya sostenían las apuestas de subida, pero 'al menos dos más' endurece el rumbo.",
-    "impacto": "Tipos más altos durante más tiempo presionan a growth, small caps y oro; apoyan al dólar en teoría, aunque hoy no se refleja.",
+    "novedad": "Confirma una reacción ya visible en precios (XLK -4,9%, SMH -7,0%); no aporta información nueva sobre su magnitud.",
+    "impacto": "Tecnología y semiconductores (SMH, XLK, NVDA, ASML) bajo presión por la decepción de resultados y el temor a un ciclo de IA menos rentable; el mercado ya descuenta gran parte.",
     "importancia": 4
    },
    {
-    "id": 54,
-    "categoria": "cripto",
-    "rumor": false,
-    "novedad": "Sorpresa: robo de 6.300 M$, el mayor registrado, aunque el mercado ya lo digirió en parte (BTC -1,4% hoy tras caídas previas).",
-    "impacto": "Presión sobre BTC, ETH, SOL y bolsas de cripto por pérdida de confianza y riesgo regulatorio; BTC resiste mejor que las altcoins.",
-    "importancia": 3
-   },
-   {
-    "id": 40,
-    "categoria": "sectorial",
-    "rumor": false,
-    "novedad": "Sorpresa en precio: la banca cae pese a beneficios récord, lo que sugiere que el mercado descuenta otro factor (riesgo, valoración o regulación) que el titular no detalla.",
-    "impacto": "SAN.MC, BBVA.MC e IBEX sufren, y la venta afecta también a la banca europea; el mecanismo causal no está claro.",
-    "importancia": 3
-   },
-   {
-    "id": 48,
-    "categoria": "sectorial",
-    "rumor": false,
-    "novedad": "Continuación de una tendencia ya descontada: Exxon y Chevron en máximos por márgenes de refino elevados y guerras en Irán y Ucrania.",
-    "impacto": "XLE y Brent apoyados por el riesgo geopolítico y el refino; sirve de refugio relativo dentro de la renta variable.",
-    "importancia": 3
-   },
-   {
-    "id": 27,
+    "id": 1,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Esperada: las subidas de tipos son un lastre conocido para el oro, pero la caída del 3,6% (-3σ) es excesiva.",
-    "impacto": "GC=F cae hasta mínimos de 52 semanas con RSI 27 por tipos reales más altos y liquidación forzada; el rebote técnico es plausible, pero el viento macro sigue en contra.",
+    "novedad": "Explica la caída del oro a mínimos de un año: tipos reales al alza prevalecen sobre la prima geopolítica; ya reflejado en el -3,6%.",
+    "impacto": "GC=F bajista por apuestas de subida de tipos de la Fed; el dólar fuerte y el 10 años cerca del 5% penalizan al activo sin rendimiento.",
+    "importancia": 3
+   },
+   {
+    "id": 44,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Logan pide al menos dos subidas más; refuerza un mensaje halcón ya conocido (Musalem) y descontado en parte.",
+    "impacto": "Tipos al alza: presión sobre growth, small caps, oro y cripto; apoya al dólar.",
+    "importancia": 4
+   },
+   {
+    "id": 3,
+    "categoria": "cripto",
+    "rumor": false,
+    "novedad": "Hackeo de 6.300 M$ ya conocido desde la sesión asiática; la atribución a Corea del Norte se refuerza pero no es nueva.",
+    "impacto": "Cripto (BTC, ETH, SOL) con confianza dañada en exchanges centralizados; BTC aguanta algo mejor que altcoins.",
+    "importancia": 3
+   },
+   {
+    "id": 54,
+    "categoria": "sectorial",
+    "rumor": false,
+    "novedad": "Exxon y Chevron en máximos por márgenes de refino; tendencia ya presente y reflejada en XLE +1,9%.",
+    "impacto": "Energía (XLE) resiste como refugio relativo frente a la tecnología con Brent alto, pero ya en máximos de 52 semanas.",
+    "importancia": 3
+   },
+   {
+    "id": 45,
+    "categoria": "sectorial",
+    "rumor": false,
+    "novedad": "Caída de la banca europea pese a beneficios récord; reacción ya reflejada (SAN -3,7%, BBVA -3,7%).",
+    "impacto": "Banca española e europea (SAN.MC, BBVA.MC) sobrevendida; el castigo parece más de sentimiento global que de fundamentales.",
     "importancia": 3
    }
   ],
   "divergencias": [
-   "El rendimiento a 10 años baja 6 pb (4,93%) en un día de mensajes duros de la Fed, lo que cuadra más con una huida a bonos por risk-off que con las expectativas de tipos.",
-   "El índice dólar apenas se mueve (-0,1%) pese a la Fed dura y el EUR/USD sigue en mínimos de 52 semanas: la señal del dólar es ambigua.",
-   "El oro cae un 3,6% mientras el rendimiento a 10 años baja, algo atípico: apunta a liquidación forzada o a un efecto de tipos reales/Fed más que a un refugio.",
-   "XLE sube un 1,9% a máximos de 52 semanas con el Brent a -2,2% hoy, lo que contradice la tesis bajista abierta sobre XLE (el sector no converge con el crudo por ahora).",
-   "MSFT cae un 1,6% pese a titulares muy favorables (nube, 'golden child'): la hipótesis alcista abierta, basada en un gap alcista, no se ha cumplido.",
-   "La banca española cae un 3,7% pese a beneficios récord y a un entorno de tipos al alza, que normalmente favorece al margen de intereses; la causa no es visible en los titulares."
+   "El oro cae un 3,6% pese a las tensiones con Irán y un Brent a 112: dominan los tipos reales y el dólar fuerte sobre la prima de riesgo geopolítica.",
+   "El Brent cede un 2,2% pero XLE sube un 1,9% a máximos, impulsado por los márgenes de refino más que por el crudo.",
+   "La banca española cae un 3,7% pese a beneficios récord y a un entorno de tipos al alza que debería favorecer el margen de intereses.",
+   "Bitcoin resiste mejor que ETH y SOL tras el hackeo, lo que sugiere rotación dentro del cripto más que huida total."
   ],
-  "hipotesis": [
-   {
-    "ticker": "SAN.MC",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Rebote de un valor sobrevendido (RSI 23, -12% en 5 días) cuya caída contrasta con beneficios récord y con un entorno de tipos al alza que suele favorecer el margen de intereses.",
-    "objetivo_pct": 4.5,
-    "invalidacion_pct": 3.0,
-    "confianza": 46,
-    "confluencia": [
-     "Sobreventa extrema (RSI 23) tras -12% en 5 sesiones",
-     "Divergencia entre precio y beneficios récord, con tipos al alza favorables al margen"
-    ],
-    "contra": "No conozco la causa real de la caída (el titular no la explica) y puede haber un factor de riesgo desconocido; la tendencia es bajista y el contagio global es fuerte.",
-    "sesgos": "Sesgo de reversión a la media; riesgo de anclarme en 'comprar lo que cae'; no hay noticia nueva propia que lo apoye.",
-    "ev_pct": 0.35,
-    "operable": false
-   },
-   {
-    "ticker": "GC=F",
-    "direccion": "alcista",
-    "horizonte_dias": 4,
-    "tesis": "Rebote técnico tras caída anómala de -3σ hasta mínimos de 52 semanas con RSI 27, con el posible alivio si el dólar sigue sin acompañar la Fed dura.",
-    "objetivo_pct": 2.5,
-    "invalidacion_pct": 1.8,
-    "confianza": 44,
-    "confluencia": [
-     "Sobreventa extrema (RSI 27) y movimiento de -3σ",
-     "El dólar no sube pese a la Fed dura y el rendimiento a 10 años baja"
-    ],
-    "contra": "La causa de fondo (más subidas de tipos) sigue vigente y con el PCE al 3,6% podría extenderse la liquidación; la tendencia es bajista.",
-    "sesgos": "Sesgo de reversión a la media y de cuchillo cayendo; la tendencia dominante juega en contra.",
-    "ev_pct": 0.03,
-    "operable": false
-   },
-   {
-    "ticker": "SMH",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "Rebote tras un desplome de -3,3σ en semiconductores, parcialmente motivado por resultados idiosincráticos (Intel -30%) más que por un cambio en la demanda de chips de IA de fondo.",
-    "objetivo_pct": 4.0,
-    "invalidacion_pct": 3.0,
-    "confianza": 42,
-    "confluencia": [
-     "Movimiento anómalo de -3,3σ y -15% en 1 mes",
-     "Parte de la caída viene de Intel, un shock concreto de una empresa"
-    ],
-    "contra": "Los resultados de Amazon y las dudas sobre el gasto en IA son un cambio de narrativa; la Fed dura y la semana de eventos (elecciones, empleo) pueden prolongar la venta.",
-    "sesgos": "Sesgo de reversión a la media tras capitulación; el momentum bajista de varias sesiones suele continuar; riesgo de gap en la apertura del lunes.",
-    "ev_pct": -0.16,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
     "ticker": "^NDX",
-    "motivo": "Gap de apertura el lunes tras -3,3σ, con elecciones, Apple y empleo en la semana."
+    "motivo": "Tras -3,3σ, ver si el lunes rebota o continúa la venta, con resultados de Apple y datos de empleo próximos."
+   },
+   {
+    "ticker": "GC=F",
+    "motivo": "Mínimos de 52 semanas con RSI 27; depende de la senda de tipos de la Fed y del dólar."
+   },
+   {
+    "ticker": "SAN.MC",
+    "motivo": "RSI 23 y caída del 12% en 5 días; posible rebote técnico en la apertura europea."
    },
    {
     "ticker": "BTC-USD",
-    "motivo": "Cerca de soporte crítico tras el hackeo de Binance; si lo pierde, aumenta la presión sobre ETH y SOL."
+    "motivo": "Impacto de segunda ronda del hackeo de Binance: retiradas o congelaciones de activos."
    },
    {
     "ticker": "XLE",
-    "motivo": "En máximos de 52 semanas con Brent divergente: ver si la hipótesis bajista abierta pierde validez."
-   },
-   {
-    "ticker": "BBVA.MC",
-    "motivo": "Sobrevendido (RSI 27) junto a SAN; confirma si la venta bancaria sigue."
-   },
-   {
-    "ticker": "EURUSD=X",
-    "motivo": "Mínimos de 52 semanas con dólar en máximos; vigilar la reacción a las cifras de empleo."
+    "motivo": "En máximos con sobrecompra; sensible a una corrección del Brent."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Las tres hipótesis son rebotes contra tendencia tras movimientos extremos, con probabilidades de 42-46% y EV neto por debajo del 1%, en una semana de gran riesgo de eventos.",
+  "decision_motivo": "Revisión de actualización solo de observación, sin catalizadores nuevos y con los movimientos de más de 3σ ya descontados.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10298,
-   "tokens_salida": 5482,
-   "coste_usd": 0.0754
+   "tokens_entrada": 10471,
+   "tokens_salida": 1744,
+   "coste_usd": 0.0384
   }
  },
  "calidad": {
   "ok": 3,
-  "sin_contraste": 26,
+  "sin_contraste": 25,
   "dudoso": 0,
-  "sin_dato": 0,
+  "sin_dato": 1,
   "fuentes": {
-   "Yahoo": 29
+   "Yahoo": 28
   }
  }
 }
