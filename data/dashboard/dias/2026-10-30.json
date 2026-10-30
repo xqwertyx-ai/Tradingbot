@@ -54,5 +54,19 @@
    "PCE Inflation Rises 3.6%"
   ],
   "coste_usd": 0.0407
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-10-30T17:00:03+00:00",
+  "hora_madrid": "18:00",
+  "clima": "risk-off",
+  "resumen": "En el cierre de Europa el risk-off se consolida: Ibex -1,1%, Euro Stoxx -1,2% y DAX -0,9%, con la banca española muy castigada (SAN -3,7%, BBVA -3,7%). Desde la revisión anterior se suman Musalem (Fed), que pide más subidas 'pronto', la confirmación del hackeo de Binance como el mayor robo cripto registrado y la venta de tecnología y semiconductores en EE. UU. (SMH -7,4%, XLK -5,2%) tras Intel y Amazon.",
+  "titulares": [
+   "St. Louis Fed's Musalem: Tighter monetary policy is needed 'soon'",
+   "Desplome histórico de las acciones de Intel en bolsa: caen un 30% tras la presentación de resultados",
+   "Tech Stocks Sell Off as Intel, Amazon Earnings Spook Investors"
+  ],
+  "coste_usd": 0.0379
  }
 ]
