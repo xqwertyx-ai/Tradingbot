@@ -12,5 +12,19 @@
    "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates"
   ],
   "coste_usd": 0.0354
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-10-30T08:51:50+00:00",
+  "hora_madrid": "09:51",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Europa el tono sigue siendo risk-off: el Ibex (-0,7%) y el Euro Stoxx (-0,7%) caen arrastrados por la corrección tecnológica tras Amazon, Alphabet (-14%) e Intel (-21% a -25% en premarket). El hackeo de Binance (6.300 M$ afectados, unos 3.000 M$ congelados) presiona al cripto, y el BOJ mantiene tipos pero declara alcanzado el objetivo del 2%, lo que apoya al yen y abre la puerta a subidas.",
+  "titulares": [
+   "Alphabet (Google) sufre un desplome en Bolsa (-14%) tras presentar resultados y arrastra al Nasdaq (-1,5%)",
+   "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+   "Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack"
+  ],
+  "coste_usd": 0.0373
  }
 ]
