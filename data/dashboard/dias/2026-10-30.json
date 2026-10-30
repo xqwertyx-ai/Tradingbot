@@ -26,5 +26,19 @@
    "Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack"
   ],
   "coste_usd": 0.0373
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-10-30T09:52:28+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-off",
+  "resumen": "El cierre de Asia confirma el tono risk-off: el Nikkei cae un 2,1% y Shanghái un 1,4% (mínimos de 52 semanas), mientras el Hang Seng sube un 1,5%. Se suman la corrección tecnológica tras Amazon, Intel y Alphabet, el BOJ que declara cumplido el 2% sin subir tipos y el hackeo de Binance, que mantiene el cripto débil. Es una revisión solo de observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+   "BOJ holds rates after hitting inflation target set in 2013",
+   "Binance halts withdrawals after record $6.3 bln hack; cryptocurrencies fall"
+  ],
+  "coste_usd": 0.0375
  }
 ]
