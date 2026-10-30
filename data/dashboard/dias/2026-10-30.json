@@ -40,5 +40,19 @@
    "Binance halts withdrawals after record $6.3 bln hack; cryptocurrencies fall"
   ],
   "coste_usd": 0.0375
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-10-30T15:46:31+00:00",
+  "hora_madrid": "16:46",
+  "clima": "risk-off",
+  "resumen": "En la apertura de EE. UU. el risk-off se intensifica: el Nasdaq 100 cae más de 3% y los semiconductores (SMH -6,7%) y la tecnología (XLK -4,7%) se hunden tras Amazon e Intel (-30%). Se añaden el PCE al 3,6%, que refuerza las apuestas de subida de tipos (oro a mínimos de 4 meses), y el hackeo de Binance, que arrastra a las cripto y a sus bolsas. La energía sigue fuerte, con Exxon y Chevron en máximos históricos.",
+  "titulares": [
+   "Desplome histórico de las acciones de Intel en bolsa: caen un 30% tras la presentación de resultados",
+   "Amazon, Intel Earnings Add Fuel to Tech Selloff",
+   "PCE Inflation Rises 3.6%"
+  ],
+  "coste_usd": 0.0407
  }
 ]
