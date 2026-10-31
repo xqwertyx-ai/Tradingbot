@@ -1,0 +1,221 @@
+............F......                                                      [100%]
+=================================== FAILURES ===================================
+_______________________________ test_end_to_end ________________________________
+
+tmp_path = PosixPath('/tmp/pytest-of-runner/pytest-0/test_end_to_end0')
+monkeypatch = None
+
+    def test_end_to_end(tmp_path, monkeypatch=None):
+        import portada
+        cwd = os.getcwd()
+        os.chdir(tmp_path)
+        orig = (prices.fetch, prices.check_source, news.fetch_news, analysis.analyze, prices.prefetch_yfinance)
+        try:
+            counter = iter(range(10000))
+            prices.prefetch_yfinance = lambda tickers: None
+            real_mode, portada.effective_mode = portada.effective_mode, (lambda m, now: m)  # sin depender de la hora
+            prices.fetch = lambda a: (fake_series(next(counter)), "Yahoo")
+            prices.check_source = lambda a, df, s: "ok"
+            news.fetch_news = lambda: ([{"title": "La Fed sube tipos", "link": "https://x", "source": "Test",
+                                         "feed": "t", "published": "2026-10-14T18:00:00+00:00",
+                                         "category": "macro", "score": 3}], {"Test": "ok (1)"})
+            analysis.analyze = fake_ai
+            portada.main("asia-apertura")  # observación: no registra hipótesis
+            assert len(ledger.load()) == 0
+            assert "solo observación" in open("README.md", encoding="utf-8").read()
+            portada.main("usa-cierre")
+            readme = open("README.md", encoding="utf-8").read()
+            assert "Radar de mercados" in readme and "La Fed sube tipos" in readme
+            assert "INVENTADO" not in readme
+            assert "+6.0% / −3.0%" in readme and "✅" in readme  # EV = 0,65·6 − 0,35·3 − 0,1 = 2,75%
+            page = open("site/index.html", encoding="utf-8").read()
+            assert "La Fed sube tipos" in page and 'class="thermo"' in page and "Más suben" in page
+            book = ledger.load()
+            assert len(book) == 1 and book.iloc[0]["operada"] == 1
+            for f in ("mapa-light.png", "mapa-dark.png", "tendencias-light.png"):
+                assert os.path.getsize(os.path.join("assets", f)) > 5000
+>           assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
+E           assert ('Hoy, sesión a sesión' in '<div align="center">\n\n# 📊 Radar de mercados\n\n**sábado 31 oct 2026 · revisión de cierre EE. UU. · 01:48 (Madrid)**...\n\nMás: [experimento Polymarket 5 min](docs/experimento-polymarket.md) · [informe del backtest](reports/informe.md)\n')
+
+tests/test_portada.py:71: AssertionError
+----------------------------- Captured stdout call -----------------------------
+Precios...
+  29/29 activos con datos
+Titulares...
+  1 titulares; {'Test': 'ok (1)'}
+Análisis...
+Portada generada.
+Precios...
+  29/29 activos con datos
+Titulares...
+  1 titulares; {'Test': 'ok (1)'}
+Análisis...
+Portada generada.
+==================================== PASSES ====================================
+_______________________ test_agent_backtest_no_lookahead _______________________
+----------------------------- Captured stdout call -----------------------------
+15 sesiones de 2026-08-03 a 2026-08-21
+  2026-08-03: 1 hipótesis · decisión: operar
+  2026-08-04: 1 hipótesis · decisión: operar
+  2026-08-05: 1 hipótesis · decisión: operar
+  2026-08-06: 1 hipótesis · decisión: operar
+  2026-08-07: 1 hipótesis · decisión: operar
+  2026-08-10: 1 hipótesis · decisión: operar
+  2026-08-11: 1 hipótesis · decisión: operar
+  2026-08-12: 1 hipótesis · decisión: operar
+  2026-08-13: 1 hipótesis · decisión: operar
+  2026-08-14: 1 hipótesis · decisión: operar
+  2026-08-17: 1 hipótesis · decisión: operar
+  2026-08-18: 1 hipótesis · decisión: operar
+  2026-08-19: 1 hipótesis · decisión: operar
+  2026-08-20: 1 hipótesis · decisión: operar
+  2026-08-21: 1 hipótesis · decisión: operar
+# Backtest del agente de noticias (v1.4)
+
+Generado: 2026-10-31 00:48 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+
+## Cómo se hizo
+- 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
+- Cada hipótesis es un plan: objetivo, stop y plazo, todo con precios de cierre. ACIERTO si toca el objetivo antes que el stop; FALLO si toca el stop; al vencer, EXPIRADA puntuada por el signo.
+- Se opera (en simulación) si el valor esperado neto ≥ 1% y la probabilidad ≥ 55. El resto se registra para medir la calibración.
+- Retorno neto: menos el coste de ida y vuelta (0,10% acciones/índices, 0,06% futuros, 0,04% divisas, 0,20% cripto). Factor de beneficio = ganancias netas / pérdidas netas.
+- **Lo que cuenta es desde el 01-08-2026.** El conocimiento fiable del modelo llega a junio de 2026; julio se muestra aparte por si supiera algo de esas semanas.
+
+## Resultado frente al objetivo (≥ 1% neto por operación)
+
+Operadas desde agosto: 15, retorno neto medio -0.32% → **no** lo cumple (con n < 30 no es concluyente).
+
+## Resultados (hipótesis cerradas)
+
+| Grupo | n | Acierto (IC 95%) | Retorno neto medio (±IC 95%) | Factor de beneficio | Objetivo tocado |
+|---|--:|--:|--:|--:|--:|
+| Desde agosto · operadas | 15 | 47% (25–70%) | -0.32% (±0.40) | 0.32 | 0% |
+| Desde agosto · todas | 15 | 47% (25–70%) | -0.32% (±0.40) | 0.32 | 0% |
+| Desde agosto · no operadas | 0 | — | — | — | — |
+| Julio (posible contaminación) · todas | 0 | — | — | — | — |
+
+**Referencia ingenua** (mismas fechas, activos, objetivos, stops y plazos; dirección = tendencia del último mes). Si el agente no la supera, las noticias no aportan nada.
+
+| Grupo | n | Acierto (IC 95%) | Retorno neto medio (±IC 95%) | Factor de beneficio | Objetivo tocado |
+|---|--:|--:|--:|--:|--:|
+| Referencia · mismas que las operadas | 15 | 53% (30–75%) | +0.12% (±0.40) | 1.50 | 0% |
+| Referencia · todas | 15 | 53% (30–75%) | +0.12% (±0.40) | 1.50 | 0% |
+
+## Calibración (desde agosto)
+
+La probabilidad declarada debería parecerse a la frecuencia real con la que se toca el objetivo.
+
+| Probabilidad declarada | n | Media declarada | Objetivo tocado | Acierto (incl. expiradas) |
+|---|--:|--:|--:|--:|
+| 0–44 | 0 | — | — | — |
+| 45–54 | 0 | — | — | — |
+| 55–64 | 0 | — | — | — |
+| 65–100 | 15 | 65% | 0% | 47% |
+
+## Por activo (desde agosto, n ≥ 3)
+
+| Activo | n | Acierto | Neto medio |
+|---|--:|--:|--:|
+| ^GSPC | 15 | 47% | -0.32% |
+
+## Notas
+- Registradas 15, cerradas 15, aún abiertas 0.
+- Días con decisión "operar": 15 de 15 analizados.
+- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.
+- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.
+- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.
+- Este periodo ya se usó para evaluar versiones anteriores: una mejora aquí es una pista, no una prueba. La prueba es el test en vivo.
+
+15 sesiones de 2026-08-03 a 2026-08-21
+  2026-08-03: 1 hipótesis · decisión: operar
+  2026-08-04: 1 hipótesis · decisión: operar
+  2026-08-05: 1 hipótesis · decisión: operar
+  2026-08-06: 1 hipótesis · decisión: operar
+  2026-08-07: 1 hipótesis · decisión: operar
+  2026-08-10: 1 hipótesis · decisión: operar
+  2026-08-11: 1 hipótesis · decisión: operar
+  2026-08-12: 1 hipótesis · decisión: operar
+  2026-08-13: 1 hipótesis · decisión: operar
+  2026-08-14: 1 hipótesis · decisión: operar
+  2026-08-17: 1 hipótesis · decisión: operar
+  2026-08-18: 1 hipótesis · decisión: operar
+  2026-08-19: 1 hipótesis · decisión: operar
+  2026-08-20: 1 hipótesis · decisión: operar
+  2026-08-21: 1 hipótesis · decisión: operar
+# Backtest del agente de noticias (v1.4)
+
+Generado: 2026-10-31 00:48 UTC · modelo claude-sonnet-5-5 · coste total de la API ≈ 0.60 USD. Simulación; no es asesoramiento financiero.
+
+## Cómo se hizo
+- 15 sesiones, de 2026-08-03 a 2026-08-21. Cada día, el mismo análisis de cierre que la web, solo con titulares publicados antes del cierre de Wall Street y precios hasta ese día.
+- Cada hipótesis es un plan: objetivo, stop y plazo, todo con precios de cierre. ACIERTO si toca el objetivo antes que el stop; FALLO si toca el stop; al vencer, EXPIRADA puntuada por el signo.
+- Se opera (en simulación) si el valor esperado neto ≥ 1% y la probabilidad ≥ 55. El resto se registra para medir la calibración.
+- Retorno neto: menos el coste de ida y vuelta (0,10% acciones/índices, 0,06% futuros, 0,04% divisas, 0,20% cripto). Factor de beneficio = ganancias netas / pérdidas netas.
+- **Lo que cuenta es desde el 01-08-2026.** El conocimiento fiable del modelo llega a junio de 2026; julio se muestra aparte por si supiera algo de esas semanas.
+
+## Resultado frente al objetivo (≥ 1% neto por operación)
+
+Operadas desde agosto: 15, retorno neto medio -0.32% → **no** lo cumple (con n < 30 no es concluyente).
+
+## Resultados (hipótesis cerradas)
+
+| Grupo | n | Acierto (IC 95%) | Retorno neto medio (±IC 95%) | Factor de beneficio | Objetivo tocado |
+|---|--:|--:|--:|--:|--:|
+| Desde agosto · operadas | 15 | 47% (25–70%) | -0.32% (±0.40) | 0.32 | 0% |
+| Desde agosto · todas | 15 | 47% (25–70%) | -0.32% (±0.40) | 0.32 | 0% |
+| Desde agosto · no operadas | 0 | — | — | — | — |
+| Julio (posible contaminación) · todas | 0 | — | — | — | — |
+
+**Referencia ingenua** (mismas fechas, activos, objetivos, stops y plazos; dirección = tendencia del último mes). Si el agente no la supera, las noticias no aportan nada.
+
+| Grupo | n | Acierto (IC 95%) | Retorno neto medio (±IC 95%) | Factor de beneficio | Objetivo tocado |
+|---|--:|--:|--:|--:|--:|
+| Referencia · mismas que las operadas | 15 | 53% (30–75%) | +0.12% (±0.40) | 1.50 | 0% |
+| Referencia · todas | 15 | 53% (30–75%) | +0.12% (±0.40) | 1.50 | 0% |
+
+## Calibración (desde agosto)
+
+La probabilidad declarada debería parecerse a la frecuencia real con la que se toca el objetivo.
+
+| Probabilidad declarada | n | Media declarada | Objetivo tocado | Acierto (incl. expiradas) |
+|---|--:|--:|--:|--:|
+| 0–44 | 0 | — | — | — |
+| 45–54 | 0 | — | — | — |
+| 55–64 | 0 | — | — | — |
+| 65–100 | 15 | 65% | 0% | 47% |
+
+## Por activo (desde agosto, n ≥ 3)
+
+| Activo | n | Acierto | Neto medio |
+|---|--:|--:|--:|
+| ^GSPC | 15 | 47% | -0.32% |
+
+## Notas
+- Registradas 15, cerradas 15, aún abiertas 0.
+- Días con decisión "operar": 15 de 15 analizados.
+- Cada análisis por día y todas las hipótesis: `data/agent_bt/`.
+- Fase de fiabilidad (bitácora): <30 cerradas, rodaje; 30-99, indicativa; 100-299, útil; ≥300 y dos regímenes, fiable.
+- Varias hipótesis del mismo día comparten contexto: el n efectivo es menor y los IC algo optimistas.
+- Este periodo ya se usó para evaluar versiones anteriores: una mejora aquí es una pista, no una prueba. La prueba es el test en vivo.
+
+=========================== short test summary info ============================
+PASSED tests/test_backtest.py::test_wilson
+PASSED tests/test_backtest.py::test_costs_at_even_odds
+PASSED tests/test_backtest.py::test_no_edge_fails_and_planted_edge_passes
+PASSED tests/test_backtest.py::test_never_uses_price_before_signal
+PASSED tests/test_backtest.py::test_parse_event
+PASSED tests/test_backtest.py::test_report_writes
+PASSED tests/test_backtest_agente.py::test_agent_backtest_no_lookahead
+PASSED tests/test_pead.py::test_timing_and_no_lookahead
+PASSED tests/test_pead.py::test_after_close_timing
+PASSED tests/test_pead.py::test_planted_drift_is_found_and_noise_is_not
+PASSED tests/test_pead.py::test_live_ledger_opens_and_closes_without_lookahead
+PASSED tests/test_pead.py::test_compra_pendiente_el_mismo_dia
+PASSED tests/test_portada.py::test_intraday_mode
+PASSED tests/test_portada.py::test_expected_value_and_gating
+PASSED tests/test_portada.py::test_target_hit_is_acierto
+PASSED tests/test_portada.py::test_ledger_evaluation
+PASSED tests/test_portada.py::test_parse_google_news
+PASSED tests/test_portada.py::test_calendario_revisiones
+FAILED tests/test_portada.py::test_end_to_end - assert ('Hoy, sesión a sesión' in '<div align="center">\n\n# 📊 Radar de mercados\n\n**sábado 31 oct 2026 · revisión de cierre EE. UU. · 01:48 (Madrid)**...\n\nMás: [experimento Polymarket 5 min](docs/experimento-polymarket.md) · [informe del backtest](reports/informe.md)\n')
+1 failed, 18 passed in 16.16s
