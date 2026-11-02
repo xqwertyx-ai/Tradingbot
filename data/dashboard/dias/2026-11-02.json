@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-02T01:51:49+00:00",
+  "hora_madrid": "02:51",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Asia, con datos de EE. UU. y Europa del cierre del viernes, el tono sigue siendo de cautela por el desplome tecnológico ligado a la IA (SMH -7%, XLK -4,9%, Nasdaq -3,5%) y el hackeo récord de Binance. Los futuros de EE. UU. rebotan ligeramente y China prepara una reunión de apoyo a su bolsa, mientras Nikkei (0,0%) y Hang Seng (+0,6%) resisten.",
+  "titulares": [
+   "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+   "Seoul stocks open lower as disappointing tech earnings trigger AI spending woes",
+   "Binance users withdraw $3.6bn after record crypto hack"
+  ],
+  "coste_usd": 0.0365
+ }
+]
