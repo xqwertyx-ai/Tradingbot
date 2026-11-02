@@ -26,5 +26,19 @@
    "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings"
   ],
   "coste_usd": 0.0389
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-02T09:52:03+00:00",
+  "hora_madrid": "10:52",
+  "clima": "mixto",
+  "resumen": "Con Asia cerrada (Nikkei -0,3%, Hang Seng +0,4%, Shanghái +1,1%) y Europa al alza moderada (IBEX +0,9%, DAX +0,2%), los mercados digieren el desplome tecnológico del viernes por la IA (SMH -7%, XLK -4,9%, Nasdaq -3,5%). Lo nuevo es el repunte de los futuros de EE. UU., el Brent en -7,8% por las negociaciones sobre Irán, la confirmación de Corea del Norte tras el hackeo de Binance (BTC casi plano) y las alusiones a una Fed dura con posible subida en diciembre. Es una revisión solo de observación.",
+  "titulares": [
+   "Stock futures rebound ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
+   "2 Words From Fed Chair Kevin Warsh Are Echoing Through Wall Street and Unnerving Investors",
+   "Binance sees $3.6bn in withdrawals after record $6.3bn crypto hack"
+  ],
+  "coste_usd": 0.0399
  }
 ]
