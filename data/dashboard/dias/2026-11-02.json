@@ -40,5 +40,19 @@
    "Binance sees $3.6bn in withdrawals after record $6.3bn crypto hack"
   ],
   "coste_usd": 0.0399
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-02T15:34:11+00:00",
+  "hora_madrid": "16:34",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. el tono pasa a rebote moderado: S&P +0,9%, Nasdaq +1,1% y semiconductores +1,5% tras el desplome del viernes. El Brent profundiza su caída (-10%, -4,5σ) por las esperanzas de acuerdo con Irán, lo que alivia el miedo a la inflación. En cripto, el hackeo de Binance (~6.300 M$) sigue generando salidas de fondos, pero BTC aguanta casi plano.",
+  "titulares": [
+   "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+   "El petróleo cae un 6% por los avances en las negociaciones con Irán para acabar con la guerra",
+   "Binance Reports $6.3 Billion Crypto Hack, Largest on Record"
+  ],
+  "coste_usd": 0.0384
  }
 ]
