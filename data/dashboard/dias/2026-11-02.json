@@ -68,5 +68,20 @@
    "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes"
   ],
   "coste_usd": 0.0392
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-02T21:57:02+00:00",
+  "hora_madrid": "22:57",
+  "clima": "mixto",
+  "resumen": "Wall Street ha cerrado a la baja (S&P -0,5%, Nasdaq -1,4%, SMH -2,7%, XLK -2,9%) tras abrir con rebote de +0,9%. El tecnológico ha vuelto a ceder por la compra de Lumentum por Marvell (ambas cotizadas caen) y por la tensión con los tipos. El Brent se hunde un 11,4% (-5,2σ) por las esperanzas de acuerdo con Irán, y tras el cierre Apple ha batido previsiones.",
+  "titulares": [
+   "El petrÃ³leo cae hasta un 6% ante un posible acuerdo con IrÃ¡n para acabar con la guerra",
+   "Apple bate expectativas impulsado por el iPhone y los servicios, pero sigue mostrando debilidad en China",
+   "Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank"
+  ],
+  "coste_usd": 0.0761,
+  "resumen_dia": "Asia abrió con cautela por el desplome tecnológico del viernes ligado a la IA y por el hackeo de Binance atribuido a Corea del Norte, con Nikkei y Hang Seng resistiendo. Europa cerró en risk-on (IBEX +1,6%, Euro Stoxx +0,7%, DAX +0,6%) por el desplome del Brent, que alivia el miedo a la inflación, y por el mensaje de una Fed dura con el 10 años cerca del 5%. En EE. UU. el rebote inicial (S&P +0,9%) no se sostuvo: cerró en negativo, con tecnología y semiconductores pagando de nuevo las dudas sobre la IA, mientras financieras subían (+1,9%) y energía caía (-4%). El Brent fue el movimiento del día (-11,4%), por noticias de negociación aún no confirmadas con Irán. Tras el cierre, Apple batió ingresos, y cripto sigue lastrada por el hackeo de Binance y por Coinbase, rebajada por Morgan Stanley."
  }
 ]
