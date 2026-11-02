@@ -12,5 +12,19 @@
    "Binance users withdraw $3.6bn after record crypto hack"
   ],
   "coste_usd": 0.0365
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-02T08:52:07+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa, las bolsas europeas y asiáticas se mantienen estables (IBEX +0,8%, Euro Stoxx +0,2%, DAX 0,0%) mientras Wall Street arrastra el golpe del viernes por la IA (Nasdaq -3,5%, SMH -7%). Lo nuevo es la atribución del hackeo de Binance de unos 6.300 M$ a Corea del Norte, con salidas de fondos pero BTC estable (-0,1%), y el Brent cae un 7,2% por las negociaciones sobre Irán. Los mensajes de la Fed siguen siendo duros (Logan pide al menos dos subidas más) con el 10 años cerca del 5%.",
+  "titulares": [
+   "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "FBI blames North Korea for $6.3 billion Binance hack, the biggest crypto theft on record",
+   "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings"
+  ],
+  "coste_usd": 0.0389
  }
 ]
