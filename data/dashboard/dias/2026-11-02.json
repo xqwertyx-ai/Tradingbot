@@ -54,5 +54,19 @@
    "Binance Reports $6.3 Billion Crypto Hack, Largest on Record"
   ],
   "coste_usd": 0.0384
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-02T17:01:44+00:00",
+  "hora_madrid": "18:01",
+  "clima": "risk-on",
+  "resumen": "Con Europa cerrada al alza (IBEX +1,6%, Euro Stoxx +0,7%, DAX +0,6%), lo nuevo es la profundización de la caída del Brent (-11%, -5σ) por las esperanzas de acuerdo de paz con Irán, que alivia el miedo a la inflación y favorece a las bolsas. En cripto sigue la digestión del hackeo de Binance (retiradas de más de 4.600 M$) y aparece un segundo hackeo menor, el de Mercado Bitcoin (~40-46 M$). Wall St sube con el petróleo a la baja antes de las elecciones de mitad de mandato y de los resultados de Apple.",
+  "titulares": [
+   "Oil Prices Fall More Than 6% as Iran Peace Talks Ease Supply Fears",
+   "European Stocks Close Mostly Higher in Monday Trading; Oil Prices Fall on Hopes US-Iran Talks Resume",
+   "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes"
+  ],
+  "coste_usd": 0.0392
  }
 ]
