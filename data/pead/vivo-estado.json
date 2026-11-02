@@ -1,116 +1,154 @@
 {
- "generado": "2026-10-31T00:47:25.257742+00:00",
- "sesion": "2026-10-30",
+ "generado": "2026-11-02T21:56:07.405198+00:00",
+ "sesion": "2026-11-02",
  "inicio": "2026-10-15",
  "resumen": {
-  "abiertas": 13,
+  "abiertas": 17,
   "cerradas": 0
  },
- "pendientes": [],
+ "pendientes": [
+  {
+   "ticker": "IDXX",
+   "anuncio": "2026-11-02",
+   "ra": 0.22327307946099462
+  }
+ ],
  "abiertas": [
   {
    "ticker": "EFX",
    "entrada": "2026-10-21",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.0964856551571176,
+   "spy": -0.027150849888606055,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
    "entrada": "2026-10-21",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.0382456193890488,
+   "spy": -0.027150849888606055,
    "ra": 0.1086380551832475
   },
   {
    "ticker": "ALLE",
    "entrada": "2026-10-23",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.0712370114222669,
+   "spy": -0.010355665908622913,
    "ra": 0.12199846250366275
   },
   {
    "ticker": "BX",
    "entrada": "2026-10-23",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.01839449136637361,
+   "spy": -0.010355665908622913,
    "ra": 0.09559181653854698
   },
   {
    "ticker": "NDAQ",
    "entrada": "2026-10-23",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.059087415486005046,
+   "spy": -0.010355665908622913,
    "ra": 0.08650805122745209
   },
   {
    "ticker": "ROP",
    "entrada": "2026-10-23",
-   "sesiones": 5,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 6,
+   "ret": 0.09449032846201821,
+   "spy": -0.010355665908622913,
    "ra": 0.10907812761505897
   },
   {
    "ticker": "PNR",
    "entrada": "2026-10-28",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": 0.09616272406234128,
+   "spy": -0.0261682770345375,
    "ra": 0.12242820941802135
   },
   {
    "ticker": "FLEX",
    "entrada": "2026-10-29",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": -0.09530463925719024,
+   "spy": -0.02243424416950668,
    "ra": 0.11269366783017953
   },
   {
    "ticker": "VRT",
    "entrada": "2026-10-29",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": -0.08815872168674643,
+   "spy": -0.02243424416950668,
    "ra": 0.16140156376079462
   },
   {
    "ticker": "CVNA",
    "entrada": "2026-10-30",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": 0.054327120145478025,
+   "spy": -0.004790127636589259,
    "ra": 0.16063595653058282
   },
   {
    "ticker": "GEN",
    "entrada": "2026-10-30",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": 0.026089950249824634,
+   "spy": -0.004790127636589259,
    "ra": 0.16193062166601147
   },
   {
    "ticker": "HII",
    "entrada": "2026-10-30",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": -0.010035321341771875,
+   "spy": -0.004790127636589259,
    "ra": 0.1361336279669212
+  },
+  {
+   "ticker": "NCLH",
+   "entrada": "2026-10-30",
+   "sesiones": 1,
+   "ret": 0.021058670783152822,
+   "spy": -0.004790127636589259,
+   "ra": 0.13831536183635396
   },
   {
    "ticker": "TXT",
    "entrada": "2026-10-30",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": 0.0330221929035055,
+   "spy": -0.004790127636589259,
    "ra": 0.12052043319700756
+  },
+  {
+   "ticker": "CBOE",
+   "entrada": "2026-11-02",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.08544582301562298
+  },
+  {
+   "ticker": "REGN",
+   "entrada": "2026-11-02",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.1510021121112053
+  },
+  {
+   "ticker": "VLTO",
+   "entrada": "2026-11-02",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.08538232824263425
   }
  ],
  "cerradas_recientes": []
