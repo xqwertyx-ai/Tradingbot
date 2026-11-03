@@ -68,5 +68,20 @@
    "Stocks Are Mixed After Apple Earnings Disappoint"
   ],
   "coste_usd": 0.0379
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-03T22:02:00+00:00",
+  "hora_madrid": "23:02",
+  "clima": "mixto",
+  "resumen": "Cierre de EE. UU. mixto: el Nasdaq (+0,7%) y los semiconductores (SMH +2,0%) siguen rebotando tras el desplome previo, y el S&P 500 sube un 0,4%. Las ventas se concentran en Apple (-1,9%) y en la banca y las energéticas. Tras el cierre llegan resultados fuertes de AMD y Super Micro (titulares 2 y 4), mientras el mercado espera las midterms con el petróleo a la baja por la esperanza diplomática con Irán y una Fed que se descuenta dura en diciembre.",
+  "titulares": [
+   "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+   "Mortgage rates hold steady as traders point to December Fed hike",
+   "AMD stock jumps 7% on earnings as data center revenue nearly doubles"
+  ],
+  "coste_usd": 0.07,
+  "resumen_dia": "Asia abrió con el petróleo desplomándose (Brent -10,9%) por expectativas de acuerdo con Irán y con el Nasdaq y los semiconductores muy castigados. Cerró con Shanghái en mínimos de 52 semanas y con el RBA subiendo tipos. Europa tuvo un tono risk-off por la IA, Irán y el sesgo de tipos altos, y cerró con caídas moderadas (IBEX -0,8%, Euro Stoxx -0,5%, DAX -0,4%). En EE. UU. hubo un rebote tecnológico (SMH +2,0%, NVDA +2,3%, MSFT +2,7%) frente a la caída de Apple. El 10 años subió a ~4,95%, el dólar quedó en máximos de 52 semanas y el petróleo cayó por segundo día. Persisten los temores de burbuja de IA, la cautela ante las midterms y el hackeo récord de Binance, que pesa en cripto."
  }
 ]
