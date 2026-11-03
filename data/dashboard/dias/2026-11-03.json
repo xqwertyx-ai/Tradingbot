@@ -40,5 +40,19 @@
    "Apple's stock drops on weak margin forecast in Ternus’ first earnings report"
   ],
   "coste_usd": 0.037
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-03T14:51:54+00:00",
+  "hora_madrid": "15:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. el tono es mixto: el Nasdaq y los semiconductores rebotan (SMH +2,3%, NVDA +2,9%) tras la fuerte caída previa, mientras el petróleo cae por segundo día por esperanzas de una salida diplomática con Iran y Europa sigue ligeramente a la baja. Los titulares nuevos refuerzan el sesgo de tipos altos (inflación en Irlanda, Suiza y Bulgaria, Logan pide más subidas, PMI industrial de EE. UU. fuerte) y la cautela ante las elecciones de mitad de mandato; en cripto pesa el hackeo récord de Binance.",
+  "titulares": [
+   "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+   "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value"
+  ],
+  "coste_usd": 0.0407
  }
 ]
