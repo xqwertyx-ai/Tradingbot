@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-03T01:51:38+00:00",
+  "hora_madrid": "02:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia el foco es el desplome del petróleo (Brent -10,9%) por expectativas de acuerdo con Irán, a pesar de un ataque de EE. UU. a la isla de Qeshm, y la caída del Nasdaq (-1,4%) con semiconductores y tecnología muy castigados. Apple cae tras resultados por previsión débil de márgenes, lo que contradice el supuesto de una de las hipótesis abiertas. El hackeo récord de Binance (6.300 M$) pesa sobre cripto.",
+  "titulares": [
+   "El petrÃ³leo cae hasta un 6% ante un posible acuerdo con IrÃ¡n para acabar con la guerra",
+   "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "Apple's stock drops on weak margin forecast in Ternus’ first earnings report"
+  ],
+  "coste_usd": 0.0359
+ }
+]
