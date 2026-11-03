@@ -54,5 +54,19 @@
    "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value"
   ],
   "coste_usd": 0.0407
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-03T16:52:10+00:00",
+  "hora_madrid": "17:52",
+  "clima": "mixto",
+  "resumen": "En el cierre de Europa las bolsas terminan con ligeras caídas (IBEX -0,8%, Euro Stoxx -0,5%, DAX -0,4%) mientras Wall Street rebota con semiconductores y Nasdaq al alza. El petróleo cae por segundo día por esperanzas diplomáticas con Irán, y siguen pesando el sesgo de tipos altos (inflación en Europa, Logan), las elecciones de medio mandato y el hackeo de Binance. Santander cae pese a récord de activos y mantiene sobreventa.",
+  "titulares": [
+   "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+   "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "Stocks Are Mixed After Apple Earnings Disappoint"
+  ],
+  "coste_usd": 0.0379
  }
 ]
