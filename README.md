@@ -2,34 +2,33 @@
 
 # 📊 Radar de mercados
 
-**martes 3 nov 2026 · revisión de actualización · 04:00 (Madrid)**
+**martes 3 nov 2026 · revisión de apertura Europa · 09:51 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🔴 risk-off (aversión al riesgo)  
-> Desde la revisión anterior no hay giros macro: las novedades son sobre todo cripto (Binance cubre el 95% de lo robado en el hackeo de 6.300 M$; Corea del Norte lo niega) y la confirmación del ataque de EE. UU. a Qeshm mientras el petróleo sigue desplomado por las expectativas de acuerdo con Irán. Asia acaba de abrir con el Nasdaq a la baja, y los precios de Asia (HSI +0,3%, Shanghái -0,9%) muestran una reacción moderada. Es una revisión de solo observación.  
-> **Decisión:** no operar hoy — Revisión de actualización de solo observación; las decisiones se toman con precios de cierre de EE. UU.
+> En la apertura de Europa domina el sentimiento negativo por la IA (burbuja, coberturas al alza, retrasos en centros de datos) y la tensión con Irán, con Europa cayendo (Euro Stoxx -1,0%, IBEX -0,8%, DAX -0,9%). El Brent rebota un +2,1% tras el desplome de ayer, el RBA sube tipos a máximos de 18 años y la inflación suiza repunta, reforzando el sesgo de tipos altos. Apple cae por márgenes débiles pese a batir resultados, lo que contradice una hipótesis abierta.  
+> **Decisión:** no operar hoy — Revisión de apertura de Europa: solo observación, las decisiones se toman con precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
 | **S&P 500** | 7.541 | 🔴▼ -0.5% | 🔴▼ -2.3% | ➡️ lateral |
 | **Nasdaq 100** | 27.990 | 🔴▼ -1.4% | 🔴▼ -9.1% | ➡️ lateral |
-| **IBEX 35** | 18.958 | 🔵▲ +1.6% | 🔴▼ -0.7% | ➡️ lateral |
+| **IBEX 35** | 18.801 | 🔴▼ -0.8% | 🔴▼ -2.6% | ➡️ lateral |
 | **Nikkei 225** | 63.082 | 🔴▼ -0.3% | 🔴▼ -8.5% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 4.894 | ▼ -3 pb | ▼ -38 pb | ➡️ lateral |
-| **EUR/USD** | 1.119 | 🔵▲ +0.3% | 🔴▼ -0.6% | ↘️ bajista |
-| **Brent** | 104.90 | 🔴▼ -10.8% | 🔵▲ +2.6% | ↗️ alcista |
-| **Oro** | 3.958 | 🔵▲ +1.5% | 🔴▼ -4.9% | ↘️ bajista |
-| **Bitcoin** | 76.595 | 🔴▼ -2.1% | 🔴▼ -6.3% | ➡️ lateral |
+| **Brent** | 107.00 | 🔵▲ +2.1% | 🔵▲ +6.7% | ↗️ alcista |
+| **Oro** | 3.914 | 🔴▼ -1.4% | 🔴▼ -5.8% | ↘️ bajista |
+| **Bitcoin** | 76.425 | 🔴▼ -0.3% | 🔴▼ -8.0% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
 ## 🕒 Hoy, sesión a sesión
 
 - **02:51 · apertura Asia** 🟡 En la apertura de Asia el foco es el desplome del petróleo (Brent -10,9%) por expectativas de acuerdo con Irán, a pesar de un ataque de EE. UU. a la isla de Qeshm, y la caída del Nasdaq (-1,4%) con semiconductores y tecnología muy castigados. Apple cae tras resultados por previsión débil de márgenes, lo que contradice el supuesto de una de las hipótesis abiertas. El hackeo récord de Binance (6.300 M$) pesa sobre cripto.
-- <sub>apertura Europa · prevista ~09:15</sub>
+- **09:51 · apertura Europa** 🔴 En la apertura de Europa domina el sentimiento negativo por la IA (burbuja, coberturas al alza, retrasos en centros de datos) y la tensión con Irán, con Europa cayendo (Euro Stoxx -1,0%, IBEX -0,8%, DAX -0,9%). El Brent rebota un +2,1% tras el desplome de ayer, el RBA sube tipos a máximos de 18 años y la inflación suiza repunta, reforzando el sesgo de tipos altos. Apple cae por márgenes débiles pese a batir resultados, lo que contradice una hipótesis abierta.
 - <sub>cierre Asia · prevista ~09:25</sub>
 - <sub>apertura EE. UU. · prevista ~15:45</sub>
 - <sub>cierre Europa · prevista ~17:50</sub>
@@ -37,24 +36,24 @@
 
 ## 📰 Noticias clave
 
-- **[geopolítica]** [El petrÃ³leo cae hasta un 6% ante un posible acuerdo con IrÃ¡n para acabar con la guerra](https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html) <sub>Expansión · 02/11 15:59 · ●●●●●</sub>  
-  Sorpresa parcial: el Brent cae -10,8% (-4,9σ) por la expectativa de un acuerdo con Irán que aún no está cerrado. **Impacto:** Brent y XLE a la baja; aerolíneas, DAX e IBEX favorecidos por menores costes energéticos y menos inflación. Si el acuerdo falla, el petróleo puede devolver parte de la caída.
-- **[geopolítica]** [US carries out 'defensive' strikes on Iran's Qeshm Island, officials say](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5) <sub>Reuters · 03/11 02:05 · ●●●●</sub>  
-  Sorpresa: ataque 'defensivo' de EE. UU. a la isla iraní de Qeshm, en contraste con el tono de acuerdo; el mercado de crudo sigue descontando la vía diplomática. **Impacto:** Riesgo de revertir la prima de riesgo del Brent al alza y de volatilidad en energía; divergencia con el precio actual del crudo.
+- **[sectorial]** [“From AI Growth Hopes to Fears of Financial Distress”: Wall Street Hedging Surges as Falling Stocks and Data Center Construction Delays Fuel Bubble Warnings](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jZlZOZVExM19VbEdqQ1B6cVpKZzhrYmNZZ2c5SUs1cEdDSEFjQVpxWlIwX0FSODhFZTR2Vy03cmZtbExQODJ0UU1CS0N1SHZZdDZIakpUZw?oc=5) <sub>economy.ac · 03/11 09:07 · ●●●●</sub>  
+  Narrativa de burbuja de IA ya presente, pero las coberturas récord y los retrasos en centros de datos añaden un matiz nuevo; la caída de SMH (-19% en 1m) ya refleja parte. **Impacto:** SMH, NVDA, ASML, XLK y NDX: mayor aversión al riesgo y compresión de múltiplos en tecnología e IA; presión bajista persistente.
+- **[geopolítica]** [Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5) <sub>WSJ · 03/11 03:38 · ●●●●</sub>  
+  Ataque de EE. UU. a Qeshm mientras Trump resta importancia al riesgo de guerra; sorpresa parcial frente a las expectativas de acuerdo. **Impacto:** BZ=F rebota (+2,1%) por la prima de riesgo y BTC cae; el oro no actúa como refugio con el dólar fuerte; Europa cae.
 - **[resultados]** [Apple's stock drops on weak margin forecast in Ternus’ first earnings report](https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html) <sub>CNBC · 03/11 02:50 · ●●●●</sub>  
-  Sorpresa negativa: la previsión débil de márgenes de Apple en el primer informe de Ternus; el precio de la tabla (cierre 2-nov) aún no la refleja. **Impacto:** AAPL a la baja en la apertura de EE. UU.; peso en Nasdaq y XLK; posible contagio a proveedores asiáticos de tecnología.
-- **[cripto]** [Binance says it has covered 95% of crypto assets taken in record $6.3B hack](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGh1UUl0dFZVVV9EbHRBZWdTSmdrUWcwRm5iTmlTd3NfZWJCQ2Z4ZVJJelA3Nnd2YUdMbjZ5d2V3T3ZHTEk1RFpWNVZrU005QXowd2JkRGdfMnliT1lHc2JKSzVIMHo5VFN1MklIeDRlMHcyTEhDanJYQXlxbE4tZXJvclgyZ3AyZnA1N1Z0RkstRV9WeWIyZkpkZHpMUlF5NWJjM01abzdEX1hITVhWaFNrSTdpRVQ2?oc=5) <sub>The Washington Post · 03/11 03:10 · ●●●●</sub>  
-  Novedad parcial: Binance dice haber cubierto el 95% de lo sustraído, lo que reduce el riesgo de insolvencia pero no el reputacional. **Impacto:** BTC, ETH y SOL con presión por la desconfianza en custodia; la cobertura mitiga el riesgo de liquidación forzada. Efecto neutro-negativo a corto plazo.
-- **[macro]** [Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5) <sub>Bloomberg.com · 03/11 02:37 · ●●●</sub>  
-  El Nasdaq cae y condiciona la apertura asiática; el petróleo baja por Irán. **Impacto:** Presión sobre semiconductores y tecnología asiática (Nikkei, HSI); apoyo a importadores de energía.
-- **[cripto]** [North Korea denies being behind record $6.3bn Binance hack](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5) <sub>BBC · 03/11 01:56 · ●●</sub>  
-  Esperada: Corea del Norte niega ser responsable del hackeo, algo habitual en estos casos. **Impacto:** Sin efecto directo en precios; mantiene incertidumbre regulatoria y de seguridad que pesa sobre cripto.
+  Apple bate ingresos, pero la previsión de márgenes es débil en el primer informe de Ternus; la reacción negativa contradice la tesis abierta sobre AAPL. **Impacto:** AAPL, XLK y NDX bajo presión por márgenes; los futuros caen en la apertura europea.
+- **[macro]** [RBA hikes interest rates to 2008 levels, sharply raises inflation forecasts](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUFjWkNKZkI5eHJtVmRlMURMdWNQdENkYUlieXBCbkx6c2FOQ1dNYTd4RzZHVzl2V1lSZXFURHVsd1J6alFYRmRabUJoLXk5ZEhvVlF0YVJSOFF0a0plbGhNVHNraGJLSGplTExRMmNNbERuYS1lWDFoLXJGWVcxb0g0OWtKZnlId2dsUGhKV3FaZlZpSVJQb1F4Zmp6aFhHLWFleEpHUUoyTkdlRklnQVdWc2l0TzRHOEFodzdNcjFnLWlERElxSUtn?oc=5) <sub>Investing.com · 03/11 06:20 · ●●●</sub>  
+  El RBA sube tipos a máximos de 18 años y eleva sus previsiones de inflación; endurecimiento global ya en parte esperado, pero con inflación al alza. **Impacto:** Refuerza el sesgo de tipos altos: presiona a las acciones de duración larga y al oro, y favorece a la banca australiana.
+- **[macro]** [Swiss Inflation Jumps to Highest Since 2023 on Imported Energy Costs](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTh1ZHB4cXRqMXNRTG1OLVR3ckMzRGprZnp4d203SEtfU2tVSEtpM1ZsODJXdWpfQXM0NnJtZDB1c216ZUJOR2h2bzN4Zk5CZFQ5NFBzQkZYam5DZnlkUUpzOTJpbWFDVThtcFdoYXhubm4ycmFwbDNaNkNBOHFlbmxsZGNyS0c4TXhrdlhsU1RFdFc4TTRJdnplT1lXb0lTUklCRUIxeDE4WkxwVnN2V2h3?oc=5) <sub>WSJ · 03/11 08:38 · ●●●</sub>  
+  La inflación suiza sube al nivel más alto desde 2023 por la energía importada; sorpresa al alza. **Impacto:** Más inflación en Europa por la energía; refuerza expectativas de endurecimiento del BCE, negativo para utilities y bancos sobrevendidos.
+- **[cripto]** [Binance covers 95 percent of $6.3B stolen in record crypto hack](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ONGNyaWRPbVotWmRLQ3ZsVlExT1R1TkNSYm4tZVNJeFU0RGNhZE9NVnhYQ1plTHh3eGNYcGJFdzBnREJtUXZDRGNNdjZ6QlVUcHZSMnVXOGo?oc=5) <sub>TRT World · 03/11 08:38 · ●●●</sub>  
+  Binance cubre el 95% de los 6.300 M$ robados, lo que mitiga el riesgo sistémico, pero el hackeo récord y la acusación a Corea del Norte siguen pesando. **Impacto:** BTC, ETH y SOL: reduce el riesgo de contagio, aunque las salidas de ETF (-398,6 M$) mantienen la debilidad.
 
-**Divergencias precio-noticia:** El Brent se desploma -10,8% mientras EE. UU. ataca Qeshm: el mercado descuenta un acuerdo que todavía no existe. · Apple se ha movido poco en la tabla (-1,8%) pese a que la noticia posterior a cierre apunta a una caída por márgenes; la reacción completa aún no está en precios. · El oro sube +1,5% con dólar plano y bono a 10 años a la baja, pero sigue en tendencia bajista con -4,9% en un mes. · XLF sube +1,9% (+2,3σ) en una jornada de caída del Nasdaq: rotación hacia sectores sensibles a tipos altos, mientras SAN y BBVA (cierre del 30-oct) cayeron con fuerza.
+**Divergencias precio-noticia:** El oro cae un 1,4% pese a los ataques en Oriente Medio y la inflación al alza: el dólar en máximos de 52 semanas y el 10 años cerca del 5% dominan sobre el papel de refugio. · El Brent rebota un +2,1% tras un desplome de más del 10%, pero XLE cayó un -4,0% ayer; el mercado de acciones energéticas descuenta más acuerdo que el crudo. · XLF sube un +1,9% (+2,3σ) mientras el resto cae: rotación hacia financieras por tipos altos; en España, SAN y BBVA caen con fuerza, sin seguir ese patrón. · Apple bate resultados pero cae por márgenes: la reacción contradice el titular de beneficios.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-02._
+_Revisión de apertura Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-02._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -66,20 +65,19 @@ _Revisión de actualización: solo observación. Las hipótesis se registran con
 
 ## 👀 Valores a vigilar
 
-- **Apple** — Reacción en la apertura de EE. UU. ante la previsión débil de márgenes; la hipótesis abierta alcista parte de una premisa contradicha.
-- **Brent** — Sensible a cualquier avance o ruptura de las negociaciones con Irán tras el ataque a Qeshm.
-- **Bitcoin** — Evolución del hackeo de Binance y de las retiradas de usuarios.
-- **Semiconductores (SMH)** — Extensión de la caída en semiconductores en la apertura asiática tras -19,4% en un mes.
-- **Shanghái Compuesto** — En mínimos de 52 semanas; comprobar si se confirma el rebote técnico.
-- **EUR/USD** — en mínimos de 52 semanas
+- **Semiconductores (SMH)** — Las coberturas y las dudas sobre los centros de datos pueden prolongar la caída o dar un rebote si estabiliza.
+- **Brent** — Muy sensible a las noticias sobre Irán: acuerdo frente a escalada.
+- **Banco Santander** — Sobreventa (RSI 28) y caída del -9,6% en 5 días, con tipos al alza como posible apoyo.
+- **Apple** — Hay que revisar la hipótesis alcista abierta tras la reacción negativa a los márgenes.
+- **Bitcoin** — Salidas de ETF, hackeo y señal técnica débil; soporte crítico cerca.
+- **Shanghái Compuesto** — en mínimos de 52 semanas
 - **Índice dólar** — en máximos de 52 semanas
+- **Oro** — en mínimos de 52 semanas
 - **Solana** — sobreventa (RSI 26)
 - **Financieras (XLF)** — movimiento anómalo hoy (+2.3σ)
 - **Energía (XLE)** — movimiento anómalo hoy (-2.9σ)
 - **Microsoft** — movimiento anómalo hoy (-2.1σ), cruza a la baja su media de 50 sesiones
-- **Banco Santander** — movimiento anómalo hoy (-2.2σ), sobreventa (RSI 23)
-- **BBVA** — movimiento anómalo hoy (-2.7σ), sobreventa (RSI 27)
-- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 72)
+- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 70)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
@@ -119,21 +117,20 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 17.
 |---|--:|--:|--:|--:|--:|--:|---|---|
 | S&P 500 | 7.541 | 🔴▼ -0.5% | 🔴▼ -1.8% | 🔴▼ -2.3% | 🔴▼ -2.5% | 38 | ➡️ lateral | — |
 | Nasdaq 100 | 27.990 | 🔴▼ -1.4% | 🔴▼ -4.4% | 🔴▼ -9.1% | 🔴▼ -5.9% | 32 | ➡️ lateral | — |
-| IBEX 35 | 18.958 | 🔵▲ +1.6% | 🔴▼ -0.4% | 🔴▼ -0.7% | 🔴▼ -5.5% | 45 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.176 | 🔵▲ +0.7% | 🔵▲ +1.0% | 🔴▼ -1.0% | 🔴▼ -4.6% | 49 | ➡️ lateral | — |
+| IBEX 35 | 18.801 | 🔴▼ -0.8% | 🔴▼ -1.9% | 🔴▼ -2.6% | 🔴▼ -6.8% | 42 | ➡️ lateral | — |
+| Euro Stoxx 50 | 6.117 | 🔴▼ -1.0% | 🔴▼ -0.8% | 🔴▼ -2.0% | 🔴▼ -5.9% | 44 | ➡️ lateral | — |
 | Russell 2000 | 2.806 | 🔴▼ -0.2% | 🔵▲ +0.7% | 🔴▼ -1.0% | 🔴▼ -7.6% | 49 | ➡️ lateral | — |
-| DAX | 25.981 | 🔵▲ +0.6% | 🔵▲ +2.2% | 🔵▲ +3.0% | 🔴▼ -0.6% | 59 | ↗️ alcista | — |
+| DAX | 25.751 | 🔴▼ -0.9% | 🔵▲ +0.6% | 🔵▲ +2.0% | 🔴▼ -1.5% | 54 | ↗️ alcista | — |
 | Nikkei 225 | 63.082 | 🔴▼ -0.3% | 🔵▲ +1.4% | 🔴▼ -8.5% | 🔵▲ +2.7% | 41 | ➡️ lateral | — |
-| Hang Seng | 23.467 | 🔵▲ +0.3% | 🔵▲ +1.8% | 🔴▼ -2.1% | 🔴▼ -9.2% | 43 | ↘️ bajista | — |
-| Shanghái Compuesto | 3.606 | 🔴▼ -0.9% | 🔴▼ -1.2% | 🔴▼ -5.7% | 🔴▼ -5.8% | 32 | ↘️ bajista | en mínimos de 52 semanas |
+| Hang Seng | 23.526 | 🔵▲ +0.6% | 🔵▲ +2.1% | 🔴▼ -1.9% | 🔴▼ -9.0% | 44 | ↘️ bajista | — |
+| Shanghái Compuesto | 3.608 | 🔴▼ -0.8% | 🔴▼ -1.1% | 🔴▼ -5.6% | 🔴▼ -5.8% | 33 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 4.894 | ▼ -3 pb | ▼ -9 pb | ▼ -38 pb | ▲ +27 pb | 36 | ➡️ lateral | — |
-| EUR/USD | 1.119 | 🔵▲ +0.3% | 🔵▲ +0.1% | 🔴▼ -0.6% | 🔴▼ -3.2% | 41 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 101.83 | 🔴▼ -0.1% | 🔴▼ -0.1% | 🔴▼ -0.1% | 🔵▲ +1.9% | 52 | ➡️ lateral | en máximos de 52 semanas |
-| Brent | 104.90 | 🔴▼ -10.8% | 🔴▼ -9.4% | 🔵▲ +2.6% | 🔵▲ +32.2% | 45 | ↗️ alcista | movimiento anómalo hoy (-4.9σ) |
-| Oro | 3.958 | 🔵▲ +1.5% | 🔴▼ -2.0% | 🔴▼ -4.9% | 🔴▼ -4.7% | 35 | ↘️ bajista | — |
-| Bitcoin | 76.595 | 🔴▼ -2.1% | 🔴▼ -5.7% | 🔴▼ -6.3% | 🔴▼ -2.5% | 35 | ➡️ lateral | — |
-| Ethereum | 2.249 | 🔴▼ -1.1% | 🔴▼ -4.6% | 🔴▼ -8.0% | 🔴▼ -8.8% | 33 | ➡️ lateral | — |
-| Solana | 91.65 | 🔴▼ -3.0% | 🔴▼ -10.4% | 🔴▼ -13.2% | 🔴▼ -11.0% | 26 | ➡️ lateral | sobreventa (RSI 26) |
+| Índice dólar | 101.72 | 🔴▼ -0.0% | 🔴▼ -0.6% | 🔴▼ -0.4% | 🔵▲ +2.0% | 51 | ➡️ lateral | en máximos de 52 semanas |
+| Brent | 107.00 | 🔵▲ +2.1% | 🔴▼ -6.0% | 🔵▲ +6.7% | 🔵▲ +34.7% | 48 | ↗️ alcista | — |
+| Oro | 3.914 | 🔴▼ -1.4% | 🔴▼ -3.9% | 🔴▼ -5.8% | 🔴▼ -9.1% | 33 | ↘️ bajista | en mínimos de 52 semanas |
+| Bitcoin | 76.425 | 🔴▼ -0.3% | 🔴▼ -1.7% | 🔴▼ -8.0% | 🔴▼ -1.3% | 34 | ➡️ lateral | — |
+| Ethereum | 2.251 | 🔵▲ +0.1% | 🔵▲ +0.1% | 🔴▼ -9.8% | 🔴▼ -6.9% | 34 | ➡️ lateral | — |
+| Solana | 91.62 | 🔴▼ -0.2% | 🔴▼ -4.1% | 🔴▼ -14.2% | 🔴▼ -8.4% | 26 | ➡️ lateral | sobreventa (RSI 26) |
 | Semiconductores (SMH) | 508.31 | 🔴▼ -2.7% | 🔴▼ -6.2% | 🔴▼ -19.4% | 🔴▼ -11.7% | 34 | ↘️ bajista | — |
 | Financieras (XLF) | 57.56 | 🔵▲ +1.9% | 🔵▲ +2.7% | 🔵▲ +7.6% | 🔴▼ -0.6% | 65 | ↗️ alcista | movimiento anómalo hoy (+2.3σ) |
 | Energía (XLE) | 67.25 | 🔴▼ -4.0% | 🔴▼ -3.4% | 🔵▲ +7.1% | 🔵▲ +14.9% | 52 | ↗️ alcista | movimiento anómalo hoy (-2.9σ) |
@@ -142,10 +139,10 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 17.
 | Apple | 338.32 | 🔴▼ -1.8% | 🔴▼ -1.6% | 🔵▲ +1.4% | 🔵▲ +9.4% | 48 | ↗️ alcista | — |
 | Microsoft | 507.12 | 🔴▼ -2.8% | 🔴▼ -4.8% | 🔴▼ -2.0% | 🔵▲ +2.9% | 40 | ➡️ lateral | movimiento anómalo hoy (-2.1σ), cruza a la baja su media de 50 sesiones |
 | ASML | 1.526 | 🔴▼ -2.5% | 🔴▼ -4.1% | 🔴▼ -18.3% | 🔴▼ -10.9% | 36 | ↘️ bajista | — |
-| Banco Santander | 10.12 | 🔴▼ -3.7% | 🔴▼ -12.1% | 🔴▼ -14.3% | 🔴▼ -20.0% | 23 | ↘️ bajista | movimiento anómalo hoy (-2.2σ), sobreventa (RSI 23) |
-| BBVA | 21.06 | 🔴▼ -3.7% | 🔴▼ -5.3% | 🔴▼ -11.5% | 🔴▼ -14.4% | 27 | ↘️ bajista | movimiento anómalo hoy (-2.7σ), sobreventa (RSI 27) |
-| Inditex | 56.14 | 🔴▼ -0.2% | 🔴▼ -1.1% | 🔵▲ +5.8% | 🔴▼ -3.5% | 56 | ↗️ alcista | — |
-| Iberdrola | 22.18 | 🔵▲ +0.4% | 🔵▲ +1.3% | 🔵▲ +7.0% | 🔵▲ +7.8% | 72 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 72) |
+| Banco Santander | 10.18 | 🔴▼ -2.0% | 🔴▼ -9.6% | 🔴▼ -17.5% | 🔴▼ -20.8% | 28 | ↘️ bajista | sobreventa (RSI 28) |
+| BBVA | 21.33 | 🔴▼ -1.2% | 🔴▼ -6.0% | 🔴▼ -11.1% | 🔴▼ -13.3% | 33 | ↘️ bajista | — |
+| Inditex | 56.80 | 🔴▼ -1.2% | 🔴▼ -0.4% | 🔵▲ +7.2% | 🔴▼ -3.4% | 58 | ↗️ alcista | — |
+| Iberdrola | 22.18 | 🔴▼ -0.3% | 🔵▲ +1.0% | 🔵▲ +5.6% | 🔵▲ +7.0% | 70 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 70) |
 
 </details>
 
@@ -165,8 +162,8 @@ Registro completo: [`data/dashboard/hipotesis.csv`](data/dashboard/hipotesis.csv
 
 <details><summary>Fuentes y calidad de datos</summary>
 
-- Precios: 3 contrastados, 26 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 0 sin dato.
-- Fuentes de precio usadas: Yahoo (29).
+- Precios: 3 contrastados, 25 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 1 sin dato.
+- Fuentes de precio usadas: Yahoo (28).
 - Titulares: Google News · mercados ES: ok (100); Google News · markets: ok (100); Google News · crypto: ok (100); CNBC: ok (30); MarketWatch: ok (10); CoinDesk: ok (25); Expansión: ok (52).
 - Análisis: claude-sonnet-5-5.
 - Reglas de tendencia: alcista si el precio está sobre sus medias de 50 y 200 sesiones y sube en el mes; bajista al revés; si no, lateral.

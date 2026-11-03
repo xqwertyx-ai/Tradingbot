@@ -12,5 +12,19 @@
    "Apple's stock drops on weak margin forecast in Ternus’ first earnings report"
   ],
   "coste_usd": 0.0359
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-03T08:51:43+00:00",
+  "hora_madrid": "09:51",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Europa domina el sentimiento negativo por la IA (burbuja, coberturas al alza, retrasos en centros de datos) y la tensión con Irán, con Europa cayendo (Euro Stoxx -1,0%, IBEX -0,8%, DAX -0,9%). El Brent rebota un +2,1% tras el desplome de ayer, el RBA sube tipos a máximos de 18 años y la inflación suiza repunta, reforzando el sesgo de tipos altos. Apple cae por márgenes débiles pese a batir resultados, lo que contradice una hipótesis abierta.",
+  "titulares": [
+   "“From AI Growth Hopes to Fears of Financial Distress”: Wall Street Hedging Surges as Falling Stocks and Data Center Construction Delays Fuel Bubble Warnings",
+   "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "RBA hikes interest rates to 2008 levels, sharply raises inflation forecasts"
+  ],
+  "coste_usd": 0.038
  }
 ]
