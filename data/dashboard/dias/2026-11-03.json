@@ -26,5 +26,19 @@
    "RBA hikes interest rates to 2008 levels, sharply raises inflation forecasts"
   ],
   "coste_usd": 0.038
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-03T09:52:03+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-off",
+  "resumen": "En el cierre de Asia el tono es mixto con sesgo negativo: Shanghái cae un 0,8% hasta mínimos de 52 semanas y Nikkei cede un 0,3%, mientras Hang Seng sube un 0,6%. Se desploman los tecnológicos en Corea y Taiwán pese al récord de Samsung, Apple y Palantir caen en premarket y el RBA sube tipos a máximos de 18 años. Llegan citas duras de la Fed (Logan pide dos subidas más) y persiste la tensión con Irán.",
+  "titulares": [
+   "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "Australia hikes rates to 18-year high to fight inflation",
+   "Apple's stock drops on weak margin forecast in Ternus’ first earnings report"
+  ],
+  "coste_usd": 0.037
  }
 ]
