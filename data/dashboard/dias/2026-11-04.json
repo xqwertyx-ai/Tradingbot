@@ -40,5 +40,19 @@
    "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
   ],
   "coste_usd": 0.0386
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-04T15:14:20+00:00",
+  "hora_madrid": "16:14",
+  "clima": "risk-on",
+  "resumen": "En el cierre de Asia domina el rebote tras la victoria demócrata en las midterms: Hang Seng +1,7% y Shanghái +2,2% (anómalo, +2,6σ). El Nikkei solo muestra dato del 2-nov (-0,3%), así que no refleja la sesión de hoy. Desde la revisión anterior hay pocos hechos nuevos: servicios de EE. UU. algo más fríos con inflación elevada, y sigue la lectura de que la Fed sale reforzada en independencia mientras la eurozona (inflación 4%) apunta a una subida del BCE en diciembre.",
+  "titulares": [
+   "US services sector activity cools slightly in October; inflation remains elevated",
+   "Fed Wins Protection With Democrats Taking Control of the Senate",
+   "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
+  ],
+  "coste_usd": 0.0369
  }
 ]
