@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-04T01:24:51+00:00",
+  "hora_madrid": "02:24",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia el Nikkei cae un 1,9% (-9,4% en un mes) tras el cierre mixto de EE. UU. del día de las midterms. Los resultados de IA siguen divididos: AMD, Super Micro y Samsung suben, mientras Apple y Shopify caen. Los titulares sobre inflación, subidas de la Fed en diciembre y el hackeo de Binance mantienen un tono cauto.",
+  "titulares": [
+   "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
+   "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+   "Super Micro’s stock pops as earnings show booming demand for AI servers"
+  ],
+  "coste_usd": 0.0338
+ }
+]
