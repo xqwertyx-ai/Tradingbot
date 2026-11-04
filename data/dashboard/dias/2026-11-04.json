@@ -26,5 +26,19 @@
    "Bullard Bets on December Rate Hike, More Needed If Inflation Stays Hot"
   ],
   "coste_usd": 0.0375
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-04T14:51:25+00:00",
+  "hora_madrid": "15:51",
+  "clima": "risk-on",
+  "resumen": "En la apertura de EE. UU. los futuros y las bolsas rebotan con fuerza tras la victoria demócrata en las midterms: S&P +1,6%, Nasdaq +1,6%, MSFT y AAPL +5%. Europa cierra con subidas amplias (IBEX +3,2%, DAX +2,1%) a pesar de que la inflación de la eurozona sube al 4% y casi asegura una subida del BCE. El petróleo cae un 3% y el oro sube un 3%, y el bitcoin recupera la caída nocturna.",
+  "titulares": [
+   "Fed Wins Protection With Democrats Taking Control of the Senate",
+   "Eurozone inflation accelerates to three-year high on energy prices",
+   "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
+  ],
+  "coste_usd": 0.0386
  }
 ]
