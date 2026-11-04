@@ -54,5 +54,19 @@
    "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
   ],
   "coste_usd": 0.0369
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-04T16:51:42+00:00",
+  "hora_madrid": "17:51",
+  "clima": "risk-on",
+  "resumen": "En el cierre de Europa domina la reacción a la victoria demócrata en las midterms: IBEX +3,0% (+3,4σ), Euro Stoxx +2,0% y DAX +2,2% en máximos de 52 semanas, pese a que la inflación de la eurozona sube al 4% y casi asegura una subida del BCE. Desde la revisión anterior, los titulares nuevos refuerzan la lectura de que la Fed sale protegida en su independencia; Wall Street sube, con MSFT y AAPL fuertes y los semiconductores rezagados. Petróleo (-7,7%) y energía caen con fuerza mientras oro (+3,3%) y cripto suben, una mezcla poco habitual de risk-on y refugio.",
+  "titulares": [
+   "Fed Wins Protection With Democrats Taking Control of the Senate",
+   "ECB rate hike looks nearly certain after inflation rises to three-year high",
+   "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
+  ],
+  "coste_usd": 0.0415
  }
 ]
