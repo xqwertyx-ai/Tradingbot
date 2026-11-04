@@ -12,5 +12,19 @@
    "Super Micro’s stock pops as earnings show booming demand for AI servers"
   ],
   "coste_usd": 0.0338
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-04T08:51:22+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa domina la reacción a la victoria demócrata en las midterms y a la autocrítica de Trump sobre la guerra con Irán: el IBEX (+1,2%), el Euro Stoxx (+0,7%) y la banca española suben, mientras el DAX se frena por Zalando. Hay indicios de rotación hacia refugio (oro +2,7%, bonos al alza según CNBC) y repunte en cripto tras mínimos de 7 semanas, con la amenaza de una regulación más dura. La inflación (Países Bajos, Bullard) mantiene la expectativa de subidas de tipos en diciembre.",
+  "titulares": [
+   "Inflation Backlash, Trump Fatigue Powers Huge Wins for Democrats",
+   "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "Bullard Bets on December Rate Hike, More Needed If Inflation Stays Hot"
+  ],
+  "coste_usd": 0.0375
  }
 ]
