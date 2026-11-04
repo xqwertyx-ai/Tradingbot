@@ -68,5 +68,20 @@
    "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections"
   ],
   "coste_usd": 0.0415
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-04T21:28:01+00:00",
+  "hora_madrid": "22:28",
+  "clima": "risk-on",
+  "resumen": "En el cierre de EE. UU. domina el rally postelectoral: S&P +1,6%, con financieras (+3,5%) y MSFT/AAPL muy fuertes, mientras energía (-4,7%) y semiconductores (-2,7%) caen. El titular nuevo más relevante es el ataque de EE. UU. a la isla iraní de Qeshm (id 1), publicado a las 21:25 UTC, fuera de horario. El mercado probablemente no lo ha incorporado, y el Brent cierra en -8,2%.",
+  "titulares": [
+   "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
+   "Hyperscalers and Apple surge after election results remove investor uncertainty"
+  ],
+  "coste_usd": 0.0718,
+  "resumen_dia": "Asia abrió cautelosa (Nikkei -1,9%, inflación y subidas de la Fed en diciembre) y cerró con rebote tras la victoria demócrata en las midterms (Hang Seng +1,7%, Shanghái +2,2%). Europa cerró con subidas amplias (IBEX +3,0%, DAX +2,2% en máximos de 52 semanas) pese a que la inflación de la eurozona llegó al 4% y casi asegura una subida del BCE. En EE. UU. el S&P cerró +1,6% con el Dow sumando más de 1.500 puntos, liderado por financieras y mega caps (MSFT +6,7%, AAPL +5,3%), mientras los semiconductores y la energía quedaron rezagados. El Brent se desplomó (-8,2%) y oro (+3,4%) y cripto (ETH +6,5%) subieron, una mezcla atípica de risk-on y refugio. La lectura dominante es que se ha despejado la incertidumbre política y la Fed sale reforzada en independencia, aunque persisten inflación elevada y riesgo geopolítico con Irán."
  }
 ]
