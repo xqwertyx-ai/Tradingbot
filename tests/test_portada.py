@@ -68,9 +68,12 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         assert len(book) == 1 and book.iloc[0]["operada"] == 1
         for f in ("mapa-light.png", "mapa-dark.png", "tendencias-light.png"):
             assert os.path.getsize(os.path.join("assets", f)) > 5000
-        assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
-        assert "1 previas" in readme and ("prevista ~" in readme or "no se hizo" in readme)
-        assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
+        assert "1 previas" in readme
+        from dashboard.sesiones import MAD
+        if dt.datetime.now(MAD).weekday() < 5:  # la línea del día solo se muestra entre semana
+            assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
+            assert "prevista ~" in readme or "no se hizo" in readme
+            assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
         portada.main("usa-cierre")  # reejecutar el mismo día no duplica hipótesis ni revisiones
         assert len(ledger.load()) == 1
         portada.main("manual")  # una revisión de observación sigue mostrando las hipótesis del último cierre

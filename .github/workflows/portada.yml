@@ -36,6 +36,7 @@ jobs:
     timeout-minutes: 30
     outputs:
       evento: ${{ steps.ev.outputs.evento }}
+      web: ${{ steps.pages.outcome == 'success' && 'ok' || '' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -89,6 +90,7 @@ jobs:
           git push -f origin ci-log
 
       - name: Preparar la web
+        id: pages
         if: steps.ev.outputs.evento != ''
         uses: actions/upload-pages-artifact@v3
         with:
@@ -103,12 +105,17 @@ jobs:
           git add README.md assets data/dashboard
           git diff --cached --quiet && exit 0
           git commit -m "Portada $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase -X theirs origin main   # si chocan, mandan los ficheros recién generados
-          git push
+          # GitHub falla a veces al recibir el push (error 500): se reintenta hasta 4 veces
+          for i in 1 2 3 4; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            echo "Fallo al guardar (intento $i); reintento en $((i * 15)) s"; sleep $((i * 15))
+          done
+          exit 1
 
   web:
     needs: run
-    if: needs.run.outputs.evento != ''
+    # se publica aunque falle el guardado en el repo, si la web llegó a generarse
+    if: always() && needs.run.outputs.evento != '' && needs.run.outputs.web == 'ok'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
