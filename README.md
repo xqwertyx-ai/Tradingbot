@@ -2,15 +2,15 @@
 
 # 📊 Radar de mercados
 
-**miércoles 4 nov 2026 · revisión de cierre EE. UU. · 22:28 (Madrid)**
+**miércoles 4 nov 2026 · revisión de actualización · 22:57 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟢 risk-on (apetito por riesgo)  
-> En el cierre de EE. UU. domina el rally postelectoral: S&P +1,6%, con financieras (+3,5%) y MSFT/AAPL muy fuertes, mientras energía (-4,7%) y semiconductores (-2,7%) caen. El titular nuevo más relevante es el ataque de EE. UU. a la isla iraní de Qeshm (id 1), publicado a las 21:25 UTC, fuera de horario. El mercado probablemente no lo ha incorporado, y el Brent cierra en -8,2%.  
-> **Decisión:** no operar hoy — Ninguna hipótesis combina p>=55 con EV>=1%: las ideas dependen de reversiones tras movimientos extremos y la confluencia es modesta.
+> Es una actualización posterior al cierre de EE. UU. con pocos hechos nuevos. Lo más relevante es el titular de Qualcomm (-6% por previsión débil, la memoria frena las ventas de móviles), publicado fuera de horario, y las crónicas de cierre del rally postelectoral. La tabla de precios sigue reflejando el cierre: S&P +1,6%, Brent -8,4%, energía -4,7% y semiconductores -2,7%.  
+> **Decisión:** no operar hoy — Revisión de actualización solo de observación: las decisiones se toman con los precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -20,9 +20,9 @@
 | **Nikkei 225** | 63.082 | 🔴▼ -0.3% | 🔴▼ -8.5% | ➡️ lateral |
 | **Bono EE. UU. 10a (%)** | 4.894 | ▼ -6 pb | ▼ -38 pb | ➡️ lateral |
 | **EUR/USD** | 1.123 | 🔵▲ +0.4% | 🔵▲ +0.1% | ➡️ lateral |
-| **Brent** | 95.07 | 🔴▼ -8.2% | 🔴▼ -5.5% | ➡️ lateral |
-| **Oro** | 4.076 | 🔵▲ +3.4% | 🔴▼ -2.6% | ↘️ bajista |
-| **Bitcoin** | 80.076 | 🔵▲ +3.5% | 🔴▼ -1.8% | ➡️ lateral |
+| **Brent** | 94.86 | 🔴▼ -8.4% | 🔴▼ -5.7% | ➡️ lateral |
+| **Oro** | 4.070 | 🔵▲ +3.3% | 🔴▼ -2.8% | ↘️ bajista |
+| **Bitcoin** | 80.171 | 🔵▲ +3.7% | 🔴▼ -1.7% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -39,22 +39,24 @@
 
 ## 📰 Noticias clave
 
-- **[geopolítica]** [Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5) <sub>WSJ · 04/11 22:25 · ●●●●●</sub>  
-  Sorpresa: ataque de EE. UU. a Qeshm mientras Trump resta importancia al riesgo de guerra, y llega tras el cierre, así que el precio de hoy probablemente no lo refleja. **Impacto:** Brent, XLE y oro: el riesgo de escalada podría frenar la caída del crudo y devolver prima de riesgo, con sesgo al alza en petróleo y energía y a la baja en bolsas cíclicas.
-- **[política/regulación]** [Stocks surge as ‘blue tsunami’ puts political uncertainty to rest](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5) <sub>NBC News · 04/11 22:23 · ●●●●</sub>  
-  Resultado conocido desde la noche anterior, pero la magnitud del 'blue tsunami' y la reacción alcista de hoy sí superan lo previsto por los futuros nocturnos. **Impacto:** Índices amplios, financieras, consumo y media: la menor incertidumbre política impulsa la renta variable; el riesgo recae en tecnología ligada a la construcción de infraestructura de IA.
+- **[política/regulación]** [Stocks Surge, Oil Plummets on Democrat Victory](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzlGZ3VfRXdMUGZ2dW56c1pRSHB4blhmWVRDaE0xaE9jeVdicW1WNXdQdjQ1MWdyQnZfZjdXS05zbWJhMnFLUjhRbFV0WFhmZTVXdllkaHZmX0VzNHZtZnd1YnIwM0ZmTVhNb1NlX0k3b21EQy1mSExsZGQ3VEZTY096NHdLbzZLVGVITkZTUFJiVWc?oc=5) <sub>WSJ · 04/11 22:32 · ●●●●</sub>  
+  Confirma lo ya visto en precio durante todo el día: la victoria demócrata se descuenta en el cierre, así que no aporta información nueva. **Impacto:** Renta variable amplia al alza (financieras, MSFT, AAPL, IBEX) y crudo y energía a la baja. El mecanismo es menor incertidumbre política y menor riesgo de escalada con Irán.
+- **[resultados]** [Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales](https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html) <sub>CNBC · 04/11 22:36 · ●●●●</sub>  
+  Sorpresa negativa fuera de horario: la previsión débil llega con SMH ya -11% en 5 días, así que parte de la debilidad del sector podría estar descontada. **Impacto:** Presión adicional sobre SMH, ASML y NVDA al abrir mañana, por el mecanismo de la escasez de memoria sobre la demanda de móviles. Riesgo de gap bajista en el sector, aunque el precio de SMH de la tabla no lo incluye.
+- **[geopolítica]** [Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war](https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html) <sub>CNBC · 04/11 21:14 · ●●●●</sub>  
+  Parcialmente descontada: el Brent ya cayó un 8,4% (-3,2σ) y el titular habla de menos de 90 dólares, mientras la tabla marca 94,86. **Impacto:** Mantiene bajo presión a XLE y al crudo si se consolida la lectura de desescalada con Irán. Un nuevo episodio militar podría revertirlo.
+- **[macro]** [ECB rate hike looks nearly certain after inflation rises to three-year high](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5) <sub>Reuters · 04/11 12:49 · ●●●</sub>  
+  Esperada en buena parte: la inflación de la eurozona en el 4% ya se conocía por la mañana y los índices europeos la ignoraron. **Impacto:** Una subida del BCE en diciembre casi segura encarece el coste de capital de utilities como IBE.MC y de los activos de duración larga. Afecta al euro si el mercado la valora como más dura que la Fed.
+- **[política/regulación]** [Election stiffens the Fed's guardrails, but independence risks remain](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5) <sub>Reuters · 04/11 21:32 · ●●●</sub>  
+  Interpretación de analistas, no un hecho nuevo: la elección limita el margen de Trump para controlar el consejo de la Fed. **Impacto:** Reduce la prima de riesgo institucional sobre la Fed, lo que favorece al dólar y a los bonos a largo. Sin embargo, el índice dólar cae un 0,3% y el 10 años cede, lo que no confirma claramente esa lectura.
 - **[sectorial]** [Hyperscalers and Apple surge after election results remove investor uncertainty](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmplNFEtTXU2b1NKbUJMa01Wd09UUGVIdGVFLS1UM053RUNzRlpKX0pOb3JTcWFzZjlUSkdobEcyVTM5V3U5WTJKWDNnWHN4ejF1dXpGcFZ5eXY5eVVWaHVfZGpSb3pVVW8zWnlWeG5LUlFsWHF4V2FiWlFEbW4wSUt1MDE4UDZUSmdCclYycFdwNERTWTk2MlpCb2hUbUg2Q3Zmc3Jn0gGrAUFVX3lxTE9Rc0NOODZwbWVUdjMwQTNON09qTzYtcFdOSy1MaVRsWTh5TW1jT2NVdndaeW55RkowcXlwOEpiUTVzLXBsWjhWbmtSRWVzZWJBSi1DWnAxUlA3elBKUGdvZFpEQlNBckpUUjNFeWVYbENaTDNDT0Fqczdyd3VoU1JQS2wzcXd6QkRSUUxPU1c0c0J6ak1NUEdGZGk1Sms0X2hBbC1LNUNmV0I0VQ?oc=5) <sub>CNBC · 04/11 20:37 · ●●●</sub>  
-  Parcialmente descontada: MSFT y AAPL ya marcan movimientos de +4σ a +5σ. **Impacto:** MSFT, AAPL y el Nasdaq se benefician del fin de la incertidumbre; no hay contagio a semiconductores (SMH -2,7%), lo que indica rotación dentro de tecnología.
-- **[sectorial]** [As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeURrcWViQ2xxRTFlR2E1Njh2Zmc0YmtsUHlHOEF5N3FMZGxvNWZaQ0hVRTljTWJDazBUU0N5SlZ0YVhKTjR3czZkYUxHNmVBQllvT1ZVeDE5Q1g5WDU4WlNwUnRFLWRDVlotaXRXb2xiVkhRb2t1YlczNElKc3hCNmFDanN6cHFBUzA1NzVKMWhmd2RvVHI1c3R0SWszTFJSLU5McVZGUENwbmhNMUFyRWRBMHNmcnJXaE9TZmdtNFFmR1ZIRHJEREZFcHNtLXY5Tnc?oc=5) <sub>MarketWatch · 04/11 21:17 · ●●●</sub>  
-  Reacción a la caída del crudo y al giro político; analistas hablan de exceso, pero es opinión, no dato. **Impacto:** XLE y generadoras como Vistra: el mecanismo es un petróleo más bajo y menos apoyo político; hay posible rebote técnico si el crudo se estabiliza.
-- **[resultados]** [Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on smartphone sales](https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html) <sub>CNBC · 04/11 22:16 · ●●●</sub>  
-  Sorpresa negativa: previsión débil de Qualcomm por la escasez de memoria. **Impacto:** SMH, ASML y NVDA: señal de demanda de smartphones débil y cuellos de botella en memoria, con presión bajista en semiconductores.
-- **[macro]** [Eurozone Inflation Rises to 4%, Driven by Energy Costs](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUk5sSUkwTkkyRVh3VGRuc196anVjNGZpeW1SNmRBZTNvTzEzYmVaQ1JYTnlieXpXT0ZZQmVDVU5iU2dIVnFoNEZGU1phUkp0ekRUUlpxZjNDTU9LdW96bTJHaGd2cjNiTnBKaWRJN3VDYUFPR2NqWmZ6T0xjcnAxamxoYmpaSnVOMDlWQnljckJYZF9tQ0JJZFU2OElZQjA?oc=5) <sub>WSJ · 04/11 13:22 · ●●●</sub>  
-  Inflación del 4% en la eurozona, ya asimilada por el mercado: casi se da por hecha una subida del BCE. **Impacto:** Bancos europeos, bonos y utilities: tipos más altos favorecen a la banca y penalizan a las utilities con sobrecompra, como Iberdrola.
+  Contradictoria con otros titulares: este habla de que se despeja la incertidumbre para hyperscalers, mientras otros (20, 52) advierten de obstáculos para la infraestructura de IA. **Impacto:** MSFT y AAPL suben con fuerza (+6,7% y +5,3%) mientras SMH, NVDA y ASML caen. El mercado separa a los consumidores de IA de la cadena de suministro de chips.
 
-**Divergencias precio-noticia:** El oro sube un 3,4% en una jornada risk-on con dólar más débil y rendimiento del bono a la baja: mezcla de refugio por Irán y debilidad del dólar, atípica frente al rally de renta variable. · El Brent cae un 8,2% pese a que EE. UU. ataca Qeshm. El titular salió a las 21:25 UTC, tras el cierre, y puede no estar descontado. · SMH (-2,7%) y NVDA (-3,2%) caen con el S&P a +1,6%: la reacción a la política de IA y a la débil previsión de Qualcomm contrasta con la fortaleza de MSFT/AAPL. · Las bolsas europeas suben con inflación del 4% y subida del BCE casi segura, y el 10 años de EE. UU. cae 6 pb, lo que no cuadra con un mensaje agresivo sobre tipos.
+**Divergencias precio-noticia:** Oro +3,3% y bitcoin +3,7% suben junto con las bolsas, una combinación poco habitual de risk-on y refugio, mientras el 10 años cae solo 6 pb. · Semiconductores (SMH -2,7%, NVDA -3,2%, ASML -3,6%) caen en un día de S&P +1,6%, con MSFT y AAPL en máximos. El mercado diferencia entre usuarios de IA y proveedores de hardware. · La inflación de la eurozona sube al 4% y un BCE más duro es casi seguro, pero IBEX (+3,0%) y Euro Stoxx (+2,0%) suben con fuerza y el EUR/USD sube solo un 0,4%. · El Brent de la tabla (94,86; -8,4%) no coincide con los titulares que hablan de menos de 90 dólares (id 11). Probablemente sea un desfase horario entre fuentes. · La revisión anterior citaba un ataque de EE. UU. a Qeshm como id 1, pero en la lista actual el id 1 es Qualcomm y no aparece ningún titular sobre Qeshm. No puedo confirmarlo con la información de este mensaje.
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-04._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -62,63 +64,60 @@
 | 🔴▼ **Semiconductores (SMH)** | Los semiconductores siguen cayendo mientras el resto del mercado sube, con previsión débil de Qualcomm por memoria y el riesgo de 'obstáculos' para la construcción de IA con el Congreso demócrata. | 5 ses. | +5.0% / −3.0% | 42% | +0.3% 👀 |
 | 🔴▼ **Iberdrola** | Tras máximos históricos con RSI 74, una subida del BCE casi segura por inflación del 4% encarece el coste de capital de las utilities y favorece una toma de beneficios. | 4 ses. | +3.0% / −2.0% | 38% | -0.2% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **Energía (XLE)** · Si la tregua y el discurso de Trump sobre el riesgo de guerra se imponen, el crudo puede seguir bajando y la energía perder más tras cruzar a la baja la media de 50 sesiones. Sesgos: Sesgo de reversión a la media y ancla en el nivel previo; el mecanismo de reversión es débil si el cambio político es persistente.
-- **Semiconductores (SMH)** · Tras -11% en cinco sesiones, la sobreventa y un rebote de sector con el S&P al alza pueden activar el stop antes que el objetivo. Sesgos: Sesgo de momentum y de narrativa política; probable exceso de peso a la tendencia ya vista.
-- **Iberdrola** · El BCE ya está descontado, la tendencia es alcista y la rotación defensiva puede mantener la fortaleza; la vol de 1%/día hace complicado un objetivo del 3%. Sesgos: Sesgo de reversión tras ver récords; la subida del BCE ya está en precio y no es información nueva.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **Brent** — Reacción de apertura al ataque a Qeshm; define si la caída del 8,2% fue exceso o cambio de régimen.
-- **Oro** — Subida anómala del 3,4% con dólar débil y rendimientos a la baja; puede revertir si baja la tensión geopolítica.
-- **Financieras (XLF)** — Sobrecompra (RSI 71) tras +4,2σ en máximos de 52 semanas; riesgo de toma de beneficios o continuación.
-- **Russell 2000** — Hipótesis abierta sobre sensibilidad a tipos y a la Fed; los datos de empleo del viernes son el siguiente catalizador.
-- **DAX** — Hipótesis abierta; ver si el crudo bajo se mantiene y si la subida del BCE afecta al máximo de 52 semanas.
+- **Semiconductores (SMH)** — Puede abrir con gap bajista por Qualcomm tras haber caído ya un 11% en 5 días.
+- **Brent** — Tras -8,4% con titulares discrepantes sobre el nivel, vigilar si se consolida por debajo de 90 o rebota.
+- **Energía (XLE)** — Cayó un 4,7% (-3,5σ) y cruzó a la baja su media de 50 sesiones; depende del crudo.
+- **Financieras (XLF)** — Sube un 3,5% (+4,2σ) en máximos de 52 semanas con RSI 71; riesgo de toma de beneficios.
+- **Iberdrola** — Máximos históricos con RSI 74 frente a un BCE más duro; vigilar si se agota la subida.
 - **S&P 500** — movimiento anómalo hoy (+2.5σ)
 - **IBEX 35** — movimiento anómalo hoy (+3.4σ)
 - **Euro Stoxx 50** — movimiento anómalo hoy (+2.6σ), cruza al alza su media de 50 sesiones
+- **Russell 2000** — cruza al alza su media de 50 sesiones
+- **DAX** — movimiento anómalo hoy (+2.9σ), en máximos de 52 semanas
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **EUR/USD** — en mínimos de 52 semanas
-- **Ethereum** — movimiento anómalo hoy (+3.2σ)
-- **Energía (XLE)** — movimiento anómalo hoy (-3.5σ), cruza a la baja su media de 50 sesiones
+- **Oro** — movimiento anómalo hoy (+2.6σ)
+- **Bitcoin** — movimiento anómalo hoy (+2.1σ)
+- **Ethereum** — movimiento anómalo hoy (+3.1σ)
 - **Apple** — movimiento anómalo hoy (+4.3σ), en máximos de 52 semanas, cruza al alza su media de 50 sesiones
 - **Microsoft** — movimiento anómalo hoy (+4.7σ), en máximos de 52 semanas
 - **Banco Santander** — movimiento anómalo hoy (+2.6σ)
 - **BBVA** — movimiento anómalo hoy (+2.9σ)
 - **Inditex** — movimiento anómalo hoy (+4.0σ), en máximos de 52 semanas
-- **Iberdrola** — movimiento anómalo hoy (+2.8σ), en máximos de 52 semanas, sobrecompra (RSI 74)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
-Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 18.
+Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 19.
+
+**Se compran en la próxima sesión:** SWK (reacción +11.5%), JKHY (reacción +9.2%), CDW (reacción +11.0%), ZBH (reacción +11.8%)
 
 | Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |
 |---|---|--:|--:|--:|
-| IDXX | 2026-11-03 | 0/40 | +nan% | +nan% |
-| CBOE | 2026-11-02 | 1/40 | +nan% | +nan% |
-| REGN | 2026-11-02 | 1/40 | +nan% | +nan% |
-| VLTO | 2026-11-02 | 1/40 | +nan% | +nan% |
-| CVNA | 2026-10-30 | 2/40 | +nan% | +nan% |
-| GEN | 2026-10-30 | 2/40 | +nan% | +nan% |
-| HII | 2026-10-30 | 2/40 | +nan% | +nan% |
-| NCLH | 2026-10-30 | 2/40 | +nan% | +nan% |
-| TXT | 2026-10-30 | 2/40 | +nan% | +nan% |
-| FLEX | 2026-10-29 | 3/40 | +nan% | +nan% |
-| VRT | 2026-10-29 | 3/40 | +nan% | +nan% |
-| PNR | 2026-10-28 | 4/40 | +nan% | +nan% |
-| ALLE | 2026-10-23 | 7/40 | +nan% | +nan% |
-| BX | 2026-10-23 | 7/40 | +nan% | +nan% |
-| NDAQ | 2026-10-23 | 7/40 | +nan% | +nan% |
-| ROP | 2026-10-23 | 7/40 | +nan% | +nan% |
-| EFX | 2026-10-21 | 9/40 | +nan% | +nan% |
-| HAS | 2026-10-21 | 9/40 | +nan% | +nan% |
+| FISV | 2026-11-04 | 0/40 | +0.0% | +0.0% |
+| IDXX | 2026-11-03 | 1/40 | +3.9% | +1.7% |
+| CBOE | 2026-11-02 | 2/40 | -1.1% | +2.0% |
+| REGN | 2026-11-02 | 2/40 | -3.2% | +2.0% |
+| VLTO | 2026-11-02 | 2/40 | +1.1% | +2.0% |
+| CVNA | 2026-10-30 | 3/40 | +13.6% | +1.5% |
+| GEN | 2026-10-30 | 3/40 | +6.0% | +1.5% |
+| HII | 2026-10-30 | 3/40 | -4.1% | +1.5% |
+| NCLH | 2026-10-30 | 3/40 | +5.9% | +1.5% |
+| TXT | 2026-10-30 | 3/40 | +1.1% | +1.5% |
+| FLEX | 2026-10-29 | 4/40 | -17.0% | -0.3% |
+| VRT | 2026-10-29 | 4/40 | -16.4% | -0.3% |
+| PNR | 2026-10-28 | 5/40 | +11.9% | -0.7% |
+| ALLE | 2026-10-23 | 8/40 | +7.7% | +0.9% |
+| BX | 2026-10-23 | 8/40 | +6.4% | +0.9% |
+| NDAQ | 2026-10-23 | 8/40 | +7.0% | +0.9% |
+| ROP | 2026-10-23 | 8/40 | +12.3% | +0.9% |
+| EFX | 2026-10-21 | 10/40 | +9.5% | -0.8% |
+| HAS | 2026-10-21 | 10/40 | +6.6% | -0.8% |
 
 ## 📈 Tendencias (6 meses)
 
@@ -139,15 +138,15 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 18.
 | Shanghái Compuesto | 3.608 | 🔴▼ -0.8% | 🔴▼ -1.1% | 🔴▼ -5.6% | 🔴▼ -5.8% | 33 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 4.894 | ▼ -6 pb | ▼ -15 pb | ▼ -38 pb | ▲ +22 pb | 38 | ➡️ lateral | — |
 | EUR/USD | 1.123 | 🔵▲ +0.4% | 🔵▲ +0.9% | 🔵▲ +0.1% | 🔴▼ -2.5% | 48 | ➡️ lateral | en mínimos de 52 semanas |
-| Índice dólar | 101.50 | 🔴▼ -0.4% | 🔴▼ -0.7% | 🔴▼ -0.3% | 🔵▲ +1.5% | 47 | ➡️ lateral | — |
-| Brent | 95.07 | 🔴▼ -8.2% | 🔴▼ -17.6% | 🔴▼ -5.5% | 🔵▲ +15.3% | 34 | ➡️ lateral | movimiento anómalo hoy (-3.2σ) |
-| Oro | 4.076 | 🔵▲ +3.4% | 🔵▲ +0.6% | 🔴▼ -2.6% | 🔴▼ -5.2% | 47 | ↘️ bajista | movimiento anómalo hoy (+2.7σ) |
-| Bitcoin | 80.076 | 🔵▲ +3.5% | 🔵▲ +3.7% | 🔴▼ -1.8% | 🔵▲ +3.6% | 50 | ➡️ lateral | — |
-| Ethereum | 2.420 | 🔵▲ +6.5% | 🔵▲ +8.0% | 🔵▲ +0.1% | 🔵▲ +1.2% | 54 | ➡️ lateral | movimiento anómalo hoy (+3.2σ) |
-| Solana | 94.67 | 🔵▲ +1.9% | 🔴▼ -1.6% | 🔴▼ -9.0% | 🔴▼ -5.7% | 35 | ➡️ lateral | — |
+| Índice dólar | 101.53 | 🔴▼ -0.3% | 🔴▼ -0.7% | 🔴▼ -0.3% | 🔵▲ +1.6% | 47 | ➡️ lateral | — |
+| Brent | 94.86 | 🔴▼ -8.4% | 🔴▼ -17.7% | 🔴▼ -5.7% | 🔵▲ +15.0% | 34 | ➡️ lateral | movimiento anómalo hoy (-3.2σ) |
+| Oro | 4.070 | 🔵▲ +3.3% | 🔵▲ +0.4% | 🔴▼ -2.8% | 🔴▼ -5.3% | 47 | ↘️ bajista | movimiento anómalo hoy (+2.6σ) |
+| Bitcoin | 80.171 | 🔵▲ +3.7% | 🔵▲ +3.9% | 🔴▼ -1.7% | 🔵▲ +3.7% | 50 | ➡️ lateral | movimiento anómalo hoy (+2.1σ) |
+| Ethereum | 2.416 | 🔵▲ +6.3% | 🔵▲ +7.8% | 🔴▼ -0.1% | 🔵▲ +1.0% | 54 | ➡️ lateral | movimiento anómalo hoy (+3.1σ) |
+| Solana | 94.73 | 🔵▲ +1.9% | 🔴▼ -1.5% | 🔴▼ -9.0% | 🔴▼ -5.6% | 35 | ➡️ lateral | — |
 | Semiconductores (SMH) | 504.27 | 🔴▼ -2.7% | 🔴▼ -11.2% | 🔴▼ -20.3% | 🔴▼ -11.8% | 35 | ↘️ bajista | — |
 | Financieras (XLF) | 59.20 | 🔵▲ +3.5% | 🔵▲ +5.5% | 🔵▲ +9.6% | 🔵▲ +2.4% | 71 | ↗️ alcista | movimiento anómalo hoy (+4.2σ), en máximos de 52 semanas, sobrecompra (RSI 71) |
-| Energía (XLE) | 63.53 | 🔴▼ -4.7% | 🔴▼ -7.2% | 🔴▼ -0.3% | 🔵▲ +9.2% | 39 | ➡️ lateral | movimiento anómalo hoy (-3.5σ), cruza a la baja su media de 50 sesiones |
+| Energía (XLE) | 63.52 | 🔴▼ -4.7% | 🔴▼ -7.2% | 🔴▼ -0.4% | 🔵▲ +9.2% | 39 | ➡️ lateral | movimiento anómalo hoy (-3.5σ), cruza a la baja su media de 50 sesiones |
 | Tecnología (XLK) | 176.50 | 🔴▼ -0.0% | 🔴▼ -7.6% | 🔴▼ -12.6% | 🔴▼ -4.8% | 36 | ➡️ lateral | — |
 | NVIDIA | 200.13 | 🔴▼ -3.2% | 🔴▼ -7.1% | 🔴▼ -16.3% | 🔴▼ -8.6% | 35 | ↘️ bajista | — |
 | Apple | 349.51 | 🔵▲ +5.3% | 🔵▲ +1.7% | 🔵▲ +4.8% | 🔵▲ +11.9% | 58 | ↗️ alcista | movimiento anómalo hoy (+4.3σ), en máximos de 52 semanas, cruza al alza su media de 50 sesiones |

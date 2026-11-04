@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-04T21:28:01.741045+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-11-04T21:57:14.874958+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -313,21 +313,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 101.50499725341797,
+   "last": 101.5250015258789,
    "date": "2026-11-04",
-   "chg_1d": -0.003583051765219558,
-   "chg_5d": -0.006703250529630278,
-   "chg_1m": -0.003191638729182489,
-   "chg_3m": 0.01535456650966771,
-   "vol20_ann": 0.04039735878903902,
-   "ma50": 100.98269973754883,
-   "ma200": 99.6703751373291,
-   "dist_ma50": 0.0051721484692583974,
-   "dist_ma200": 0.018406894862802226,
-   "rsi14": 46.91392875844865,
-   "from_high": -0.010479670096001814,
-   "from_low": 0.05492616883876833,
-   "z_1d": -1.2445172045191997,
+   "chg_1d": -0.0033866811760216997,
+   "chg_5d": -0.006507494858987273,
+   "chg_1m": -0.0029951910015851846,
+   "chg_3m": 0.015554669262660248,
+   "vol20_ann": 0.040194914530081116,
+   "ma50": 100.98309982299804,
+   "ma200": 99.6704751586914,
+   "dist_ma50": 0.005366261323238364,
+   "dist_ma200": 0.01860657696509227,
+   "rsi14": 47.21618790693517,
+   "from_high": -0.01028465866976025,
+   "from_low": 0.055134070233563204,
+   "z_1d": -1.1763109399347604,
    "trend": "lateral",
    "flags": []
   },
@@ -339,21 +339,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 95.06999969482422,
+   "last": 94.86000061035156,
    "date": "2026-11-04",
-   "chg_1d": -0.08233589676574793,
-   "chg_5d": -0.1755983355323305,
-   "chg_1m": -0.054782283117131736,
-   "chg_3m": 0.15250335988407104,
-   "vol20_ann": 0.5874515063848931,
-   "ma50": 103.83179916381836,
-   "ma200": 93.00874988555908,
-   "dist_ma50": -0.08438454827475739,
-   "dist_ma200": 0.02216189134679647,
-   "rsi14": 33.734108005384954,
-   "from_high": -0.1967046817021073,
-   "from_low": 0.6135438331519216,
-   "z_1d": -3.167360128500164,
+   "chg_1d": -0.08436291498549342,
+   "chg_5d": -0.17741934736920517,
+   "chg_1m": -0.05687016421327051,
+   "chg_3m": 0.1499576077939877,
+   "vol20_ann": 0.5911629120378322,
+   "ma50": 103.8275991821289,
+   "ma200": 93.00769989013672,
+   "dist_ma50": -0.08637008504884003,
+   "dist_ma200": 0.019915563145877613,
+   "rsi14": 33.55727599251527,
+   "from_high": -0.19847907196133974,
+   "from_low": 0.60997969379349,
+   "z_1d": -3.245337012716674,
    "trend": "lateral",
    "flags": [
     "movimiento anómalo hoy (-3.2σ)"
@@ -367,24 +367,24 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 4076.300048828125,
+   "last": 4069.800048828125,
    "date": "2026-11-04",
-   "chg_1d": 0.03448892240697243,
-   "chg_5d": 0.006096344796260533,
-   "chg_1m": -0.026462240272246196,
-   "chg_3m": -0.051935073903698115,
-   "vol20_ann": 0.2387124469201256,
-   "ma50": 4253.065981445313,
-   "ma200": 4509.324497070313,
-   "dist_ma50": -0.04156200101017893,
-   "dist_ma200": -0.09602867314683639,
-   "rsi14": 47.1448933970081,
-   "from_high": -0.23354766025929108,
-   "from_low": 0.045500051534468566,
-   "z_1d": 2.703123419218625,
+   "chg_1d": 0.032839343643118024,
+   "chg_5d": 0.004492040362622074,
+   "chg_1m": -0.028014627329732145,
+   "chg_3m": -0.05344684240596953,
+   "vol20_ann": 0.23554021673833692,
+   "ma50": 4252.935981445313,
+   "ma200": 4509.291997070312,
+   "dist_ma50": -0.04306106026899359,
+   "dist_ma200": -0.09746362589242952,
+   "rsi14": 46.647962051307175,
+   "from_high": -0.23476983236356164,
+   "from_low": 0.04383291460794925,
+   "z_1d": 2.5738350948168423,
    "trend": "bajista",
    "flags": [
-    "movimiento anómalo hoy (+2.7σ)"
+    "movimiento anómalo hoy (+2.6σ)"
    ]
   },
   {
@@ -395,23 +395,25 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 80075.5078125,
+   "last": 80170.9296875,
    "date": "2026-11-04",
-   "chg_1d": 0.035302337354747415,
-   "chg_5d": 0.03727154865453386,
-   "chg_1m": -0.01823122779992603,
-   "chg_3m": 0.035899277383578454,
-   "vol20_ann": 0.26931345858783207,
-   "ma50": 81985.58828125,
-   "ma200": 73179.35625,
-   "dist_ma50": -0.023297758896325904,
-   "dist_ma200": 0.09423629717294757,
-   "rsi14": 49.5606568359825,
-   "from_high": -0.24454640494048896,
-   "from_low": 0.36743626271323704,
-   "z_1d": 1.9960535944577587,
+   "chg_1d": 0.03653605404192217,
+   "chg_5d": 0.03850761194979935,
+   "chg_1m": -0.017061304316216885,
+   "chg_3m": 0.03713370541356431,
+   "vol20_ann": 0.2715536129403806,
+   "ma50": 81987.49671875,
+   "ma200": 73179.833359375,
+   "dist_ma50": -0.022156634901069783,
+   "dist_ma200": 0.09553309986089742,
+   "rsi14": 49.88032540779154,
+   "from_high": -0.24364616964401276,
+   "from_low": 0.3690657663616761,
+   "z_1d": 2.065810013224929,
    "trend": "lateral",
-   "flags": []
+   "flags": [
+    "movimiento anómalo hoy (+2.1σ)"
+   ]
   },
   {
    "ticker": "ETH-USD",
@@ -421,24 +423,24 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 2419.6298828125,
+   "last": 2416.330078125,
    "date": "2026-11-04",
-   "chg_1d": 0.06463782423299391,
-   "chg_5d": 0.07968366854374032,
-   "chg_1m": 0.0005883911278532494,
-   "chg_3m": 0.01176203000779541,
-   "vol20_ann": 0.3419249666407828,
-   "ma50": 2506.493603515625,
-   "ma200": 2156.783783569336,
-   "dist_ma50": -0.0346554727214502,
-   "dist_ma200": 0.12186947122171476,
-   "rsi14": 53.85665598361891,
-   "from_high": -0.3246202557825636,
-   "from_low": 0.5462705373236463,
-   "z_1d": 3.1885207943644507,
+   "chg_1d": 0.06318590924886824,
+   "chg_5d": 0.07821123457531187,
+   "chg_1m": -0.0007761755303596907,
+   "chg_3m": 0.010382225140542767,
+   "vol20_ann": 0.3382922910091111,
+   "ma50": 2506.427607421875,
+   "ma200": 2156.7672845458983,
+   "dist_ma50": -0.035946591487455715,
+   "dist_ma200": 0.12034807623380295,
+   "rsi14": 53.57661062354126,
+   "from_high": -0.3255413145203656,
+   "from_low": 0.5441617888727166,
+   "z_1d": 3.1168992450089736,
    "trend": "lateral",
    "flags": [
-    "movimiento anómalo hoy (+3.2σ)"
+    "movimiento anómalo hoy (+3.1σ)"
    ]
   },
   {
@@ -449,21 +451,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 94.66999816894531,
+   "last": 94.7300033569336,
    "date": "2026-11-04",
-   "chg_1d": 0.018844029554605957,
-   "chg_5d": -0.016096232154800494,
-   "chg_1m": -0.09036271320083222,
-   "chg_3m": -0.05693666026638,
-   "vol20_ann": 0.3087309455533447,
-   "ma50": 108.55924835205079,
-   "ma200": 88.91793292999267,
-   "dist_ma50": -0.12794165761044618,
-   "dist_ma200": 0.06468959690596265,
-   "rsi14": 34.63541743077545,
-   "from_high": -0.43435685838182647,
-   "from_low": 0.5222752278091141,
-   "z_1d": 0.6685460767105529,
+   "chg_1d": 0.019489808879699755,
+   "chg_5d": -0.0154725992014485,
+   "chg_1m": -0.08978615296579218,
+   "chg_3m": -0.056338913418592096,
+   "vol20_ann": 0.30940401256525046,
+   "ma50": 108.56044845581054,
+   "ma200": 88.91823295593262,
+   "dist_ma50": -0.1273985626957559,
+   "dist_ma200": 0.06536084004144849,
+   "rsi14": 34.80331921851091,
+   "from_high": -0.43399833378371133,
+   "from_low": 0.5232400996056845,
+   "z_1d": 0.6914569532277637,
    "trend": "lateral",
    "flags": []
   },
@@ -531,21 +533,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 63.529998779296875,
+   "last": 63.52000045776367,
    "date": "2026-11-04",
-   "chg_1d": -0.04724057455702202,
-   "chg_5d": -0.07187725914240028,
-   "chg_1m": -0.0034509995404411464,
-   "chg_3m": 0.0923314811893643,
-   "vol20_ann": 0.3226958473948937,
-   "ma50": 65.10179954528809,
-   "ma200": 59.005499897003176,
-   "dist_ma50": -0.024143737607403404,
-   "dist_ma200": 0.07667927379975459,
-   "rsi14": 38.88389761864893,
-   "from_high": -0.09268777741954082,
-   "from_low": 0.4534431505368066,
-   "z_1d": -3.48892391102792,
+   "chg_1d": -0.04739051939036698,
+   "chg_5d": -0.072023326665833,
+   "chg_1m": -0.0036078359566482643,
+   "chg_3m": 0.09215957057107982,
+   "vol20_ann": 0.32298933903048516,
+   "ma50": 65.10159957885742,
+   "ma200": 59.00544990539551,
+   "dist_ma50": -0.02429432043644275,
+   "dist_ma200": 0.07651073857764712,
+   "rsi14": 38.856708806283486,
+   "from_high": -0.09283056979332749,
+   "from_low": 0.45321440833267435,
+   "z_1d": -3.499997995526212,
    "trend": "lateral",
    "flags": [
     "movimiento anómalo hoy (-3.5σ)",
@@ -807,6 +809,33 @@
  ],
  "titulares": [
   {
+   "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+   "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-11-04T21:38:33+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
+   "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-11-04T21:36:59+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "The Beer Pricing Tightrope: Brewers Weigh Inflation Against Volume Declines",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHhRSjF2QVBaNTZrY3pKNkQ0UU8tR1FmWWkzYnF4cVAxV2paS3pSOGlRQlZuOEJtLUQ2X3lRMXF0NVdsbEo5ZGdvQWFZS082Y1dOS1dKVmhDVjBkUVBxSjZlWlcybkcwdmM1ME5MMkk4SXUtUWhxYlp2RmhnTjhxcXpNLUVmMlF0WjVCMDlpem5OLVNxUkMxMHNZLUVkd1ppcjJXTlpEa1M?oc=5",
+   "source": "Brewbound",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T21:32:21+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "FRED Adds Inflation Indicators from the St. Louis Fed",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajhHTkdMQ2tpMEwyYkRxYTlXR1FpZ3I2WDRyUWJiVlZtdVJ4SFRNWDh1R0F5LTJmT09hR2FNdW5JZWx6akI2VjZCSkJ1RGd3YVZPM2hYeGl4cW1pcE4ybmtkVmx5M2g1b2tJLTRDZFNBVVFFYzVSOENSdzVadlFmT1NFRVozLVp1a2hyLW03eWhUUQ?oc=5",
    "source": "Federal Reserve Economic Data | FRED | St. Louis Fed",
@@ -816,29 +845,11 @@
    "score": 3
   },
   {
-   "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "source": "WSJ",
+   "title": "Killer Q3 For UFC Helps TKO Beat Wall Street Earnings Forecasts",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODdJMTVYdnNMYldDVk9zSTdlM1JyQVVvZ0FnMS1zWGlWajIyMWVxRmU3UTlOOExZc01UZzdOX1RObUhNYUxaQ0gxeHN6bVUzVmtfUko2bXpmZDB1LXVObEE0X0dpMVY4UE5TbjJGNHU2cjZzMEpQS2lFRWM3S1g1UGFNbmdyNkFjaS1UbFFR?oc=5",
+   "source": "Deadline",
    "feed": "Google News · markets",
-   "published": "2026-11-04T21:25:01+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
-   "title": "Why Is the Crypto Market Up Today as BTC, ETH, XRP, and ADA Surge?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hSG44MjBoQTlXTS1EUkhZYmhyMV9GMjRxWXhPRHJuMWxQR2dQMnhOU3hSZ3M4MTB1Ym5SZGhwRU5qVVpVTS1fQklNbmlXaFQ2NWl6OUtnQXVtQ3c?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-04T21:17:03+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
-   "title": "Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on smartphone sales",
-   "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-11-04T21:16:30+00:00",
+   "published": "2026-11-04T21:13:00+00:00",
    "category": "resultados",
    "score": 3
   },
@@ -849,15 +860,6 @@
    "feed": "CNBC",
    "published": "2026-11-04T21:02:53+00:00",
    "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "feed": "MarketWatch",
-   "published": "2026-11-04T20:41:00+00:00",
-   "category": "geopolítica",
    "score": 3
   },
   {
@@ -879,6 +881,15 @@
    "score": 3
   },
   {
+   "title": "Trump’s Midterm Trouncing Underscores Inflation’s Political Poison: McGeever",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVMc1pETnZpdFBpOW5WOUpOMUt2TXhzSGNUZEpuTS15NW5TN0U0aGU1UHM4WWFRYUlFQnYzSTgxWUhnMGJqXzVoQ3hva3Z4d1JseHpINVphclJVZVFiWUU5aEJubHktdUZ1ZUlnaFRQMFc2MEk5TXJHWVBZTWRsWFBROS1jNHFndTNKZTRtMEFVYmg4XzdUUTRjRlprQTRIcS1xZEJaRQ?oc=5",
+   "source": "EnergyNow.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T20:35:07+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Election stiffens the Fed's guardrails, but independence risks remain",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
    "source": "Reuters",
@@ -893,6 +904,15 @@
    "source": "MarketWatch",
    "feed": "Google News · markets",
    "published": "2026-11-04T20:17:00+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "link": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-11-04T20:14:52+00:00",
    "category": "geopolítica",
    "score": 3
   },
@@ -942,21 +962,21 @@
    "score": 3
   },
   {
+   "title": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWJVOThEWVlwX3ZZRFFNLW5TZ2lGUHZCRkNVUmJtY21BTWJnWUl2bzNQOUw1dWRWWkRxN0hNYmdiWWJsYkZuMXBRYUhDSlQwYXFJdVZsMkxRSWlMZlFCNDcxbk5HX1pFR2MzOG1zNkRUVHNVc1ZveC13ZEg0Qk9kLVFhc3hWV2FwNVR3R0FHNURIRTVwNmZnYm1LZlFtaFFPcmpCdDMtdHF1MWszLW11bkZwWl8?oc=5",
+   "source": "Bloomberg",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T18:18:03+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
    "title": "Trump can't pack the Fed board with allies now",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwV0dBTktfZXpJdWZQaVY1U29HZEx0TWptMFlwdEpvTTRGdWxRTGd5by0yM3JDdVNONC1EVTNLbTJjN2xCc29lOTFkRVRVWDg0aTZJcGZQX0toV2NFZHp4czQ4NjFBQ2hndHN0aE1KS0Q?oc=5",
    "source": "Axios",
    "feed": "Google News · markets",
    "published": "2026-11-04T17:47:38+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWJVOThEWVlwX3ZZRFFNLW5TZ2lGUHZCRkNVUmJtY21BTWJnWUl2bzNQOUw1dWRWWkRxN0hNYmdiWWJsYkZuMXBRYUhDSlQwYXFJdVZsMkxRSWlMZlFCNDcxbk5HX1pFR2MzOG1zNkRUVHNVc1ZveC13ZEg0Qk9kLVFhc3hWV2FwNVR3R0FHNURIRTVwNmZnYm1LZlFtaFFPcmpCdDMtdHF1MWszLW11bkZwWl8?oc=5",
-   "source": "Bloomberg",
-   "feed": "Google News · markets",
-   "published": "2026-11-04T17:19:47+00:00",
-   "category": "geopolítica",
    "score": 3
   },
   {
@@ -975,15 +995,6 @@
    "feed": "Google News · markets",
    "published": "2026-11-04T15:58:28+00:00",
    "category": "geopolítica",
-   "score": 3
-  },
-  {
-   "title": "JUST IN: Bitcoin surges to $81,000 🚀",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczBVdDlTTXZFR1h0ZTU2XzhaZ0lCYzlWVGE4ZmlFczhCaUVhT2J5NjJ2Q2dLSXBkVHhrMEZMeDg0OVI4aXdWS2RPRmZRV2JIbXdMZjBhbXJaVjYxakNsWkxnSklQYmVibzFXc19PaE5MRVdBbjU3dVd0aFhNSXdlaUtZQnRSdVhsbE9YTXMwaw?oc=5",
-   "source": "Moomoo",
-   "feed": "Google News · crypto",
-   "published": "2026-11-04T15:27:41+00:00",
-   "category": "cripto",
    "score": 3
   },
   {
@@ -1104,11 +1115,47 @@
    "score": 3
   },
   {
+   "title": "Stocks surged and oil prices fell as markets responded to the midterm rout",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnRkLUd3SEJnVkQzeHdYM1E1VUVfcGhHblh1bVp1dTIyTEprN3FQMFZ2b0dFUkVGMzliWmMzUU1VZDVISlNIRG9CMmxuNG1xS2ZjdnF6V2FNcUc1V1B6SG1ZU1B5QUFBQThBY0tPbjBKXzRoSHhNX2hDOGJpQlJ4YjZXWW1FSkVYZUxpcm95aklvSFBiLWxYMk1xYW9vM2kybG5FbmFfVjBfNDdLYXF5NW5R?oc=5",
+   "source": "The Washington Post",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T21:45:20+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
+   "title": "Stocks Surge, Oil Plummets on Democrat Victory",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzlGZ3VfRXdMUGZ2dW56c1pRSHB4blhmWVRDaE0xaE9jeVdicW1WNXdQdjQ1MWdyQnZfZjdXS05zbWJhMnFLUjhRbFV0WFhmZTVXdllkaHZmX0VzNHZtZnd1YnIwM0ZmTVhNb1NlX0k3b21EQy1mSExsZGQ3VEZTY096NHdLbzZLVGVITkZTUFJiVWc?oc=5",
+   "source": "WSJ",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T21:32:00+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
+   "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd3o1RXZjMkVERTJHbW04TjF5WE12V2stM0l0bUtUM0ZEc1ZEazV1Y2pRRTFuTVlQRDNpTGE5RDRXT0pCMkliOTYwQk40SldpbFh4Sm5fejcxNWVvVE9uOHlrUXo0azlpc3BoUWl5dDBFSDRONjhYQ3F0a3lrVHV3dEVZSTFnUXdTSWpNQm4wSjA2ZzVUcEhPQWFVNjcyTHJhcVR0OXpfNHBDOWdvUW5lOThHQ0JWT0ZpdUJIZHVEcnRFVGpxNndsWTRRY3hxMGVLYS1uZUswbGZTU3FjR1ZpTjA5anZoR2Vvc282Rm8tYjJvNnJp?oc=5",
+   "source": "KTVN",
+   "feed": "Google News · markets",
+   "published": "2026-11-04T21:23:18+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
    "title": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
    "source": "NBC News",
    "feed": "Google News · markets",
-   "published": "2026-11-04T21:23:28+00:00",
+   "published": "2026-11-04T21:23:00+00:00",
+   "category": "otras",
+   "score": 2
+  },
+  {
+   "title": "Wall Street celebra la victoria demócrata en las midterms: el Dow Jones se dispara un 3%",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3hRM3d5WXg0RHRmNWRrdmdQRFhZVzRzRm8xUHFvcGhROGh4NG1qYm5Pa2kyRVJsUkxNdWh1Z2M1bm1SendPSlB3Z3lNTjRyRFlkV1dETEpKYTFDdUFjMzZzVWxYUVV0b2JFX0JmWkw4M1lEblBxNGo5b2swLWVuaW1tSkl4Smt1RDl3Q3lEVVRlV0cxZnVfd0hKLVNtd0JmQi02S0ttWnBURmlJLVdKckRTVXNyVmZEYm9yRF9ELXpUMUhWamljb011MmNWRWpsTUY1ZWJ6M3NZaWpKWTAyX3Jxei1lN1laM1RtVExRblN6WUl6NHBOMNIB4wFBVV95cUxQNFlpcVhUYVh1TGNBVGQ1MlFZc05tdUFDdnB6bDRaTFpJM0M5Z3dLSEFORFVjTXVCRTF6UDVmM0xOLWVZZnR4bmxUbUh5QnRNUjNnTDhmTkhIYVpmVHhUSkZwamhUZVBiMHh0LUFKZUdaVUhyT2JUeFQ5U250Rnd5aDNpVi1MY05ZYWUteHk4alZaa3otYUtFaDVXNkphR01hTGtoR2VtNjBadHZyMXpsQS1Ta2N0eXdoSUFseXY4WVdwYmtsTTljeVFmLTU5NGhnOGFzTk9Kd2pQM3hUTGh3Q2dKNA?oc=5",
+   "source": "El Economista",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-04T21:20:15+00:00",
    "category": "otras",
    "score": 2
   },
@@ -1127,15 +1174,6 @@
    "source": "La Voz de Galicia",
    "feed": "Google News · mercados ES",
    "published": "2026-11-04T21:08:04+00:00",
-   "category": "otras",
-   "score": 2
-  },
-  {
-   "title": "US stocks surge, and the Dow soars more than 1,500 points as oil prices tumble following US midterms",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDczWFExVWhFWjM3ajJ3VTdURnlWV2QwLVZ4Nzh4b29PMXlMUWVubFZNZzRzVVR4WGU4WmhGTVFEYkNONlhfUFhlbDA2TDkzMExsNDYzeU1OZkxzVEJPSDV3WkRDQ1ZzaXZycW9zY0VuQkFIdTFFbEJzNEE2SVhVMVpOUWtkV0pxMU9pUjVJTE05NWNsaW5ZcEpWZVNpUXlaR015NkIxa1pMNGJ5ZmFHWjNqckw1NDBBMllBOTJVRzdDeVJTSU5naVRDZVdTU2xSZGg2bkVKRDRrTU5Xd3dHYzJFeFVNd1V0VzZvNFlCbWV5akhYaTVWOGJubzBRUE92U1E?oc=5",
-   "source": "News-Press NOW",
-   "feed": "Google News · markets",
-   "published": "2026-11-04T21:03:27+00:00",
    "category": "otras",
    "score": 2
   },
@@ -1309,186 +1347,99 @@
    "published": "2026-11-04T11:20:20+00:00",
    "category": "otras",
    "score": 2
-  },
-  {
-   "title": "Wall Street Futures Plunged After Democrats Swept Congress. Then Investors Started Buying Again.",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUNlU1Q1UWJuaDBkTmppbGd3Umlhb29sRVEyR0swY19TSVVwc2dSRWFib1NkOGZiSHhkNl80M0tXakVSVU8wcEFUbDBKd0FTbkhiaHhXVm94azlmNkxqaVlFdmFmQXRVWkFjUS1raGJNaEFjNlNWX0pYWUtXMVhRNFZjc1ZZNlBJc3Bsd2tRTUVhVUlfYkh5dHNtaUYydk9kdzg0SA?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-04T10:27:07+00:00",
-   "category": "otras",
-   "score": 2
-  },
-  {
-   "title": "El Ibex 35 se dispara con fuerza en la apertura y roza los 19.100 puntos tras la derrota de Trump",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzFSTFY5VXFMdDVrTnFpZVlVOWFDZmdhSmwtZUNwRVlyOHRCeV9uWUtDVFdxX25QV1FzUjgwUkNMQXNyeE04Zmt5bWU0VExMSG5mQjVfSGN3VXdfdzVuN21EMXF1OXFPeDRUdlYwOFRhM2tnTVNpak1iYnk0VTZQdFJGS29ldEd6MUxVMmYzWGFmRFdTWmZtX21UREYyTnpSOFdOaUNjNmZvaHBwSERyQlZtMzN5N3pVUmE2cF9EcWF1b3MtSXJ3ZzU2cDhKQnlSYlRYXzZXWGc2TXc?oc=5",
-   "source": "Valencia Plaza",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-04T08:27:56+00:00",
-   "category": "otras",
-   "score": 2
-  },
-  {
-   "title": "El IBEX 35 se dispara un 2% impulsado por el sector financiero tras las elecciones en EEUU",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FaEt4WlRnMTZUdm82Q0F4cDBuSGFKRk5tc1R3c0tWcXlBQzk4akp1UDhGbi16dF9FUzNvY3B2MmdJNHBsZHp0aU1FMGx5YVlSdDRfS0NabTRCNE9aZXIwVnpadWtwOE9i?oc=5",
-   "source": "TradingView",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-04T08:14:09+00:00",
-   "category": "otras",
-   "score": 2
-  },
-  {
-   "title": "El Ibex 35 lidera las subidas en Europa mientras el DAX se tiñe de rojo, con el desplome de Zalando",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2pnaDBSVWMzMHJCQ3FyR3dOU3k1SWZHejNjZXoyOUg1RlFkc2xxYjhUcEJ1TzY3QXJOYXhVLWlUVEJQOVdhR19OY0U2LTE5c19RV0ZNUGZCMzllcWF0bnR2dHJ6eHZrNTBIdHpLTlJnLTlPbXBkMy1rdDVsTHJnWF92S3NXVnRoUzZIbXZyZEFhZWVmT2JCR1QtS0Fmc3pTRTJ4dVVsYlM0MVhPTFhLc0FYQkZBSjBiV2VXcWJtcGZaVUc0RkhrMNIBnwFBVV95cUxQbEw1MGRDOVBGSlFqM3BobG50cU5pWVJRMkRocWd3S1VfOWRrVGJMaWVxaHU1TnpwbmJMTVJHWE03TWZqeXNwUVNiYmZIVDhIRVFpM1VNcU9lU3VhQVdiSWMtU1BYYjBrMVR2bktCQlNMYUdfeXJleXN6bWtVdWhMbmhtZ1oxQUltc0JzbUpoUHpjRVhsX0x5UHNMdmVFZjQ?oc=5",
-   "source": "Estrategias de Inversión",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-04T08:00:00+00:00",
-   "category": "otras",
-   "score": 2
   }
  ],
  "analisis": {
-  "resumen": "En el cierre de EE. UU. domina el rally postelectoral: S&P +1,6%, con financieras (+3,5%) y MSFT/AAPL muy fuertes, mientras energía (-4,7%) y semiconductores (-2,7%) caen. El titular nuevo más relevante es el ataque de EE. UU. a la isla iraní de Qeshm (id 1), publicado a las 21:25 UTC, fuera de horario. El mercado probablemente no lo ha incorporado, y el Brent cierra en -8,2%.",
-  "resumen_dia": "Asia abrió cautelosa (Nikkei -1,9%, inflación y subidas de la Fed en diciembre) y cerró con rebote tras la victoria demócrata en las midterms (Hang Seng +1,7%, Shanghái +2,2%). Europa cerró con subidas amplias (IBEX +3,0%, DAX +2,2% en máximos de 52 semanas) pese a que la inflación de la eurozona llegó al 4% y casi asegura una subida del BCE. En EE. UU. el S&P cerró +1,6% con el Dow sumando más de 1.500 puntos, liderado por financieras y mega caps (MSFT +6,7%, AAPL +5,3%), mientras los semiconductores y la energía quedaron rezagados. El Brent se desplomó (-8,2%) y oro (+3,4%) y cripto (ETH +6,5%) subieron, una mezcla atípica de risk-on y refugio. La lectura dominante es que se ha despejado la incertidumbre política y la Fed sale reforzada en independencia, aunque persisten inflación elevada y riesgo geopolítico con Irán.",
+  "resumen": "Es una actualización posterior al cierre de EE. UU. con pocos hechos nuevos. Lo más relevante es el titular de Qualcomm (-6% por previsión débil, la memoria frena las ventas de móviles), publicado fuera de horario, y las crónicas de cierre del rally postelectoral. La tabla de precios sigue reflejando el cierre: S&P +1,6%, Brent -8,4%, energía -4,7% y semiconductores -2,7%.",
+  "resumen_dia": "",
   "clima": "risk-on",
   "noticias": [
    {
-    "id": 1,
-    "categoria": "geopolítica",
-    "rumor": false,
-    "novedad": "Sorpresa: ataque de EE. UU. a Qeshm mientras Trump resta importancia al riesgo de guerra, y llega tras el cierre, así que el precio de hoy probablemente no lo refleja.",
-    "impacto": "Brent, XLE y oro: el riesgo de escalada podría frenar la caída del crudo y devolver prima de riesgo, con sesgo al alza en petróleo y energía y a la baja en bolsas cíclicas.",
-    "importancia": 5
-   },
-   {
-    "id": 33,
+    "id": 35,
     "categoria": "política/regulación",
     "rumor": false,
-    "novedad": "Resultado conocido desde la noche anterior, pero la magnitud del 'blue tsunami' y la reacción alcista de hoy sí superan lo previsto por los futuros nocturnos.",
-    "impacto": "Índices amplios, financieras, consumo y media: la menor incertidumbre política impulsa la renta variable; el riesgo recae en tecnología ligada a la construcción de infraestructura de IA.",
+    "novedad": "Confirma lo ya visto en precio durante todo el día: la victoria demócrata se descuenta en el cierre, así que no aporta información nueva.",
+    "impacto": "Renta variable amplia al alza (financieras, MSFT, AAPL, IBEX) y crudo y energía a la baja. El mecanismo es menor incertidumbre política y menor riesgo de escalada con Irán.",
     "importancia": 4
    },
    {
-    "id": 40,
-    "categoria": "sectorial",
+    "id": 1,
+    "categoria": "resultados",
     "rumor": false,
-    "novedad": "Parcialmente descontada: MSFT y AAPL ya marcan movimientos de +4σ a +5σ.",
-    "impacto": "MSFT, AAPL y el Nasdaq se benefician del fin de la incertidumbre; no hay contagio a semiconductores (SMH -2,7%), lo que indica rotación dentro de tecnología.",
+    "novedad": "Sorpresa negativa fuera de horario: la previsión débil llega con SMH ya -11% en 5 días, así que parte de la debilidad del sector podría estar descontada.",
+    "impacto": "Presión adicional sobre SMH, ASML y NVDA al abrir mañana, por el mecanismo de la escasez de memoria sobre la demanda de móviles. Riesgo de gap bajista en el sector, aunque el precio de SMH de la tabla no lo incluye.",
+    "importancia": 4
+   },
+   {
+    "id": 11,
+    "categoria": "geopolítica",
+    "rumor": false,
+    "novedad": "Parcialmente descontada: el Brent ya cayó un 8,4% (-3,2σ) y el titular habla de menos de 90 dólares, mientras la tabla marca 94,86.",
+    "impacto": "Mantiene bajo presión a XLE y al crudo si se consolida la lectura de desescalada con Irán. Un nuevo episodio militar podría revertirlo.",
+    "importancia": 4
+   },
+   {
+    "id": 26,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Esperada en buena parte: la inflación de la eurozona en el 4% ya se conocía por la mañana y los índices europeos la ignoraron.",
+    "impacto": "Una subida del BCE en diciembre casi segura encarece el coste de capital de utilities como IBE.MC y de los activos de duración larga. Afecta al euro si el mercado la valora como más dura que la Fed.",
     "importancia": 3
    },
    {
     "id": 9,
+    "categoria": "política/regulación",
+    "rumor": false,
+    "novedad": "Interpretación de analistas, no un hecho nuevo: la elección limita el margen de Trump para controlar el consejo de la Fed.",
+    "impacto": "Reduce la prima de riesgo institucional sobre la Fed, lo que favorece al dólar y a los bonos a largo. Sin embargo, el índice dólar cae un 0,3% y el 10 años cede, lo que no confirma claramente esa lectura.",
+    "importancia": 3
+   },
+   {
+    "id": 44,
     "categoria": "sectorial",
     "rumor": false,
-    "novedad": "Reacción a la caída del crudo y al giro político; analistas hablan de exceso, pero es opinión, no dato.",
-    "impacto": "XLE y generadoras como Vistra: el mecanismo es un petróleo más bajo y menos apoyo político; hay posible rebote técnico si el crudo se estabiliza.",
-    "importancia": 3
-   },
-   {
-    "id": 3,
-    "categoria": "resultados",
-    "rumor": false,
-    "novedad": "Sorpresa negativa: previsión débil de Qualcomm por la escasez de memoria.",
-    "impacto": "SMH, ASML y NVDA: señal de demanda de smartphones débil y cuellos de botella en memoria, con presión bajista en semiconductores.",
-    "importancia": 3
-   },
-   {
-    "id": 24,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Inflación del 4% en la eurozona, ya asimilada por el mercado: casi se da por hecha una subida del BCE.",
-    "impacto": "Bancos europeos, bonos y utilities: tipos más altos favorecen a la banca y penalizan a las utilities con sobrecompra, como Iberdrola.",
+    "novedad": "Contradictoria con otros titulares: este habla de que se despeja la incertidumbre para hyperscalers, mientras otros (20, 52) advierten de obstáculos para la infraestructura de IA.",
+    "impacto": "MSFT y AAPL suben con fuerza (+6,7% y +5,3%) mientras SMH, NVDA y ASML caen. El mercado separa a los consumidores de IA de la cadena de suministro de chips.",
     "importancia": 3
    }
   ],
   "divergencias": [
-   "El oro sube un 3,4% en una jornada risk-on con dólar más débil y rendimiento del bono a la baja: mezcla de refugio por Irán y debilidad del dólar, atípica frente al rally de renta variable.",
-   "El Brent cae un 8,2% pese a que EE. UU. ataca Qeshm. El titular salió a las 21:25 UTC, tras el cierre, y puede no estar descontado.",
-   "SMH (-2,7%) y NVDA (-3,2%) caen con el S&P a +1,6%: la reacción a la política de IA y a la débil previsión de Qualcomm contrasta con la fortaleza de MSFT/AAPL.",
-   "Las bolsas europeas suben con inflación del 4% y subida del BCE casi segura, y el 10 años de EE. UU. cae 6 pb, lo que no cuadra con un mensaje agresivo sobre tipos."
+   "Oro +3,3% y bitcoin +3,7% suben junto con las bolsas, una combinación poco habitual de risk-on y refugio, mientras el 10 años cae solo 6 pb.",
+   "Semiconductores (SMH -2,7%, NVDA -3,2%, ASML -3,6%) caen en un día de S&P +1,6%, con MSFT y AAPL en máximos. El mercado diferencia entre usuarios de IA y proveedores de hardware.",
+   "La inflación de la eurozona sube al 4% y un BCE más duro es casi seguro, pero IBEX (+3,0%) y Euro Stoxx (+2,0%) suben con fuerza y el EUR/USD sube solo un 0,4%.",
+   "El Brent de la tabla (94,86; -8,4%) no coincide con los titulares que hablan de menos de 90 dólares (id 11). Probablemente sea un desfase horario entre fuentes.",
+   "La revisión anterior citaba un ataque de EE. UU. a Qeshm como id 1, pero en la lista actual el id 1 es Qualcomm y no aparece ningún titular sobre Qeshm. No puedo confirmarlo con la información de este mensaje."
   ],
-  "hipotesis": [
-   {
-    "ticker": "XLE",
-    "direccion": "alcista",
-    "horizonte_dias": 5,
-    "tesis": "La caída del 4,7% (-3,5σ) en un día incorpora un petróleo -8% y el ataque a Qeshm aún no está en precio, por lo que un rebote del crudo o de la energía es plausible.",
-    "objetivo_pct": 4.0,
-    "invalidacion_pct": 2.5,
-    "confianza": 44,
-    "confluencia": [
-     "Titular geopolítico nuevo posterior al cierre (Qeshm) con sesgo alcista en energía",
-     "Caída extrema con reversión plausible y analistas que citan 'excessive knee-jerk'"
-    ],
-    "contra": "Si la tregua y el discurso de Trump sobre el riesgo de guerra se imponen, el crudo puede seguir bajando y la energía perder más tras cruzar a la baja la media de 50 sesiones.",
-    "sesgos": "Sesgo de reversión a la media y ancla en el nivel previo; el mecanismo de reversión es débil si el cambio político es persistente.",
-    "ev_pct": 0.26,
-    "operable": false
-   },
-   {
-    "ticker": "SMH",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "Los semiconductores siguen cayendo mientras el resto del mercado sube, con previsión débil de Qualcomm por memoria y el riesgo de 'obstáculos' para la construcción de IA con el Congreso demócrata.",
-    "objetivo_pct": 5.0,
-    "invalidacion_pct": 3.0,
-    "confianza": 42,
-    "confluencia": [
-     "Tendencia bajista (-20% en 1m) con debilidad relativa en una jornada risk-on",
-     "Noticias nuevas negativas: Qualcomm y obstáculos regulatorios para IA"
-    ],
-    "contra": "Tras -11% en cinco sesiones, la sobreventa y un rebote de sector con el S&P al alza pueden activar el stop antes que el objetivo.",
-    "sesgos": "Sesgo de momentum y de narrativa política; probable exceso de peso a la tendencia ya vista.",
-    "ev_pct": 0.26,
-    "operable": false
-   },
-   {
-    "ticker": "IBE.MC",
-    "direccion": "bajista",
-    "horizonte_dias": 4,
-    "tesis": "Tras máximos históricos con RSI 74, una subida del BCE casi segura por inflación del 4% encarece el coste de capital de las utilities y favorece una toma de beneficios.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 38,
-    "confluencia": [
-     "Sobrecompra (RSI 74) en máximos de 52 semanas tras +2,8σ",
-     "Inflación de la eurozona 4% y subida del BCE esperada"
-    ],
-    "contra": "El BCE ya está descontado, la tendencia es alcista y la rotación defensiva puede mantener la fortaleza; la vol de 1%/día hace complicado un objetivo del 3%.",
-    "sesgos": "Sesgo de reversión tras ver récords; la subida del BCE ya está en precio y no es información nueva.",
-    "ev_pct": -0.2,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
-    "ticker": "BZ=F",
-    "motivo": "Reacción de apertura al ataque a Qeshm; define si la caída del 8,2% fue exceso o cambio de régimen."
+    "ticker": "SMH",
+    "motivo": "Puede abrir con gap bajista por Qualcomm tras haber caído ya un 11% en 5 días."
    },
    {
-    "ticker": "GC=F",
-    "motivo": "Subida anómala del 3,4% con dólar débil y rendimientos a la baja; puede revertir si baja la tensión geopolítica."
+    "ticker": "BZ=F",
+    "motivo": "Tras -8,4% con titulares discrepantes sobre el nivel, vigilar si se consolida por debajo de 90 o rebota."
+   },
+   {
+    "ticker": "XLE",
+    "motivo": "Cayó un 4,7% (-3,5σ) y cruzó a la baja su media de 50 sesiones; depende del crudo."
    },
    {
     "ticker": "XLF",
-    "motivo": "Sobrecompra (RSI 71) tras +4,2σ en máximos de 52 semanas; riesgo de toma de beneficios o continuación."
+    "motivo": "Sube un 3,5% (+4,2σ) en máximos de 52 semanas con RSI 71; riesgo de toma de beneficios."
    },
    {
-    "ticker": "^RUT",
-    "motivo": "Hipótesis abierta sobre sensibilidad a tipos y a la Fed; los datos de empleo del viernes son el siguiente catalizador."
-   },
-   {
-    "ticker": "^GDAXI",
-    "motivo": "Hipótesis abierta; ver si el crudo bajo se mantiene y si la subida del BCE afecta al máximo de 52 semanas."
+    "ticker": "IBE.MC",
+    "motivo": "Máximos históricos con RSI 74 frente a un BCE más duro; vigilar si se agota la subida."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Ninguna hipótesis combina p>=55 con EV>=1%: las ideas dependen de reversiones tras movimientos extremos y la confluencia es modesta.",
+  "decision_motivo": "Revisión de actualización solo de observación: las decisiones se toman con los precios de cierre de EE. UU.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 10193,
-   "tokens_salida": 5146,
-   "coste_usd": 0.0718
+   "tokens_entrada": 10449,
+   "tokens_salida": 2772,
+   "coste_usd": 0.0486
   }
  },
  "calidad": {
