@@ -1,156 +1,185 @@
 {
- "generado": "2026-11-04T01:23:51.233516+00:00",
- "sesion": "2026-11-03",
+ "generado": "2026-11-04T21:56:09.759554+00:00",
+ "sesion": "2026-11-04",
  "inicio": "2026-10-15",
  "resumen": {
-  "abiertas": 18,
+  "abiertas": 19,
   "cerradas": 0
  },
- "pendientes": [],
+ "pendientes": [
+  {
+   "ticker": "SWK",
+   "anuncio": "2026-11-04",
+   "ra": 0.11452811565718246
+  },
+  {
+   "ticker": "JKHY",
+   "anuncio": "2026-11-03",
+   "ra": 0.0917343229112142
+  },
+  {
+   "ticker": "CDW",
+   "anuncio": "2026-11-04",
+   "ra": 0.1102100556076675
+  },
+  {
+   "ticker": "ZBH",
+   "anuncio": "2026-11-04",
+   "ra": 0.11834751489363171
+  }
+ ],
  "abiertas": [
   {
    "ticker": "EFX",
    "entrada": "2026-10-21",
-   "sesiones": 9,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 10,
+   "ret": 0.09477700458780491,
+   "spy": -0.008123283290070282,
    "ra": 0.1099722515753283
   },
   {
    "ticker": "HAS",
    "entrada": "2026-10-21",
-   "sesiones": 9,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 10,
+   "ret": 0.06649124413205865,
+   "spy": -0.008123283290070282,
    "ra": 0.1086380551832475
   },
   {
    "ticker": "ALLE",
    "entrada": "2026-10-23",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.07660077685295019,
+   "spy": 0.009000390961685367,
    "ra": 0.12199846250366275
   },
   {
    "ticker": "BX",
    "entrada": "2026-10-23",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.06442314482902067,
+   "spy": 0.009000390961685367,
    "ra": 0.09559181653854698
   },
   {
    "ticker": "NDAQ",
    "entrada": "2026-10-23",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.06961778041745048,
+   "spy": 0.009000390961685367,
    "ra": 0.08650805122745209
   },
   {
    "ticker": "ROP",
    "entrada": "2026-10-23",
-   "sesiones": 7,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 8,
+   "ret": 0.12343083207238958,
+   "spy": 0.009000390961685367,
    "ra": 0.10907812761505897
   },
   {
    "ticker": "PNR",
    "entrada": "2026-10-28",
-   "sesiones": 4,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 5,
+   "ret": 0.11899946723431798,
+   "spy": -0.007121492687374831,
    "ra": 0.12242820941802135
   },
   {
    "ticker": "FLEX",
    "entrada": "2026-10-29",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": -0.17008705149845427,
+   "spy": -0.0033144273701777305,
    "ra": 0.11269366783017953
   },
   {
    "ticker": "VRT",
    "entrada": "2026-10-29",
-   "sesiones": 3,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 4,
+   "ret": -0.16415905748931248,
+   "spy": -0.0033144273701777305,
    "ra": 0.16140156376079462
   },
   {
    "ticker": "CVNA",
    "entrada": "2026-10-30",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": 0.13574456756170084,
+   "spy": 0.014674783366053656,
    "ra": 0.16063595653058282
   },
   {
    "ticker": "GEN",
    "entrada": "2026-10-30",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": 0.06041882181899516,
+   "spy": 0.014674783366053656,
    "ra": 0.16193062166601147
   },
   {
    "ticker": "HII",
    "entrada": "2026-10-30",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": -0.040677904726757474,
+   "spy": 0.014674783366053656,
    "ra": 0.1361336279669212
   },
   {
    "ticker": "NCLH",
    "entrada": "2026-10-30",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": 0.05862269234693995,
+   "spy": 0.014674783366053656,
    "ra": 0.13831536183635396
   },
   {
    "ticker": "TXT",
    "entrada": "2026-10-30",
-   "sesiones": 2,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 3,
+   "ret": 0.011085234672884026,
+   "spy": 0.014674783366053656,
    "ra": 0.12052043319700756
   },
   {
    "ticker": "CBOE",
    "entrada": "2026-11-02",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": -0.011482760871679654,
+   "spy": 0.019558599189151815,
    "ra": 0.08544582301562298
   },
   {
    "ticker": "REGN",
    "entrada": "2026-11-02",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": -0.03182284350196496,
+   "spy": 0.019558599189151815,
    "ra": 0.1510021121112053
   },
   {
    "ticker": "VLTO",
    "entrada": "2026-11-02",
-   "sesiones": 1,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 2,
+   "ret": 0.01140881356647494,
+   "spy": 0.019558599189151815,
    "ra": 0.08538232824263425
   },
   {
    "ticker": "IDXX",
    "entrada": "2026-11-03",
-   "sesiones": 0,
-   "ret": NaN,
-   "spy": NaN,
+   "sesiones": 1,
+   "ret": 0.039447072543869366,
+   "spy": 0.016517561312278106,
    "ra": 0.22327307946099462
+  },
+  {
+   "ticker": "FISV",
+   "entrada": "2026-11-04",
+   "sesiones": 0,
+   "ret": 0.0,
+   "spy": 0.0,
+   "ra": 0.12159919452445145
   }
  ],
  "cerradas_recientes": []
