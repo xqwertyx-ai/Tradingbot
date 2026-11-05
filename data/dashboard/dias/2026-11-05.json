@@ -68,5 +68,20 @@
    "Bank of England Unanimously Hikes Rates, Sees 4.9% Inflation"
   ],
   "coste_usd": 0.0385
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-05T21:56:08+00:00",
+  "hora_madrid": "22:56",
+  "clima": "risk-off",
+  "resumen": "En el cierre de EE. UU. el desplome se ha ampliado respecto al de Europa: S&P -4,4%, NDX -6,4%, SMH -11,2% y NVDA -9,3%. El Nasdaq entra en corrección. El motivo es el miedo a la regulación de la IA tras el barrido demócrata, sumado al sesgo de tipos altos (BoE, Hammack, Barkin). Europa cerró antes de lo peor y está desacoplada, con el IBEX +0,6% y el DAX -0,4%. En cripto continúan las liquidaciones: BTC -5,8% y ETH -8,2%.",
+  "titulares": [
+   "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
+   "Bay Area AI stocks plunge after data center voter backlash in worst trading day since April 2025",
+   "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation"
+  ],
+  "coste_usd": 0.0624,
+  "resumen_dia": "Asia abrió mixta: el Hang Seng subió y el Nikkei y el Kospi cayeron por chips e IA, tras un rally post-electoral en EE. UU. y un desplome del Brent. Europa abrió con rotación fuera de la IA, con DAX e IBEX en máximos y la inflación de la eurozona en el 4%, que refuerza la subida del BCE. El Banco de Inglaterra subió tipos por unanimidad y prevé una inflación cercana al 5%, y Hammack pidió tipos restrictivos. En EE. UU. el rally se invirtió en un desplome de la tecnología (SMH -11%, NDX -6,4%, S&P -4,4%, -6,5σ) por el temor a la regulación de la IA, la caída de Qualcomm y la liquidación de apalancados. El contagio llegó a cripto (BTC -5,8%, ETH -8,2%), al Russell (-4,4%) y a las financieras (-2,9%), mientras Europa resistió y el Brent rebotó un 4,5%. Se acaba la jornada con sobreventa extrema pero sin ventaja estadística clara."
  }
 ]
