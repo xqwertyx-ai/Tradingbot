@@ -26,5 +26,19 @@
    "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts"
   ],
   "coste_usd": 0.0382
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-05T09:21:43+00:00",
+  "hora_madrid": "10:21",
+  "clima": "mixto",
+  "resumen": "En el cierre de Asia el Hang Seng sube un 3,7% (+3,7σ) por la rotación hacia China tras el barrido demócrata, mientras el Nikkei cae un 1,8% y el Kospi un 3,35% arrastrados por chips e IA. Entre los titulares nuevos están los resultados de Rovi y ArcelorMittal, el hundimiento de Rheinmetall (-17%) y el repunte de las constructoras. Revisión solo de observación, sin hipótesis.",
+  "titulares": [
+   "Las bolsas asiáticas se sacuden: el Kospi pierde un 3,35% mientras Hong Kong se dispara",
+   "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
+   "Japan exporter stocks rally as Democrats’ sweep fuels hopes of U.S. tariff relief"
+  ],
+  "coste_usd": 0.0371
  }
 ]
