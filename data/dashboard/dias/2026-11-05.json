@@ -54,5 +54,19 @@
    "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation"
   ],
   "coste_usd": 0.0368
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-05T16:51:55+00:00",
+  "hora_madrid": "17:51",
+  "clima": "risk-off",
+  "resumen": "En el cierre de Europa, el IBEX (+0,4%) y el DAX (-0,4%, en máximos de 52 semanas) resisten mientras Wall Street se desploma durante la sesión (NDX -4,9%, SMH -8,3%, S&P -3,2%) por la venta de chips e IA tras el barrido demócrata y los malos resultados de Qualcomm. Los titulares nuevos refuerzan el sesgo de tipos altos (subida del BoE por unanimidad con inflación prevista cerca del 5%, Hammack a favor de subidas graduales) y las liquidaciones de largos en cripto (BTC -4,9%, ETH -6,4%).",
+  "titulares": [
+   "Nasdaq plunges into correction territory as midterm results raise fresh questions about AI boom",
+   "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+   "Bank of England Unanimously Hikes Rates, Sees 4.9% Inflation"
+  ],
+  "coste_usd": 0.0385
  }
 ]
