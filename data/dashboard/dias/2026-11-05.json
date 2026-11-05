@@ -40,5 +40,19 @@
    "Japan exporter stocks rally as Democrats’ sweep fuels hopes of U.S. tariff relief"
   ],
   "coste_usd": 0.0371
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-05T14:51:33+00:00",
+  "hora_madrid": "15:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. el Nasdaq cae con fuerza (NDX -3,3%, SMH -6,4%, XLK -4,3%) por el desplome de chips y centros de datos, mientras Europa marca récords por la rotación fuera de la IA. El Banco de Inglaterra sube tipos por unanimidad y prevé inflación cerca del 5%, y Hammack insiste en tipos restrictivos, lo que refuerza el sesgo de tipos altos más tiempo.",
+  "titulares": [
+   "Nasdaq falls at open after midterms-fueled surge as chip, data center stocks fall",
+   "Bank of England Unanimously Hikes Rates, Sees 4.9% Inflation",
+   "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation"
+  ],
+  "coste_usd": 0.0368
  }
 ]
