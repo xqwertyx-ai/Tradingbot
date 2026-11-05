@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-05T01:31:58+00:00",
+  "hora_madrid": "02:31",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia el Nikkei cae un 2,1% (bajista, -9,6% en 1 mes) mientras Wall Street cerró con un rally post-electoral (S&P +1,6%, +2,5σ) y el Brent se desplomó un 9,3%. Los titulares nuevos son sobre todo el aplazamiento de la audiencia de Lisa Cook al 14-dic, el ataque a la isla iraní de Qeshm y la debilidad de Qualcomm por la memoria. Es una revisión solo de observación, sin hipótesis.",
+  "titulares": [
+   "Stocks Surge, Oil Plummets on Democrat Victory",
+   "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "Euro zone inflation hits 4% for first time in three years as interest rate hike looms"
+  ],
+  "coste_usd": 0.035
+ }
+]
