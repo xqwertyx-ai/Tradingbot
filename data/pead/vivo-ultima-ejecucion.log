@@ -1,4 +1,4 @@
-Resultados: refrescando 191 empresas
+Resultados: refrescando 188 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -17,24 +17,24 @@ Precios...
   precios: 400/504
   precios: 500/504
   precios: 504/504
-  última sesión: 2026-11-04
-Anuncios desde 2026-10-12 en los datos: 694 (con fecha pasada: 306)
-Eventos con reacción reciente: 225; señales de compra: 18
+  última sesión: 2026-11-05
+Anuncios desde 2026-10-12 en los datos: 732 (con fecha pasada: 343)
+Eventos con reacción reciente: 325; señales de compra: 27
 ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
-  IDXX 2026-11-02 antes_apertura 2026-11-02 2026-11-03 0.223273 0.085248       1
-   GEN 2026-10-28    tras_cierre 2026-10-29 2026-10-30 0.161931 0.085223       1
-   VRT 2026-10-28 antes_apertura 2026-10-28 2026-10-29 0.161402 0.084880       1
-  CVNA 2026-10-28    tras_cierre 2026-10-29 2026-10-30 0.160636 0.085223       1
-  REGN 2026-10-30 antes_apertura 2026-10-30 2026-11-02 0.151002 0.084895       1
-  NCLH 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.138315 0.085223       1
-   HII 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.136134 0.085223       1
-   PNR 2026-10-27 antes_apertura 2026-10-27 2026-10-28 0.122428 0.085168       1
-  ALLE 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.121998 0.085103       1
-   TXT 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.120520 0.085223       1
-  FLEX 2026-10-28 antes_apertura 2026-10-28 2026-10-29 0.112694 0.084880       1
-   EFX 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.109972 0.085322       1
-   ROP 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.109078 0.085103       1
-   HAS 2026-10-20 antes_apertura 2026-10-20 2026-10-21 0.108638 0.085322       1
-    BX 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.095592 0.085103       1
-Precios: 500 de 500 sin dato en la última sesión
-{"abiertas": 19, "cerradas": 0} pendientes: 0, abiertas: 19
+  IDXX 2026-11-02 antes_apertura 2026-11-02 2026-11-03 0.223273 0.085267       1
+   GEN 2026-10-28    tras_cierre 2026-10-29 2026-10-30 0.161931 0.085256       1
+   VRT 2026-10-28 antes_apertura 2026-10-28 2026-10-29 0.161402 0.084895       1
+  CVNA 2026-10-28    tras_cierre 2026-10-29 2026-10-30 0.160636 0.085256       1
+  REGN 2026-10-30 antes_apertura 2026-10-30 2026-11-02 0.151002 0.084910       1
+  NCLH 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.138315 0.085256       1
+   HII 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.136134 0.085256       1
+   PNR 2026-10-27 antes_apertura 2026-10-27 2026-10-28 0.122428 0.085190       1
+  ALLE 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.121998 0.085124       1
+  FISV 2026-11-03 antes_apertura 2026-11-03 2026-11-04 0.121599 0.085305       1
+   TXT 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.120520 0.085256       1
+   ZBH 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.118348 0.084803       1
+   TPR 2026-11-05 antes_apertura 2026-11-05        NaT 0.114796 0.085267       1
+   SWK 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.114528 0.084803       1
+  VRSK 2026-11-05 antes_apertura 2026-11-05        NaT 0.112932 0.085267       1
+Precios: 0 de 500 sin dato en la última sesión
+{"abiertas": 23, "cerradas": 0} pendientes: 4, abiertas: 23
