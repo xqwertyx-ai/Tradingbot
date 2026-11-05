@@ -12,5 +12,19 @@
    "Euro zone inflation hits 4% for first time in three years as interest rate hike looms"
   ],
   "coste_usd": 0.035
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-05T08:51:23+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa las bolsas europeas suben con el Euro Stoxx, el DAX y el IBEX en máximos o cruzando medias, apoyadas por resultados empresariales y por la rotación desde la IA/semiconductores tras el rally post-electoral demócrata. La inflación de la eurozona sube al 4% y refuerza la subida del BCE en diciembre, mientras el Brent se estabiliza tras desplomarse y Asia queda dividida entre Hang Seng +3,7% y Nikkei -1,8%.",
+  "titulares": [
+   "Eurozone Inflation Rises to 4%, Boosting Case for ECB Interest Rate Hike in December",
+   "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
+   "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts"
+  ],
+  "coste_usd": 0.0382
  }
 ]
