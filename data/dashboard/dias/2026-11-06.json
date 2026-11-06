@@ -26,5 +26,19 @@
    "Goldman lowers year-end gold price forecast on hawkish Fed shift"
   ],
   "coste_usd": 0.0358
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-06T09:51:25+00:00",
+  "hora_madrid": "10:51",
+  "clima": "risk-off",
+  "resumen": "Asia cierra con fuertes caídas por el contagio del desplome tecnológico de EE. UU. (Nikkei -6,0% con RSI 26, tras llegar a -8,0% en la apertura; Hang Seng -1,3%). Las cifras de Europa son parciales: caídas del 0,5-1,1% muy por debajo del -6,4% del Nasdaq 100. Los titulares atribuyen la venta al temor a una regulación más dura de la IA tras las elecciones de mitad de mandato y a un giro más duro de la Fed con inflación del 3,7%. Los cripto se estabilizan y el Brent cede.",
+  "titulares": [
+   "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+   "Texas governor-elect vows data-center restrictions as AI stocks plunge",
+   "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation"
+  ],
+  "coste_usd": 0.0459
  }
 ]
