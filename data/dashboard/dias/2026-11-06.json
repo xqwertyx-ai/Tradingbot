@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-06T01:35:15+00:00",
+  "hora_madrid": "02:35",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Asia se materializa el contagio del desplome tecnológico de EE. UU. (Nasdaq 100 -6,4%, S&P -4,4%): el Nikkei cae -8,0% con RSI 26 y Corea del Sur suspende la negociación por circuit breaker tras caer un 8% en chips. Los cripto siguen cayendo (BTC -5,3%, ETH -7,5%) y los futuros del dólar y del bono se mueven poco. Es solo observación, sin hipótesis nuevas.",
+  "titulares": [
+   "South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble",
+   "US tech stocks plunge on fears of tighter AI regulation by Democrats",
+   "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge"
+  ],
+  "coste_usd": 0.0361
+ }
+]
