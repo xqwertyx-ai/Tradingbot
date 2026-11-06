@@ -68,5 +68,20 @@
    "El BCE se plantea hacer una revisión profunda de la inversión de la banca europea en centros de datos"
   ],
   "coste_usd": 0.046
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-06T21:55:43+00:00",
+  "hora_madrid": "22:55",
+  "clima": "mixto",
+  "resumen": "Cierre de EE. UU.: tras el desplome previo, la tecnología rebota (NDX +1,4%, SMH +3,6%, NVDA +2,8%, ASML +5,0%) y el S&P cierra +0,3%. El empleo de octubre, más fuerte de lo esperado, y los comentarios de Daly refuerzan la subida de tipos de la Fed en diciembre: dólar en máximos de 52 semanas, EUR/USD en mínimos y oro a la baja. Europa ya había cerrado con caídas (DAX -1,9%) y no recoge el rebote de EE. UU.",
+  "titulares": [
+   "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+   "Fed’s Daly Says More Rate Increases Likely Needed to Tame Prices",
+   "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'"
+  ],
+  "coste_usd": 0.0691,
+  "resumen_dia": "Asia abrió con un contagio violento del desplome tecnológico de EE. UU. (Nikkei hasta -8% en la apertura, circuit breaker en Corea) atribuido al temor a una regulación más dura de la IA tras las elecciones de mitad de mandato y a la inflación. Europa cayó con menos intensidad que Asia (DAX -1,9%, Euro Stoxx -1,0%, IBEX -0,6%). El empleo de octubre salió más fuerte de lo esperado, con lo que la subida de tipos de la Fed en diciembre se ve casi hecha: el dólar marcó máximos de 52 semanas y el oro y los bonos cedieron. En EE. UU. la tecnología rebotó al cierre (NDX +1,4%, SMH +3,6%) sin recuperar lo perdido. El cripto se mantuvo débil y el clima fue de risk-off cediendo a mixto."
  }
 ]
