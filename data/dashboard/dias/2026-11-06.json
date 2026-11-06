@@ -54,5 +54,19 @@
    "Goldman Sachs lowered its gold price forecast as Fed turns hawkish"
   ],
   "coste_usd": 0.043
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-06T16:51:41+00:00",
+  "hora_madrid": "17:51",
+  "clima": "mixto",
+  "resumen": "Europa cierra a la baja por el contagio del desplome tecnológico de EE. UU. (DAX -1,9%, Euro Stoxx -1,0%, IBEX -0,6%), pero menos que en la sesión anterior. En EE. UU., con la bolsa abierta y precios con retraso, la tecnología rebota (NDX +1,9%, SMH +3,8%, ASML +5,1%) tras un empleo más fuerte de lo esperado que refuerza las apuestas de subida de la Fed en diciembre. El dólar marca máximos de 52 semanas y el EUR/USD mínimos. Es solo observación.",
+  "titulares": [
+   "Fed seen sticking to December rate hike after jobs data",
+   "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+   "El BCE se plantea hacer una revisión profunda de la inversión de la banca europea en centros de datos"
+  ],
+  "coste_usd": 0.046
  }
 ]
