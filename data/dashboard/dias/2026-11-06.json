@@ -12,5 +12,19 @@
    "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge"
   ],
   "coste_usd": 0.0361
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-06T08:52:02+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-off",
+  "resumen": "En la apertura de Europa el contagio del desplome tecnológico de EE. UU. es moderado: DAX -1,5%, Euro Stoxx -1,1% e IBEX -0,7%, muy por debajo del -6,4% del Nasdaq 100. Asia cierra con fuertes caídas (Nikkei -6,0%, Seúl en mínimos de nueve meses) y los titulares atribuyen la venta al temor a una regulación más dura de la IA tras las elecciones de mitad de mandato y a la inflación. Los cripto se estabilizan (BTC -0,5%) y el petróleo cede.",
+  "titulares": [
+   "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+   "Goldman lowers year-end gold price forecast on hawkish Fed shift"
+  ],
+  "coste_usd": 0.0358
  }
 ]
