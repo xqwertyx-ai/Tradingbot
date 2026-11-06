@@ -40,5 +40,19 @@
    "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation"
   ],
   "coste_usd": 0.0459
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-06T14:51:30+00:00",
+  "hora_madrid": "15:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. el dato de empleo de octubre sale más fuerte de lo esperado y eleva las apuestas de subida de tipos de la Fed en diciembre: dólar en máximos de 52 semanas, oro a la baja y bonos con caídas. Tras el desplome previo, la tecnología rebota en el precio del momento (NDX +2,5%, SMH +6,1%, NVDA +7,2%), mientras Europa cierra con fuertes caídas (DAX -2,6%, Euro Stoxx -1,7%, IBEX -1,5%) por el contagio del día anterior. Revisión de solo observación.",
+  "titulares": [
+   "Blockbuster October jobs report keeps Fed rate hike in play for December",
+   "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+   "Goldman Sachs lowered its gold price forecast as Fed turns hawkish"
+  ],
+  "coste_usd": 0.043
  }
 ]
