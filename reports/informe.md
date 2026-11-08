@@ -1,18 +1,18 @@
 # Informe: mercados BTC 5 min de Polymarket
 
-Generado: 2026-10-14 18:31 UTC. Simulación con datos históricos públicos; no es asesoramiento financiero.
+Generado: 2026-11-08 11:58 UTC. Simulación con datos históricos públicos; no es asesoramiento financiero.
 
 ## Datos
-- Mercados resueltos: 4033 (2026-09-30 18:15 → 2026-10-14 18:15 UTC)
-- Con precio de Polymarket y de BTC al inicio: 4027
-- Exploración: 2823 mercados hasta 2026-10-10 13:25; prueba: 1210 mercados posteriores
-- Frecuencia histórica de 'Up': 50.5%
+- Mercados resueltos: 8041 (2026-09-30 18:15 → 2026-11-08 11:45 UTC)
+- Con precio de Polymarket y de BTC al inicio: 7825
+- Exploración: 5629 mercados hasta 2026-10-31 00:40; prueba: 2412 mercados posteriores
+- Frecuencia histórica de 'Up': 49.8%
 
 ## Supuestos de coste
 - Comisión taker: 0.07 × p × (1 − p) por acción (≈ 1.75 céntimos a p = 0,50).
 - Deslizamiento: 1 céntimo por acción sobre el precio de referencia.
 - Cada operación: 1 acción; paga 1 USDC si acierta.
-- Ejecución: primer precio de Polymarket igual o posterior a la señal (retraso medio: 20 s). Nunca se usa un precio anterior a la señal.
+- Ejecución: primer precio de Polymarket igual o posterior a la señal (retraso medio: 21 s). Nunca se usa un precio anterior a la señal.
 
 ## Criterio de aprobado (fijado antes de ver los datos)
 Una estrategia pasa solo si en el periodo de prueba tiene ≥ 200 operaciones y el límite inferior del IC 95% del P&L medio por operación es > 0. Se prueban 8 reglas, así que alguna puede salir bien por azar: un aprobado aislado y por poco no basta.
@@ -23,14 +23,14 @@ Acierto con IC 95%; 'Necesario' = acierto mínimo para cubrir precio, comisión 
 
 | Estrategia | n | Acierto | Necesario | P&L medio (¢) | Total |
 |---|---|---|---|---|---|
-| siempre_up | 1208 | 49.2% (46.4%–52.0%) | 52.5% | -3.30 (-6.02 a -0.57) | -39.8 |
-| momentum_prev5 | 1207 | 51.1% (48.3%–53.9%) | 55.6% | -4.49 (-7.21 a -1.77) | -54.2 |
-| reversion_prev5 | 1207 | 48.9% (46.1%–51.7%) | 49.7% | -0.78 (-3.50 a +1.95) | -9.4 |
-| continuacion_m1 | 1175 | 65.3% (62.5%–67.9%) | 68.3% | -3.03 (-5.56 a -0.51) | -35.6 |
-| continuacion_m2 | 1161 | 70.5% (67.8%–73.0%) | 73.4% | -2.95 (-5.29 a -0.60) | -34.2 |
-| continuacion_m3 | 950 | 74.3% (71.4%–77.0%) | 76.1% | -1.74 (-4.04 a +0.57) | -16.5 |
-| favorito_m2 | 1170 | 75.0% (72.4%–77.4%) | 77.9% | -2.96 (-5.30 a -0.63) | -34.7 |
-| desfavorito_m2 | 1170 | 25.0% (22.6%–27.6%) | 26.4% | -1.34 (-3.67 a +1.00) | -15.6 |
+| siempre_up | 2322 | 49.4% (47.4%–51.5%) | 52.4% | -3.00 (-4.94 a -1.05) | -69.5 |
+| momentum_prev5 | 2319 | 52.7% (50.6%–54.7%) | 55.4% | -2.74 (-4.69 a -0.79) | -63.6 |
+| reversion_prev5 | 2319 | 47.3% (45.3%–49.4%) | 49.9% | -2.53 (-4.48 a -0.59) | -58.8 |
+| continuacion_m1 | 2172 | 66.4% (64.4%–68.3%) | 67.6% | -1.22 (-3.08 a +0.64) | -26.5 |
+| continuacion_m2 | 2169 | 73.0% (71.1%–74.8%) | 73.3% | -0.32 (-1.99 a +1.34) | -7.0 |
+| continuacion_m3 | 1822 | 74.4% (72.4%–76.4%) | 76.4% | -1.98 (-3.63 a -0.33) | -36.1 |
+| favorito_m2 | 2202 | 77.2% (75.4%–78.9%) | 77.6% | -0.42 (-2.07 a +1.24) | -9.2 |
+| desfavorito_m2 | 2203 | 22.8% (21.1%–24.6%) | 26.8% | -3.92 (-5.57 a -2.27) | -86.3 |
 
 ## Resultados — Exploración
 
@@ -38,14 +38,14 @@ Acierto con IC 95%; 'Necesario' = acierto mínimo para cubrir precio, comisión 
 
 | Estrategia | n | Acierto | Necesario | P&L medio (¢) | Total |
 |---|---|---|---|---|---|
-| siempre_up | 2819 | 50.9% (49.1%–52.7%) | 52.7% | -1.80 (-3.58 a -0.01) | -50.7 |
-| momentum_prev5 | 2809 | 50.3% (48.5%–52.2%) | 55.1% | -4.79 (-6.58 a -3.01) | -134.7 |
-| reversion_prev5 | 2809 | 49.7% (47.8%–51.5%) | 50.2% | -0.49 (-2.28 a +1.29) | -13.9 |
-| continuacion_m1 | 2738 | 67.6% (65.8%–69.3%) | 67.7% | -0.09 (-1.72 a +1.55) | -2.3 |
-| continuacion_m2 | 2713 | 73.2% (71.5%–74.8%) | 74.7% | -1.52 (-3.03 a -0.02) | -41.4 |
-| continuacion_m3 | 2318 | 76.8% (75.1%–78.5%) | 77.6% | -0.75 (-2.23 a +0.73) | -17.4 |
-| favorito_m2 | 2749 | 76.0% (74.4%–77.6%) | 78.6% | -2.64 (-4.15 a -1.14) | -72.7 |
-| desfavorito_m2 | 2749 | 24.0% (22.4%–25.6%) | 25.6% | -1.60 (-3.10 a -0.10) | -44.0 |
+| siempre_up | 5503 | 49.8% (48.5%–51.1%) | 52.5% | -2.67 (-3.95 a -1.40) | -147.1 |
+| momentum_prev5 | 5490 | 51.0% (49.6%–52.3%) | 55.2% | -4.21 (-5.49 a -2.93) | -231.0 |
+| reversion_prev5 | 5490 | 49.0% (47.7%–50.4%) | 50.1% | -1.07 (-2.35 a +0.21) | -58.9 |
+| continuacion_m1 | 5295 | 66.9% (65.7%–68.2%) | 68.0% | -1.07 (-2.26 a +0.11) | -56.8 |
+| continuacion_m2 | 5263 | 72.2% (71.0%–73.4%) | 74.4% | -2.15 (-3.23 a -1.06) | -112.9 |
+| continuacion_m3 | 4427 | 75.7% (74.4%–77.0%) | 77.1% | -1.34 (-2.42 a -0.27) | -59.4 |
+| favorito_m2 | 5305 | 75.6% (74.5%–76.8%) | 78.3% | -2.66 (-3.74 a -1.57) | -140.9 |
+| desfavorito_m2 | 5305 | 24.4% (23.2%–25.5%) | 26.0% | -1.61 (-2.70 a -0.53) | -85.6 |
 
 ## Veredicto
 Ninguna regla supera el criterio. Con estos costes, no hay ventaja demostrable.
@@ -55,16 +55,16 @@ Si la frecuencia real de 'Up' coincide con el precio, el mercado está bien cali
 
 | Tramo de precio Up | n | Precio medio | Frecuencia real Up |
 |---|---|---|---|
-| [0.0, 0.1) | 452 | 5.5% | 6.9% |
-| [0.1, 0.2) | 463 | 14.8% | 14.0% |
-| [0.2, 0.3) | 390 | 24.7% | 23.6% |
-| [0.3, 0.4) | 374 | 34.8% | 39.6% |
-| [0.4, 0.5) | 317 | 45.1% | 44.2% |
-| [0.5, 0.6) | 333 | 55.0% | 56.2% |
-| [0.6, 0.7) | 367 | 64.8% | 60.2% |
-| [0.7, 0.8) | 386 | 75.2% | 73.8% |
-| [0.8, 0.9) | 434 | 85.1% | 86.4% |
-| [0.9, 1.0) | 513 | 94.6% | 95.1% |
+| [0.0, 0.1) | 894 | 5.3% | 5.9% |
+| [0.1, 0.2) | 903 | 14.8% | 14.6% |
+| [0.2, 0.3) | 767 | 24.8% | 21.1% |
+| [0.3, 0.4) | 715 | 35.0% | 35.8% |
+| [0.4, 0.5) | 631 | 45.0% | 46.0% |
+| [0.5, 0.6) | 669 | 55.0% | 53.2% |
+| [0.6, 0.7) | 684 | 64.8% | 62.1% |
+| [0.7, 0.8) | 779 | 75.2% | 76.5% |
+| [0.8, 0.9) | 846 | 85.0% | 87.2% |
+| [0.9, 1.0) | 903 | 94.7% | 95.0% |
 
 ## Estrategias
 - `siempre_up` (entrada minuto 0): Control: comprar siempre Up al inicio
