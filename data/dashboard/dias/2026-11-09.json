@@ -54,5 +54,19 @@
    "October CPI Report: What the Inflation Data Is Expected to Show"
   ],
   "coste_usd": 0.036
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-09T16:51:43+00:00",
+  "hora_madrid": "17:51",
+  "clima": "risk-on",
+  "resumen": "Europa cierra con subidas amplias (IBEX +2,0%, Euro Stoxx +1,9%, DAX +1,7%), apoyada por la caída del Brent (-4,7%) y por el rebote de la tecnología en EE. UU. (Nasdaq 100 +3,1% con el último dato disponible). Frente a la apertura de EE. UU. cambia poco: el foco sigue en el IPC de EE. UU., la Fed y la volatilidad de la IA, con Nvidia aislada a la baja (-5,4%) mientras semiconductores y ASML rebotan. Los cripto siguen débiles y casi no participan del rebote.",
+  "titulares": [
+   "Wall Street Futures Rise as Oil Prices Fall Ahead of US Inflation Data: Dow Jones, S&P, Nasdaq",
+   "US CPI Preview: Will Inflation Fall Enough to Put a Fed Hike in Doubt?",
+   "Fed’s Goolsbee Says Officials Must Address Inflation Failure"
+  ],
+  "coste_usd": 0.0477
  }
 ]
