@@ -26,5 +26,19 @@
    "Gold rises over 1% as softer oil prices ease inflation worries"
   ],
   "coste_usd": 0.0381
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-09T09:54:01+00:00",
+  "hora_madrid": "10:54",
+  "clima": "mixto",
+  "resumen": "En el cierre de Asia, el rebote es claro: el Nikkei sube un 2,3% tras una semana muy dura, y el Hang Seng y Shanghái se mantienen casi planos. Lo nuevo desde la apertura es que el PPI chino sube al 5,7%, un máximo posglaciar, mientras el IPC queda por debajo de lo previsto. Además, Nvidia cae por una investigación a su CEO y hay fuertes ventas en cripto, con BTC por debajo de 74k. Revisión solo de observación.",
+  "titulares": [
+   "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates",
+   "Nvidia cae en bolsa tras investigar a su director ejecutivo por una infidelidad con una espía china",
+   "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record"
+  ],
+  "coste_usd": 0.0387
  }
 ]
