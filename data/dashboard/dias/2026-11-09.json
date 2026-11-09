@@ -40,5 +40,19 @@
    "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record"
   ],
   "coste_usd": 0.0387
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-09T14:52:04+00:00",
+  "hora_madrid": "15:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de EE. UU. los futuros suben con fuerza (Dow +500 puntos) por la caída del petróleo (Brent -4,7%) a la espera del IPC de EE. UU. y de los resultados de IA. Lo nuevo desde el cierre de Asia: Nvidia cae un 6,6% por las acusaciones a su CEO, mientras que ASML y los semiconductores rebotan, y los fondos siguen vendiendo tecnología tras las elecciones. Revisión solo de observación.",
+  "titulares": [
+   "Nvidia cae un 6,6% en Bolsa tras la implicación de su CEO con una supuesta espía china",
+   "Dow futures rally 500 points as oil drops and traders await inflation data and AI earnings",
+   "October CPI Report: What the Inflation Data Is Expected to Show"
+  ],
+  "coste_usd": 0.036
  }
 ]
