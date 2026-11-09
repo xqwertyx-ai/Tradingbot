@@ -68,5 +68,20 @@
    "Fed’s Goolsbee Says Officials Must Address Inflation Failure"
   ],
   "coste_usd": 0.0477
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-09T21:54:47+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-on",
+  "resumen": "Cierre de EE. UU. con rally muy amplio (S&P +2,3%, Nasdaq 100 +3,4%, Russell +3,1%), liderado por semiconductores (SMH +5,1%, AMD +13%) y por la caída del Brent (-6%) ante una posible tregua en Irán. Frente al cierre de Europa, el rebote tecnológico se ha ampliado y el Brent ha profundizado la caída (de -4,7% a -6%). El oro sube un 1,7%, el dólar cede un 0,6% y los cripto siguen sin participar. Nvidia cae un 4,3% por la investigación a su CEO. El foco pasa al IPC de EE. UU. del martes con una Fed con sesgo de subida.",
+  "titulares": [
+   "Una posible tregua en Irán hunde el petróleo y dispara a las bolsas",
+   "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "Fed’s Daly signals more rate hikes"
+  ],
+  "coste_usd": 0.0816,
+  "resumen_dia": "Asia abrió con un IPC chino flojo y un PPI en máximos (5,7%). El Nikkei rebotó un 2,3% tras una semana muy dura, aunque el dato de la tabla es del 6-nov (-6,0%). Europa cerró risk-on (IBEX +1,9%, Euro Stoxx +1,9%, DAX +1,7%) con la banca al frente y el Brent a la baja. En EE. UU. el rebote de la IA y los chips se aceleró (Dow +1.100 puntos, Nasdaq 100 +3,4%) mientras el Brent cerraba -6% por la posible tregua en Irán. Los cripto (BTC ~75k, ETH, SOL) siguieron débiles, con ventas de tesorerías y el miedo a una Fed más restrictiva. Nvidia fue la nota discordante (-4,3%) y todos los mercados miran ya el IPC de EE. UU. del martes."
  }
 ]
