@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-09T01:51:45+00:00",
+  "hora_madrid": "02:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Asia, el IPC chino de octubre sale por debajo de lo previsto (consumo en leve descenso) mientras los precios de producción se aceleran. El Nikkei rebota con fuerza (+2,8%) tras una semana muy dura y los futuros de EE. UU. apenas se mueven, con el foco en el IPC estadounidense de esta semana y en la volatilidad del sector IA. Los cripto siguen débiles (BTC en mínimos de tres meses, ETH -4,1%).",
+  "titulares": [
+   "China's October producer inflation quickens further, consumer prices edge down",
+   "BOJ chief Ueda sees ’some upside risks’ to inflation By Reuters",
+   "Week Ahead for FX, Bonds : U.S. Inflation Data Could Give Clues on Rate-Hike Prospects"
+  ],
+  "coste_usd": 0.0355
+ }
+]
