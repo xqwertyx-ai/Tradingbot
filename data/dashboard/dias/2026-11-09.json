@@ -12,5 +12,19 @@
    "Week Ahead for FX, Bonds : U.S. Inflation Data Could Give Clues on Rate-Hike Prospects"
   ],
   "coste_usd": 0.0355
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-09T08:51:51+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa, el IBEX (+0,9%), el DAX (+0,5%) y el Euro Stoxx (+0,6%) acompañan el rebote asiático (Nikkei +2,3%) mientras el Brent cae un 1,9% y el oro sube un 0,8%. Los cripto siguen con ventas forzadas (BTC por debajo de 74k, liquidaciones de ~1.000 M$) y el foco está en el IPC de EE. UU., los resultados de IA y la reunión del Eurogrupo sobre la presidencia del BCE. Revisión solo de observación: sin hipótesis nuevas.",
+  "titulares": [
+   "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates",
+   "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
+   "Gold rises over 1% as softer oil prices ease inflation worries"
+  ],
+  "coste_usd": 0.0381
  }
 ]

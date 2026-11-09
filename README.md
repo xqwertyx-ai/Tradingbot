@@ -2,34 +2,34 @@
 
 # 📊 Radar de mercados
 
-**lunes 9 nov 2026 · revisión de apertura Asia · 02:51 (Madrid)**
+**lunes 9 nov 2026 · revisión de apertura Europa · 09:51 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🟡 mixto  
-> En la apertura de Asia, el IPC chino de octubre sale por debajo de lo previsto (consumo en leve descenso) mientras los precios de producción se aceleran. El Nikkei rebota con fuerza (+2,8%) tras una semana muy dura y los futuros de EE. UU. apenas se mueven, con el foco en el IPC estadounidense de esta semana y en la volatilidad del sector IA. Los cripto siguen débiles (BTC en mínimos de tres meses, ETH -4,1%).  
-> **Decisión:** no operar hoy — Revisión de apertura de Asia: solo observación; las decisiones se toman con los cierres de EE. UU.
+> En la apertura de Europa, el IBEX (+0,9%), el DAX (+0,5%) y el Euro Stoxx (+0,6%) acompañan el rebote asiático (Nikkei +2,3%) mientras el Brent cae un 1,9% y el oro sube un 0,8%. Los cripto siguen con ventas forzadas (BTC por debajo de 74k, liquidaciones de ~1.000 M$) y el foco está en el IPC de EE. UU., los resultados de IA y la reunión del Eurogrupo sobre la presidencia del BCE. Revisión solo de observación: sin hipótesis nuevas.  
+> **Decisión:** no operar hoy — Revisión de apertura de Europa de solo observación; las decisiones se toman con los cierres de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
 | **S&P 500** | 7.377 | 🔵▲ +0.3% | 🔴▼ -5.0% | ➡️ lateral |
 | **Nasdaq 100** | 26.990 | 🔵▲ +1.4% | 🔴▼ -12.2% | ↘️ bajista |
-| **IBEX 35** | 19.370 | 🔴▼ -0.6% | 🔵▲ +2.3% | ➡️ lateral |
-| **Nikkei 225** | 59.050 | 🔵▲ +2.8% | 🔴▼ -15.7% | ↘️ bajista |
+| **IBEX 35** | 19.550 | 🔵▲ +0.9% | 🔵▲ +2.7% | ↗️ alcista |
+| **Nikkei 225** | 58.776 | 🔵▲ +2.3% | 🔴▼ -16.1% | ↘️ bajista |
 | **Bono EE. UU. 10a (%)** | 4.859 | ▲ +2 pb | ▼ -37 pb | ➡️ lateral |
-| **EUR/USD** | 1.116 | 🔴▼ -0.6% | 🔴▼ -0.5% | ↘️ bajista |
-| **Brent** | 97.50 | 🔴▼ -0.8% | 🔴▼ -6.9% | ➡️ lateral |
-| **Oro** | 4.130 | 🔵▲ +1.4% | 🔴▼ -2.0% | ↘️ bajista |
-| **Bitcoin** | 75.225 | 🔴▼ -0.7% | 🔴▼ -8.3% | ➡️ lateral |
+| **EUR/USD** | 1.119 | 🔴▼ -0.4% | 🔴▼ -0.2% | ↘️ bajista |
+| **Brent** | 96.49 | 🔴▼ -1.9% | 🔴▼ -7.9% | ➡️ lateral |
+| **Oro** | 4.106 | 🔵▲ +0.8% | 🔴▼ -2.6% | ↘️ bajista |
+| **Bitcoin** | 74.339 | 🔴▼ -0.3% | 🔴▼ -9.2% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
 ## 🕒 Hoy, sesión a sesión
 
 - **02:51 · apertura Asia** 🟡 En la apertura de Asia, el IPC chino de octubre sale por debajo de lo previsto (consumo en leve descenso) mientras los precios de producción se aceleran. El Nikkei rebota con fuerza (+2,8%) tras una semana muy dura y los futuros de EE. UU. apenas se mueven, con el foco en el IPC estadounidense de esta semana y en la volatilidad del sector IA. Los cripto siguen débiles (BTC en mínimos de tres meses, ETH -4,1%).
-- <sub>apertura Europa · prevista ~09:15</sub>
+- **09:51 · apertura Europa** 🟡 En la apertura de Europa, el IBEX (+0,9%), el DAX (+0,5%) y el Euro Stoxx (+0,6%) acompañan el rebote asiático (Nikkei +2,3%) mientras el Brent cae un 1,9% y el oro sube un 0,8%. Los cripto siguen con ventas forzadas (BTC por debajo de 74k, liquidaciones de ~1.000 M$) y el foco está en el IPC de EE. UU., los resultados de IA y la reunión del Eurogrupo sobre la presidencia del BCE. Revisión solo de observación: sin hipótesis nuevas.
 - <sub>cierre Asia · prevista ~09:25</sub>
 - <sub>apertura EE. UU. · prevista ~15:45</sub>
 - <sub>cierre Europa · prevista ~17:50</sub>
@@ -37,24 +37,24 @@
 
 ## 📰 Noticias clave
 
-- **[macro]** [Week Ahead for FX, Bonds : U.S. Inflation Data Could Give Clues on Rate-Hike Prospects](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVGhJcjRlYkVjelZHUnBKU0h5anFackJmWWFsWEVDUkR1aUpIZTZNUVpvcWpWR3JNOGd0Vm5YSlc1U0M1V0dFcjRtbzhVWkdJSEYzOXFfTEtPTFNsQlIzdmVpckZlMGtCQlFGTmVqUkFxQXZsNXZUMTA2QXAzWUVWY2lISDdaM2hwSzdZRUpNZ3d1Q09vTjFhcHZJMnhaYVZDZFBoWmVnak43U3Mwb2xJcEMwXzFsVnNWUFdJd3lKRG5kNG5EOUh4Vmt3QlMxQ1FQ?oc=5) <sub>marketscreener.com · 09/11 01:15 · ●●●●●</sub>  
-  El IPC de EE. UU. de esta semana es el evento clave; el mercado ya baraja posibles subidas de tipos, así que la reacción dependerá de la sorpresa frente al consenso. **Impacto:** Un dato peor de lo esperado afectaría a tecnología y semiconductores (XLK, SMH, NDX) y al oro por el alza de tipos reales; uno más suave favorecería un rebote de activos de riesgo.
-- **[sectorial]** [Wall St futures mixed amid AI spending concerns; inflation data awaited](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUm1RZWNobzNpNVlVbEw2X210Y29vb3prRHFDQjYwelpJVHA5NXk0cXg0UWxRWEdLbkIyYmJnN2hMVkVDYUpCOUQ0c2lEU1VPeVpLVm9lNU1xYlFWVlNvWnF5ZGNjLTg5X1BuQ1RSSFpEZmRFNHlGazJORnI3RkhOc0JLX3Y3Unk1NjZCLUNjNFhTM04taVd1Y1ZlTWZjaFZ2WDRXSGN0S3AyRFRQdnBEQVBhSjZZQW5KMnRoeGZtTDNQSXVEdmc?oc=5) <sub>Investing.com · 09/11 01:54 · ●●●●</sub>  
-  La preocupación por el gasto en IA ya es el motor de la caída de la tecnología (SMH -23,6% en 1m), por lo que está en buena parte descontada. **Impacto:** Futuros mixtos: sin dirección clara para NDX y semiconductores antes del IPC. El rebote del viernes (SMH +3,6%, ASML +5%) podría no ser sostenible.
-- **[macro]** [China's October producer inflation quickens further, consumer prices edge down](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5) <sub>Reuters · 09/11 02:39 · ●●●</sub>  
-  Sorpresa a la baja en IPC al consumo y alza de precios de producción: presión sobre márgenes con demanda débil. **Impacto:** Debilidad de demanda interna en China, lo que es negativo para materias primas y exportadores europeos de lujo y bienes de consumo. Efecto limitado en Shanghái (+0,2%) y Hang Seng (+0,6%).
-- **[macro]** [BOJ chief Ueda sees ’some upside risks’ to inflation By Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRG1aSlpiM0UtSTBwUTltOV94eUhGbVpQTkVSM2g0czVYZXMyeW9HczlRdzhCeDhtcDdQWlFHLUlIcWx2R0VfOFpleEJUVHppbmNNNVdxZWJkanVfeGJ4YkwwdG80NEZQekFFbnRuMWQ2ZlpGTngxeFN5TzVDUzFQOWVBdlRNcTN5blF6OWRObjNMRjN2TTBkWEpjWTA3S2tTSGk2eA?oc=5) <sub>Investing.com · 09/11 00:34 · ●●●</sub>  
-  Ueda ve riesgos alcistas para la inflación, lo que refuerza la expectativa de normalización del BOJ; es una señal más que una sorpresa. **Impacto:** Yen al alza y presión sobre el Nikkei, aunque hoy rebota +2,8% (rebote tras sobreventa de IA). Mecanismo plausible pero no confirmado por el precio.
-- **[cripto]** [Bitcoin Hits Three-Month Low Below $75,000, Risks Falling Over 10% Further](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDE3ajJYeVh5VGJtT1FjTUl4Tk45R1psd2dtOFVhR2Iwd19JQUxxTmpTRGNOTlUzaDlDZmtmMnNnRjlEdWJ3NWE0M3lubHZvWUs0RFBFTzBHb0RjZ2Y5cEN5WnctTWM3LUt0aWVSaE9qQTBPeUFzZVc3Yy1HTUR3clhjZk1ZbEJELUJrNEJ1NGh2eGFEN1hvWEpOekU4MlBTaGYzazl4Q2c3X1RwNktYZnZvR3Y?oc=5) <sub>TradingKey · 09/11 02:42 · ●●●</sub>  
-  Bitcoin pierde los 75k y marca mínimos de 3 meses; la caída continúa y no es una sorpresa tras el desplome previo. **Impacto:** BTC, ETH y SOL bajo presión por apetito de riesgo débil y tono restrictivo de la Fed; SOL ya en sobreventa (RSI 29), con riesgo de rebote técnico.
-- **[geopolítica]** [Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike](https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html) <sub>CNBC · 08/11 22:53 · ●●●</sub>  
-  Trump rebaja la probabilidad de nuevos ataques a Irán si hay avances, pero mantiene la amenaza; riesgo condicionado. **Impacto:** Brent (97,5, -6,9% en 5 días) y XLE: una desescalada presiona al petróleo a la baja, aunque la amenaza mantiene una prima de riesgo.
+- **[macro]** [China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5) <sub>Reuters · 09/11 02:39 · ●●●●</sub>  
+  Sorpresa parcial: el IPP chino marca máximos de casi 4,5 años (5,7%) mientras el IPC de consumo se modera y queda por debajo de lo previsto. **Impacto:** Presiona al alza la inflación importada global y complica la senda de la Fed, con posible apoyo al dólar y a los rendimientos. Mixto para materias primas y beneficioso para sectores cíclicos asiáticos con poder de fijación de precios.
+- **[macro]** [Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5) <sub>Reuters · 09/11 02:46 · ●●●</sub>  
+  El rebote asiático tras una semana dura era previsible por sobreventa; el dólar firme por apuestas de subida de la Fed ya se descontaba. **Impacto:** Nikkei y Hang Seng recuperan parte de lo perdido; el dólar sostenido limita al oro y a los cripto.
+- **[sectorial]** [Gold rises over 1% as softer oil prices ease inflation worries](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5) <sub>Reuters · 09/11 04:01 · ●●●</sub>  
+  El oro sube más de un 1% por el petróleo más blando, que reduce los temores de inflación; es una reacción contraria a las apuestas de subida de la Fed. **Impacto:** Brent a la baja alivia las expectativas de inflación y los rendimientos reales, lo que apoya al oro y a activos sensibles a los tipos. Perjudica a la energía (XLE).
+- **[cripto]** [Crypto Liquidations Surge as Bitcoin Falls Below $74K. How Bad Is It?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelFaYzhDcldoNEFwV2Fuc05aMjNKek44dWQxN3ZDS09ja1F1OWFjdDhvcm5DYVI0ZjZaREZEd1lGYTJKLVc0cHlVZklPOUxTWElFUXJDeE1LclI3TlpaMEZSV0NRRkVrSnRvb1NhZ2pjUFNYWlgyOFN6c2ZqdlR1U3Q4Ym9oNFM1?oc=5) <sub>Mitrade · 09/11 09:44 · ●●●</sub>  
+  Continuación de la tendencia bajista: BTC por debajo de 74k con liquidaciones en cascada; no es una sorpresa, aunque agrava la venta. **Impacto:** BTC, ETH y SOL bajo presión por la venta forzada; SOL sobrevendida (RSI 28) podría dar un rebote técnico, pero sin catalizador claro.
+- **[sectorial]** [Nasdaq futures are lower as investors eye AI trade, brace for more data and earnings: Live updates](https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html) <sub>CNBC · 09/11 09:23 · ●●●</sub>  
+  Los futuros del Nasdaq bajan ante la cautela por el comercio de IA y los resultados próximos; la venta en semiconductores sigue sin resolverse. **Impacto:** SMH, NVDA y ASML siguen siendo volátiles; el rebote del viernes (ASML +5%, SMH +3,6%) puede no ser sostenible hasta conocer los resultados.
+- **[política/regulación]** [El Eurogrupo examina este lunes las candidaturas de HernÃ¡ndez de Cos y Knot para presidir el BCE](https://www.expansion.com/mercados/2026/11/08/eurogrupo-examina-lunes-candidaturas-hernandez-cos-knot-presidir-bce.html) <sub>Expansión · 08/11 15:01 · ●●</sub>  
+  El Eurogrupo examina las candidaturas de Hernández de Cos y Knot para presidir el BCE; el resultado es incierto y de efecto lento. **Impacto:** Un perfil más halcón (Knot) sería ligeramente positivo para el euro y negativo para la renta variable europea y los bonos periféricos; Hernández de Cos sería más neutral para la banca española.
 
-**Divergencias precio-noticia:** El Nikkei sube +2,8% pese a las declaraciones de Ueda sobre riesgos alcistas de inflación: parece un rebote técnico tras -15,7% en un mes más que una reacción a la noticia. · El oro sube +1,4% con dólar en máximos de 52 semanas y expectativas de subida de tipos, lo contrario de lo que cabría esperar; apunta a demanda de refugio. · El Hang Seng avanza +0,6% a pesar del IPC chino flojo, probablemente por la rotación hacia la tecnología y el rebote de la IA.
+**Divergencias precio-noticia:** El oro sube (+0,8%) con el dólar firme y las apuestas de subida de la Fed: el apoyo viene del petróleo más débil y no del dólar, lo que contradice parcialmente la tesis bajista abierta sobre el oro. · El IPP chino acelera hasta máximos de 4,5 años, pero los mercados asiáticos y europeos suben: el mercado trata el dato como parcialmente descontado o centra la atención en el IPC de EE. UU. · Los futuros del Nasdaq bajan mientras el Nikkei sube con fuerza (+2,3%): el rebote asiático podría no trasladarse a EE. UU.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de apertura Asia: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-06._
+_Revisión de apertura Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-06._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -66,17 +66,15 @@ _Revisión de apertura Asia: solo observación. Las hipótesis se registran con 
 
 ## 👀 Valores a vigilar
 
-- **Nasdaq 100** — El IPC de EE. UU. y los datos de IA determinarán si el rebote del viernes continúa.
-- **Solana** — Sobreventa (RSI 29) en un entorno cripto débil: posible rebote técnico o nueva capitulación.
-- **Oro** — Divergencia entre la subida del oro y un dólar fuerte con tipos al alza.
-- **Nikkei 225** — Comprobar si el rebote del +2,8% se sostiene o se agota.
-- **Brent** — Reacción a las novedades sobre Irán y a la demanda china débil.
-- **IBEX 35** — cruza a la baja su media de 50 sesiones
-- **DAX** — movimiento anómalo hoy (-2.3σ)
-- **EUR/USD** — movimiento anómalo hoy (-2.3σ), en mínimos de 52 semanas
+- **Oro** — Sube un 0,8% pese a las apuestas de subida de la Fed, lo que cuestiona la hipótesis bajista abierta; el IPC de EE. UU. será decisivo.
+- **Iberdrola** — Máximos de 52 semanas con RSI 75 y hoy +0,9%; la hipótesis bajista abierta depende de la reacción al BCE y a los tipos.
+- **Solana** — Sobreventa (RSI 28) y liquidaciones masivas; posible rebote técnico si se estabiliza el cripto.
+- **Semiconductores (SMH)** — Rebote del 3,6% tras una caída de más del 23% en un mes; los resultados de IA marcarán si continúa.
+- **Brent** — Cae un 1,9% y acumula un -7,9% en 5 días; afecta a la inflación y a la energía, con la incertidumbre de Irán de fondo.
+- **IBEX 35** — cruza al alza su media de 50 sesiones
+- **EUR/USD** — en mínimos de 52 semanas
 - **Índice dólar** — en máximos de 52 semanas
 - **Tecnología (XLK)** — sobreventa (RSI 29)
-- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 72)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
@@ -124,21 +122,21 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 27.
 |---|--:|--:|--:|--:|--:|--:|---|---|
 | S&P 500 | 7.377 | 🔵▲ +0.3% | 🔴▼ -2.7% | 🔴▼ -5.0% | 🔴▼ -4.9% | 35 | ➡️ lateral | — |
 | Nasdaq 100 | 26.990 | 🔵▲ +1.4% | 🔴▼ -4.9% | 🔴▼ -12.2% | 🔴▼ -8.9% | 31 | ↘️ bajista | — |
-| IBEX 35 | 19.370 | 🔴▼ -0.6% | 🔵▲ +3.8% | 🔵▲ +2.3% | 🔴▼ -4.2% | 54 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Euro Stoxx 50 | 6.170 | 🔴▼ -1.0% | 🔵▲ +0.6% | 🔵▲ +0.7% | 🔴▼ -5.8% | 48 | ➡️ lateral | — |
+| IBEX 35 | 19.550 | 🔵▲ +0.9% | 🔵▲ +3.1% | 🔵▲ +2.7% | 🔴▼ -3.2% | 57 | ↗️ alcista | cruza al alza su media de 50 sesiones |
+| Euro Stoxx 50 | 6.208 | 🔵▲ +0.6% | 🔵▲ +0.5% | 🔵▲ +0.6% | 🔴▼ -5.0% | 51 | ➡️ lateral | — |
 | Russell 2000 | 2.754 | 🔵▲ +0.9% | 🔴▼ -2.1% | 🔴▼ -1.4% | 🔴▼ -8.7% | 43 | ↘️ bajista | — |
-| DAX | 25.820 | 🔴▼ -1.9% | 🔵▲ +0.0% | 🔵▲ +4.1% | 🔴▼ -2.2% | 52 | ↗️ alcista | movimiento anómalo hoy (-2.3σ) |
-| Nikkei 225 | 59.050 | 🔵▲ +2.8% | 🔴▼ -6.7% | 🔴▼ -15.7% | 🔴▼ -7.7% | 34 | ↘️ bajista | — |
-| Hang Seng | 24.623 | 🔵▲ +0.6% | 🔵▲ +5.3% | 🔵▲ +3.5% | 🔴▼ -5.1% | 60 | ➡️ lateral | — |
-| Shanghái Compuesto | 3.657 | 🔵▲ +0.2% | 🔵▲ +0.5% | 🔴▼ -4.1% | 🔴▼ -4.3% | 42 | ↘️ bajista | — |
+| DAX | 25.946 | 🔵▲ +0.5% | 🔴▼ -0.1% | 🔵▲ +3.4% | 🔴▼ -1.5% | 54 | ↗️ alcista | — |
+| Nikkei 225 | 58.776 | 🔵▲ +2.3% | 🔴▼ -7.1% | 🔴▼ -16.1% | 🔴▼ -8.1% | 33 | ↘️ bajista | — |
+| Hang Seng | 24.449 | 🔴▼ -0.1% | 🔵▲ +4.5% | 🔵▲ +2.8% | 🔴▼ -5.7% | 57 | ➡️ lateral | — |
+| Shanghái Compuesto | 3.661 | 🔵▲ +0.3% | 🔵▲ +0.6% | 🔴▼ -4.0% | 🔴▼ -4.2% | 42 | ↘️ bajista | — |
 | Bono EE. UU. 10a (%) | 4.859 | ▲ +2 pb | ▼ -7 pb | ▼ -37 pb | ▲ +16 pb | 37 | ➡️ lateral | — |
-| EUR/USD | 1.116 | 🔴▼ -0.6% | 🔵▲ +0.0% | 🔴▼ -0.5% | 🔴▼ -3.4% | 38 | ↘️ bajista | movimiento anómalo hoy (-2.3σ), en mínimos de 52 semanas |
-| Índice dólar | 102.17 | 🔴▼ -0.1% | 🔵▲ +0.4% | 🔴▼ -0.0% | 🔵▲ +2.4% | 57 | ➡️ lateral | en máximos de 52 semanas |
-| Brent | 97.50 | 🔴▼ -0.8% | 🔴▼ -6.9% | 🔴▼ -6.9% | 🔵▲ +9.7% | 38 | ➡️ lateral | — |
-| Oro | 4.130 | 🔵▲ +1.4% | 🔵▲ +4.0% | 🔴▼ -2.0% | 🔴▼ -7.0% | 51 | ↘️ bajista | — |
-| Bitcoin | 75.225 | 🔴▼ -0.7% | 🔴▼ -2.7% | 🔴▼ -8.3% | 🔴▼ -6.4% | 37 | ➡️ lateral | — |
-| Ethereum | 2.145 | 🔴▼ -4.1% | 🔴▼ -5.6% | 🔴▼ -11.0% | 🔴▼ -14.7% | 34 | ↘️ bajista | — |
-| Solana | 88.00 | 🔴▼ -1.9% | 🔴▼ -5.3% | 🔴▼ -15.4% | 🔴▼ -17.3% | 29 | ↘️ bajista | sobreventa (RSI 29) |
+| EUR/USD | 1.119 | 🔴▼ -0.4% | 🔵▲ +0.3% | 🔴▼ -0.2% | 🔴▼ -3.1% | 42 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 101.88 | 🔴▼ -0.4% | 🔵▲ +0.1% | 🔴▼ -0.3% | 🔵▲ +2.1% | 52 | ➡️ lateral | en máximos de 52 semanas |
+| Brent | 96.49 | 🔴▼ -1.9% | 🔴▼ -7.9% | 🔴▼ -7.9% | 🔵▲ +8.5% | 37 | ➡️ lateral | — |
+| Oro | 4.106 | 🔵▲ +0.8% | 🔵▲ +3.4% | 🔴▼ -2.6% | 🔴▼ -7.5% | 50 | ↘️ bajista | — |
+| Bitcoin | 74.339 | 🔴▼ -0.3% | 🔴▼ -7.5% | 🔴▼ -9.2% | 🔴▼ -6.0% | 35 | ➡️ lateral | — |
+| Ethereum | 2.119 | 🔴▼ -0.1% | 🔴▼ -12.5% | 🔴▼ -11.9% | 🔴▼ -14.9% | 33 | ↘️ bajista | — |
+| Solana | 86.70 | 🔵▲ +0.5% | 🔴▼ -9.2% | 🔴▼ -17.4% | 🔴▼ -16.5% | 28 | ↘️ bajista | sobreventa (RSI 28) |
 | Semiconductores (SMH) | 463.96 | 🔵▲ +3.6% | 🔴▼ -11.2% | 🔴▼ -23.6% | 🔴▼ -18.5% | 31 | ↘️ bajista | — |
 | Financieras (XLF) | 57.16 | 🔴▼ -0.6% | 🔵▲ +1.2% | 🔵▲ +5.4% | 🔴▼ -1.1% | 55 | ↗️ alcista | — |
 | Energía (XLE) | 61.62 | 🔴▼ -0.0% | 🔴▼ -12.0% | 🔴▼ -5.5% | 🔵▲ +2.4% | 34 | ➡️ lateral | — |
@@ -147,10 +145,10 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 27.
 | Apple | 342.37 | 🔴▼ -0.5% | 🔴▼ -0.7% | 🔵▲ +0.6% | 🔵▲ +11.1% | 51 | ↗️ alcista | — |
 | Microsoft | 530.61 | 🔴▼ -1.0% | 🔵▲ +1.7% | 🔵▲ +1.5% | 🔵▲ +4.9% | 52 | ↗️ alcista | — |
 | ASML | 1.425 | 🔵▲ +5.0% | 🔴▼ -9.0% | 🔴▼ -19.5% | 🔴▼ -17.8% | 35 | ↘️ bajista | — |
-| Banco Santander | 10.70 | 🔴▼ -1.2% | 🔵▲ +5.7% | 🔴▼ -10.2% | 🔴▼ -16.7% | 39 | ↘️ bajista | — |
-| BBVA | 22.73 | 🔴▼ -0.7% | 🔵▲ +7.9% | 🔴▼ -1.3% | 🔴▼ -8.3% | 49 | ➡️ lateral | — |
-| Inditex | 59.04 | 🔴▼ -1.7% | 🔵▲ +5.2% | 🔵▲ +11.7% | 🔵▲ +0.3% | 63 | ↗️ alcista | — |
-| Iberdrola | 22.65 | 🔴▼ -0.5% | 🔵▲ +2.1% | 🔵▲ +7.3% | 🔵▲ +10.0% | 72 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 72) |
+| Banco Santander | 10.85 | 🔵▲ +1.4% | 🔵▲ +4.4% | 🔴▼ -9.8% | 🔴▼ -16.0% | 42 | ↘️ bajista | — |
+| BBVA | 23.06 | 🔵▲ +1.5% | 🔵▲ +6.9% | 🔴▼ -0.2% | 🔴▼ -7.0% | 52 | ➡️ lateral | — |
+| Inditex | 59.04 | 🔵▲ +0.0% | 🔵▲ +2.7% | 🔵▲ +9.6% | 🔵▲ +2.0% | 63 | ↗️ alcista | — |
+| Iberdrola | 22.85 | 🔵▲ +0.9% | 🔵▲ +2.7% | 🔵▲ +7.5% | 🔵▲ +10.9% | 75 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 75) |
 
 </details>
 
