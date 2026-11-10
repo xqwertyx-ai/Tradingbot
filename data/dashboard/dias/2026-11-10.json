@@ -26,5 +26,19 @@
    "Fed Hike Odds Hit 84% After Bitcoin ETFs Lose $1.28 Billion"
   ],
   "coste_usd": 0.0347
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-10T09:52:39+00:00",
+  "hora_madrid": "10:52",
+  "clima": "risk-on",
+  "resumen": "Cierre de Asia al alza (Nikkei +2,9%, Hang Seng +0,4%, Shanghái +0,1%) siguiendo el rebote tecnológico de Wall Street y la caída del petróleo, con el IPC de octubre de EE. UU. como catalizador pendiente. Lo nuevo frente a la revisión anterior: Waller (Fed) respalda una subida de 25 pb en diciembre y abre la puerta a 50 pb si el IPC sale caliente, y Trump dice que la guerra con Irán terminará 'pronto'. Europa sube con el Brent en 90$ y esperanzas de paz en Ucrania; el cripto sigue rezagado con salidas de ETF.",
+  "titulares": [
+   "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
+   "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes"
+  ],
+  "coste_usd": 0.0375
  }
 ]
