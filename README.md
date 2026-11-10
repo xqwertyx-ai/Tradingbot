@@ -2,15 +2,13 @@
 
 # 📊 Radar de mercados
 
-**martes 10 nov 2026 · revisión de cierre EE. UU. · 22:46 (Madrid)**
+**martes 10 nov 2026 · revisión de actualización · 22:55 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
-> **Clima:** 🔴 risk-off (aversión al riesgo)  
-> Cierre de EE. UU. en risk-off: el IPC de octubre sale más caliente de lo previsto y Waller, Bowman, Logan y Schmid refuerzan el sesgo de subida de tipos, con 50 pb en diciembre sobre la mesa. El 10 años supera el 5% (+2,4σ) y el dólar toca máximos de 52 semanas. El S&P cierra -0,4%, mejor que el -0,8% de la revisión anterior, y el Nasdaq -0,6%. NVDA cae un -5,5% por un escándalo no verificado sobre su CEO, mientras oro, cripto y semiconductores siguen débiles.  
-> **Decisión:** no operar hoy — Ninguna hipótesis nueva alcanza p>=55 ni EV>=1% tras costes; el shock del IPC ya está en buena parte en precio y la señal más clara (oro y cripto bajistas) ya está abierta.
+> ⚙️ La API de Claude respondió 400. Se muestran solo datos y señales por reglas.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
@@ -20,9 +18,9 @@
 | **Nikkei 225** | 58.776 | 🔵▲ +2.3% | 🔴▼ -16.1% | ↘️ bajista |
 | **Bono EE. UU. 10a (%)** | 4.983 | ▲ +12 pb | ▼ -26 pb | ➡️ lateral |
 | **EUR/USD** | 1.117 | 🔵▲ +0.2% | 🔴▼ -0.3% | ↘️ bajista |
-| **Brent** | 91.99 | 🔴▼ -0.6% | 🔴▼ -13.7% | ↘️ bajista |
-| **Oro** | 4.035 | 🔴▼ -1.9% | 🔴▼ -3.7% | ↘️ bajista |
-| **Bitcoin** | 73.795 | 🔴▼ -1.9% | 🔴▼ -11.0% | ➡️ lateral |
+| **Brent** | 92.02 | 🔴▼ -0.6% | 🔴▼ -13.7% | ↘️ bajista |
+| **Oro** | 4.038 | 🔴▼ -1.9% | 🔴▼ -3.6% | ↘️ bajista |
+| **Bitcoin** | 73.762 | 🔴▼ -1.9% | 🔴▼ -11.1% | ➡️ lateral |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -39,22 +37,18 @@
 
 ## 📰 Noticias clave
 
-- **[macro]** [Wall St ends lower as hot inflation data, Fed comments heighten rate worries](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5) <sub>Reuters · 10/11 22:01 · ●●●●●</sub>  
-  Sorpresa: el IPC de octubre baja menos de lo esperado y los comentarios de la Fed elevan los temores de subida de tipos. **Impacto:** Sube el 10 años y el dólar, y caen renta variable de EE. UU. (sobre todo tecnología larga), oro y cripto, por mayor coste de oportunidad y menos liquidez.
-- **[política/regulación]** [Fed’s Waller opens door to half-point rate hike in December](https://news.google.com/rss/articles/CBMib0FVX3lxTE00OGhHMHZ3Ykhhc295bHlRcGxIR3VxNDk4SUVqMGlyRUNMeHFfVVBueS0wbmhuYndTREtibEFaWG5pS081dFpTZG10NkVUbmU4a3JQSzkwZ1BjMF84WXhwMkNLMTQ2ZEFmUnpxT2JoUdIBdEFVX3lxTE0tZFFPSmY3NFNwX0xMV3JRUzFydVNhT3ZXNkFwTko2c3ZmXzZjMzZZZnlRTXh5ci1mRUpQRExHdFVLNEs4NTBleklIZDFWOTlJOEVKOUhSbzVzcXFzMDRTR2NieTVyMVRHbTVLVjdwcE1sSjRG?oc=5) <sub>The Hill · 10/11 21:55 · ●●●●</sub>  
-  Sorpresa parcial: Waller ya respaldaba 25 pb en diciembre por la mañana y ahora abre la puerta a 50 pb tras el IPC. **Impacto:** Eleva la probabilidad de un ciclo de subidas más agresivo; presiona al Nasdaq, small caps y cripto, y favorece al dólar.
-- **[macro]** [U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5) <sub>WSJ · 10/11 19:07 · ●●●●</sub>  
-  El 10 años de EE. UU. supera el 5%, un nivel psicológico y un movimiento anómalo (+2,4σ) respecto a su dispersión habitual. **Impacto:** Endurece las condiciones financieras: presión sobre valoraciones de crecimiento (NDX, SMH) y small caps; apoyo relativo a financieras.
-- **[ruido]** [mercados: Nvidia, hundida en bolsa tras el escándalo de la relación de su CEO con una espía china](https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUxrRHBlMzMzcGpNcEZPZzlPa190RXZqSlNBQ0lvbS1ZODgwSjcxSEpLMTN0d255eFlmMmZ5cG9rNmZueVgwdzNkMld4OGNiVHdadndUMExLQlhIcS1DdVczRXF3b29fWXhOUDNVb0VPOVB4MnpIWXhmdkJnNzJpQmdyQVVYOGlYOGxjQ1c5MFBCcDRuZTltTDdPXzhLUWpqRlE?oc=5) <sub>La Región · 10/11 20:44 · ●●●● · ⚠️ rumor</sub>  
-  Sorpresa idiosincrática reportada por una única fuente regional, sin verificar, sobre la relación del CEO de NVIDIA con una supuesta espía china. **Impacto:** Explica el -5,5% de NVDA (-2,1σ) más allá del macro y arrastra a SMH y ASML por riesgo reputacional y regulatorio; el rebote depende de que no haya confirmación o consecuencias.
-- **[macro]** [Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI?oc=5) <sub>Bloomberg.com · 10/11 21:30 · ●●●</sub>  
-  Bowman (Fed) advierte de una corrección bursátil si las apuestas en IA no cuajan, un tono nuevo que une política monetaria y valoraciones. **Impacto:** Añade presión sobre semiconductores y megacaps tecnológicas (SMH, NVDA, MSFT) en un contexto de tipos al alza.
-- **[política/regulación]** [White House vows to press ahead with tariffs despite midterm backlash over rising prices](https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html) <sub>CNBC · 10/11 22:45 · ●●●</sub>  
-  Esperada en parte: la Casa Blanca mantiene los aranceles pese al rechazo político por los precios. **Impacto:** Sostiene la presión inflacionista y el sesgo restrictivo de la Fed; riesgo para importadoras y cíclicas europeas.
-
-**Divergencias precio-noticia:** Europa cerró al alza (Euro Stoxx +0,6%, DAX en máximos de 52 semanas) pese al IPC caliente y el 10 años en 5%. Aun así, el dato salió a las 13:30 UTC y Europa tuvo unas 3 horas para digerirlo, así que el descuento puede ser mayor de lo que sugería la revisión anterior. · El S&P recuperó desde -0,8% a -0,4% con el 10 años en máximos del día, una resistencia mayor que la que sugiere un shock de tipos; el castigo se concentró en tecnología (NVDA, MSFT, SMH). · Los bancos suben (XLF +0,5%, SAN +1,7%, BBVA +1,5%) en un día de tipos al alza, coherente con mayor margen financiero y no con risk-off general. · El EUR/USD sube +0,2% mientras el índice dólar sube +0,6% y ambos están en extremos de 52 semanas, lo que sugiere desfase horario entre fuentes de datos.
+- **[geopolítica]** [White House vows to press ahead with tariffs despite midterm backlash over rising prices](https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html) <sub>CNBC · 10/11 22:45</sub>
+- **[macro]** [Fed's Bowman says inflation is broadening: 'There's more work to do' on rates](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMDY4QS1wak9TZEl3LTNlWUgyT0V6Um91OXAtc0dDQjN4MmdoNHNRdGxnTFNUTWVFMWlJSjdqVVYtSEFhckV4bTRUWUR4aXNCcFg0UC0zSEpMUkhzMHRaN2FZSENiNGR4OWhhR2J4LU0xVnQ2RmJKV2U4a3hGbXJqbjNSalAzcFFKZzNOZFROUWFrQXdrVVVtVzM4ZnVfSnljcDdQck90R1daQWtMbURlNlN6c090a0RRc2pPX3Y2ZUdJSzFDeWRWMjJxaVRCaFdKWXc?oc=5) <sub>Yahoo Finance · 10/11 22:43</sub>
+- **[macro]** [Inflation rises faster than expected, boosting odds of Fed rate hike](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1hqSFFQSVJiU0tuaF9JLU1rem9pb1hBRE9mekxacjNFWWRHTzlPNG9NdU41NXhuTUtkdEFoUjF4TDd2Z2tzbnFadE52WEpDdGZUTVVNbzE1S0d0Q2NXeDQzcUxTWXZOdFdkcmhUX0ZaS1JOSWtUSDdGaXVseDlPUW11RGZqT1FfbHNUNmtiNDFxajlMejExQTRmZ1VpY3RKMDI1YXNJWXpBc3k0Y2Jyc2xYUTU0OE5rdkdN?oc=5) <sub>CFO Dive · 10/11 22:42</sub>
+- **[macro]** [GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring](https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html) <sub>CNBC · 10/11 22:36</sub>
+- **[macro]** [As CPI Rises, Fed Rate Hike Looms Pushing Up Borrowing Costs](https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTJ3OUVsRlQ2ZXA5QUh2OWJjeWV2NmRIT2NMRlh3by1VcG1iVlRSOVp1Y3BxVEFTVFpNVFdWY0V1U2owQ1pIOE9hU1RyV25kT1RJdFV5eUNhOW5aRTJUZGk5NEJnM1VxeTZvN3V1R0VBcHRsSTB5OVdxb0dnLW1wMmFNdmN1REZxWE9QWDVMY2FJd0lxdXV0ZE4xakJrdXdxOHg1SHlBRVdRaWhwYVFLYS1JUmIweUVkNGFTNDE4cC1oZzRkaVdrell3?oc=5) <sub>Forbes · 10/11 22:32</sub>
+- **[macro]** [Stocks slip following a discouraging update on inflation](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZS1vUVRmVENNLXNXVmVpTC1hcmZRd29HaURRZlBiN2o2bUZzdEJOSnNKVHgtenVtcU1RZHotNTdOcDBreHBoN1BSbGVwNGZ3djk1cFM4dlhYMXJ4cFdfaFNpMlA0YTEyRi1YSEZEZWF2UmhaS3ZNd1VMQU4xeko1eGV6VHJfR1hjVk5ablVhcXQwZTFPWDFURXhZdEZWd2RiaG5zMjg3cw?oc=5) <sub>Los Angeles Times · 10/11 22:25</sub>
+- **[macro]** [U.S. Stocks Slip on Inflation, AI Worries](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXg5OElsSk43aE5LclhWNmdybnZ4TXNaSzdRM2NKUnpGVVh5Y2FpdFlvejhrYklGa3VmM3hFYlFsWnBzSFZtVVBtMjFYeVRFRDFiU1U4dXRIYmF2aTZDWU1vWUlJUDM3Zk9VdEtKWnNsb2lDYzRUaFpLWU03YmN1cGdYMFktcmtCb3cw?oc=5) <sub>WSJ · 10/11 22:22</sub>
+- **[macro]** [Yields Jump as Inflation Comes in Hotter Than Expected](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmZHLWI2UExZVlVtSjJ5aEF0eC0yQkFKSHZFa04yWkxPSE5ieDhodjR6Z0ozQjRObjlIU3Q1alpYZEdxazlHbUg0UWpVV0ZNNnluNFBZbVdkZTY3NGFUdVpuRDJxTFI4STA1WXNmSmt5bEZOSEs5QWhEbWlVcVR5ZE1OcjFvbzFPaWo3VmFSdlZnUDZ6d2xIS3RYTHp4RlU?oc=5) <sub>WSJ · 10/11 22:17</sub>
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-10._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -62,26 +56,16 @@
 | 🔵▲ **NVIDIA** | Caída de -18% en 5 días con RSI 24 combina sobreventa y un titular reputacional no verificado; el rebote técnico es plausible si no hay confirmación. | 5 ses. | +6.0% / −3.5% | 38% | +0.0% 👀 |
 | 🔵▲ **Financieras (XLF)** | Tipos más altos y 10 años en 5% favorecen el margen de intermediación, y el sector ya sube en un día de caída de índices. | 5 ses. | +2.5% / −1.5% | 40% | +0.0% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **Euro Stoxx 50** · Europa tuvo 3 horas para absorber el IPC y aun así subió; la tendencia es alcista y Lane (BCE) no ha sonado más restrictivo de lo esperado. Sesgos: Sesgo de mean reversion y de anclarme en la narrativa de la revisión anterior; objetivo de 2% exigente para 1,0% de volatilidad diaria.
-- **NVIDIA** · Un escándalo puede escalar con revelaciones, investigaciones o presión política, y el macro (tipos al alza, advertencia de Bowman sobre IA) sigue contra la tecnología. Sesgos: Sesgo de rebote tras caídas fuertes (falling knife) y falta de información sobre el escándalo; no persigo un movimiento >2σ salvo por el posible exceso y la sobreventa.
-- **Financieras (XLF)** · Una subida agresiva de tipos eleva morosidad y riesgo de recesión (la morosidad de hogares subió en el informe de la Fed de Nueva York) y un risk-off más duro arrastra a bancos. Sesgos: Sesgo de momentum y de dar demasiado peso a una correlación de un solo día.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **Nikkei 225** — Primera bolsa en reaccionar al IPC y al 10 años en 5%; viene de un rebote de +2,3% y con tendencia bajista.
-- **DAX** — En máximos de 52 semanas; apertura europea de mañana para ver si ajusta al shock de EE. UU.
-- **Índice dólar** — En máximos de 52 semanas; su continuidad confirma o desmiente el sesgo de tipos.
-- **Solana** — Sobreventa (RSI 24) pero con tendencia bajista y liquidez restrictiva.
-- **Semiconductores (SMH)** — -18% en un mes y arrastrado por NVDA; clave para saber si la caída tecnológica se extiende.
 - **Russell 2000** — cruza a la baja su media de 50 sesiones
+- **DAX** — en máximos de 52 semanas
 - **Bono EE. UU. 10a (%)** — movimiento anómalo hoy (+2.4σ)
 - **EUR/USD** — en mínimos de 52 semanas
+- **Índice dólar** — en máximos de 52 semanas
+- **Solana** — sobreventa (RSI 24)
 - **NVIDIA** — movimiento anómalo hoy (-2.1σ), sobreventa (RSI 24)
 - **Apple** — en máximos de 52 semanas
 - **Inditex** — en máximos de 52 semanas
@@ -91,39 +75,40 @@
 
 Regla congelada desde el 2026-10-15: comprar al cierre del día siguiente a una reacción a resultados entre el 10% mejor y vender 40 sesiones después. Objetivo: ≥ 1% neto por operación. [Por qué esta regla](reports/pead.md)
 
-Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 27.
+Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 28.
 
-**Se compran en la próxima sesión:** FERG (reacción +8.9%)
+**Se compran en la próxima sesión:** TTWO (reacción +8.7%)
 
 | Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |
 |---|---|--:|--:|--:|
-| CF | 2026-11-06 | 1/40 | -0.1% | +2.4% |
-| CPAY | 2026-11-06 | 1/40 | +0.6% | +2.4% |
-| TPR | 2026-11-06 | 1/40 | +2.5% | +2.4% |
-| VRSK | 2026-11-06 | 1/40 | -2.0% | +2.4% |
-| CDW | 2026-11-05 | 2/40 | +3.9% | +2.7% |
-| JKHY | 2026-11-05 | 2/40 | -5.0% | +2.7% |
-| SWK | 2026-11-05 | 2/40 | +2.5% | +2.7% |
-| ZBH | 2026-11-05 | 2/40 | +1.4% | +2.7% |
-| FISV | 2026-11-04 | 3/40 | +2.4% | -1.8% |
-| IDXX | 2026-11-03 | 4/40 | +5.1% | -0.2% |
-| CBOE | 2026-11-02 | 5/40 | +1.0% | +0.1% |
-| REGN | 2026-11-02 | 5/40 | -4.3% | +0.1% |
-| VLTO | 2026-11-02 | 5/40 | +2.0% | +0.1% |
-| CVNA | 2026-10-30 | 6/40 | +11.7% | -0.4% |
-| GEN | 2026-10-30 | 6/40 | +2.3% | -0.4% |
-| HII | 2026-10-30 | 6/40 | -4.0% | -0.4% |
-| NCLH | 2026-10-30 | 6/40 | +4.9% | -0.4% |
-| TXT | 2026-10-30 | 6/40 | -0.3% | -0.4% |
-| FLEX | 2026-10-29 | 7/40 | -16.0% | -2.2% |
-| VRT | 2026-10-29 | 7/40 | -18.5% | -2.2% |
-| PNR | 2026-10-28 | 8/40 | +9.1% | -2.5% |
-| ALLE | 2026-10-23 | 11/40 | +6.4% | -1.0% |
-| BX | 2026-10-23 | 11/40 | +5.2% | -1.0% |
-| NDAQ | 2026-10-23 | 11/40 | +5.8% | -1.0% |
-| ROP | 2026-10-23 | 11/40 | +7.6% | -1.0% |
-| EFX | 2026-10-21 | 13/40 | +7.3% | -2.6% |
-| HAS | 2026-10-21 | 13/40 | +6.1% | -2.6% |
+| FERG | 2026-11-10 | 0/40 | +0.0% | +0.0% |
+| CF | 2026-11-06 | 2/40 | +2.5% | +2.0% |
+| CPAY | 2026-11-06 | 2/40 | +1.0% | +2.0% |
+| TPR | 2026-11-06 | 2/40 | +2.1% | +2.0% |
+| VRSK | 2026-11-06 | 2/40 | -0.3% | +2.0% |
+| CDW | 2026-11-05 | 3/40 | +6.9% | +2.3% |
+| JKHY | 2026-11-05 | 3/40 | -2.8% | +2.3% |
+| SWK | 2026-11-05 | 3/40 | +1.0% | +2.3% |
+| ZBH | 2026-11-05 | 3/40 | +0.4% | +2.3% |
+| FISV | 2026-11-04 | 4/40 | +2.0% | -2.2% |
+| IDXX | 2026-11-03 | 5/40 | +3.7% | -0.6% |
+| CBOE | 2026-11-02 | 6/40 | +4.5% | -0.3% |
+| REGN | 2026-11-02 | 6/40 | -4.7% | -0.3% |
+| VLTO | 2026-11-02 | 6/40 | +2.2% | -0.3% |
+| CVNA | 2026-10-30 | 7/40 | +6.9% | -0.8% |
+| GEN | 2026-10-30 | 7/40 | +3.0% | -0.8% |
+| HII | 2026-10-30 | 7/40 | -1.0% | -0.8% |
+| NCLH | 2026-10-30 | 7/40 | +5.4% | -0.8% |
+| TXT | 2026-10-30 | 7/40 | +1.3% | -0.8% |
+| FLEX | 2026-10-29 | 8/40 | -18.2% | -2.5% |
+| VRT | 2026-10-29 | 8/40 | -21.0% | -2.5% |
+| PNR | 2026-10-28 | 9/40 | +8.2% | -2.9% |
+| ALLE | 2026-10-23 | 12/40 | +5.9% | -1.3% |
+| BX | 2026-10-23 | 12/40 | +3.9% | -1.3% |
+| NDAQ | 2026-10-23 | 12/40 | +7.3% | -1.3% |
+| ROP | 2026-10-23 | 12/40 | +8.3% | -1.3% |
+| EFX | 2026-10-21 | 14/40 | +7.2% | -3.0% |
+| HAS | 2026-10-21 | 14/40 | +6.9% | -3.0% |
 
 ## 📈 Tendencias (6 meses)
 
@@ -145,14 +130,15 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 27.
 | Bono EE. UU. 10a (%) | 4.983 | ▲ +12 pb | ▲ +3 pb | ▼ -26 pb | ▲ +30 pb | 49 | ➡️ lateral | movimiento anómalo hoy (+2.4σ) |
 | EUR/USD | 1.117 | 🔵▲ +0.2% | 🔴▼ -0.2% | 🔴▼ -0.3% | 🔴▼ -3.1% | 41 | ↘️ bajista | en mínimos de 52 semanas |
 | Índice dólar | 102.25 | 🔵▲ +0.6% | 🔵▲ +0.4% | 🔴▼ -0.3% | 🔵▲ +2.2% | 56 | ➡️ lateral | en máximos de 52 semanas |
-| Brent | 91.99 | 🔴▼ -0.6% | 🔴▼ -11.2% | 🔴▼ -13.7% | 🔵▲ +3.4% | 33 | ↘️ bajista | — |
-| Oro | 4.035 | 🔴▼ -1.9% | 🔵▲ +2.4% | 🔴▼ -3.7% | 🔴▼ -9.7% | 45 | ↘️ bajista | — |
-| Bitcoin | 73.795 | 🔴▼ -1.9% | 🔴▼ -2.8% | 🔴▼ -11.0% | 🔴▼ -5.9% | 35 | ➡️ lateral | — |
-| Ethereum | 2.057 | 🔴▼ -3.5% | 🔴▼ -8.0% | 🔴▼ -15.9% | 🔴▼ -17.2% | 30 | ↘️ bajista | — |
-| Solana | 83.40 | 🔴▼ -3.6% | 🔴▼ -6.4% | 🔴▼ -21.6% | 🔴▼ -19.3% | 24 | ↘️ bajista | sobreventa (RSI 24) |
+| Brent | 92.02 | 🔴▼ -0.6% | 🔴▼ -11.2% | 🔴▼ -13.7% | 🔵▲ +3.4% | 33 | ↘️ bajista | — |
+| Oro | 4.038 | 🔴▼ -1.9% | 🔵▲ +2.5% | 🔴▼ -3.6% | 🔴▼ -9.6% | 45 | ↘️ bajista | — |
+| Bitcoin | 73.762 | 🔴▼ -1.9% | 🔴▼ -2.9% | 🔴▼ -11.1% | 🔴▼ -6.0% | 35 | ➡️ lateral | — |
+| Ethereum | 2.055 | 🔴▼ -3.6% | 🔴▼ -8.0% | 🔴▼ -16.0% | 🔴▼ -17.3% | 30 | ↘️ bajista | — |
+| Solana | 83.33 | 🔴▼ -3.7% | 🔴▼ -6.5% | 🔴▼ -21.7% | 🔴▼ -19.4% | 24 | ↘️ bajista | sobreventa (RSI 24) |
 | Semiconductores (SMH) | 483.63 | 🔴▼ -0.8% | 🔴▼ -6.7% | 🔴▼ -18.2% | 🔴▼ -17.3% | 38 | ↘️ bajista | — |
 | Financieras (XLF) | 58.29 | 🔵▲ +0.5% | 🔵▲ +1.9% | 🔵▲ +5.9% | 🔵▲ +0.6% | 61 | ↗️ alcista | — |
 | Energía (XLE) | 62.21 | 🔵▲ +0.4% | 🔴▼ -6.7% | 🔴▼ -5.8% | 🔵▲ +1.9% | 37 | ➡️ lateral | — |
+| Tecnología (XLK) | 168.91 | 🔴▼ -1.2% | 🔴▼ -4.3% | 🔴▼ -14.0% | 🔴▼ -10.6% | 36 | ↘️ bajista | — |
 | NVIDIA | 168.89 | 🔴▼ -5.5% | 🔴▼ -18.3% | 🔴▼ -25.4% | 🔴▼ -24.6% | 24 | ↘️ bajista | movimiento anómalo hoy (-2.1σ), sobreventa (RSI 24) |
 | Apple | 348.51 | 🔴▼ -0.6% | 🔵▲ +5.0% | 🔵▲ +2.2% | 🔵▲ +15.3% | 56 | ↗️ alcista | en máximos de 52 semanas |
 | Microsoft | 533.16 | 🔴▼ -2.2% | 🔵▲ +2.3% | 🔴▼ -1.5% | 🔵▲ +8.3% | 52 | ➡️ lateral | — |
@@ -178,10 +164,10 @@ Registro completo: [`data/dashboard/hipotesis.csv`](data/dashboard/hipotesis.csv
 
 <details><summary>Fuentes y calidad de datos</summary>
 
-- Precios: 3 contrastados, 25 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 1 sin dato.
-- Fuentes de precio usadas: Yahoo (28).
+- Precios: 3 contrastados, 26 sin segunda fuente, 0 dudosos (⚠️, difieren > 0,5%), 0 sin dato.
+- Fuentes de precio usadas: Yahoo (29).
 - Titulares: Google News · mercados ES: ok (100); Google News · markets: ok (100); Google News · crypto: ok (100); CNBC: ok (30); MarketWatch: ok (10); CoinDesk: ok (25); Expansión: ok (52).
-- Análisis: claude-sonnet-5-5.
+- Análisis: desactivado.
 - Reglas de tendencia: alcista si el precio está sobre sus medias de 50 y 200 sesiones y sube en el mes; bajista al revés; si no, lateral.
 
 </details>
