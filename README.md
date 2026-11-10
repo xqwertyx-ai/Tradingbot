@@ -2,26 +2,26 @@
 
 # 📊 Radar de mercados
 
-**martes 10 nov 2026 · revisión de apertura EE. UU. · 15:52 (Madrid)**
+**martes 10 nov 2026 · revisión de cierre Europa · 17:51 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🔴 risk-off (aversión al riesgo)  
-> En la apertura de EE. UU. el IPC de octubre (+0,4% mensual, core por encima de lo previsto) sale más caliente de lo esperado y consolida una subida de la Fed en diciembre, con Waller abriendo la puerta a 50 pb. El 10 años sube con un movimiento anómalo (+2,3σ, ~4,98%), el dólar se fortalece, y caen oro, cripto y los índices de EE. UU. (NVDA -4,7%). Europa y Asia ya habían cerrado o estaban en máximos antes del dato, así que aún no han reaccionado.  
-> **Decisión:** no operar hoy — Revisión de apertura de EE. UU.: solo observación, las decisiones se toman con los cierres de EE. UU.
+> Europa cierra al alza (IBEX +1,0%, Euro Stoxx +0,6%, DAX +0,3% en máximos de 52 semanas) a pesar del IPC de octubre en EE. UU., más caliente de lo previsto, y de los comentarios de Waller y Logan a favor de subir tipos. Wall Street cae (S&P -0,8%, NDX -1,3%, NVDA -6,6%), el 10 años vuelve al 5% (+2,8σ), el dólar toca máximos de 52 semanas y caen oro y cripto. Respecto a la revisión de la apertura de EE. UU., lo nuevo es que Europa cierra sin descontar el shock, por lo que hay riesgo de ajuste a la baja en la próxima sesión.  
+> **Decisión:** no operar hoy — Revisión de cierre de Europa, solo observación: las decisiones se toman con los precios de cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
-| **Nasdaq 100** | 27.744 | 🔴▼ -0.6% | 🔴▼ -9.5% | ↘️ bajista |
-| **IBEX 35** | 20.031 | 🔵▲ +1.5% | 🔵▲ +3.9% | ↗️ alcista |
-| **Nikkei 225** | 60.460 | 🔵▲ +2.9% | 🔴▼ -12.4% | ↘️ bajista |
-| **Bono EE. UU. 10a (%)** | 4.977 | ▲ +11 pb | ▼ -26 pb | ➡️ lateral |
-| **EUR/USD** | 1.119 | 🔵▲ +0.3% | 🔴▼ -0.2% | ↘️ bajista |
-| **Brent** | 89.85 | 🔴▼ -2.9% | 🔴▼ -15.8% | ↘️ bajista |
-| **Oro** | 4.049 | 🔴▼ -1.6% | 🔴▼ -3.4% | ↘️ bajista |
-| **Bitcoin** | 74.089 | 🔴▼ -1.5% | 🔴▼ -10.7% | ➡️ lateral |
+| **S&P 500** | 7.486 | 🔴▼ -0.8% | 🔴▼ -4.1% | ➡️ lateral |
+| **Nasdaq 100** | 27.549 | 🔴▼ -1.3% | 🔴▼ -10.2% | ↘️ bajista |
+| **IBEX 35** | 19.936 | 🔵▲ +1.0% | 🔵▲ +3.4% | ↗️ alcista |
+| **Nikkei 225** | 58.776 | 🔵▲ +2.3% | 🔴▼ -16.1% | ↘️ bajista |
+| **Bono EE. UU. 10a (%)** | 5.004 | ▲ +14 pb | ▼ -24 pb | ➡️ lateral |
+| **Brent** | 91.98 | 🔴▼ -0.6% | 🔴▼ -13.8% | ↘️ bajista |
+| **Oro** | 4.028 | 🔴▼ -2.1% | 🔴▼ -3.9% | ↘️ bajista |
+| **Bitcoin** | 72.845 | 🔴▼ -3.2% | 🔴▼ -12.2% | ↘️ bajista |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
@@ -31,29 +31,29 @@
 - **09:52 · apertura Europa** 🟢 En la apertura de Europa, las bolsas suben (IBEX +1,2%, DAX +1,1%, Euro Stoxx +1,0%) apoyadas en la caída del Brent (-2,0%, ~91$) y a la espera del IPC de octubre en EE. UU. Asia cerró al alza (Nikkei +2,9%, SoftBank +14%) siguiendo el rebote tecnológico de Wall Street. El EUR/USD sube con un movimiento anómalo (+3,4σ) y el oro y el cripto apenas se mueven, en pausa antes del dato.
 - **10:52 · cierre Asia** 🟢 Cierre de Asia al alza (Nikkei +2,9%, Hang Seng +0,4%, Shanghái +0,1%) siguiendo el rebote tecnológico de Wall Street y la caída del petróleo, con el IPC de octubre de EE. UU. como catalizador pendiente. Lo nuevo frente a la revisión anterior: Waller (Fed) respalda una subida de 25 pb en diciembre y abre la puerta a 50 pb si el IPC sale caliente, y Trump dice que la guerra con Irán terminará 'pronto'. Europa sube con el Brent en 90$ y esperanzas de paz en Ucrania; el cripto sigue rezagado con salidas de ETF.
 - **15:52 · apertura EE. UU.** 🔴 En la apertura de EE. UU. el IPC de octubre (+0,4% mensual, core por encima de lo previsto) sale más caliente de lo esperado y consolida una subida de la Fed en diciembre, con Waller abriendo la puerta a 50 pb. El 10 años sube con un movimiento anómalo (+2,3σ, ~4,98%), el dólar se fortalece, y caen oro, cripto y los índices de EE. UU. (NVDA -4,7%). Europa y Asia ya habían cerrado o estaban en máximos antes del dato, así que aún no han reaccionado.
-- <sub>cierre Europa · prevista ~17:50</sub>
+- **17:51 · cierre Europa** 🔴 Europa cierra al alza (IBEX +1,0%, Euro Stoxx +0,6%, DAX +0,3% en máximos de 52 semanas) a pesar del IPC de octubre en EE. UU., más caliente de lo previsto, y de los comentarios de Waller y Logan a favor de subir tipos. Wall Street cae (S&P -0,8%, NDX -1,3%, NVDA -6,6%), el 10 años vuelve al 5% (+2,8σ), el dólar toca máximos de 52 semanas y caen oro y cripto. Respecto a la revisión de la apertura de EE. UU., lo nuevo es que Europa cierra sin descontar el shock, por lo que hay riesgo de ajuste a la baja en la próxima sesión.
 - <sub>cierre EE. UU. · prevista ~22:15</sub>
 
 ## 📰 Noticias clave
 
-- **[macro]** [October CPI Inflation Rises 0.4%, Boosting Case for December Fed Rate Hike](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGtNMTM4WVBFWnN0T0FFdWwzOWNwQXk3cE1ISUo3dWFORXJpeWNoTG5jU2xCTmowNTR6LUJ2RDZGQS1oQmpZbGdGQ0RDTVlZejMyU2QwdjJMQUNNYkZXdzZyTUo3ZTBDM3dHZjdIRHk3VXlVZXVSbk1XZmlHS21JS3JFbkFmSUdY?oc=5) <sub>Barron's · 10/11 15:45 · ●●●●●</sub>  
-  Sorpresa: el IPC de octubre sube un 0,4% mensual, por encima de lo previsto, y refuerza la subida de diciembre. **Impacto:** Sube el rendimiento del bono y el dólar; presiona a tecnología de larga duración (NDX, XLK, SMH), oro y cripto. Dirección bajista para activos de duración larga, alcista para el dólar.
-- **[macro]** [Fed’s Waller puts half-point rate hike into the mix for December](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories) <sub>MarketWatch · 10/11 14:41 · ●●●●</sub>  
-  Waller ya había advertido de que aceptaría 50 pb si el IPC sorprendía; la sorpresa convierte la advertencia en escenario real. **Impacto:** Eleva la probabilidad de una subida de 50 pb en diciembre; negativo para renta variable growth y cripto, positivo para el dólar.
-- **[macro]** [US Treasury yields jump after stronger-than-expected inflation, Fed rate hike signals](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3VpUWsyYXk1VXBEQXprQU5kVzB5aXJ2TjVGQTRzX25nblJQbzNMZnFEZk5sd3k3OWJ5Ylk3OFZkbkdBZThrZUFtbUVSVjl2eDNfbzJGeGNoclJWSU1FaWtxQm4teUFkWk9kdzFoS2tNM0VDUTZrdGQ2TE1NUmltSHhGbHptRWZ2Q3MyeHprSjN6VGhweW9kTFVLeWtTbVhjdzZpcnl3alNMa0llcUZqSzBDVW9lSHRFWnVMUVBPZm10QjQ?oc=5) <sub>Anadolu Ajansı · 10/11 15:48 · ●●●●</sub>  
-  Sorpresa: los rendimientos del Tesoro saltan tras el IPC y las señales de subida de la Fed. **Impacto:** El 10 años en ~4,98% (+2,3σ) endurece las condiciones financieras; presión sobre valoraciones tecnológicas y small caps.
-- **[macro]** [Gold, silver retreat as high core CPI lifts December Fed hike odds- Kitco AM Report](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVFVQeklvWERhQ2FQMVNKaDhvRVN2dHNKQ1Bib0piZkZxMS1WaWhRVm1wRmpFUTJ6aXJxVXlHUHFfU2VPRW1VZ0RaZk1rZzh0Z2E5empNTVB4X3czTDBIcXVnOV9jVGJScHlQNGRscEZXazlwY1ZNVWVNWkhYMlAzWFEtRjNobEJUSWlJa0JrUmVXY3FpdGlPLWpobTdTY0poQjlSVkhFcl9YZWZyd0ZOb3lsWm9LdDJu?oc=5) <sub>Kitco · 10/11 15:20 · ●●●</sub>  
-  El oro retrocede con mayores probabilidades de subida de la Fed, un efecto esperable. **Impacto:** GC=F (-1,6%) cae por mayores tipos reales y dólar fuerte; coherente con la hipótesis bajista abierta.
-- **[cripto]** [Bitcoin Falls Below $74K After Hot US Inflation Fuels Fed Rate Hike Bets – Solana, Ethereum, XRP Hit Harder](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRUVacmpsWm1naU93b21kU1EtbktvU0NMUWUyMFJobGpWRVVCQnlNVmYwcEFDU3R4WkJoS0l0bjVBa05qU1ltazAzMU5SQVJ2WncyeGhkdnRXd1JpVXlHVGo3bVp6OERZelhpa2ZZQ2xUeVRoRm01RmdNTGliN29xWjhRVW5Pcm5KVG5qVHgwcnhrdF9ZdTUyRGFOYndSSkNHNm9iRm1MR2t3WjRWT2diNFBxVDRaN3E3YjA4SFRyWUJLNEtXWHdrNG9vVVVPd2VxMndyODdJZEdwRTh1M0NaMDVpNEw3RDY2R2g5RlBzaE14WllOWF9UOE9BU0RtN3J6WWUyZm1R?oc=5) <sub>Stocktwits · 10/11 15:45 · ●●●</sub>  
-  Reacción esperable a un IPC alto, aunque el cripto ya venía débil y con salidas de ETF. **Impacto:** BTC bajo 74k, ETH y SOL caen más (-2,7% y -3,0%) por liquidación de largos; bajista a corto, con SOL en sobreventa (RSI 25).
-- **[cripto]** [$179M in crypto longs liquidated in one hour after hot October CPI](https://news.google.com/rss/articles/CBMiygFBVV95cUxONDNEcUZSUmxBN2RvQ1cyb0VNcXkxVkJCZXBqQXJjS1JkaVllSWJlLTVxaURNS2JWaHBaSTc0amZSeGJRYXlrNGNfRnZFeUtyLUdkRXpmamFrellUdWw3U1dsUmNIWHZiS1hqTXo3c2ZzSVJQY2ZQdE1ZWHJvUzIxZVVqMnJWVFptQ28wRmRmdVFmRTZ0MmF1S0U0NU5nZFZmN1RQRXZQTkMyUlV0SjJOMUk5eFBsam5uUnQ3aHRTVUVUWG9oOXdtYzB3?oc=5) <sub>TradingView · 10/11 14:59 · ●●</sub>  
-  Liquidaciones de 179 M$ en largos en una hora tras el dato: movimiento forzado, no necesariamente duradero. **Impacto:** Presión vendedora mecánica sobre BTC, ETH y SOL; puede agotarse rápido y favorecer rebotes técnicos.
+- **[macro]** [10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations](https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html) <sub>CNBC · 10/11 17:44 · ●●●●●</sub>  
+  Sorpresa: el IPC de octubre (+0,4% mensual, core por encima de lo previsto) llevó el 10 años de nuevo al 5% con un movimiento de +2,8σ. **Impacto:** Los rendimientos más altos presionan a las acciones de crecimiento y larga duración (NDX, XLK, semiconductores), refuerzan el dólar y restan atractivo al oro y al cripto.
+- **[política/regulación]** [Fed’s Waller Backs December Rate Hike, Open to Larger Move](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5) <sub>Bloomberg.com · 10/11 17:36 · ●●●●</sub>  
+  Waller ya había respaldado 25 pb en diciembre esta mañana; el IPC caliente le sube la apuesta (abre la puerta a un movimiento mayor), de modo que es una sorpresa parcial. **Impacto:** Aumenta la probabilidad de subida en diciembre y el riesgo de 50 pb, con presión sobre activos de duración larga y a favor del dólar.
+- **[política/regulación]** [Fed’s Logan Favors at Least Two Hikes, Says Pace Could Quicken](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3hmQUhBdy04d2piMlV6b2lfVmt6dklNYzdoQUZBeUxrVTNtQWMyUVNGNVpBdDZ5MnpLY2g0MldVUXp2cFdqU2JOVmJwcmQ2ODI1dkc2TE85ejN5cXFoei0zNUF3NUFGOUJtZnV5OHV3WXJJX1p2TVh5TmI5SmJ4SUh0Z1V2QmxlQ0R5aUtRVnVKWWFaNXlNcFRoTWYxSFQ1ZzdZb0t0b21LQkxuRU52TVp3?oc=5) <sub>Bloomberg.com · 10/11 16:50 · ●●●●</sub>  
+  Sorpresa hawkish: Logan pide al menos dos subidas y no descarta acelerar el ritmo este invierno. **Impacto:** Amplía el recorrido esperado de tipos más allá de diciembre y sostiene el rendimiento del bono y el dólar; negativo para tecnología y cripto.
+- **[sectorial]** [El Ibex 35 avanza con la banca y el petróleo frente a la presión de la Fed](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3ZUb2F6SWpldnpnRHQ5cHlHZ3Y1eEpKTEM1elRzd1g1S3VhRGY0T1NpMTJCbHViTVo2ZVQ2UXhfekE1dnVha3p4aEg3MTRHbWRIQWdDMm5yQk1YQk03QS1lMFlqUnp2bGRWXzdyR1BqY1hzbzhfRE1qa1BEZGRTMzNsYXk5QWEyTFRVdWlMakg0Y0RIaU1YUHJtb19IcFdZMmhGWGROS1NaYWt0R3prdF9OVmxXRU9M?oc=5) <sub>XTB.com · 10/11 17:43 · ●●●</sub>  
+  Esperada solo en parte: la banca europea se beneficia de tipos altos, pero el cierre positivo del Ibex no refleja aún el shock del IPC. **Impacto:** Santander (+1,7%) y BBVA (+1,5%) suben por mayores márgenes de intermediación, mientras el petróleo apoya al índice; el riesgo es que Europa converja a la baja con EE. UU.
+- **[cripto]** [Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXV1UVBxYzdRTDU1Z01Ybk1pNS1aNU1JaDdtTUJVTDdFNW43MlF5dFNacEVfX2xxeE40cnNhWXpaX09Jb0F0ZHpjQWdGUER5MFZ2eFU4UXBJbXhQMS0tazVDUEhLd1RMV3Z6d0RKRWFJNmhNNnloOEt4NTlUVzgxZjEzODNVNHRaeFpDLXJmRFE2NHhGaWxUWVBjTQ?oc=5) <sub>Yahoo Finance · 10/11 17:27 · ●●●</sub>  
+  Reacción esperada: el cripto ya venía débil (salidas de ETF) y el IPC añade presión por mayores tipos y dólar fuerte. **Impacto:** BTC -3,2%, ETH -5,4% y SOL -5,4% con sobreventa en ETH y SOL; el sector sigue presionado por la liquidez restrictiva.
+- **[resultados]** [eToro Group slides after Q3 earnings disappoint on crypto slump (ETOR:NASDAQ)](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0tFUUR0ZnJTcVhveThxUmRaWTh3dUI0MXp0eF94dmZscUFkQmNFXzJ0aG8wOGd6RDBSTW5qQ3ppem1SR3V1dlVnNXJhME1COS1pR2psRHU2eFZiTEczVTN0RjR6RmlBTXNrT1VsVG1NTEV4TVNGczhuRm8wSWJDYkg0U21uMGx0RDdBMXNGNEN4bk1kZTJ2MFRNd203UlE3T2tn?oc=5) <sub>Seeking Alpha · 10/11 16:19 · ●●</sub>  
+  Resultados de eToro decepcionan por la debilidad del cripto; confirman el deterioro de volúmenes en el sector. **Impacto:** Negativo para plataformas y mineros ligados a cripto; refleja el mismo mecanismo de menor apetito por riesgo.
 
-**Divergencias precio-noticia:** Europa (IBEX +1,5%, DAX +0,9%, Euro Stoxx +1,0%) cotiza en máximos, mientras EE. UU. cae tras el IPC: el cierre europeo probablemente no recoge aún el shock y puede corregir en la sesión siguiente. · El Nikkei +2,9% y el rebote del NDX del día previo contrastan con un dato que refuerza el sesgo restrictivo; parte del rally se puede revertir. · El titular 21 ('stocks rising') y el 16 contradicen el tono del resto, que son anteriores a la publicación o se ven superados por la caída en la apertura. · El Brent cae un 2,9% (-13% en 5d) y debería aliviar la inflación futura, pero el mercado se centra en el IPC ya publicado.
+**Divergencias precio-noticia:** Europa cierra en positivo (IBEX +1,0%, DAX en máximos) con el IPC caliente, el 10 años al 5% y Wall Street cayendo: Europa no ha reaccionado y mañana puede haber ajuste o gap bajista. · El Nikkei (+2,3% al cierre del 9-nov) y el resto de Asia cerraron antes del IPC, así que aún no han descontado el shock; la apertura de Asia es el siguiente punto de reacción. · El Brent apenas cae (-0,6%) con el dólar en máximos y un dato macro hawkish, y sigue -11% en 5 días: parece más guiado por la geopolítica (Irán) que por el IPC. · NVDA (-6,6%, -2,6σ, RSI 23) cae mucho más que el XLK (-1,8%) y que el NDX (-1,3%): hay un componente específico del valor, no solo el efecto de los tipos.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-09._
+_Revisión de cierre Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-09._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -65,19 +65,17 @@ _Revisión de apertura EE. UU.: solo observación. Las hipótesis se registran c
 
 ## 👀 Valores a vigilar
 
-- **Bono EE. UU. 10a (%)** — Movimiento anómalo (+2,3σ) cerca del 5%: determina si sigue la presión sobre growth y cripto.
-- **NVIDIA** — Cae -4,7% con RSI 24 (sobreventa): posible rebote técnico frente a la presión de tipos.
-- **Nasdaq 100** — Hipótesis bajista abierta; la reacción al IPC en el cierre de EE. UU. confirmará o no la tesis.
-- **DAX** — En máximos de 52 semanas y sin reacción aún al IPC: riesgo de ajuste en la próxima sesión europea.
-- **Solana** — Sobreventa (RSI 25) tras liquidaciones: posible rebote técnico o continuación bajista.
-- **IBEX 35** — en máximos de 52 semanas
+- **Nikkei 225** — Primera bolsa asiática que reaccionará al IPC; en la apertura puede haber un gap bajista tras haber cerrado antes del dato.
+- **DAX** — En máximos de 52 semanas y sin haber descontado el movimiento del 10 años; riesgo de ajuste.
+- **NVIDIA** — Sobreventa (RSI 23) tras -19% en 5 días; vigilar si hay rebote técnico o continuación.
+- **Ethereum** — Sobreventa (RSI 29) y movimiento anómalo; vigilar capitulación frente a rebote.
+- **Índice dólar** — En máximos de 52 semanas con movimiento de +2,3σ; clave para oro, cripto y activos de riesgo.
 - **Russell 2000** — cruza a la baja su media de 50 sesiones
-- **EUR/USD** — en mínimos de 52 semanas
-- **Índice dólar** — en máximos de 52 semanas
+- **Bono EE. UU. 10a (%)** — movimiento anómalo hoy (+2.8σ)
+- **Solana** — sobreventa (RSI 23)
 - **Apple** — en máximos de 52 semanas
-- **BBVA** — cruza al alza su media de 50 sesiones
 - **Inditex** — en máximos de 52 semanas
-- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 77)
+- **Iberdrola** — en máximos de 52 semanas, sobrecompra (RSI 76)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
@@ -125,34 +123,34 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 27.
 
 | Activo | Último | Día | Semana | 1 mes | 3 meses | RSI | Tendencia | Señales |
 |---|--:|--:|--:|--:|--:|--:|---|---|
-| Nasdaq 100 | 27.744 | 🔴▼ -0.6% | 🔴▼ -1.5% | 🔴▼ -9.5% | 🔴▼ -6.7% | 40 | ↘️ bajista | — |
-| IBEX 35 | 20.031 | 🔵▲ +1.5% | 🔵▲ +6.5% | 🔵▲ +3.9% | 🔴▼ -0.7% | 64 | ↗️ alcista | en máximos de 52 semanas |
-| Euro Stoxx 50 | 6.354 | 🔵▲ +1.0% | 🔵▲ +3.4% | 🔵▲ +2.5% | 🔴▼ -2.9% | 60 | ↗️ alcista | — |
-| Russell 2000 | 2.813 | 🔴▼ -1.0% | 🔵▲ +0.0% | 🔵▲ +0.7% | 🔴▼ -7.6% | 50 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| DAX | 26.513 | 🔵▲ +0.9% | 🔵▲ +2.5% | 🔵▲ +4.9% | 🔵▲ +0.8% | 62 | ↗️ alcista | en máximos de 52 semanas |
-| Nikkei 225 | 60.460 | 🔵▲ +2.9% | 🔴▼ -4.2% | 🔴▼ -12.4% | 🔴▼ -8.8% | 40 | ↘️ bajista | — |
-| Hang Seng | 24.557 | 🔵▲ +0.4% | 🔵▲ +4.4% | 🔵▲ +1.4% | 🔴▼ -4.3% | 59 | ➡️ lateral | — |
-| Shanghái Compuesto | 3.664 | 🔵▲ +0.1% | 🔵▲ +1.5% | 🔴▼ -3.5% | 🔴▼ -5.5% | 43 | ↘️ bajista | — |
-| Bono EE. UU. 10a (%) | 4.977 | ▲ +11 pb | ▲ +3 pb | ▼ -26 pb | ▲ +30 pb | 48 | ➡️ lateral | movimiento anómalo hoy (+2.3σ) |
-| EUR/USD | 1.119 | 🔵▲ +0.3% | 🔴▼ -0.1% | 🔴▼ -0.2% | 🔴▼ -3.0% | 44 | ↘️ bajista | en mínimos de 52 semanas |
-| Índice dólar | 102.07 | 🔵▲ +0.4% | 🔵▲ +0.2% | 🔴▼ -0.5% | 🔵▲ +2.1% | 54 | ➡️ lateral | en máximos de 52 semanas |
-| Brent | 89.85 | 🔴▼ -2.9% | 🔴▼ -13.3% | 🔴▼ -15.8% | 🔵▲ +1.0% | 32 | ↘️ bajista | — |
-| Oro | 4.049 | 🔴▼ -1.6% | 🔵▲ +2.7% | 🔴▼ -3.4% | 🔴▼ -9.4% | 45 | ↘️ bajista | — |
-| Bitcoin | 74.089 | 🔴▼ -1.5% | 🔴▼ -2.4% | 🔴▼ -10.7% | 🔴▼ -5.5% | 35 | ➡️ lateral | — |
-| Ethereum | 2.074 | 🔴▼ -2.7% | 🔴▼ -7.2% | 🔴▼ -15.2% | 🔴▼ -16.5% | 31 | ↘️ bajista | — |
-| Solana | 83.94 | 🔴▼ -3.0% | 🔴▼ -5.8% | 🔴▼ -21.1% | 🔴▼ -18.8% | 25 | ↘️ bajista | sobreventa (RSI 25) |
-| Semiconductores (SMH) | 483.34 | 🔴▼ -0.8% | 🔴▼ -6.8% | 🔴▼ -18.2% | 🔴▼ -17.4% | 38 | ↘️ bajista | — |
-| Financieras (XLF) | 58.01 | 🔵▲ +0.0% | 🔵▲ +1.4% | 🔵▲ +5.4% | 🔵▲ +0.2% | 60 | ↗️ alcista | — |
-| Energía (XLE) | 61.75 | 🔴▼ -0.3% | 🔴▼ -7.4% | 🔴▼ -6.5% | 🔵▲ +1.2% | 35 | ➡️ lateral | — |
-| Tecnología (XLK) | 169.55 | 🔴▼ -0.8% | 🔴▼ -3.9% | 🔴▼ -13.7% | 🔴▼ -10.2% | 37 | ↘️ bajista | — |
-| NVIDIA | 170.34 | 🔴▼ -4.7% | 🔴▼ -17.6% | 🔴▼ -24.7% | 🔴▼ -24.0% | 24 | ↘️ bajista | sobreventa (RSI 24) |
-| Apple | 349.63 | 🔴▼ -0.3% | 🔵▲ +5.3% | 🔵▲ +2.5% | 🔵▲ +15.7% | 57 | ↗️ alcista | en máximos de 52 semanas |
-| Microsoft | 541.45 | 🔴▼ -0.7% | 🔵▲ +3.9% | 🔵▲ +0.1% | 🔵▲ +10.0% | 56 | ↗️ alcista | — |
-| ASML | 1.520 | 🔵▲ +0.5% | 🔴▼ -2.1% | 🔴▼ -13.1% | 🔴▼ -16.0% | 44 | ↘️ bajista | — |
-| Banco Santander | 11.35 | 🔵▲ +2.5% | 🔵▲ +10.9% | 🔴▼ -7.4% | 🔴▼ -11.9% | 50 | ➡️ lateral | — |
-| BBVA | 23.88 | 🔵▲ +2.5% | 🔵▲ +11.0% | 🔵▲ +1.4% | 🔴▼ -4.1% | 59 | ↗️ alcista | cruza al alza su media de 50 sesiones |
-| Inditex | 60.46 | 🔵▲ +1.3% | 🔵▲ +7.7% | 🔵▲ +12.1% | 🔵▲ +4.5% | 67 | ↗️ alcista | en máximos de 52 semanas |
-| Iberdrola | 23.04 | 🔵▲ +0.3% | 🔵▲ +4.3% | 🔵▲ +6.3% | 🔵▲ +13.5% | 77 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 77) |
+| S&P 500 | 7.486 | 🔴▼ -0.8% | 🔴▼ -1.1% | 🔴▼ -4.1% | 🔴▼ -3.4% | 43 | ➡️ lateral | — |
+| Nasdaq 100 | 27.549 | 🔴▼ -1.3% | 🔴▼ -2.2% | 🔴▼ -10.2% | 🔴▼ -7.4% | 39 | ↘️ bajista | — |
+| IBEX 35 | 19.936 | 🔵▲ +1.0% | 🔵▲ +6.0% | 🔵▲ +3.4% | 🔴▼ -1.2% | 63 | ↗️ alcista | — |
+| Euro Stoxx 50 | 6.328 | 🔵▲ +0.6% | 🔵▲ +3.0% | 🔵▲ +2.0% | 🔴▼ -3.3% | 58 | ↗️ alcista | — |
+| Russell 2000 | 2.805 | 🔴▼ -1.2% | 🔴▼ -0.2% | 🔵▲ +0.4% | 🔴▼ -7.9% | 50 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
+| DAX | 26.347 | 🔵▲ +0.3% | 🔵▲ +1.9% | 🔵▲ +4.2% | 🔵▲ +0.2% | 60 | ↗️ alcista | en máximos de 52 semanas |
+| Nikkei 225 | 58.776 | 🔵▲ +2.3% | 🔴▼ -7.1% | 🔴▼ -16.1% | 🔴▼ -8.1% | 33 | ↘️ bajista | — |
+| Hang Seng | 24.449 | 🔴▼ -0.1% | 🔵▲ +4.5% | 🔵▲ +2.8% | 🔴▼ -5.7% | 57 | ➡️ lateral | — |
+| Shanghái Compuesto | 3.661 | 🔵▲ +0.3% | 🔵▲ +0.6% | 🔴▼ -4.0% | 🔴▼ -4.2% | 42 | ↘️ bajista | — |
+| Bono EE. UU. 10a (%) | 5.004 | ▲ +14 pb | ▲ +5 pb | ▼ -24 pb | ▲ +32 pb | 51 | ➡️ lateral | movimiento anómalo hoy (+2.8σ) |
+| Índice dólar | 102.39 | 🔵▲ +0.7% | 🔵▲ +0.5% | 🔴▼ -0.2% | 🔵▲ +2.4% | 58 | ➡️ lateral | movimiento anómalo hoy (+2.3σ), en máximos de 52 semanas |
+| Brent | 91.98 | 🔴▼ -0.6% | 🔴▼ -11.2% | 🔴▼ -13.8% | 🔵▲ +3.4% | 33 | ↘️ bajista | — |
+| Oro | 4.028 | 🔴▼ -2.1% | 🔵▲ +2.2% | 🔴▼ -3.9% | 🔴▼ -9.8% | 44 | ↘️ bajista | — |
+| Bitcoin | 72.845 | 🔴▼ -3.2% | 🔴▼ -4.1% | 🔴▼ -12.2% | 🔴▼ -7.1% | 33 | ↘️ bajista | — |
+| Ethereum | 2.016 | 🔴▼ -5.4% | 🔴▼ -9.8% | 🔴▼ -17.6% | 🔴▼ -18.9% | 29 | ↘️ bajista | movimiento anómalo hoy (-2.2σ), sobreventa (RSI 29) |
+| Solana | 81.88 | 🔴▼ -5.4% | 🔴▼ -8.1% | 🔴▼ -23.1% | 🔴▼ -20.8% | 23 | ↘️ bajista | sobreventa (RSI 23) |
+| Semiconductores (SMH) | 475.82 | 🔴▼ -2.4% | 🔴▼ -8.2% | 🔴▼ -19.5% | 🔴▼ -18.6% | 36 | ↘️ bajista | — |
+| Financieras (XLF) | 58.11 | 🔵▲ +0.2% | 🔵▲ +1.6% | 🔵▲ +5.6% | 🔵▲ +0.3% | 60 | ↗️ alcista | — |
+| Energía (XLE) | 62.08 | 🔵▲ +0.2% | 🔴▼ -6.9% | 🔴▼ -6.0% | 🔵▲ +1.7% | 36 | ➡️ lateral | — |
+| Tecnología (XLK) | 167.82 | 🔴▼ -1.8% | 🔴▼ -4.9% | 🔴▼ -14.5% | 🔴▼ -11.1% | 36 | ↘️ bajista | — |
+| NVIDIA | 166.85 | 🔴▼ -6.6% | 🔴▼ -19.3% | 🔴▼ -26.3% | 🔴▼ -25.5% | 23 | ↘️ bajista | movimiento anómalo hoy (-2.6σ), sobreventa (RSI 23) |
+| Apple | 347.77 | 🔴▼ -0.8% | 🔵▲ +4.8% | 🔵▲ +2.0% | 🔵▲ +15.1% | 55 | ↗️ alcista | en máximos de 52 semanas |
+| Microsoft | 543.44 | 🔴▼ -0.3% | 🔵▲ +4.3% | 🔵▲ +0.4% | 🔵▲ +10.4% | 57 | ↗️ alcista | — |
+| ASML | 1.504 | 🔴▼ -0.6% | 🔴▼ -3.1% | 🔴▼ -14.1% | 🔴▼ -16.9% | 42 | ↘️ bajista | — |
+| Banco Santander | 11.26 | 🔵▲ +1.7% | 🔵▲ +10.0% | 🔴▼ -8.2% | 🔴▼ -12.7% | 49 | ↘️ bajista | — |
+| BBVA | 23.63 | 🔵▲ +1.5% | 🔵▲ +9.9% | 🔵▲ +0.4% | 🔴▼ -5.1% | 57 | ➡️ lateral | — |
+| Inditex | 60.14 | 🔵▲ +0.8% | 🔵▲ +7.2% | 🔵▲ +11.5% | 🔵▲ +3.9% | 66 | ↗️ alcista | en máximos de 52 semanas |
+| Iberdrola | 22.99 | 🔵▲ +0.1% | 🔵▲ +4.1% | 🔵▲ +6.0% | 🔵▲ +13.3% | 76 | ↗️ alcista | en máximos de 52 semanas, sobrecompra (RSI 76) |
 
 </details>
 

@@ -54,5 +54,19 @@
    "US Treasury yields jump after stronger-than-expected inflation, Fed rate hike signals"
   ],
   "coste_usd": 0.0373
+ },
+ {
+  "id": "europa-cierre",
+  "etiqueta": "cierre Europa",
+  "hora": "2026-11-10T16:51:58+00:00",
+  "hora_madrid": "17:51",
+  "clima": "risk-off",
+  "resumen": "Europa cierra al alza (IBEX +1,0%, Euro Stoxx +0,6%, DAX +0,3% en máximos de 52 semanas) a pesar del IPC de octubre en EE. UU., más caliente de lo previsto, y de los comentarios de Waller y Logan a favor de subir tipos. Wall Street cae (S&P -0,8%, NDX -1,3%, NVDA -6,6%), el 10 años vuelve al 5% (+2,8σ), el dólar toca máximos de 52 semanas y caen oro y cripto. Respecto a la revisión de la apertura de EE. UU., lo nuevo es que Europa cierra sin descontar el shock, por lo que hay riesgo de ajuste a la baja en la próxima sesión.",
+  "titulares": [
+   "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+   "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+   "Fed’s Logan Favors at Least Two Hikes, Says Pace Could Quicken"
+  ],
+  "coste_usd": 0.0471
  }
 ]
