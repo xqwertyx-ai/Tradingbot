@@ -40,5 +40,19 @@
    "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes"
   ],
   "coste_usd": 0.0375
+ },
+ {
+  "id": "usa-apertura",
+  "etiqueta": "apertura EE. UU.",
+  "hora": "2026-11-10T14:52:18+00:00",
+  "hora_madrid": "15:52",
+  "clima": "risk-off",
+  "resumen": "En la apertura de EE. UU. el IPC de octubre (+0,4% mensual, core por encima de lo previsto) sale más caliente de lo esperado y consolida una subida de la Fed en diciembre, con Waller abriendo la puerta a 50 pb. El 10 años sube con un movimiento anómalo (+2,3σ, ~4,98%), el dólar se fortalece, y caen oro, cripto y los índices de EE. UU. (NVDA -4,7%). Europa y Asia ya habían cerrado o estaban en máximos antes del dato, así que aún no han reaccionado.",
+  "titulares": [
+   "October CPI Inflation Rises 0.4%, Boosting Case for December Fed Rate Hike",
+   "Fed’s Waller puts half-point rate hike into the mix for December",
+   "US Treasury yields jump after stronger-than-expected inflation, Fed rate hike signals"
+  ],
+  "coste_usd": 0.0373
  }
 ]
