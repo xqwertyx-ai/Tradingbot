@@ -1,0 +1,16 @@
+[
+ {
+  "id": "asia-apertura",
+  "etiqueta": "apertura Asia",
+  "hora": "2026-11-10T01:51:57+00:00",
+  "hora_madrid": "02:51",
+  "clima": "risk-on",
+  "resumen": "En la apertura de Asia, el Nikkei rebota un +5,1% (+3,0σ) tras el fuerte cierre de Wall Street (S&P +2,3%, NDX +3,4%) impulsado por la caída del Brent (-6,9%). Hang Seng y Shanghái se mueven poco, y el mercado entra en pausa a la espera del IPC de octubre en EE. UU. (martes). Cripto sigue rezagado y sin participar del rally.",
+  "titulares": [
+   "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
+   "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "BLS to skip 12-month inflation figures in October CPI report"
+  ],
+  "coste_usd": 0.035
+ }
+]
