@@ -68,5 +68,20 @@
    "Fed’s Logan Favors at Least Two Hikes, Says Pace Could Quicken"
   ],
   "coste_usd": 0.0471
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-10T21:46:17+00:00",
+  "hora_madrid": "22:46",
+  "clima": "risk-off",
+  "resumen": "Cierre de EE. UU. en risk-off: el IPC de octubre sale más caliente de lo previsto y Waller, Bowman, Logan y Schmid refuerzan el sesgo de subida de tipos, con 50 pb en diciembre sobre la mesa. El 10 años supera el 5% (+2,4σ) y el dólar toca máximos de 52 semanas. El S&P cierra -0,4%, mejor que el -0,8% de la revisión anterior, y el Nasdaq -0,6%. NVDA cae un -5,5% por un escándalo no verificado sobre su CEO, mientras oro, cripto y semiconductores siguen débiles.",
+  "titulares": [
+   "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+   "Fed’s Waller opens door to half-point rate hike in December",
+   "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates"
+  ],
+  "coste_usd": 0.0851,
+  "resumen_dia": "Asia abrió en risk-on con el Nikkei rebotando un +5,1% (cierre +2,9%) tras el fuerte cierre de Wall Street, impulsado por la caída del Brent, y Europa subió con el mismo apoyo mientras esperaba el IPC. A las 13:30 UTC el IPC de octubre de EE. UU. salió más caliente de lo esperado y Waller abrió la puerta a 50 pb en diciembre, lo que giró el día a risk-off en EE. UU.: el 10 años superó el 5%, el dólar llegó a máximos de 52 semanas y cayeron oro, cripto y el Nasdaq. Europa cerró al alza (IBEX +1,0%, DAX en máximos de 52 semanas) pese al dato, lo que deja riesgo de ajuste en la próxima sesión. NVDA fue lo más castigado (-5,5%, RSI 24) por el escándalo de su CEO. El día no deja una operación clara: el shock macro ya está en precio en gran parte y solo hay hipótesis con probabilidad baja."
  }
 ]
