@@ -12,5 +12,19 @@
    "BLS to skip 12-month inflation figures in October CPI report"
   ],
   "coste_usd": 0.035
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-10T08:52:14+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-on",
+  "resumen": "En la apertura de Europa, las bolsas suben (IBEX +1,2%, DAX +1,1%, Euro Stoxx +1,0%) apoyadas en la caída del Brent (-2,0%, ~91$) y a la espera del IPC de octubre en EE. UU. Asia cerró al alza (Nikkei +2,9%, SoftBank +14%) siguiendo el rebote tecnológico de Wall Street. El EUR/USD sube con un movimiento anómalo (+3,4σ) y el oro y el cripto apenas se mueven, en pausa antes del dato.",
+  "titulares": [
+   "La Bolsa española sube el 1,06 % gracias a la caída del crudo y pendiente del IPC de EEUU - EFE",
+   "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
+   "Fed Hike Odds Hit 84% After Bitcoin ETFs Lose $1.28 Billion"
+  ],
+  "coste_usd": 0.0347
  }
 ]
