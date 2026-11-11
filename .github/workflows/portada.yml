@@ -8,11 +8,11 @@ on:
         default: "auto"
         required: true
         type: choice
-        options: [auto, manual, asia-apertura, asia-cierre, europa-apertura, europa-cierre, usa-apertura, usa-cierre]
+        options: [auto, manual, europa-apertura, usa-cierre]
   push:
     branches: [main]
     paths: ["dashboard/**", "scripts/portada.py", ".github/workflows/portada.yml"]
-  # Seis revisiones al día (dashboard/sesiones.py). GitHub retrasa o se salta a menudo los cron
+  # Dos revisiones al día (dashboard/sesiones.py). GitHub retrasa o se salta a menudo los cron
   # programados, así que se comprueba cada media hora: el script decide si toca alguna revisión
   # pendiente y, si no, el trabajo termina en segundos sin hacer nada.
   schedule:

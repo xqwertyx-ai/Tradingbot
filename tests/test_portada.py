@@ -54,7 +54,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
                                      "feed": "t", "published": "2026-10-14T18:00:00+00:00",
                                      "category": "macro", "score": 3}], {"Test": "ok (1)"})
         analysis.analyze = fake_ai
-        portada.main("asia-apertura")  # observación: no registra hipótesis
+        portada.main("europa-apertura")  # observación: no registra hipótesis
         assert len(ledger.load()) == 0
         assert "solo observación" in open("README.md", encoding="utf-8").read()
         portada.main("usa-cierre")
@@ -72,8 +72,7 @@ def test_end_to_end(tmp_path, monkeypatch=None):
         from dashboard.sesiones import MAD
         if dt.datetime.now(MAD).weekday() < 5:  # la línea del día solo se muestra entre semana
             assert "Hoy, sesión a sesión" in readme and "RESUMEN DEL DIA DE PRUEBA." in readme
-            assert "prevista ~" in readme or "no se hizo" in readme
-            assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Asia" in page and "Cierre EE. UU." in page
+            assert "RESUMEN DEL DIA DE PRUEBA." in page and "Apertura Europa" in page and "Cierre EE. UU." in page
         portada.main("usa-cierre")  # reejecutar el mismo día no duplica hipótesis ni revisiones
         assert len(ledger.load()) == 1
         portada.main("manual")  # una revisión de observación sigue mostrando las hipótesis del último cierre
@@ -141,16 +140,11 @@ def test_parse_google_news():
 def test_calendario_revisiones():
     from dashboard import sesiones
     utc = dt.timezone.utc
-    # verano (CEST): apertura de Europa a las 07:00 UTC; Asia cierra a las 08:10 UTC
-    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 7, 20, tzinfo=utc), set()) == "europa-apertura"
-    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 7, 20, tzinfo=utc), {"europa-apertura"}) is None
-    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 8, 30, tzinfo=utc), {"europa-apertura"}) == "asia-cierre"
-    # invierno (CET, 2 nov): Europa abre a las 08:00 UTC; un cron retrasado recupera la más antigua pendiente
-    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), set()) == "europa-apertura"
-    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), {"europa-apertura"}) == "asia-cierre"
-    # EE. UU. cambia de hora una semana después que Europa (el 1 nov): 13:30 UTC el 30 oct, 14:30 UTC el 2 nov
-    assert sesiones.pendiente(dt.datetime(2026, 10, 30, 13, 50, tzinfo=utc), set()) == "usa-apertura"
-    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 13, 50, tzinfo=utc), set()) is None
-    # el cierre de EE. UU. tras el test PEAD (21:10 UTC) entra en su ventana; fin de semana, nada
+    # dos revisiones: apertura de Europa (09:00 Madrid) y cierre de EE. UU. (16:00 Nueva York)
+    assert sesiones.pendiente(dt.datetime(2026, 10, 15, 7, 20, tzinfo=utc), set()) == "europa-apertura"   # verano
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), set()) == "europa-apertura"    # invierno
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 8, 30, tzinfo=utc), {"europa-apertura"}) is None
+    assert sesiones.pendiente(dt.datetime(2026, 11, 2, 14, 50, tzinfo=utc), set()) is None              # ya no hay apertura EE. UU.
     assert sesiones.pendiente(dt.datetime(2026, 10, 15, 21, 15, tzinfo=utc), set()) == "usa-cierre"
-    assert sesiones.pendiente(dt.datetime(2026, 10, 17, 21, 15, tzinfo=utc), set()) is None
+    assert sesiones.pendiente(dt.datetime(2026, 11, 10, 22, 50, tzinfo=utc), set()) == "usa-cierre"
+    assert sesiones.pendiente(dt.datetime(2026, 10, 17, 21, 15, tzinfo=utc), set()) is None             # sábado

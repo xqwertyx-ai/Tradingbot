@@ -108,8 +108,8 @@ def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open
                  previos: list[dict] | None = None, final: bool = False) -> str:
     previos = previos or []
     lines = [f"Fecha: {date} · Revisión: {mode}",
-             "Hay seis revisiones al día (apertura y cierre de Asia, Europa y EE. UU.). Céntrate en lo que ha "
-             "cambiado desde la anterior y en la región que acaba de abrir o cerrar. Con una bolsa abierta, su "
+             "Hay dos revisiones al día (apertura de Europa y cierre de EE. UU.). Céntrate en lo que ha "
+             "cambiado desde la anterior. Con una bolsa abierta, su "
              "último dato es el precio del momento (con retraso), no un cierre.",
              "Usa solo la información de este mensaje: no recurras a lo que sepas de fechas posteriores.", "",
              "PRECIOS (último cierre; cambios 1d / 5d / 1m; volatilidad diaria; coste ida y vuelta; tendencia; señales):"]
@@ -138,7 +138,7 @@ def build_prompt(date: str, mode: str, table: list[dict], news: list[dict], open
                   "(las decisiones se toman con precios de cierre de EE. UU.)."]
     if final:
         lines += ["", "Es la última revisión del día: rellena \"resumen_dia\" con 3-5 frases sobre la jornada "
-                  "completa usando las revisiones anteriores y esta."]
+                  "completa (Asia, Europa y EE. UU.) usando la revisión anterior y esta."]
     return "\n".join(lines)
 
 
