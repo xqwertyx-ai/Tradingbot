@@ -36,5 +36,20 @@
    "Asian shares mostly rise on AI chip demand despite Wall Street's retreat on inflation data"
   ],
   "coste_usd": 0.0344
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-11T21:55:15+00:00",
+  "hora_madrid": "22:55",
+  "clima": "mixto",
+  "resumen": "En esta revisión, Wall Street cierra con un rebote fuerte de la tecnología y los semiconductores (NDX +2,3%, SMH +4,8%, S&P +1,3%) tras los resultados de CoreWeave. El mercado sigue descontando subidas de la Fed en diciembre, con titulares sobre un posible +50 pb. El dólar llega a máximos de 19 meses, el EUR/USD cae a mínimos de 52 semanas (-3,9σ) y el oro cede un 0,9%. Los Treasuries no cotizaron ayer por festivo, así que el 10 años (4,998%) apenas muestra la reacción real al IPC.",
+  "titulares": [
+   "Fed could hike rates by 50 basis points as oil surges, says market expert",
+   "Dollar Rises to 19-Month High on Fed Rate-Hike Bets",
+   "CoreWeave se dispara en bolsa tras batir ingresos en el tercer trimestre y elevar previsiones"
+  ],
+  "coste_usd": 0.0804,
+  "resumen_dia": "Asia cerró mixta: según la revisión previa, el Nikkei subió por la demanda de chips de IA, el Hang Seng cayó y el yen se hundió con el dólar al alza. Europa abrió y cerró al alza (DAX +1,2%, Euro Stoxx +1,0%, IBEX +0,5% en máximos de 52 semanas) apoyada en CoreWeave y la IA, sin referencia de bonos por el festivo en EE. UU. En EE. UU. el rebote tecnológico fue amplio (SMH +4,8%, XLK +3,2%, NVDA +2,9%), con la excepción de MSFT (-2,3%). Todo ocurrió pese a un IPC caliente que lleva al mercado a descontar subidas de la Fed (posible +50 pb) en diciembre, con el dólar en máximos de 19 meses y el EUR/USD en mínimos de 52 semanas. El oro cayó, el Brent subió un 1,2% y el cripto apenas se movió, con debilidad de fondo."
  }
 ]
