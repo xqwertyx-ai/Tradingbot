@@ -8,5 +8,19 @@
   "resumen": null,
   "titulares": [],
   "coste_usd": null
+ },
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-11T08:24:23+00:00",
+  "hora_madrid": "09:24",
+  "clima": "mixto",
+  "resumen": "Europa abre al alza (DAX +1,1%, IBEX +0,5% con el IBEX en máximos de 52 semanas, Euro Stoxx +1,0%), apoyada en resultados de CoreWeave y optimismo por la IA. Todo ello ocurre pese al IPC de EE. UU. por encima de lo esperado: Goldman añade otra subida de la Fed, los bonos sufren su mayor alza de rendimientos en 19 meses, el EUR/USD cae a mínimos de 52 semanas y el cripto se debilita. Los Treasuries no operan por festivo en EE. UU., así que Europa reacciona sin referencia de bonos.",
+  "titulares": [
+   "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+   "Goldman adds another rate hike to Fed outlook after hot inflation data",
+   "Trump-appointed Fed member signals big interest rate hike as inflation runs hot"
+  ],
+  "coste_usd": 0.0431
  }
 ]
