@@ -19,7 +19,7 @@ Precios...
   precios: 504/504
   última sesión: 2026-11-10
 Anuncios desde 2026-10-12 en los datos: 777 (con fecha pasada: 356)
-Eventos con reacción reciente: 344; señales de compra: 27
+Eventos con reacción reciente: 354; señales de compra: 29
 ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
   IDXX 2026-11-02 antes_apertura 2026-11-02 2026-11-03 0.223273 0.085267       1
    GEN 2026-10-28    tras_cierre 2026-10-29 2026-10-30 0.161931 0.085256       1
@@ -29,12 +29,12 @@ ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
   NCLH 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.138315 0.085256       1
    HII 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.136134 0.085256       1
    PNR 2026-10-27 antes_apertura 2026-10-27 2026-10-28 0.122428 0.085190       1
-  ALLE 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.121998 0.085124       1
+  ALLE 2026-10-22 antes_apertura 2026-10-22 2026-10-23 0.121998 0.085125       1
   FISV 2026-11-03 antes_apertura 2026-11-03 2026-11-04 0.121599 0.085306       1
    TXT 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.120520 0.085256       1
    ZBH 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.118348 0.084803       1
    TPR 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.114796 0.085267       1
    SWK 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.114528 0.084803       1
   VRSK 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.112932 0.085267       1
-Precios: 500 de 500 sin dato en la última sesión
-{"abiertas": 28, "cerradas": 0} pendientes: 0, abiertas: 28
+Precios: 0 de 500 sin dato en la última sesión
+{"abiertas": 28, "cerradas": 0} pendientes: 1, abiertas: 28
