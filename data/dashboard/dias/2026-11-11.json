@@ -22,5 +22,19 @@
    "Trump-appointed Fed member signals big interest rate hike as inflation runs hot"
   ],
   "coste_usd": 0.0431
+ },
+ {
+  "id": "asia-cierre",
+  "etiqueta": "cierre Asia",
+  "hora": "2026-11-11T08:34:50+00:00",
+  "hora_madrid": "09:34",
+  "clima": "mixto",
+  "resumen": "El cierre de Asia fue mixto: el Nikkei sube un 1,3% por la demanda de chips de IA y CoreWeave, mientras el Hang Seng cae un 1,0% y Shanghái sube un 0,5%. Pesa el IPC de EE. UU. por encima de lo esperado: Goldman añade una subida de la Fed, el yen cae a mínimos de un mes y el EUR/USD marca mínimos de 52 semanas. Europa sigue al alza y los Treasuries no cotizan por festivo, así que no hay referencia de bonos.",
+  "titulares": [
+   "Goldman adds another rate hike to Fed outlook after hot inflation data",
+   "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+   "Asian shares mostly rise on AI chip demand despite Wall Street's retreat on inflation data"
+  ],
+  "coste_usd": 0.0344
  }
 ]
