@@ -19,13 +19,13 @@ E = html.escape
 
 
 def _pct(x, level=False, digits=1):
-    if x is None:
+    if x is None or x != x:
         return "—"
     return f"{100 * x:+.0f} pb" if level else f"{100 * x:+.{digits}f}%".replace(".", ",")
 
 
 def _cls(x):
-    return "" if x is None else ("up" if x >= 0 else "down")
+    return "" if x is None or x != x else ("up" if x >= 0 else "down")
 
 
 def _num(x):

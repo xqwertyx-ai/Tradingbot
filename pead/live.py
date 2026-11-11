@@ -30,7 +30,9 @@ NY = ZoneInfo("America/New_York")
 
 
 def drop_partial_session(px: pd.DataFrame, now: dt.datetime | None = None) -> pd.DataFrame:
-    """Si se ejecuta con Wall Street abierto, la última fila es intradía: se quita."""
+    """Quita las filas sin precios (la fuente añade a veces una fila vacía del día siguiente si se ejecuta
+    pasada la medianoche UTC) y, si Wall Street está abierto, la última fila, que es intradía."""
+    px = px[px.notna().mean(axis=1) > 0.5]
     now = (now or dt.datetime.now(dt.timezone.utc)).astimezone(NY)
     if len(px) and px.index[-1].date() == now.date() and now.time() < dt.time(16, 15):
         return px.iloc[:-1]
@@ -100,9 +102,10 @@ def mark_to_market(book: pd.DataFrame, px: pd.DataFrame) -> pd.DataFrame:
     if op.empty:
         return op
     last = px.index[-1]
-    op["precio_actual"] = [px.at[last, t] if t in px else np.nan for t in op["ticker"]]
+    ult = px.ffill().iloc[-1]  # último precio disponible de cada valor
+    op["precio_actual"] = [ult[t] if t in ult else np.nan for t in op["ticker"]]
     op["ret_actual"] = op["precio_actual"] / op["precio_entrada"] - 1
-    op["spy_actual"] = px.at[last, "SPY"] / op["spy_entrada"] - 1
+    op["spy_actual"] = ult["SPY"] / op["spy_entrada"] - 1
     op["sesiones"] = [px.index.get_loc(last) - px.index.get_loc(pd.Timestamp(e)) for e in op["entrada"]]
     return op
 

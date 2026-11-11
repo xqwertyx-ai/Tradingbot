@@ -104,3 +104,22 @@ def test_compra_pendiente_el_mismo_dia():
     assert "T0" in set(pend["ticker"])
     book = live.update(live.load().iloc[0:0], ev, px, fetch_headlines=lambda t, d: "")
     assert "T0" not in set(book["ticker"])                          # aún no se ha comprado
+
+
+def test_fila_vacia_del_dia_siguiente_no_rompe_resultados():
+    """Una fila sin precios al final (ejecución pasada la medianoche UTC) no debe dar NaN."""
+    import datetime as dt
+    import numpy as np
+    import pandas as pd
+    from pead import live
+    days = pd.bdate_range("2026-10-01", "2026-11-11")
+    px = pd.DataFrame({"AAA": np.linspace(100, 110, len(days)), "SPY": np.linspace(700, 707, len(days))}, index=days)
+    px.iloc[-1] = np.nan                                       # fila vacía del 11-nov
+    now = dt.datetime(2026, 11, 11, 1, 12, tzinfo=dt.timezone.utc)
+    px2 = live.drop_partial_session(px, now)
+    assert px2.index[-1] == days[-2]
+    book = pd.DataFrame([{"ticker": "AAA", "entrada": str(days[5].date()), "precio_entrada": float(px.iloc[5, 0]),
+                          "spy_entrada": float(px.iloc[5, 1]), "estado": "ABIERTA"}])
+    m = live.mark_to_market(book, px2)
+    assert np.isfinite(m["ret_actual"].iloc[0]) and np.isfinite(m["spy_actual"].iloc[0])
+    assert np.isfinite(live.mark_to_market(book, px)["ret_actual"].iloc[0])   # aunque llegue la fila vacía

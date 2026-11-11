@@ -222,6 +222,10 @@ def dia_section(entradas: list[dict], now) -> list[str]:
     return L
 
 
+def _pct(x) -> str:
+    return "—" if x is None or x != x else f"{100 * x:+.1f}%"
+
+
 def pead_section(st: dict | None) -> list[str]:
     """Test en vivo de la regla de deriva tras resultados (reports/pead.md)."""
     if not st:
@@ -242,6 +246,6 @@ def pead_section(st: dict | None) -> list[str]:
     if st.get("abiertas"):
         L += ["", "| Empresa | Entrada | Sesiones | Resultado | SPY mismo periodo |", "|---|---|--:|--:|--:|"]
         for p in sorted(st["abiertas"], key=lambda p: p["entrada"], reverse=True):
-            L.append(f"| {p['ticker']} | {p['entrada']} | {p['sesiones']}/40 | {100 * p['ret']:+.1f}% | {100 * p['spy']:+.1f}% |")
+            L.append(f"| {p['ticker']} | {p['entrada']} | {p['sesiones']}/40 | {_pct(p['ret'])} | {_pct(p['spy'])} |")
     L.append("")
     return L
