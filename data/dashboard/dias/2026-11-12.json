@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-12T08:51:44+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "Desde el cierre de EE. UU. dominan dos cosas: un nuevo golpe a NVIDIA (-8,6% según un titular, con rumores sobre Jensen Huang y sin confirmar) y el refuerzo de las apuestas de subida de la Fed (dólar en máximos de 19 meses, oro por debajo de 4.000$). Europa abre casi plana y con tono firme (Ibex en 20.000, DAX en máximos) apoyada en resultados empresariales, a pesar del entorno de tipos más altos.",
+  "titulares": [
+   "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+   "Nvidia stock plunges 8.6%, but AMD and Broadcom rally. Which chip stocks are worth buying?",
+   "Dollar rises to 19-month high as Fed hike bets grow, yen wobbles"
+  ],
+  "coste_usd": 0.0456
+ }
+]
