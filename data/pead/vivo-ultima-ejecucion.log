@@ -1,4 +1,4 @@
-Resultados: refrescando 91 empresas
+Resultados: refrescando 52 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -17,8 +17,8 @@ Precios...
   precios: 400/504
   precios: 500/504
   precios: 504/504
-  última sesión: 2026-11-11
-Anuncios desde 2026-10-12 en los datos: 778 (con fecha pasada: 357)
+  última sesión: 2026-11-10
+Anuncios desde 2026-10-12 en los datos: 778 (con fecha pasada: 356)
 Eventos con reacción reciente: 354; señales de compra: 29
 ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
   IDXX 2026-11-02 antes_apertura 2026-11-02 2026-11-03 0.223273 0.085267       1
@@ -37,4 +37,41 @@ ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
    SWK 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.114528 0.084803       1
   VRSK 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.112932 0.085267       1
 Precios: 0 de 500 sin dato en la última sesión
-{"abiertas": 29, "cerradas": 0} pendientes: 0, abiertas: 29
+Traceback (most recent call last):
+  File "pandas/_libs/index.pyx", line 748, in pandas._libs.index.DatetimeEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2767, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2791, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 1794355200
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3816, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 716, in pandas._libs.index.DatetimeEngine.get_loc
+  File "pandas/_libs/index.pyx", line 750, in pandas._libs.index.DatetimeEngine.get_loc
+KeyError: Timestamp('2026-11-11 00:00:00')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/pandas/core/indexes/datetimes.py", line 2240, in get_loc
+    return Index.get_loc(self, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3823, in get_loc
+    raise KeyError(key) from err
+KeyError: Timestamp('2026-11-11 00:00:00')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/work/Tradingbot/Tradingbot/scripts/pead_vivo.py", line 54, in <module>
+    book = live.update(live.load(), ev, px)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Tradingbot/Tradingbot/pead/live.py", line 84, in update
+    i_e = days.get_loc(pd.Timestamp(p["entrada"]))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/pandas/core/indexes/datetimes.py", line 2242, in get_loc
+    raise KeyError(orig_key) from err
+KeyError: Timestamp('2026-11-11 00:00:00')
