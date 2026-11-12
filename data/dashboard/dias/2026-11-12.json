@@ -12,5 +12,20 @@
    "Dollar rises to 19-month high as Fed hike bets grow, yen wobbles"
   ],
   "coste_usd": 0.0456
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-12T21:54:27+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "En el cierre de EE. UU. se confirma la lectura de la apertura de Europa: la Fed apunta a más subidas (Hammack, Daly y Goolsbee en la misma línea, 87% de probabilidad de subida en diciembre según Kalshi), el 10 años cierra en 5,10% y el dólar está en máximos de 19 meses. El castigo se concentra en NVDA (-4,3%, menos que el -8,6% citado antes), small caps, oro (-3%) y cripto, mientras que los índices grandes ceden poco (S&P -0,4%, NDX -0,3%). Brent sube un 3,2%, lo que añade presión inflacionista.",
+  "titulares": [
+   "Fed interest rate odds: Traders see 87% chance of quarter-point hike in December",
+   "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
+   "Fed’s Daly Says More Rate Hikes Needed to Cool Inflation"
+  ],
+  "coste_usd": 0.0748,
+  "resumen_dia": "Asia cerró mixta con datos del 11-nov (Nikkei +1,3%, Shanghái +0,5%, Hang Seng -1,0%), todavía bajo la sombra del golpe a NVIDIA y las apuestas de subida de la Fed. Europa estuvo firme gracias a los resultados (DAX en máximos de 52 semanas, Siemens al alza), aunque el Ibex perdió los 20.000 por el efecto Nvidia (-0,3%). En EE. UU. dominó el discurso hawkish de la Fed: el 10 años superó el 5%, el dólar tocó máximos de 19 meses (EUR/USD -1,0%, -3,3σ) y el Russell 2000 cayó un 1,7%. El oro (-3%) y el bitcoin (-3,4%, mínimos de unas 12 semanas) sufrieron a la vez, y NVDA marcó mínimos de 52 semanas con RSI 26. Los resultados de Cisco (infraestructura IA que duplicará ingresos) y Cerebras (+18%, acuerdo con Microsoft) salieron tras el cierre y contrastan con el miedo a una burbuja de IA."
  }
 ]
