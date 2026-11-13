@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-13T08:52:10+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-off",
+  "resumen": "Desde la última revisión domina un repunte de la expectativa de subidas de la Fed: los rendimientos de EE. UU. suben con fuerza (TNX 5,10%, mayor salto desde 2022), el dólar toca máximos de 19 meses y el yen se acerca a 160. Cripto se desploma (BTC bajo 68.000$, unos 1.500 M$ en liquidaciones) con el golpe de Nvidia de fondo, mientras Europa abre ligeramente a la baja a la espera del PPI de EE. UU. y tras inflación francesa del 3,7%.",
+  "titulares": [
+   "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+   "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
+   "French inflation rises to 3.7% in October, highest since December 2023"
+  ],
+  "coste_usd": 0.0356
+ }
+]
