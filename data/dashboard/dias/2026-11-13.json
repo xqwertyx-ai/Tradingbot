@@ -12,5 +12,15 @@
    "French inflation rises to 3.7% in October, highest since December 2023"
   ],
   "coste_usd": 0.0356
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-13T21:53:15+00:00",
+  "hora_madrid": "22:53",
+  "clima": null,
+  "resumen": null,
+  "titulares": [],
+  "coste_usd": null
  }
 ]
