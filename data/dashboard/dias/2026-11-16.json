@@ -8,5 +8,20 @@
   "resumen": null,
   "titulares": [],
   "coste_usd": null
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-16T21:54:43+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "Es la única revisión con contenido del día (la anterior no tiene datos). Wall Street cae con fuerza (S&P -1,9%, Nasdaq 100 -2,7%, SMH -5,1%, ASML -5,9%), con el sector tecnológico a la cabeza. El mercado espera los resultados de Nvidia y la salida a bolsa de Anthropic, y el discurso de Warsh sobre los riesgos de la IA añade presión. El Brent baja un 4,2%, el dólar y el 10 años en el 5,1% siguen altos y las cripto, el oro y EUR/USD siguen débiles.",
+  "titulares": [
+   "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+   "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
+   "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes"
+  ],
+  "coste_usd": 0.0747,
+  "resumen_dia": "Asia: la tabla solo llega al 13-nov, sin cierre de hoy, y XTB habla de datos débiles en Europa y Asia. Europa cerró con caídas moderadas (Euro Stoxx -0,6%, DAX -0,6%, IBEX -0,4%) y el DAX sigue cerca de máximos de 52 semanas. En EE. UU. la venta se aceleró en la sesión, sobre todo en tecnología y semiconductores, ante los resultados de Nvidia, el debut de Anthropic y los comentarios de Warsh sobre IA, con Hammack reiterando subidas pequeñas de tipos. Las caídas de EE. UU. ocurrieron en buena parte con Europa ya cerrada, lo que sugiere un posible ajuste a la baja en Europa mañana. Brent, oro y cripto cierran débiles, con el dólar fuerte y el 10 años por encima del 5%."
  }
 ]
