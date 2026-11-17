@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-17T08:24:25+00:00",
+  "hora_madrid": "09:24",
+  "clima": "risk-off",
+  "resumen": "Desde el cierre de EE. UU. (S&P -1,9%, Nasdaq -2,7%, SMH -5,1%) Europa abre a la baja de forma moderada (IBEX -0,6%, DAX -0,8%) a la espera de los resultados de Nvidia y con tensión tecnológica EE. UU.-China. El dólar toca máximos de 19 meses por las apuestas de subida de tipos de la Fed en diciembre, lo que presiona al oro y a las criptomonedas, que siguen en sobreventa.",
+  "titulares": [
+   "Bitcoin Sinks 12.7% to $65,400 as December Fed Hike Odds Hit 92%",
+   "US dollar hits 19-month peak on Fed hike bets, while NZ dollar slumps",
+   "La Bolsa española abre con caída del 0,49 % pendiente de EEUU-China y los resultados de Nvidia - EFE"
+  ],
+  "coste_usd": 0.0371
+ }
+]
