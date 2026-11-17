@@ -12,5 +12,20 @@
    "La Bolsa española abre con caída del 0,49 % pendiente de EEUU-China y los resultados de Nvidia - EFE"
   ],
   "coste_usd": 0.0371
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-17T21:53:55+00:00",
+  "hora_madrid": "22:53",
+  "clima": "risk-off",
+  "resumen": "Desde la revisión de apertura de Europa, Wall Street cerró a la baja (S&P -1,0%, Nasdaq 100 -0,7%, Russell -1,5%) antes de los resultados de Nvidia. Tras el cierre, Nvidia batió estimaciones y AMD, Broadcom y TSMC suben. El mensaje de la Fed fue restrictivo: Williams descarta una subida 'dramática' en diciembre pero no descarta más subidas. El 10 años sigue por encima del 5% y el dólar está en máximos de 19 meses.",
+  "titulares": [
+   "Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster",
+   "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'",
+   "Top Fed official: AI boom could fuel more rate hikes in 2027"
+  ],
+  "coste_usd": 0.0726,
+  "resumen_dia": "Asia cerró mayormente débil: el Nikkei cayó un 2,4%, Shanghái tocó mínimos de 52 semanas y el Hang Seng subió un 0,5%. Europa abrió con caídas moderadas y cerró con pérdidas más amplias (DAX y Euro Stoxx -2,1%, con movimientos de -2,3σ y -2,5σ; IBEX -1,6%) por el dólar fuerte y las apuestas de subida de tipos. EE. UU. cerró a la baja en un día de espera a Nvidia y al debut de Anthropic. Las criptomonedas siguen en sobreventa fuerte (BTC en torno a 64.000, RSI 23) y el oro en mínimos de 52 semanas. Tras el cierre, el beneficio de Nvidia superó expectativas, lo que sugiere un posible rebote tecnológico que Europa aún no ha podido reflejar."
  }
 ]
