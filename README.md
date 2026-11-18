@@ -2,55 +2,55 @@
 
 # 📊 Radar de mercados
 
-**martes 17 nov 2026 · revisión de cierre EE. UU. · 22:53 (Madrid)**
+**miércoles 18 nov 2026 · revisión de actualización · 03:54 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
-> **Clima:** 🔴 risk-off (aversión al riesgo)  
-> Desde la revisión de apertura de Europa, Wall Street cerró a la baja (S&P -1,0%, Nasdaq 100 -0,7%, Russell -1,5%) antes de los resultados de Nvidia. Tras el cierre, Nvidia batió estimaciones y AMD, Broadcom y TSMC suben. El mensaje de la Fed fue restrictivo: Williams descarta una subida 'dramática' en diciembre pero no descarta más subidas. El 10 años sigue por encima del 5% y el dólar está en máximos de 19 meses.  
-> **Decisión:** no operar hoy — Ninguna hipótesis nueva alcanza p >= 55 ni EV >= 1% tras costes; la reacción real a Nvidia aún no está en precios.
+> **Clima:** 🟡 mixto  
+> Se trata de una revisión de actualización con Asia abierta (Nikkei, Hang Seng y Shanghái a la baja, ligeramente). Lo nuevo desde el cierre de EE. UU. es que Nvidia superó previsiones y elevó guía tras el cierre (futuros al alza) y que Williams descartó una subida 'dramática' en diciembre. Persiste el tono restrictivo de la Fed, con dólar en máximos y oro en mínimos. Las bolsas europeas y EE. UU. cerraron bajistas antes del resultado de Nvidia.  
+> **Decisión:** no operar hoy — Revisión de actualización, solo observación: las decisiones se toman con los cierres de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
 | **S&P 500** | 7.341 | 🔴▼ -1.0% | 🔴▼ -4.6% | ↘️ bajista |
 | **Nasdaq 100** | 27.002 | 🔴▼ -0.7% | 🔴▼ -8.6% | ↘️ bajista |
 | **IBEX 35** | 19.625 | 🔴▼ -1.6% | 🔵▲ +3.1% | ↗️ alcista |
-| **Nikkei 225** | 59.662 | 🔴▼ -2.4% | 🔴▼ -7.4% | ↘️ bajista |
+| **Nikkei 225** | 58.697 | 🔴▼ -0.3% | 🔴▼ -9.6% | ↘️ bajista |
 | **Bono EE. UU. 10a (%)** | 5.103 | ▼ -2 pb | ▼ -3 pb | ➡️ lateral |
-| **EUR/USD** | 1.1 | 🔴▼ -0.2% | 🔴▼ -2.0% | ↘️ bajista |
-| **Brent** | 93.05 | 🔵▲ +0.7% | 🔴▼ -15.1% | ↘️ bajista |
-| **Oro** | 3.854 | 🔵▲ +0.0% | 🔴▼ -7.4% | ↘️ bajista |
-| **Bitcoin** | 64.195 | 🔴▼ -1.0% | 🔴▼ -20.6% | ↘️ bajista |
+| **EUR/USD** | 1.1 | 🔴▼ -0.0% | 🔴▼ -2.0% | ↘️ bajista |
+| **Brent** | 92.81 | 🔵▲ +0.4% | 🔴▼ -15.3% | ↘️ bajista |
+| **Oro** | 3.799 | 🔴▼ -1.4% | 🔴▼ -8.7% | ↘️ bajista |
+| **Bitcoin** | 64.131 | 🔴▼ -1.1% | 🔴▼ -20.6% | ↘️ bajista |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
 ## 🕒 Hoy, sesión a sesión
 
-> **Resumen del día:** Asia cerró mayormente débil: el Nikkei cayó un 2,4%, Shanghái tocó mínimos de 52 semanas y el Hang Seng subió un 0,5%. Europa abrió con caídas moderadas y cerró con pérdidas más amplias (DAX y Euro Stoxx -2,1%, con movimientos de -2,3σ y -2,5σ; IBEX -1,6%) por el dólar fuerte y las apuestas de subida de tipos. EE. UU. cerró a la baja en un día de espera a Nvidia y al debut de Anthropic. Las criptomonedas siguen en sobreventa fuerte (BTC en torno a 64.000, RSI 23) y el oro en mínimos de 52 semanas. Tras el cierre, el beneficio de Nvidia superó expectativas, lo que sugiere un posible rebote tecnológico que Europa aún no ha podido reflejar.
-
-- **09:24 · apertura Europa** 🔴 Desde el cierre de EE. UU. (S&P -1,9%, Nasdaq -2,7%, SMH -5,1%) Europa abre a la baja de forma moderada (IBEX -0,6%, DAX -0,8%) a la espera de los resultados de Nvidia y con tensión tecnológica EE. UU.-China. El dólar toca máximos de 19 meses por las apuestas de subida de tipos de la Fed en diciembre, lo que presiona al oro y a las criptomonedas, que siguen en sobreventa.
-- **22:53 · cierre EE. UU.** 🔴 Desde la revisión de apertura de Europa, Wall Street cerró a la baja (S&P -1,0%, Nasdaq 100 -0,7%, Russell -1,5%) antes de los resultados de Nvidia. Tras el cierre, Nvidia batió estimaciones y AMD, Broadcom y TSMC suben. El mensaje de la Fed fue restrictivo: Williams descarta una subida 'dramática' en diciembre pero no descarta más subidas. El 10 años sigue por encima del 5% y el dólar está en máximos de 19 meses.
+- <sub>apertura Europa · prevista ~09:15</sub>
+- <sub>cierre EE. UU. · prevista ~22:15</sub>
 
 ## 📰 Noticias clave
 
-- **[resultados]** [Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5) <sub>WSJ · 17/11 22:48 · ●●●●●</sub>  
-  Sorpresa positiva sobre unas expectativas bajas tras la salida de Huang y una caída del 28% en un mes; no consta la magnitud de la reacción tras el cierre. **Impacto:** NVDA y la cadena de IA/semiconductores (SMH, ASML, AMD, Broadcom, TSMC) deberían rebotar; Europa aún no ha reflejado la noticia porque cerró antes.
+- **[resultados]** [Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates](https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html) <sub>CNBC · 18/11 02:50 · ●●●●●</sub>  
+  Sorpresa positiva moderada: beat y guía sólida tras caída del 28% en un mes, aunque con incertidumbre de liderazgo (dimisión de Huang). **Impacto:** NVDA, SMH, ASML y pares de IA (AMD, Broadcom, TSMC) al alza en la sesión posterior al cierre; apoyo a Nasdaq y a Europa en la apertura. La reacción real se verá en precio.
 - **[macro]** [Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk9OREc3MG52anFIVXNNUy1VaUhIWnJ3bTZjS2RhQVZaSHgzV1VXZEpqSmVMR2pHdGpVdTFRbXlKWFhPLXBXTWtVX0NvQ2xScUk0dnI5MjA5VVpLQTF0YkIwYi1uMjNyTGZaTlloNjE4c0dlMmhlOTJxWVQ0RVkzMG12WEZPRTFyZnNLU3V2TmFqYmNMUUhYRXJ2SGdySEFKdnN4c1Q2MDdrVW5NTTY0UFBVeTVpb1QzODBOMHFLQlRCaDA?oc=5) <sub>Reuters · 17/11 21:16 · ●●●●</sub>  
-  Parcialmente esperada: el mercado ya descontaba más subidas, y descartar una acción 'dramática' resta algo de cola alcista a los tipos. **Impacto:** Tono restrictivo sostenido: presión sobre renta variable de duración larga (tecnología, small caps), apoyo al dólar y lastre para oro y criptomonedas.
-- **[macro]** [Top Fed official: AI boom could fuel more rate hikes in 2027](https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQXpTVWgwMlJBMmxXNFd6OEdKUGJiMG9lZUlCXzBDVTQ0NktCR05RTzB2ZHI0a0UxSEZqeWt1V1c2NUdIOWg0U0hQUVc1RmlmeEtZOU9VQmNnOVRpTHVKY19ieVZDdzRHcjhHTzQ4OGFYVktGYzNGTQ?oc=5) <sub>Axios · 17/11 21:18 · ●●●</sub>  
-  Novedad de narrativa: vincula el boom de la IA con más subidas en 2027, un riesgo que quizá no estaba descontado. **Impacto:** Refuerza tipos altos durante más tiempo; negativo para valoraciones tecnológicas y activos de riesgo a medio plazo.
-- **[macro]** [Dollar Rises to 19-Month High on Fed Rate-Hike Bets](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUFTNFdTU2N5M2hVYW8zei1IMG9pbnFtc0xHU3U4cjZXUXFmaXVCTmRTbktVd2pTTlpiNHp1R2ZmWlBLSTdyU0dnX1NiT21mM2JiX3JkUzc4S0dlb3IyZEgxbzlPNEhTX1lPa0c5MHBpZU1aTjJQdGg1b242M3hUT1AtN25lNXFacnNTUmJzbFNHUkg4QzNmOEFvNk0tLWpHeFpzNVpLdlYxOHpNMmJRTUp6ZzBxS2M?oc=5) <sub>WSJ · 17/11 20:24 · ●●●</sub>  
-  Ya descontado: el dólar acumula una subida de +1,3% en 5 días y está en máximos de 52 semanas. **Impacto:** Dólar fuerte presiona EUR/USD, oro y criptomonedas; añade fricción a las multinacionales de EE. UU. y a las bolsas europeas.
-- **[cripto]** [Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum'](https://news.google.com/rss/articles/CBMidkFVX3lxTFBxX3JfSmJRcXNxb3VZdHdyZlJkUUhXbXdNTUN2STdMRVlRV3Y5aWVJOWtMZjhyRkJRYnluQ1pfOW9ZWUQ2SU1FOTVDVVowNnc3QkMzNlRmWVZ4VEdETlRVSGlRb01UUmswM2xMLWNJMGFSQ2E4VFE?oc=5) <sub>BigGo Finance · 17/11 20:05 · ●●●</sub>  
-  Narrativa explicativa (la salida de capital hacia la OPI de Anthropic) más que dato; la causalidad es interpretativa, no probada. **Impacto:** BTC y altcoins en sobreventa extrema: riesgo de continuación por flujos y de rebote técnico.
-- **[política/regulación]** [Fed official Lisa Cook refuses to attend White House firing hearing, citing bias](https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5) <sub>The Washington Post · 17/11 22:39 · ●●</sub>  
-  Esperada: el conflicto Casa Blanca-Fed por Cook lleva tiempo; negarse a asistir al encuentro es un paso más. **Impacto:** Riesgo de independencia de la Fed: puede elevar la prima de plazo y debilitar al dólar si escala, pero hoy el efecto en precios es poco claro.
+  Parcialmente esperada: Williams mantiene sesgo restrictivo pero descarta subida 'dramática' en diciembre, algo menos duro de lo temido. **Impacto:** Frena el repunte del dólar y de la curva; leve alivio para renta variable, pero sin giro de política.
+- **[macro]** [US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5) <sub>Bloomberg.com · 17/11 21:14 · ●●●●</sub>  
+  Ya descontada: el 10 años en 5,1% con ciclo de subidas de la Fed. **Impacto:** Tipos reales altos presionan growth, oro y cripto; favorecen a financieras de forma ambigua.
+- **[macro]** [Top Fed official: AI boom could fuel more rate hikes in 2027](https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQXpTVWgwMlJBMmxXNFd6OEdKUGJiMG9lZUlCXzBDVTQ0NktCR05RTzB2ZHI0a0UxSEZqeWt1V1c2NUdIOWg0U0hQUVc1RmlmeEtZOU9VQmNnOVRpTHVKY19ieVZDdzRHcjhHTzQ4OGFYVktGYzNGTQ?oc=5) <sub>Axios · 17/11 23:09 · ●●●●</sub>  
+  Sorpresa moderada: un alto cargo de la Fed vincula el boom de la IA con más subidas en 2027. **Impacto:** Riesgo de tipos altos más tiempo; negativo para duración larga (tecnología) y activos sin rendimiento (oro, BTC).
+- **[macro]** [Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5) <sub>Investing.com · 18/11 02:14 · ●●●</sub>  
+  Esperada: el oro ya cotiza en mínimos de 52 semanas por apuestas de subidas. **Impacto:** GC=F cerca de 3.800 con dólar fuerte; presión bajista persistente, pero con ya mucho movimiento descontado.
+- **[política/regulación]** [Fed official Lisa Cook refuses to attend White House firing hearing, citing bias](https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5) <sub>The Washington Post · 18/11 01:49 · ●●●</sub>  
+  Continuación de un conflicto conocido sobre la gobernadora Cook y la Casa Blanca. **Impacto:** Riesgo de independencia de la Fed; potencial prima de riesgo en bonos y dólar si escala, sin efecto claro hoy.
 
-**Divergencias precio-noticia:** SOL sube un 2,5% en un día en que BTC y ETH caen un 1%, con sobreventa generalizada: probable rebote idiosincrático, sin catalizador claro en los titulares. · El oro apenas varía (0,0%) con el dólar en máximos y subidas de tipos en el horizonte: o ya está descontado en mínimos de 52 semanas o hay compradores en sobreventa. · Brent +0,7% en un día risk-off con caídas de bolsas y de -15% en un mes: rebote técnico sin titular que lo explique. · La subida de Nvidia, AMD, Broadcom y TSMC tras el cierre contrasta con los cierres débiles de SMH (-0,4%) y NVDA (-0,4%): la reacción aún no está en la tabla de precios. · El titular 29 cita un rendimiento del Tesoro del 2,92% 'tras la inflación', incompatible con el 5,10% de la tabla; se descarta como dato fiable.
+**Divergencias precio-noticia:** Cripto sigue muda (BTC -1,1%, ETH -1,2%) pese al beat de Nvidia: el factor dominante son tipos y liquidez, no la IA; SOL +3,8% es un rebote aislado desde sobreventa. · Los futuros suben por Nvidia mientras el Euro Stoxx (-2,1%) y el DAX (-2,3σ) cerraron antes del resultado: posible brecha de recuperación en Europa en la apertura. · Asia cae levemente (Nikkei -0,3%, HSI -0,7%) pese al buen resultado de Nvidia, lo que sugiere que el mercado está más pendiente de tipos y dólar.
 
 ## 🎯 Hipótesis de hoy
+
+_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-17._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -58,28 +58,23 @@
 | 🔵▲ **Bitcoin** | Rebote técnico desde sobreventa extrema (RSI 23, -10% en 5 días) con posible apoyo de un tono más risk-on tras Nvidia. | 6 ses. | +6.0% / −3.5% | 38% | -0.1% 👀 |
 | 🔴▼ **EUR/USD** | Dólar en máximos de 19 meses con apuestas de subidas de la Fed (Williams no descarta más) y tendencia bajista; la divisa sigue la divergencia de tipos. | 7 ses. | +1.2% / −0.8% | 41% | -0.0% 👀 |
 
-<details><summary>Argumentos en contra</summary>
-
-- **ASML** · Los tipos altos y el dólar fuerte siguen presionando a la tecnología; el rebote de Nvidia puede desvanecerse en la apertura de EE. UU., y la idea se solapa con la hipótesis abierta de NVDA. Sesgos: Sesgo de ancla en el rebote tras sobreventa; la magnitud de la reacción de Nvidia es desconocida y puede estar ya descontada en futuros.
-- **Bitcoin** · Tendencia bajista fuerte, dólar en máximos y subidas de tipos; analistas como Wintermute apuntan a 50.000 y la OPI de Anthropic puede seguir drenando capital. Sesgos: Sesgo contrario a la tendencia y de 'comprar la caída'; la confianza baja refleja que la sobreventa puede persistir.
-- **EUR/USD** · EUR/USD ya está en mínimos de 52 semanas con RSI 30: riesgo de rebote técnico, y su vol de 0,4%/día hace difícil un 1,2% neto en el plazo. Sesgos: Sesgo de seguir tendencia; subestimación de la reversión tras la sobreventa.
-
-</details>
-
 <sub>Prob.: probabilidad de tocar el objetivo antes que el stop · EV: valor esperado neto de costes · ✅ se opera en simulación (EV ≥ 1% y prob. ≥ 55%) · 👀 solo se mide</sub>
 
 ## 👀 Valores a vigilar
 
-- **NVIDIA** — Magnitud real del gap tras resultados y capacidad de sostenerlo en la sesión regular; afecta a la hipótesis abierta.
-- **DAX** — Primera reacción europea al beat de Nvidia tras un -2,3σ y con Euro Stoxx cruzando a la baja su media de 50 sesiones.
-- **Oro** — Hipótesis bajista abierta: comprobar si el dólar fuerte pesa o si aparece rebote desde mínimos de 52 semanas.
-- **Bitcoin** — Zona de 62-65 mil como soporte; una ruptura abriría camino hacia 50 mil.
-- **Índice dólar** — En máximos de 52 semanas: clave para oro, cripto, EUR/USD y bolsas europeas.
+- **NVIDIA** — Confirmar si el beat se mantiene en la sesión regular o se diluye por la incertidumbre de liderazgo.
+- **ASML** — Europa abre con el beat de Nvidia sin descontar tras caer un 16% en un mes.
+- **Índice dólar** — En máximos de 52 semanas; clave para oro, EUR/USD y cripto.
+- **Oro** — En mínimos de 52 semanas; un rebote o ruptura marcará la presión de tipos reales.
+- **Bitcoin** — Sobreventa extrema (RSI 23) pero sin reacción a las noticias positivas de IA.
 - **Euro Stoxx 50** — movimiento anómalo hoy (-2.5σ), cruza a la baja su media de 50 sesiones
+- **DAX** — movimiento anómalo hoy (-2.3σ)
 - **Shanghái Compuesto** — en mínimos de 52 semanas
-- **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 30)
+- **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 29)
 - **Ethereum** — sobreventa (RSI 25)
-- **Solana** — sobreventa (RSI 25)
+- **Solana** — sobreventa (RSI 27)
+- **Inditex** — en máximos de 52 semanas
+- **Iberdrola** — movimiento anómalo hoy (-2.7σ)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
@@ -134,17 +129,17 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 30.
 | Euro Stoxx 50 | 6.212 | 🔴▼ -2.1% | 🔴▼ -1.8% | 🔵▲ +1.1% | 🔴▼ -3.3% | 47 | ➡️ lateral | movimiento anómalo hoy (-2.5σ), cruza a la baja su media de 50 sesiones |
 | Russell 2000 | 2.702 | 🔴▼ -1.5% | 🔴▼ -4.2% | 🔴▼ -1.0% | 🔴▼ -10.9% | 39 | ↘️ bajista | — |
 | DAX | 26.045 | 🔴▼ -2.1% | 🔴▼ -1.1% | 🔵▲ +2.9% | 🔵▲ +0.2% | 51 | ↗️ alcista | movimiento anómalo hoy (-2.3σ) |
-| Nikkei 225 | 59.662 | 🔴▼ -2.4% | 🔵▲ +1.5% | 🔴▼ -7.4% | 🔴▼ -11.6% | 39 | ↘️ bajista | — |
-| Hang Seng | 23.754 | 🔵▲ +0.5% | 🔴▼ -2.8% | 🔴▼ -1.3% | 🔴▼ -6.7% | 46 | ↘️ bajista | — |
-| Shanghái Compuesto | 3.603 | 🔴▼ -0.9% | 🔴▼ -1.6% | 🔴▼ -3.1% | 🔴▼ -8.4% | 36 | ↘️ bajista | en mínimos de 52 semanas |
+| Nikkei 225 | 58.697 | 🔴▼ -0.3% | 🔴▼ -4.2% | 🔴▼ -9.6% | 🔴▼ -14.6% | 36 | ↘️ bajista | — |
+| Hang Seng | 23.349 | 🔴▼ -0.7% | 🔴▼ -4.0% | 🔴▼ -2.2% | 🔴▼ -8.4% | 41 | ↘️ bajista | — |
+| Shanghái Compuesto | 3.576 | 🔴▼ -0.3% | 🔴▼ -2.9% | 🔴▼ -4.3% | 🔴▼ -8.9% | 34 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 5.103 | ▼ -2 pb | ▲ +12 pb | ▼ -3 pb | ▲ +45 pb | 56 | ➡️ lateral | — |
-| EUR/USD | 1.1 | 🔴▼ -0.2% | 🔴▼ -2.0% | 🔴▼ -2.0% | 🔴▼ -5.7% | 30 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 30) |
-| Índice dólar | 103.54 | 🔴▼ -0.0% | 🔵▲ +1.3% | 🔵▲ +1.5% | 🔵▲ +4.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 93.05 | 🔵▲ +0.7% | 🔵▲ +1.7% | 🔴▼ -15.1% | 🔵▲ +1.6% | 38 | ↘️ bajista | — |
-| Oro | 3.854 | 🔵▲ +0.0% | 🔴▼ -4.4% | 🔴▼ -7.4% | 🔴▼ -15.2% | 34 | ↘️ bajista | en mínimos de 52 semanas |
-| Bitcoin | 64.195 | 🔴▼ -1.0% | 🔴▼ -10.0% | 🔴▼ -20.6% | 🔴▼ -15.1% | 23 | ↘️ bajista | sobreventa (RSI 23) |
-| Ethereum | 1.802 | 🔴▼ -1.0% | 🔴▼ -10.7% | 🔴▼ -23.3% | 🔴▼ -24.9% | 25 | ↘️ bajista | sobreventa (RSI 25) |
-| Solana | 73.26 | 🔵▲ +2.5% | 🔴▼ -10.3% | 🔴▼ -27.6% | 🔴▼ -24.4% | 25 | ↘️ bajista | sobreventa (RSI 25) |
+| EUR/USD | 1.1 | 🔴▼ -0.0% | 🔴▼ -1.5% | 🔴▼ -2.0% | 🔴▼ -5.9% | 29 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 29) |
+| Índice dólar | 103.60 | 🔵▲ +0.0% | 🔵▲ +1.3% | 🔵▲ +1.6% | 🔵▲ +4.8% | 68 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 92.81 | 🔵▲ +0.4% | 🔵▲ +1.4% | 🔴▼ -15.3% | 🔵▲ +1.3% | 37 | ↘️ bajista | — |
+| Oro | 3.799 | 🔴▼ -1.4% | 🔴▼ -5.7% | 🔴▼ -8.7% | 🔴▼ -16.4% | 31 | ↘️ bajista | en mínimos de 52 semanas |
+| Bitcoin | 64.131 | 🔴▼ -1.1% | 🔴▼ -10.1% | 🔴▼ -20.6% | 🔴▼ -15.2% | 23 | ↘️ bajista | sobreventa (RSI 23) |
+| Ethereum | 1.797 | 🔴▼ -1.2% | 🔴▼ -10.9% | 🔴▼ -23.5% | 🔴▼ -25.1% | 25 | ↘️ bajista | sobreventa (RSI 25) |
+| Solana | 74.20 | 🔵▲ +3.8% | 🔴▼ -9.1% | 🔴▼ -26.7% | 🔴▼ -23.4% | 27 | ↘️ bajista | sobreventa (RSI 27) |
 | Semiconductores (SMH) | 460.10 | 🔴▼ -0.4% | 🔴▼ -4.9% | 🔴▼ -16.1% | 🔴▼ -18.0% | 35 | ↘️ bajista | — |
 | Financieras (XLF) | 57.07 | 🔴▼ -1.9% | 🔴▼ -2.1% | 🔵▲ +3.7% | 🔴▼ -0.7% | 50 | ↗️ alcista | — |
 | Energía (XLE) | 63.36 | 🔴▼ -0.5% | 🔵▲ +1.8% | 🔴▼ -6.5% | 🔴▼ -0.3% | 43 | ➡️ lateral | — |
@@ -153,10 +148,10 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 30.
 | Apple | 351.91 | 🔴▼ -0.2% | 🔵▲ +1.0% | 🔵▲ +2.6% | 🔵▲ +11.1% | 56 | ↗️ alcista | — |
 | Microsoft | 506.24 | 🔴▼ -2.3% | 🔴▼ -5.0% | 🔴▼ -5.1% | 🔵▲ +4.5% | 42 | ➡️ lateral | — |
 | ASML | 1.383 | 🔴▼ -1.7% | 🔴▼ -8.3% | 🔴▼ -16.0% | 🔴▼ -21.0% | 35 | ↘️ bajista | — |
-| Banco Santander | 10.80 | 🔴▼ -2.0% | 🔴▼ -4.1% | 🔴▼ -8.3% | 🔴▼ -11.7% | 41 | ↘️ bajista | — |
-| BBVA | 23.14 | 🔴▼ -1.7% | 🔴▼ -2.1% | 🔵▲ +1.8% | 🔴▼ -5.6% | 51 | ➡️ lateral | — |
-| Inditex | 59.56 | 🔴▼ -1.2% | 🔴▼ -1.0% | 🔵▲ +7.5% | 🔵▲ +3.4% | 60 | ↗️ alcista | — |
-| Iberdrola | 22.88 | 🔴▼ -1.1% | 🔴▼ -0.5% | 🔵▲ +7.8% | 🔵▲ +13.8% | 60 | ↗️ alcista | — |
+| Banco Santander | 11.02 | 🔴▼ -0.6% | 🔴▼ -0.4% | 🔴▼ -8.4% | 🔴▼ -10.4% | 45 | ↘️ bajista | — |
+| BBVA | 23.53 | 🔴▼ -0.2% | 🔵▲ +1.0% | 🔵▲ +1.5% | 🔴▼ -4.4% | 56 | ➡️ lateral | — |
+| Inditex | 60.30 | 🔵▲ +1.1% | 🔵▲ +1.1% | 🔵▲ +7.9% | 🔵▲ +3.5% | 66 | ↗️ alcista | en máximos de 52 semanas |
+| Iberdrola | 23.14 | 🔴▼ -2.4% | 🔵▲ +0.8% | 🔵▲ +6.7% | 🔵▲ +15.5% | 66 | ↗️ alcista | movimiento anómalo hoy (-2.7σ) |
 
 </details>
 
