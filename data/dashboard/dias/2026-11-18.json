@@ -12,5 +12,20 @@
    "UK inflation rises to one-year high of 3.6%"
   ],
   "coste_usd": 0.0351
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-18T21:53:17+00:00",
+  "hora_madrid": "22:53",
+  "clima": "mixto",
+  "resumen": "Desde la revisión de apertura, Europa ha cerrado con caídas de 0,9-1,3% (inflación alta y materias primas débiles). Después, las actas de la Fed mostraron que casi todos los miembros esperan más subidas y Waller defendió una de 50 pb en diciembre. El dólar subió a máximos de 19 meses, el oro y el cripto siguieron cayendo, y Nvidia cerró a la baja (-2,9%) pese a sus resultados.",
+  "titulares": [
+   "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+   "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come",
+   "Dollar Rises to 19-Month High on Fed Rate-Hike Bets"
+  ],
+  "coste_usd": 0.0816,
+  "resumen_dia": "Asia rebotó por la mañana apoyada en los resultados de Nvidia (beat y guía al alza), con futuros de EE. UU. al alza. Europa abrió plana y cerró en rojo (IBEX -1,3%, DAX -1,2%, Euro Stoxx -0,9%) por la inflación y las materias primas débiles, antes de las actas de la Fed y del recorte de Nvidia. En EE. UU., Nvidia pasó de beat a venta (-2,9%, mínimos de 52 semanas) y arrastró a las 'neoclouds'. Las actas apuntaron a más subidas y Waller habló de una de 50 pb en diciembre, lo que dejó un cierre mixto (S&P -0,2%, Nasdaq 100 +0,4%, Russell +0,5%). El dólar subió a máximos de 19 meses, el oro (-3,6%), el Brent (-4,6%) y el cripto (BTC -4,1%) se hundieron, y el rebote de Asia queda en entredicho para la sesión de mañana."
  }
 ]
