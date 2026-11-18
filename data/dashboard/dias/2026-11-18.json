@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-18T08:27:00+00:00",
+  "hora_madrid": "09:27",
+  "clima": "mixto",
+  "resumen": "Desde la revisión anterior, Asia ha rebotado tras los resultados de Nvidia (beat y guía al alza), con los futuros de EE. UU. al alza. Europa abre plana o ligeramente a la baja, con el IBEX en corrección, pendiente de la inflación europea y de las actas de la Fed. La inflación del Reino Unido sube a 3,6% por la energía, y el oro y el cripto siguen presionados por el temor a subidas de la Fed.",
+  "titulares": [
+   "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+   "UK inflation rises to one-year high of 3.6%"
+  ],
+  "coste_usd": 0.0351
+ }
+]
