@@ -12,5 +12,20 @@
    "Dollar Rises to 19-Month High on Fed Rate-Hike Bets"
   ],
   "coste_usd": 0.0374
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-19T21:54:02+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "Desde la revisión de apertura el día pasó de rebote moderado en Europa a un giro claro a risk-off. Europa cerró con caídas de entre 0,7% y 1,1%, y Wall Street se hundió (S&P -2,0%, Nasdaq 100 -2,2%, Russell -2,2%) con el mercado descontando subidas de la Fed (JPM prevé alzas en las tres próximas reuniones; Goolsbee no descarta una mayor). El oro cae un 3% y cripto y semis siguen débiles, mientras la salida a bolsa de Anthropic acapara la atención.",
+  "titulares": [
+   "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+   "Fed’s Goolsbee Won’t Rule Out Larger Rate Increases as Inflation Risks Mount",
+   "Fed's Goolsbee says AI surge could strain US capacity, overheat economy"
+  ],
+  "coste_usd": 0.079,
+  "resumen_dia": "Asia cerró mixta, con el Hang Seng muy débil y el Nikkei algo al alza, antes de digerir las actas hawkish de la Fed. Europa abrió con subidas moderadas (Euro Stoxx +0,9%, DAX +0,8%) pero cerró en negativo (Euro Stoxx -0,7%, DAX -1,1%, IBEX -1,0%) al endurecerse el mensaje de la Fed. En EE. UU. hubo ventas generalizadas (S&P -2,0%, con movimiento anómalo de -2,1σ), con semis (SMH -2,6%) y NVIDIA (-3,3%, mínimos de 52 semanas pese al beat) a la cabeza, y el Russell cayó un 2,2% tras haber subido por la mañana. El dólar sube a máximos de 52 semanas, el oro cae a mínimos de 52 semanas y el bitcoin pierde los 62.000 dólares. La salida a bolsa récord de Anthropic (+17% al cierre, tras llegar a +34%) no frenó la aversión al riesgo."
  }
 ]
