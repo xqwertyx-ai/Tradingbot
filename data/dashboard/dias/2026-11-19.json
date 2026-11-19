@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-19T08:52:33+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "Con la apertura de Europa, Asia cerró mixta (Hang Seng -1,9%, Nikkei +0,7%) y Europa abre con subidas moderadas (Euro Stoxx +0,9%, DAX +0,8%, IBEX +0,3%). Las actas de la Fed, hawkish, con casi todos los miembros esperando más subidas y algunos abiertos a +50 pb en diciembre, siguen dominando. El dólar marca máximos de 19 meses, el oro está cerca de mínimos de 14 meses y el cripto rebota desde sobreventa. Es una revisión solo de observación, sin hipótesis nuevas.",
+  "titulares": [
+   "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+   "Citi doesn't see need for Fed to hike by 50 basis points in December",
+   "Dollar Rises to 19-Month High on Fed Rate-Hike Bets"
+  ],
+  "coste_usd": 0.0374
+ }
+]
