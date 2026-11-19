@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-18T21:53:17.499805+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-11-19T02:32:47.104233+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -169,21 +169,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 58860.4296875,
-   "date": "2026-11-17",
-   "chg_1d": -0.013435513079307349,
-   "chg_5d": -0.026449877539564737,
-   "chg_1m": -0.09895032104850932,
-   "chg_3m": -0.1383158918053411,
-   "vol20_ann": 0.3265165075735385,
-   "ma50": 64446.126640625,
-   "ma200": 62192.55154296875,
-   "dist_ma50": -0.08667234548125557,
-   "dist_ma200": -0.05357750683643514,
-   "rsi14": 36.39440289793872,
-   "from_high": -0.18663253333840013,
-   "from_low": 0.2126744908576621,
-   "z_1d": -0.7655711162924703,
+   "last": 59143.44140625,
+   "date": "2026-11-19",
+   "chg_1d": 0.0020188328214501006,
+   "chg_5d": -0.027555666254500122,
+   "chg_1m": -0.07697148648309227,
+   "chg_3m": -0.14557602137741488,
+   "vol20_ann": 0.3235291221941615,
+   "ma50": 64238.678671875,
+   "ma200": 62245.71134765625,
+   "dist_ma50": -0.0793172800401295,
+   "dist_ma200": -0.049839095324646254,
+   "rsi14": 37.7734968382855,
+   "from_high": -0.18272171369373624,
+   "from_low": 0.21850525175703073,
+   "z_1d": 0.11931213137295478,
    "trend": "bajista",
    "flags": []
   },
@@ -195,21 +195,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 23508.169921875,
-   "date": "2026-11-17",
-   "chg_1d": -0.0103423245879819,
-   "chg_5d": -0.04271154751008577,
-   "chg_1m": -0.028059078186677855,
-   "chg_3m": -0.07706681632536316,
-   "vol20_ann": 0.22624559792829604,
-   "ma50": 24210.6311328125,
-   "ma200": 25190.2868359375,
-   "dist_ma50": -0.029014576575224438,
-   "dist_ma200": -0.06677640969386345,
-   "rsi14": 42.87120683093497,
-   "from_high": -0.1594645879211395,
-   "from_low": 0.036887602954929655,
-   "z_1d": -0.9367191967843261,
+   "last": 22916.240234375,
+   "date": "2026-11-19",
+   "chg_1d": -0.016248715509932454,
+   "chg_5d": -0.045496729762133925,
+   "chg_1m": -0.031102358205866598,
+   "chg_3m": -0.10826511497855962,
+   "vol20_ann": 0.20644125036858163,
+   "ma50": 24120.2449609375,
+   "ma200": 25151.879443359376,
+   "dist_ma50": -0.04991677026963759,
+   "dist_ma200": -0.08888557270715736,
+   "rsi14": 35.77780760826623,
+   "from_high": -0.18062905395392714,
+   "from_low": 0.010779039130971224,
+   "z_1d": -1.5087539169613877,
    "trend": "bajista",
    "flags": []
   },
@@ -221,21 +221,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 3584.5791015625,
-   "date": "2026-11-17",
-   "chg_1d": -0.004993925574102165,
-   "chg_5d": -0.02160201548531049,
-   "chg_1m": -0.0392237902117597,
-   "chg_3m": -0.0917470890777139,
-   "vol20_ann": 0.15359541755669284,
-   "ma50": 3781.337275390625,
-   "ma200": 3967.50712890625,
-   "dist_ma50": -0.052034018522666536,
-   "dist_ma200": -0.09651602754632338,
-   "rsi14": 34.63865321822813,
-   "from_high": -0.15509288005333766,
+   "last": 3565.48046875,
+   "date": "2026-11-19",
+   "chg_1d": -0.006229824112533144,
+   "chg_5d": -0.024713842668896313,
+   "chg_1m": -0.03973781086352468,
+   "chg_3m": -0.09210089920144682,
+   "vol20_ann": 0.14628774395815874,
+   "ma50": 3765.978046875,
+   "ma200": 3962.1354467773435,
+   "dist_ma50": -0.05323917867534367,
+   "dist_ma200": -0.10011141298815729,
+   "rsi14": 32.95006608804128,
+   "from_high": -0.15959454409458995,
    "from_low": 0.0,
-   "z_1d": -0.5902231991600486,
+   "z_1d": -0.7582105670455154,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -277,21 +277,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.0976948738098145,
-   "date": "2026-11-18",
-   "chg_1d": -0.0019319407116183962,
-   "chg_5d": -0.017189858629142574,
-   "chg_1m": -0.021295238937436123,
-   "chg_3m": -0.060823265138602034,
-   "vol20_ann": 0.05617930796072615,
-   "ma50": 1.1269833207130433,
-   "ma200": 1.1515245634317397,
-   "dist_ma50": -0.025988358802593425,
-   "dist_ma200": -0.04674645364186025,
-   "rsi14": 28.263180117961312,
-   "from_high": -0.08659714601410218,
+   "last": 1.0970927476882935,
+   "date": "2026-11-19",
+   "chg_1d": -0.0019966398065909274,
+   "chg_5d": -0.011201272974487364,
+   "chg_1m": -0.022786510941073868,
+   "chg_3m": -0.06083372290583222,
+   "vol20_ann": 0.05583570134584809,
+   "ma50": 1.1256893134117127,
+   "ma200": 1.1510799598693848,
+   "dist_ma50": -0.025403604158548365,
+   "dist_ma200": -0.04690135704144949,
+   "rsi14": 27.806786599018253,
+   "from_high": -0.0870981811660182,
    "from_low": 0.0,
-   "z_1d": -0.6640765482134131,
+   "z_1d": -0.6877711493942785,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas",
@@ -306,24 +306,25 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 103.79499816894531,
+   "last": 103.88700103759766,
    "date": "2026-11-18",
-   "chg_1d": 0.002947147661335192,
-   "chg_5d": 0.008599693667699082,
-   "chg_1m": 0.020298778569449283,
-   "chg_3m": 0.04949440412076789,
-   "vol20_ann": 0.053785098396790874,
-   "ma50": 101.69470031738281,
-   "ma200": 99.94692523956299,
-   "dist_ma50": 0.020652972524699997,
-   "dist_ma200": 0.03850116369421941,
-   "rsi14": 69.35904229931374,
+   "chg_1d": 0.003836150178983644,
+   "chg_5d": 0.009493706546703784,
+   "chg_1m": 0.02120316140259959,
+   "chg_3m": 0.0504246656701397,
+   "vol20_ann": 0.054305058713075643,
+   "ma50": 101.69654037475586,
+   "ma200": 99.94738525390625,
+   "dist_ma50": 0.021539185647514225,
+   "dist_ma200": 0.039416896937155554,
+   "rsi14": 70.0450956286123,
    "from_high": 0.0,
-   "from_low": 0.07872580390918049,
-   "z_1d": 0.9436131170004964,
+   "from_low": 0.07968197588470693,
+   "z_1d": 1.2282525491216192,
    "trend": "alcista",
    "flags": [
-    "en máximos de 52 semanas"
+    "en máximos de 52 semanas",
+    "sobrecompra (RSI 70)"
    ]
   },
   {
@@ -334,21 +335,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 88.81999969482422,
+   "last": 89.44000244140625,
    "date": "2026-11-18",
-   "chg_1d": -0.046381787879895,
-   "chg_5d": -0.0424752301710799,
-   "chg_1m": -0.1835646755459568,
-   "chg_3m": -0.052889732875190054,
-   "vol20_ann": 0.6449503921046479,
-   "ma50": 103.84159957885743,
-   "ma200": 94.34509990692139,
-   "dist_ma50": -0.14465878747010041,
-   "dist_ma200": -0.058562662157845,
-   "rsi14": 33.40977007864963,
-   "from_high": -0.24951414583882758,
-   "from_low": 0.5074677945532959,
-   "z_1d": -1.5508299546671531,
+   "chg_1d": -0.03972511243814125,
+   "chg_5d": -0.03579128523464625,
+   "chg_1m": -0.17786559712547367,
+   "chg_3m": -0.04627848575797522,
+   "vol20_ann": 0.6402886584131837,
+   "ma50": 103.85399963378906,
+   "ma200": 94.3481999206543,
+   "dist_ma50": -0.13879096850587924,
+   "dist_ma200": -0.052022163468680716,
+   "rsi14": 33.990448561711105,
+   "from_high": -0.24427542378918088,
+   "from_low": 0.5179905841977261,
+   "z_1d": -1.3282561353848705,
    "trend": "bajista",
    "flags": []
   },
@@ -360,26 +361,26 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 3726.10009765625,
+   "last": 3749.60009765625,
    "date": "2026-11-18",
-   "chg_1d": -0.03573827836567933,
-   "chg_5d": -0.06859140166072986,
-   "chg_1m": -0.10054072084719023,
-   "chg_3m": -0.18491049191607933,
-   "vol20_ann": 0.27786663055472854,
-   "ma50": 4142.851982421875,
-   "ma200": 4457.798494873047,
-   "dist_ma50": -0.10059540783351739,
-   "dist_ma200": -0.16413895739305617,
-   "rsi14": 28.681884164511146,
-   "from_high": -0.2993945235268589,
+   "chg_1d": -0.029656812526192122,
+   "chg_5d": -0.06271713594394446,
+   "chg_1m": -0.09486795508510382,
+   "chg_3m": -0.17976983467715535,
+   "vol20_ann": 0.26972906955569004,
+   "ma50": 4143.321982421875,
+   "ma200": 4457.915994873047,
+   "dist_ma50": -0.09502565488175863,
+   "dist_ma200": -0.15888946719305963,
+   "rsi14": 29.629310641857288,
+   "from_high": -0.29497590130372675,
    "from_low": 0.0,
-   "z_1d": -2.7183052305862048,
+   "z_1d": -2.2557401279262805,
    "trend": "bajista",
    "flags": [
-    "movimiento anómalo hoy (-2.7σ)",
+    "movimiento anómalo hoy (-2.3σ)",
     "en mínimos de 52 semanas",
-    "sobreventa (RSI 29)"
+    "sobreventa (RSI 30)"
    ]
   },
   {
@@ -390,24 +391,23 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 62247.921875,
-   "date": "2026-11-18",
-   "chg_1d": -0.040774581122444364,
-   "chg_5d": -0.08793282712373196,
-   "chg_1m": -0.2340375174565582,
-   "chg_3m": -0.18256519973190366,
-   "vol20_ann": 0.40787795507088603,
-   "ma50": 78563.353359375,
-   "ma200": 72716.20271484375,
-   "dist_ma50": -0.2076722897728509,
-   "dist_ma200": -0.14396077420179743,
-   "rsi14": 21.02808483131281,
-   "from_high": -0.35780095581880933,
-   "from_low": 0.06299751291902611,
-   "z_1d": -2.002203731173823,
+   "last": 62607.421875,
+   "date": "2026-11-19",
+   "chg_1d": -0.03523477308228273,
+   "chg_5d": -0.0826653717810869,
+   "chg_1m": -0.22961385953867097,
+   "chg_3m": -0.17784427408740588,
+   "vol20_ann": 0.4029138571917314,
+   "ma50": 78570.543359375,
+   "ma200": 72718.00021484375,
+   "dist_ma50": -0.20316928968355275,
+   "dist_ma200": -0.13903817912995775,
+   "rsi14": 21.41394151908716,
+   "from_high": -0.35409206804506566,
+   "from_low": 0.06913663522839064,
+   "z_1d": -1.7301758151864073,
    "trend": "bajista",
    "flags": [
-    "movimiento anómalo hoy (-2.0σ)",
     "sobreventa (RSI 21)"
    ]
   },
@@ -419,21 +419,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 1762.949951171875,
-   "date": "2026-11-18",
-   "chg_1d": -0.0329197073009172,
-   "chg_5d": -0.0854118421299277,
-   "chg_1m": -0.25223448113604174,
-   "chg_3m": -0.27033837565820473,
-   "vol20_ann": 0.5623614040250718,
-   "ma50": 2325.146474609375,
-   "ma200": 2135.223041381836,
-   "dist_ma50": -0.24178972360524054,
-   "dist_ma200": -0.17434857295706208,
-   "rsi14": 24.120332672950425,
-   "from_high": -0.47448712402874216,
-   "from_low": 0.1266175821504647,
-   "z_1d": -1.2899554905879136,
+   "last": 1770.010009765625,
+   "date": "2026-11-19",
+   "chg_1d": -0.029046855705341268,
+   "chg_5d": -0.08174920498051774,
+   "chg_1m": -0.24923991604696694,
+   "chg_3m": -0.26741631095747986,
+   "vol20_ann": 0.5605705899384369,
+   "ma50": 2325.28767578125,
+   "ma200": 2135.258341674805,
+   "dist_ma50": -0.23879955663079966,
+   "dist_ma200": -0.17105580377814833,
+   "rsi14": 24.362254123527677,
+   "from_high": -0.472382610685263,
+   "from_low": 0.1311293302789036,
+   "z_1d": -1.1381981819861404,
    "trend": "bajista",
    "flags": [
     "sobreventa (RSI 24)"
@@ -447,24 +447,24 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 72.94000244140625,
-   "date": "2026-11-18",
-   "chg_1d": -0.02882839248027058,
-   "chg_5d": -0.0660222875458788,
-   "chg_1m": -0.2870512335595983,
-   "chg_3m": -0.2605573158279261,
-   "vol20_ann": 0.559181453761366,
-   "ma50": 99.03136444091797,
-   "ma200": 88.62275909423828,
-   "dist_ma50": -0.26346564188841204,
-   "dist_ma200": -0.17696082601259955,
-   "rsi14": 27.390657936260425,
-   "from_high": -0.50297371732966,
-   "from_low": 0.17286110679689304,
-   "z_1d": -1.016082286875464,
+   "last": 73.23999786376953,
+   "date": "2026-11-19",
+   "chg_1d": -0.024834054300488462,
+   "chg_5d": -0.06218092438509959,
+   "chg_1m": -0.28411894182457287,
+   "chg_3m": -0.25751605708201586,
+   "vol20_ann": 0.5578387030734552,
+   "ma50": 99.03736434936523,
+   "ma200": 88.6242590713501,
+   "dist_ma50": -0.26048114926193555,
+   "dist_ma200": -0.17358973004439926,
+   "rsi14": 27.641201828333394,
+   "from_high": -0.5009294946177796,
+   "from_low": 0.17768497506300185,
+   "z_1d": -0.8752982915470883,
    "trend": "bajista",
    "flags": [
-    "sobreventa (RSI 27)"
+    "sobreventa (RSI 28)"
    ]
   },
   {
@@ -572,35 +572,6 @@
    "z_1d": 0.17001094416693074,
    "trend": "bajista",
    "flags": []
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "group": "Acciones",
-   "key": false,
-   "level": false,
-   "fuente": "Yahoo",
-   "calidad": "sin contraste",
-   "last": 150.9600067138672,
-   "date": "2026-11-18",
-   "chg_1d": -0.028946351509443247,
-   "chg_5d": -0.13106538636760268,
-   "chg_1m": -0.30262851266880564,
-   "chg_3m": -0.30385057659714865,
-   "vol20_ann": 0.5046596224029261,
-   "ma50": 210.3032012939453,
-   "ma200": 203.7182002258301,
-   "dist_ma50": -0.28217922606481327,
-   "dist_ma200": -0.25897633816457366,
-   "rsi14": 21.10188002406352,
-   "from_high": -0.36900182558229944,
-   "from_low": 0.0,
-   "z_1d": -1.0479447035378506,
-   "trend": "bajista",
-   "flags": [
-    "en mínimos de 52 semanas",
-    "sobreventa (RSI 21)"
-   ]
   },
   {
    "ticker": "AAPL",
@@ -740,21 +711,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 59.36000061035156,
-   "date": "2026-11-18",
-   "chg_1d": -0.0033579710934852347,
-   "chg_5d": -0.01198404125765129,
-   "chg_1m": 0.049504935804028705,
-   "chg_3m": 0.019580889140260904,
-   "vol20_ann": 0.26648546388113137,
-   "ma50": 55.583200225830076,
-   "ma200": 54.69249996185303,
-   "dist_ma50": 0.06794859542409659,
-   "dist_ma200": 0.08534078076068985,
-   "rsi14": 59.03009532090308,
-   "from_high": -0.015588700474332029,
-   "from_low": 0.27546195622327607,
-   "z_1d": -0.23418732243805587,
+   "last": 59.560001373291016,
+   "date": "2026-11-17",
+   "chg_1d": -0.01227193819456518,
+   "chg_5d": -0.009644130732353373,
+   "chg_1m": 0.07470233383489289,
+   "chg_3m": 0.03438693086613376,
+   "vol20_ann": 0.26569514958545415,
+   "ma50": 55.48560020446777,
+   "ma200": 54.68139995574951,
+   "dist_ma50": 0.07343168594750393,
+   "dist_ma200": 0.08921866341186346,
+   "rsi14": 60.423780662159366,
+   "from_high": -0.01227193819456518,
+   "from_low": 0.27975935113099126,
+   "z_1d": -0.8613970517634023,
    "trend": "alcista",
    "flags": []
   },
@@ -787,11 +758,263 @@
  ],
  "titulares": [
   {
-   "title": "Inflation in Midwest Higher Than National Rate",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5dXlUV2JNTGZkdDRTM29UTGJJSUttdkFxemlHS0M1VXlqTlMyN2NrQkNLbnhXWXRYakpUcFhBc05EM01SQ0t6aDRpX2NnZkZNTlBQQUo1UjZZWGw2dm5LQmNYWnZDcFFEYnUzX3BIOUtLQ214X2dJWnloQzdfbVU?oc=5",
-   "source": "KIWA Radio",
+   "title": "La Bolsa de Hong Kong abre a la baja tras confirmar las actas de la Reserva Federal nuevas subidas de tipos",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXY1SFZaREx2SmJiOXNOSjBhcjFXY1B2V2xVU1BYQXE4aWJsV1VnUEhMbll1LU1rZ2l2UGhRUjdMbUdKblRRdVllelFYOWJyTEhFa1VzQmM2MEw4R213ZHpuYU4zV2F1Q2VTcUJ1RzJGbWRLdElkRm5sTXRXZUI0dFBiaDdiZjRuOVJndUNWSXFTY2FIWVFZZU1GQjhFbkxMT2dfYkoxQjN0Q3pTMTNmRENKTERCeGNuaUREX2k0V2VwNGtrTkZzZlhCN3MtSkV0NWw3TmZRbXA2Z1FNQ28yemR1eUhWdlBCR3F6Vg?oc=5",
+   "source": "MarketScreener España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-19T02:09:12+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Worried about an AI bust? So is the Federal Reserve.",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+   "source": "The Washington Post",
    "feed": "Google News · markets",
-   "published": "2026-11-18T21:34:17+00:00",
+   "published": "2026-11-19T02:08:29+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeVBnRUZJVFdOVnpFN2VzbW14dEJLZjBNM1RMM29ERmY1cGF3eDF6WWcwb0t6OVNMbC1Jd2Nvcmx6QVlERkNYQUtHaGhQb3FVdVVRemk5YmV1am1PN3hzZHBQbzlrcDB6MWgyNV85a0sxLW9oLWZFQmdVZmNwWDlZVDVWZ3hPdTNaRm1SYmlNVnNLU1RJU2FVdEVHSnFXdU45Y1JXMS00ZUk3bFpvVWVubHBISS1fX2gtT0ZZUFowTHhiYlBvSlNPMDVTY0lUeDRpejU5YkxPSXYzbEhOZEU2Sno4OU1kTFRUbmdrMUhzdmpTUQ?oc=5",
+   "source": "Investor's Business Daily",
+   "feed": "Google News · markets",
+   "published": "2026-11-19T01:11:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "feed": "MarketWatch",
+   "published": "2026-11-19T01:02:00+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Japan bond yields surge to 3.75%, hiding a quiet Bitcoin trap",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlQ3aDdUYzR5elFKelBTZnctd2ZEZlBGUFhUZTRVUjMtMTBlVHI0S0hUM2dUN0RTdk51NTBHSnZtWjhkcHBwbkpuUVhfSHh4dS1OcDZIcUg1Z3h5eDh4TmVyZ1pUR2dHQ2VBSkRBN3pxNGRSaE52S2Z2U1VxSGZ0U1A2NmdSaTZpS2Q4cw?oc=5",
+   "source": "CryptoSlate",
+   "feed": "Google News · crypto",
+   "published": "2026-11-19T00:50:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Hawkish pressure from the Federal Reserve pushes Bitcoin below the $63,000 threshold",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEp4Q3hUMlQwSEU5dy1mNW5NWXRSV3ltNGFCNnhEanNPZ1V4OUtaWG1nTkJlTGZhcC1YV3cwWkhPZEtUOXkzWlhRamhTbHU0T0dZM0dEMGg0SklEQlBOdW1CelNYOHBheEx3b1c3a3JHUkxSZFg2cE5lUUtiVzM2NjZ4UGJ2OUxXMnNZU1pSRUVveHpUUXhVaTVPRHdSYk01Q2pmMDFVTmcycC1uaUZF?oc=5",
+   "source": "Moomoo",
+   "feed": "Google News · crypto",
+   "published": "2026-11-19T00:27:28+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+   "source": "CNBC",
+   "feed": "CNBC",
+   "published": "2026-11-19T00:07:06+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-11-19T00:01:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin Forecast: BTC Loses Momentum and Approaches $60K After the Fed Minutes",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkNkYm1sNTFodjBlQkxBZEpQcThLTm5oREthUzhSUGVTb25WbG1CSEMyTVFGTVlhU0tpVkRsRlp1SHdYcmVXRUE2NGE5SzNUZUVERDhiVlV0alpIc2dqVlZ4NWJQRi1Icm9SaktSdV9MLWFzY2p1ZzIxT1JxMEt4U1FNbzgxZW9WQ3VDeTQyMk5HT2Q0NzVaalIyTDlneldESkZJa3BSRXhFUWhDbGZNdU5hRjJySXlTN1BHVHE5ZnY?oc=5",
+   "source": "FOREX.com",
+   "feed": "Google News · crypto",
+   "published": "2026-11-18T23:50:55+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T23:24:06+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Don't Overlook These Top-Rated Stocks After Q3 Earnings: ZIM, AS, BEKE",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW9xN3RtZ2REUXoxU2l0UjFwY2pxdmsyNmNHZTVkUjBnRWpKTGRac1lVM0NISFNjcGpXOEVta3dObUp3dzBFdy1FVUdSQl8yZmU5ZGltQjJYcHNSekNuUTVyT1VMNWNEa1czLWhVWHVWMUlieXJQUWFCQmFZNkFCMXotODlzYmZ2YXpGd0dSM0NKYTlUSjUtMjFsaw?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T23:16:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Loblaw November Food Inflation Report",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWw5RGx0V1ZwUEttY2ZfWHVfRUgxUnc4bUF5SzZMTXFzRlg0V2RKYjkzWlJBQUE4UEdvRUt1dlM4WmFRZ2NsTk5zZzFteFh4U2E2dHNoS1N0RGstbXBqS2pFbzNKYTcteE9wendFR09ZWlhpa2x1eWlvRFp0bElBajd2TldLR1hwUUFaLXRycXVBRUZXcDZJWnhDYnQ?oc=5",
+   "source": "markets.businessinsider.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T23:12:26+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "La Bolsa baja un 1,28% por Wall Street y pese a los buenos resultados de Nvidia - El Imparcial",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHYtaWpSd2ZBdGVEOTZ4NEhHQ3hUaG96VzAxdF84eTVsZGgycTltU2FsVGhWdlU4d0hJbXl6LXR1STd6Uk51Y3k4QTVzWkhsV2RUQk1aQUhWVHdHalBRMzAwbWMxeVNDcGdLOTBwN01Oem5mbG1vemlhWWpOeWZrcTRxQXhEMVo2Q2NueTZpZkthQkVpUjBvU3RHdXRndldrcG1xN0hVRzZiM0ZJNE1jTlhZazI0THVSeUpWT01iTW5MNFlBcEF4VG9HT1M4dw?oc=5",
+   "source": "El Imparcial - Diario liberal e independiente",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-18T23:06:37+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "Fed: Los mercados creen que el banco central tendrá que subir los tipos más de lo que prevén actualmente los funcionarios – Neel Kashkari",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPckJZLXNoUUJyU0Z1NUxYcDE4dDBiUjVNRVBsU0kxcnV0YzZpemVrREhZbU9nODMxTzFWSE0ybDBSUVlHcFRydHFsOWlqeE5fUHRfNGtKZGVEY2VJN0gwRGZHWWhhOUFrYnBjRmd1Q3R0b3RhMWlKS2w1RWROSmhKN2RTMGFCRGtXLVhNcXJSODRGSnE4X2xWdUhnR1NUT2sxR0lhQ01xS2dLYVVlOGJpV2owUDZBT3ZpSWhaRnJNOEVVZUlkNG1Tb0hKTjd5dmN1OVVjTWx6TXRTVDJoX0diT0NrQUQyT2FSQ1daRThqTEloZl9GRERuNGhxU0t0aGZhMzFBUlpERQ?oc=5",
+   "source": "FXStreet",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-18T23:06:15+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T23:00:02+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "source": "AP News",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T22:48:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "News | A close call: Fed nearly decided to raise rates in October",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3V1Wnh4MWpKUFlJQUdEVlFwTUdwTWZ0THg3Y1V3M0tzS1BQM3VPS0UzX1h0SEp1M3FHUE9YckhVNnhKWnZvRG9ySlFqajdETGI3dC1UbV9laUU5eFhzQW8xREVMUDVyZkNueE5uMlduamZ4cUdCZlBSWHVFNGZOZV9PX1VKeWVlT0RPWFRZN3hlaVdxZlhNY0JHZUR6dS1G?oc=5",
+   "source": "CoStar",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T22:46:19+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Crypto Market Today, Nov. 18: Bitcoin's 12% Weekly Plunge Has Triggered a Rare Signal With a Surprising History",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNm0wSG9oR01TLXJDZXVjTkp3d0w4dXdxY0lBRUtPeW5sRlZOVnI2NU1RWHhkNXlyZVRrTHY5SURyQkhlVkZDOGlDeEdBVzZZeTRIRjdjOE8wYTBsQjRoN0lhYm1iNHdVYlhIQkl3R1VVZDlySHlrUW16ZW9NYVEzZFdGVmFVaF8zdmtFNW03Ymwwb3hIWjVBMUt1NXctcUJ4TWZLczdtcFlQUzYzV1FSaGZsTTY4c0VPeGhsMWR3WFlhbTEzRGlKb1pYTXhfWmQ3Y1JkSzN1RGpRcTRSNUhwMXZBVTFrREhiaEQ3WnhfSS1zZzN2RVJJLUdNbzU?oc=5",
+   "source": "The Motley Fool",
+   "feed": "Google News · crypto",
+   "published": "2026-11-18T22:25:02+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
+   "title": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los inversores esperan la salida a bolsa de Anthropic tras el impacto de Nvidia en el sentimiento de riesgo y la publicación de las actas de la Reserva Federal a favor",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS05GNjRTMFRtM01hTDd5V3M5SFc4RFZZa1RhRUlqNkJka2R4ekVQcUItWmtTUThRbnk0MXVENEo0eWZJQjFPMTk3QUo4U014XzR3ampHclhOUXZQcGZyZWdzb3BlUDlNeGdQVjBGX1dBYTQ3V1B0ZTJZY1BLd2RYOTVOT1Y4a1JvZnVubmp0bjRzTU14dVlCbTBBeHRxNE9SRWxKTl9SMHd2WHVscl80bjR6aTFSa2RWdHEzSUlzWF9ZVU9M?oc=5",
+   "source": "Yahoo",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-18T22:15:21+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "GTA VI is cheaper than past versions, adjusting for inflation. How have video game prices remained steady over time?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+   "source": "Marketplace.org",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T22:15:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Anthropic dispara el precio de su salida a Bolsa a los 83 dólares por acción y supera sus previsiones",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlpLS2VncE1WeGw0dUkwMlZiZWFsN3FocmpIWk11QW5rTF9TYnZjbG5kSXE0U0tkZVBySl9xMFlwMHpCNGk4UzVEdFNtRTlaWVdQTlZoVTBQdm5kdlF3YlV1ZndCajBTTHNJWDNGNEZtQWtYVS10bXlJWVEzQ0lVdXhIanlwV0xVVVFnOW41TDFZS0dzdHdlc2hrLXRtMDdwb3VxeHN3dnBhR2p1OXg5SWR2MkF3Z0dTMHZqeE52cV9KX18x0gHKAUFVX3lxTE1ZV1cxU2RQZldWZF9lZVNrUzlGUEVBaFhtZVdsVVdFUmNqYW5adTd0bUVwa3VhYmxyRzMxLUlua2xwUlJvZld2UUc2Z293RzU3blg2Y2NSb1d0Y2dWM0wxblBFbDRCTnRtUTBGLVlhdHd3X0Z3bjVxVmhLcU80YTV2N09Vb3JEWkVQMDNiQTdlOFlRVnJDMUl1dkg1c0lHNFhwUFNSdXplSGE1ZFZpcWFIcU1uUDVzczZYcGhJR0VMRkNUYjhhRXEyWUE?oc=5",
+   "source": "OkDiario",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-18T22:12:11+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "JORNADA BURSÁTIL-Mercados dispares entre Nvidia, Anthropic y las actas de la Fed",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdS05YlQ1cnpaVzM2d0ptZEJGTllNaU5ZaUo0UFJaQjg5T2hmOGJFTThhQUg2Wm9IS0JWV0ZtcHVGU01QWVloUTJqQ3dsV2tLSnNvUGRnbXY4TEJTd1NvRTNQNlZpb19NMlktOUhjaVlDMU1GVTVGR2ZrOUdlU2o2SEpuYUdBWk8wMHRwSGdzS09KMTNKbGd2RjF5QnBSQW1OWl92VjlqdGVFUEFUbWEtQlRORkNXQlQ2WUcyMC1pdnRHSGQtM1oxeWhla3kxVGF0?oc=5",
+   "source": "MarketScreener España",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-18T22:01:15+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The Fed came close to an October rate hike, FOMC minutes show",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU9lOS1EWHNmc1NuOGF6Rm5mcUFFc05Da0dtNUxJV1BkVFlLMXA0cG10VTJRYllNOWFoeThpZlJJOGJ5QjN2N3gxQmpDWFA0VlJWdFFYZXZLNzZKV3lPYVVEdmhzRnZmUzJzcm9NTkhsQ0R3dU85aUlhQkEtdnRnWEhDb2tpXzh0XzJTSEhuQ3YtMUc2MDZZR3JSTzRnZG1oanNBRnNseHUzQmc?oc=5",
+   "source": "InvestmentNews",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:49:44+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:40:06+00:00",
+   "category": "resultados",
+   "score": 3
+  },
+  {
+   "title": "How Does Medical Inflation Compare to Inflation in the Rest of the Economy?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTdHU0NScWhKM2lWYWcyRlRWLVRnZXVselVQbzlmWmRNT0tRenI5ZTFhVjJmelVpeG5GdTRjaDFoM1VYUGFWZTFwT0dET3FZYVB3MjQ0cmIyYkVhS0VRWFBoX2xGc2pCSVBHTERuYy1Vcm50XzBDM0NJY0toOGUxdDFkS2JRUDB3YzBBYmxKeTJBTGhzN29RU0FhU2tBTGdQRTMwQmVRcXNqSzRp?oc=5",
+   "source": "KFF",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:39:09+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Biggest risk for 2027 is Fed tightening too quickly, says Nuveen's Saira Malik",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWgtZVN0UHN5UVp6Q1N3N3VNdHZnSW40c29tT2k1ZnhNemlXYkhtRFNIVkd4OUNXZGp0VTNuemo0YXFXZjNyU2Fhc2RLWUxLRkpybGkzUWxXV0F1b2Rjako3RHJlaEc5S1cxakI2OXlDSVVhMHFGQkxFU3poUFJURjBYSmdsRTl0Zm9UV244VVR6T3dFYk1JeGRtSXJpNFRZcTZ0Q08xcXA0b1gwS1NqN0JPY19panlEaGk0?oc=5",
+   "source": "CNBC",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:38:19+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed Poised to Raise Rates Further to Stem Inflation | Economy | U.S. News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlVDNUY5ZDlySFRVSWdRTUczMVVCWFkzdTVqNFhfdmgxSDVNWmt1ZW0wNGloS05DREZfQ0JZbVBIdldpdGI1d1ljTzZ4SUgzQWp4NGhiSTQzbHE3TW9EakdIQmkzNmthZEY1MUNjUUxvVGQ1NWlKN1NJcjRFMzNBM2dkVk5BY1VjSmZRNmp0RTY2Z09HSEVKNXJReHJaRmRKd0lERWRTWjFVOUE?oc=5",
+   "source": "U.S. News & World Report",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:37:58+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW5jUWw3eWpMVDFtWWJvWUxCOWVfblVVMmt1Vk45aW82c0M3dkswaHVNalpCM3dDWHdBM0lwVUhLMGhVUldUT0lYVmNNek4xNlJmVkJVdzBQYVM1Ni1IbklGTjVZUElxYy12dG1uWUJyb2NQbHE5bUlMdXpwdkhqZTJGb0lCWlBha3ZqUHpkb3ZCdmtEYlAzLWRhVjFtZ0tlWHc?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:35:52+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Watch More Fed Rate Hates Expected",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lyUHZEUU9uSmVLV0RtaWlRSGdiNXJoQ25rb19FbHV0RndtV29yTC1uV1ptV0xXSkUyOU1VdkU3LUF0dkVCM2pjSXEwU214dk1Ya05meHljZExSVk1ZblhsTEhvQ2gtM1dXMTJYZVA5WVdnNXZJTk1XalV0bExGVGRGYXl1VGtXMzl3TzdWc3g5MWVrVm5PVk1n?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T21:34:30+00:00",
    "category": "macro",
    "score": 3
   },
@@ -814,21 +1037,12 @@
    "score": 3
   },
   {
-   "title": "Fed Minutes Kept Bank Stocks On Edge",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadTQ2czgtRlpENzNmZEtWazhlSmQyZnR1RlFBTC1rbFl0MlJpZF9qa3FQVVlDZ25HVXBhd28xa1IzMjh0RDBvaVR6TmptZkM1bHJNMGJNR3Q1U1htWkRsRjBQT3REY1h6cVlLUm1RZGhDY3c?oc=5",
-   "source": "Finimize",
+   "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
+   "source": "Reuters",
    "feed": "Google News · markets",
-   "published": "2026-11-18T21:08:02+00:00",
+   "published": "2026-11-18T21:15:02+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-   "source": "CNBC",
-   "feed": "CNBC",
-   "published": "2026-11-18T21:06:49+00:00",
-   "category": "resultados",
    "score": 3
   },
   {
@@ -841,12 +1055,12 @@
    "score": 3
   },
   {
-   "title": "Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthropic IPO",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnZDRWN3OXJudjZEd0EzTmxuSjh0dVRVSDFQRlNmUDZZS3VCQk9xSjBrTzI4OWVFcGJ0UUN3dUM4YjkwdUlfUnRnWHFfTGhRWm9BNURxdDRaQmhLaUd2UWlDbUZKLTAyRzlwNGdRRWFLVHoycUF6aDF0ZWEyS2E4UzgxWVUzU1BFYXpueXdkb2VvSkZsTzV5ZDZpR2ZlTFVlb2UwQ0p0NEJfQW5rS3VQS2JBV1BtTk5lMDdwZlFmNGtXN3k3SkZBcm1wdGRkd2tXWUl4NHRybWxhRkJCZHlneFpURVd2NzY2NTN3M3VvblBYVGtsc3Vna093?oc=5",
-   "source": "Crowdfund Insider",
-   "feed": "Google News · crypto",
-   "published": "2026-11-18T20:59:22+00:00",
-   "category": "cripto",
+   "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T20:52:12+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -855,6 +1069,15 @@
    "source": "Expansión",
    "feed": "Expansión",
    "published": "2026-11-18T21:51:15+01:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fed minutes show growing unease about the outlook for inflation",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5",
+   "source": "MarketWatch",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T20:51:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -868,15 +1091,6 @@
    "score": 3
   },
   {
-   "title": "Dow Jones y S&P 500 caen al cierre tras unos buenos resultados de Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjQtZjBkRFRDelk1UlpfdnkwUVNJODBxQkx6ellwZXpDa1lucExPazl2Uk8tRDNENDdVQ0Fzd1FNeEpJdXl5dUc4TW11Y0ltek5VMV9qSlgyRDBQSl9YTmsyN25VVFZ5Y3ZQYjNyNGc3aWZnc050bG9wcDFUQXBiU25LVFpkcEt0bHJBQUc3S2hzX2M2cGx4blNBN1pQMVFjc2xYY0dIV3ZMeV9hcTRQUlpqWUVSdkY2ZmJuczMzZXpWbGxScFZab9IBpAFBVV95cUxNSk5ITUs5WlU2QmhVYUxBLTktcGt2T2tVRTZDQWJHM2M1S2RPcWV5bDRrNE1Rc2pCTjhjLU5sek5nV0E1TUNraWVBUWl0cmlGU2RHWlJwd3c3MnhLZFJUcGRqOU9rYmVGUFBoSlhLN25JbFZSR2t2bDVLdWF6UjVwb1JQMkZySHowSUd4N05LNXpleVdyOUNIUFNlVzlkRXRLekVVSQ?oc=5",
-   "source": "Estrategias de Inversión",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T20:50:00+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "The Curious Case of Excessive Inflation in the UK",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdYWmx5cFRhdUw3T2ZDaGI5WkJIZWE1bmlsZWFqUGc2Y0JPcDk5ZUkyS2lVakZycTFQRVhFTXR6MjNJT0daMk44X002dWo4Zi0wQW5LUXFnVjNzQWtTQUJDdjhMcktJT3lIZHY5VU04WmVOdVBkMzEzZ2V0bmhnUkk4c0x0NVk?oc=5",
    "source": "Haver Analytics",
@@ -886,11 +1100,11 @@
    "score": 3
   },
   {
-   "title": "Florence Pugh Is Fed Up With Faces Being Scrutinized Online—We All Should Be",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFRVVXNFdmpZSngzNFVYTDRsVEpiX1FwRDIyTFQzWTllSU1KRzdWUm1KeVlreWZBNWJuZFZfdlF2R0EtWmUwai1tVS0zNVpuc0tEX3BGSjZOZVRLWkdTY3EtNmhjU1Ytak5vTWdlQTlsQTlxN2xXLWlEUHV5ZWl0eWs2TUdEaktiRXc?oc=5",
-   "source": "Vogue",
+   "title": "Fed Minutes Show AI Fears and That a Bigger Rate Increase Is Still on the Table",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
+   "source": "Barron's",
    "feed": "Google News · markets",
-   "published": "2026-11-18T20:43:23+00:00",
+   "published": "2026-11-18T20:41:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -904,29 +1118,29 @@
    "score": 3
   },
   {
+   "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
+   "source": "The New York Times",
+   "feed": "Google News · markets",
+   "published": "2026-11-18T20:35:00+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Secretly recorded videos of 'Crypto King' Aiden Pleterski meeting alleged kidnapper played at trial",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVWRvd3pSTVM1WWJqTWpaYzV5YS1GeHkzVnBjeE91dF9jalVMMU5yYlFraFVsZXBYN2VqbFFydnEtc2RNM2Frc1d3eWRRX1NLbnZCZ1d0cFZBNG1XUGVQTVBRaWhETERQWV9uNU5tVVFyc2o5a0VJUlhFb19LNEtjV3FSUQ?oc=5",
+   "source": "CBC",
+   "feed": "Google News · crypto",
+   "published": "2026-11-18T20:34:36+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
    "title": "Supersized December rate hike could be ahead: Fed governor",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3pNTWRldnFMS3YxUnptN0dmNHI2LW1iUnVLclE2c2xCUzVvdVhsbTU1YlhPQl9NSW9UVnNUNzV4VDltblR6cjFfUjhrdDNaX09mR3hWMmh2LVFMZF9ReUdYUGlURXFmZHBPTFhSWjVpSGdwcHJZMzhYY3ZlbkdvcGExT1hlY0JqZjRSbVU3cnVBSGE2T1AwelpuRkdZQnptNms1UFViOHNTU3o0eXh6ekg2V2hMQlE3OW1mT1hqWEIwdw?oc=5",
    "source": "Mortgage Professional America",
    "feed": "Google News · markets",
    "published": "2026-11-18T20:17:25+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Growth stocks edge ahead of value stocks as markets react to Nvidia earnings",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vSXZuOHFObXdURmNpYXk4VTI1WnlraUxNRHFRY3lRY0xLNm5BQU9CTmVDaDJzVUNDSGx2eDlhS3NoZ1J6dzg5NjBFSV9VczIwUFhiNXVjWWhJekU?oc=5",
-   "source": "Fox Business",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T20:15:13+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
-   "source": "The New York Times",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T20:11:02+00:00",
    "category": "macro",
    "score": 3
   },
@@ -940,47 +1154,11 @@
    "score": 3
   },
   {
-   "title": "Fed’s Waller says officials may need to ‘shock’ with half-point rate hike",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MzFOekFrVXJIek1aZU85UGZhODU0T056cDY0c3FrOG5HaE9pV3dUVTNxQTJHZFRVY3p6YVJjWHAyRnZ3NWJWaU5KN1NjY1hWdEZjSkU0SkJydXdBcHFpUDBnWTQ3M1lEQ3g3ZDhzZHjSAXZBVV95cUxNSEdoRmMxXzBYczExWUl6RkpiTFZSbDN1Q0xZV0dpWmxDMHlJMlh6MDVaNFQ2cmdFVDR4WmVaQUdpYjM0bWozRUN0ZmwzUUFOdkdvdk8zc2dOTGxMT1NRNVF0Wk1UUy1IX2ZMTmdVa0xOYnNJNUxB?oc=5",
-   "source": "The Hill",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T20:10:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy15WmRpeFUycWVWbE1HRVpMU1BpOVdJRjg3ejhQWHctckJmOGR2TEthcXhLb2dOcWRITUhMS09qNzh1SjU1NjlJR2xHLVNIeDQ3dkRtMjFHbjF4b1dtTS1CUkFUcDlyZ1BZRWhibHpZQlh3cW5nSm03WXBwRGtXa1F3?oc=5",
    "source": "Kathleen Hays Presents: Central Bank Central",
    "feed": "Google News · markets",
    "published": "2026-11-18T20:03:34+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWGRHQk44MXFnaHJxczRaLXhNRVJqWENiR3B4MzJiaU10QjN0VDg0WnZVQ0RERF9pMmk0Tm01T1RNUnN3ZlVENDF0cFA3YlE5d0MxTHh3VjI3MUZrQmJZc3hxbTRYQVNEcWgtbEk5cmx1VFFqdkR0WjQwb0JTbTBLbnpNRUk0N1B0Wk5XXzZ1S3VUellIb1pac1M0YTJULTBZaXh4bDBaNm5FdGxRS3lUZ0xBOFhBZDQ?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T20:00:19+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T20:00:02+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "'Almost all' Fed policymakers saw further interest rate hikes as likely",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUVCN01ZTTM1V0J6TEpGYWdpUHBWaEpad09uOEtDWXFNczNjZ0ZjenAwaEdicVpGckZiM3VOWGQ1eHJmU1Z4OWVvb0hfRTIzRDU2TzFoTWFQV3ctbXVES0ZKSUNJSHNrN21QN0NNLWJtWGFXdnZjbW1sRWFrNUJfMGZwUXhoTkZzd1N2S2VJLXM5eFdkeHFmazdfcFo0eGhvV1MzU2xIOXdDSTU2ODBwcC0xeVd0N1RxR2xB?oc=5",
-   "source": "RFI",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:59:42+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1030,65 +1208,11 @@
    "score": 3
   },
   {
-   "title": "Wall Street mixed after Nvidia earnings, Fed minutes",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-   "source": "Reuters",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:40:52+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "The Fed has to raise in December and everyone knows it, says F.L. Putnam’s Ellen Hazen",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHc2TjQwZ0VLRGxQQ0JMZllXZ1c1Mjc2Zk9tcG5Ob2ZYbkxtSVlsbTZqT0VvREdiSVVZQ1FtdUhLTGdKcEtmNVRSdkhRY1IyNmhnbkYweXVQMFRNMnBfc3hqTlZ4c1B3b0NzdHZUUTQ4UWdIOFJDWmNnWTAxR0FiNEZkN2RMb2lITTY0RGVaZFNwcHV6Z05SNW9YZE4tRmU4TURCcmhKZUVqN3h4N2RZbndwN0ZuMFQzc2JCYi1yb2NVelRoY1E?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:39:40+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed minutes show growing unease about the outlook for inflation",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5",
-   "source": "MarketWatch",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:38:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-   "source": "AP News",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:32:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Hourly workers are living with 7.86% inflation. No wonder they voted against the AI boom.",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFlkM3BJcWFhbDlnRzJQcGxuS2ZKQlBTLUU4NGJtYVBuX1NPekhnTWxOODNGQVBXRENwa1NvTW04dVZSZWZIZXN6VWxmdVBabE5qQkNFV1lsTlZDMExBaEc0RndPVlFkVGtUcHpxYTVuemJhZFBkOWo4S2RGVTBoNmhLLU01UlV4S2IyRGxfcTYzUUFFeE1md0ZncXpsQ0JXb2c?oc=5",
    "source": "Fortune",
    "feed": "Google News · markets",
    "published": "2026-11-18T19:30:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "What a half-point rate hike from the Fed could mean for crypto",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13aXQ5eEtJZEM3Wk5IbC1TdUJUWE0xR0FCbl9hOEo2NEl6aWlSMlZpT2lwQWdHOFRiVFNURG9SLXpKdFVGWGh6RGJOcTlLX1hPdVpLbzBpZzk2bEdOWXN5TFhQSmtJeFdoeHFHbGU2Q1l4V1U4dk5QUUtQbw?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:30:00+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-   "source": "Bloomberg.com",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:18:51+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1102,29 +1226,11 @@
    "score": 3
   },
   {
-   "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
-   "source": "Reuters",
+   "title": "'Almost All' Fed Policymakers Saw Further Interest Rate Hikes As Likely",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2xyeVhORDMtSTlvU0p2TnlnSEhTUlFvcFlIUnk3dE1uNWFqTWlPZjlqWTJvTFR0aWlMektvVE5BempLOTQ3LVg3UXU4QmcxaENBUVFMX2RReHNULVYyX2d3Z3JqcV93V2VDSUxNZlFZWmlaTDhsWjdnalk0MC12Q01xaTUtbkNuNFJTRVMyck9sekI0U0VycldNVjd0ZEhrN2xLb2pzc0d2NzQ?oc=5",
+   "source": "Barron's",
    "feed": "Google News · markets",
-   "published": "2026-11-18T19:09:43+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "3 British Growth Stocks With Earnings Growth Up To 15%",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHk4dkJSZXFJVEdCVV9ac3haYzJCSEtCbDgtcUNjY050Qm5FdU9HeUpILVpSRVo2ZzljVlEtRTVYeVRWbGVySFMzTHVoMkZYMG9QZEZUaldRcHB1WmxhMXplbEhDdEktYnF1cWU4czBrV1piV1BHRUFKY3FmeFFrdGRqRjZaZndWQk9mbUlvZkpnYTRVTDd0N1VlZnBqUQ?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:07:35+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Fed: Almost all agreed further tightening 'would likely be appropriate' at next meeting",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlJmeUZPU0Y4NTBfY3hTQ1lnRkx0Mk8zMnNjUzhDVU1LT0JKQlJWbEFpQXlDR3A1d0tvRGpsV3ljNkZsbG9tREZJOE1sWjdwcldNU1hyQWZUWVpXcmx1bnB4ODF1MlozdzFKYzdpa21DZFoyaFJZa0s0MUg0RnNwbTJZaHBxZnFPQUdBLXZkZ0UwY0JNMnh0M2huLU5oTEFXclZzQWdJaUEySGV0cDdGLVRpYUM0TnV0Q3p2ejVWQnU2QUlYMkE?oc=5",
-   "source": "CNBC",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T19:07:26+00:00",
+   "published": "2026-11-18T19:07:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1147,29 +1253,11 @@
    "score": 3
   },
   {
-   "title": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras Nvidia afecta el sentimiento de riesgo y los inversores esperan las actas de la Reserva Federal y el precio de la salida a bolsa de Anthropic.",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlpPZWtSMHhXTkhZWWtzcEZSbUhpUllWMVVqN0tsZHhxRXRUVktqVXljbEU4N2pHckZUYTZPMUhsWFMxVExGNEc3YkZwaWFraTFCRUVBWTZueXdwQXJVTzVNNGd6cmFNOWtYNTg5aV9kVTVxOXNFVi1DYWFJYWdxb2FqWmxoS21JbDZNY0NIUzFwUldBZGswVW1xTzEyV1FKRWNjZUdIYm5CamktRm5jc2d1Si1iYUtJSkZyMURqOHE1c25F?oc=5",
-   "source": "Yahoo",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T18:59:33+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "European stocks tumble as weak commodities, hot inflation data weigh",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjdfRktvRkVpcTM3TmtCX3JQTVpyM050RFBWakxGVlpKTFczeFRtVHNqSW5UTnhha1NIeE4zaHc3VEtidlJTZW9OMGxPUjRrcDJUUVpzRmg2YldRZXg2MGVoZHlNZzBjeFRYNC1wYkNfVGhYeUFUZ1p1bDEtS3lzdS1feDFlZmVBNjNaREZvdnlGbkt0M3d6QnlUSjFKQQ?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T18:48:26+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Not surprising if Fed has to retrace on rates it lowered, says Zoe Financial's Andres Garcia-Amaya",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmg5TzB2R0ZBdEFDVnY5R1NzS1loclNyTktnZk5zYWFPdkJsaE9oUC1Uem9MVmhvT0Vsc3hWZEtOa3l3dlZMcnlfRWRRemNnMzAxVXR0Y2N3d3A4MUliMFNoQmV2NVdyZzBjMUdEQndGWHlxYXZzeV9SNWl6dWlTRmRMc1VQRDlwRXdpdVJqQmlrX20tNlhFSTByOHVkcHFkM2RuZEVtd3VkcjlFQjd4RkFLWndySnZnZFF4bnhkTk9MY0F4ZWc1SkpoU1JmRy1Ja3pzRy1R?oc=5",
    "source": "CNBC",
    "feed": "Google News · markets",
-   "published": "2026-11-18T18:47:58+00:00",
+   "published": "2026-11-18T18:46:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1178,7 +1266,7 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
    "source": "Reuters",
    "feed": "Google News · markets",
-   "published": "2026-11-18T18:39:43+00:00",
+   "published": "2026-11-18T18:38:00+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1208,259 +1296,107 @@
    "published": "2026-11-18T18:16:34+00:00",
    "category": "resultados",
    "score": 3
-  },
-  {
-   "title": "Nvidia earnings beat lifts Bitcoin mining stocks",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDdqU3IxaG5vNl96cGxFMlA2ZzdHVjd2UktaU1ZRbEp5dzJhckZxNFYxV19HRXhieW9Kcm4yMDhmWGFSNGxFUVVRU3dna1lycEhraE5Dak45cmV0SHg1QTdkYWJMbTRLTi1nN0VVa2x0cFdmRk9xUEFDUkN4S1QweHc2elRrd1pHajFXSlk5cGpzX3ZNTk51eWJXRXZRN3JZ?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T18:16:12+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "El IBEX 35 cae un 1,28 % y pierde los 19.400 puntos pese a los buenos resultados de Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0xDNTdjX0lXUEt2a0RuNkE2b09ZYjlCZjZrTDE2ak8wRDZPTkgzWkR4UXQxRmVPV2Z1RzdZY1ZsdjZYbkVzejY5WkxrMTRZX1B4a0NsaHMwRkFjeUxjbkpCTGRLOXlRMEdwektlLTZYX3FYQnN4R0FyWWdjMTR3ekpKUjh6Q2JNZkIzRVlSbUZ3eEI0RWdfMU9NYm1remJPV1lPUVJNcmh1N1I2ZXBSeWZLbGo4N0FOS1YxNUpYUF90enptcnpGVQ?oc=5",
-   "source": "Diario de Santiago",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T17:47:35+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T17:46:16+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bullish Earnings Shine as It Moves Beyond Crypto Trading. A Deal and Buybacks Are in the Works.",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVdlWWZOOWlOemRDMnl3MG96dGEzeUpTcTB3Y2xnVkZZajJoNHMzNDhuOHlIZ3IzWlF5eURIUlpOSEVURWxEcWJscjFNdU94cGx0d1ZXbW1Ub3Ayc2NXQUhLR3JNbWhPS216SnZIa1ROd1RXOS04SlZVbDFvNmpZV1NUTQ?oc=5",
-   "source": "Barron's",
-   "feed": "Google News · crypto",
-   "published": "2026-11-18T17:23:00+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "De Cos serÃ¡ presidente del BCE pese al retraso administrativo del Eurogrupo",
-   "link": "https://www.expansion.com/mercados/2026/11/18/cos-sera-presidente-bce-pese-retraso-administrativo-eurogrupo.html",
-   "source": "Expansión",
-   "feed": "Expansión",
-   "published": "2026-11-18T18:22:58+01:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "De Cos será presidente del BCE pese al retraso administrativo en el Eurogrupo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbUJLZ3A3T1N1dktDUTIzSVRPR1FrQ2ttZllORnZad24tSkp0V3FqZU9iX0NQOTVOTS1MQWs2R0VhRWh0Tmt0cTJ4TTVYdkJIdElWcmtvYTc2M2NyeEVoU2ZidXZJR2R1aTN1Zk5feEJITHdqR0VEZzhEMHRBSWJIUUJkLVFuYTViM3RfTFJRRUxuMmltb1lDZU53SmdTQXBiaks2NmdsN3RCVTJ5aFRaMzVB0gGyAUFVX3lxTE5kMDliU0pxOUR3VjNoc2NEUDlfLThQc004Y3FBS05OaUpua3FUSFZ4Yk1kZkZrLXhNUXV4cTAyczlvWDE2dFMwQVBvYURKUXVCRzRxMk94eHhEWkJZT0VxTEtwTi1KYUJvWUdfTTBxN3k5dlFvOTJyR0JjWXRVQ2NhaEtQOFdsaXBxc196ajdYc243V05mdEhNYUM5TXRlVGxKSm1sRkRLSVVpYUIxSmdFQ3c?oc=5",
-   "source": "Expansión",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T17:22:34+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "The Fed's next moves come into focus",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmF6LXJjeHdMZ1c5SHl1d0FreWlmM1NHX1NKbkhFR0EzV3NnSXlZaVgyNXNmbGdBeERPQ2xPaUNRN2lhX3VLOTJfaF9XTmpFS3BQcDlfaU9vMExQeEYxbmJ3U1hlYTZOUkNaUw?oc=5",
-   "source": "Axios",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T17:22:27+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "La Bolsa baja un 1,28% por Wall Street y pese a los buenos resultados de Nvidia - El Imparcial",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHYtaWpSd2ZBdGVEOTZ4NEhHQ3hUaG96VzAxdF84eTVsZGgycTltU2FsVGhWdlU4d0hJbXl6LXR1STd6Uk51Y3k4QTVzWkhsV2RUQk1aQUhWVHdHalBRMzAwbWMxeVNDcGdLOTBwN01Oem5mbG1vemlhWWpOeWZrcTRxQXhEMVo2Q2NueTZpZkthQkVpUjBvU3RHdXRndldrcG1xN0hVRzZiM0ZJNE1jTlhZazI0THVSeUpWT01iTW5MNFlBcEF4VG9HT1M4dw?oc=5",
-   "source": "El Imparcial - Diario liberal e independiente",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T17:03:00+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "La Bolsa baja el 1,28 % por Wall Street y pese a los buenos resultados de Nvidia - EFE",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lWTBKUDg3YU5CZ3lsSmI2bzQ3LUZEMEU1NVl3MmpxQU1Cb2ZwcXlFNkZhXzZVWGN2SVBTaUlmQWJsN2VpOGtCTjBXTUFUN0dpV1gzc1FMSXhtT0U0XzF3WElROWZpTFJBdnVrdFlzb0tFZw?oc=5",
-   "source": "EFE - Agencia de noticias",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T17:02:47+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "El Ibex cede posiciones, con Repsol a la cola y la resaca de los resultados de Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXA1R24yeU1ueDdfSUtHekV6MVE4QktNSUNKeGpNVVczczdJaERNamxCVFBMODZITEI2bHFUUU1sQkdfSTRURHk3aVJtalVyV2xTR0JMbXNCdUhZSmRwMWJ0bGtBbk5JeWxFZjNiVWcwSDY2RE1RdXZfLUdtNHMzWl9FRm1KZ0pEZTJSdERTT1FBMFpWdlNpLVJiV1NjMF8wT1ZOTlQ2V01wRkQ4YjctbzVvczNUeVRmckF5c25tN1ZmakRxUDhKYnh3V1k4X3M3YTM5Ny00bw?oc=5",
-   "source": "MarketScreener España",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-18T16:36:36+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "How Does Medical Inflation Compare to Inflation in the Rest of the Economy?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTdHU0NScWhKM2lWYWcyRlRWLVRnZXVselVQbzlmWmRNT0tRenI5ZTFhVjJmelVpeG5GdTRjaDFoM1VYUGFWZTFwT0dET3FZYVB3MjQ0cmIyYkVhS0VRWFBoX2xGc2pCSVBHTERuYy1Vcm50XzBDM0NJY0toOGUxdDFkS2JRUDB3YzBBYmxKeTJBTGhzN29RU0FhU2tBTGdQRTMwQmVRcXNqSzRp?oc=5",
-   "source": "KFF",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T15:38:53+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-   "source": "Yahoo Finance",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T15:12:33+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
-   "title": "These Charts Show Why Young People Across the World Are Fed Up With the Economy",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTQ4Y2Z6dlQ3ZXZnWnJXYnlWYVZHakNUNklsek9OWTh6ZmVrQWpoazFQMnNDZ3JLdzN5MXhQVm5pbmlGa3BRbE9vbHZMN1l2NWtmd2R2S21vdVkzcjV3b0w1VV9uV3BGYWFSNDRCTmhXaFhBbnFtdW1PcFY4U3dpT19MNEZjVmRhV2hodGxDOXNOUGVuUWVVRUlGYzl1R1ExTmF2R2N5ZHYzNER1ZmZseDR5X2M2R28?oc=5",
-   "source": "WSJ",
-   "feed": "Google News · markets",
-   "published": "2026-11-18T15:00:00+00:00",
-   "category": "macro",
-   "score": 3
   }
  ],
  "analisis": {
-  "resumen": "Desde la revisión de apertura, Europa ha cerrado con caídas de 0,9-1,3% (inflación alta y materias primas débiles). Después, las actas de la Fed mostraron que casi todos los miembros esperan más subidas y Waller defendió una de 50 pb en diciembre. El dólar subió a máximos de 19 meses, el oro y el cripto siguieron cayendo, y Nvidia cerró a la baja (-2,9%) pese a sus resultados.",
-  "resumen_dia": "Asia rebotó por la mañana apoyada en los resultados de Nvidia (beat y guía al alza), con futuros de EE. UU. al alza. Europa abrió plana y cerró en rojo (IBEX -1,3%, DAX -1,2%, Euro Stoxx -0,9%) por la inflación y las materias primas débiles, antes de las actas de la Fed y del recorte de Nvidia. En EE. UU., Nvidia pasó de beat a venta (-2,9%, mínimos de 52 semanas) y arrastró a las 'neoclouds'. Las actas apuntaron a más subidas y Waller habló de una de 50 pb en diciembre, lo que dejó un cierre mixto (S&P -0,2%, Nasdaq 100 +0,4%, Russell +0,5%). El dólar subió a máximos de 19 meses, el oro (-3,6%), el Brent (-4,6%) y el cripto (BTC -4,1%) se hundieron, y el rebote de Asia queda en entredicho para la sesión de mañana.",
-  "clima": "mixto",
+  "resumen": "Con la apertura de Asia (19-nov) el mercado digiere las actas hawkish de la Fed: casi todos los miembros esperan más subidas y se debatió una de hasta 50 pb en diciembre. El dólar toca máximos de 19 meses, el oro y las criptomonedas siguen bajo presión y el Hang Seng abre a la baja. El único apoyo es el tono tecnológico de Palo Alto, la salida a bolsa de Anthropic y el beat de Nvidia, que no basta para frenar la caída.",
+  "resumen_dia": "",
+  "clima": "risk-off",
   "noticias": [
    {
     "id": 33,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Sorpresa moderada: se esperaba una pausa, pero 'casi todos' prevén más subidas y esto endurece el tono, aunque la subida de diciembre ya era bastante comentada (id 28).",
-    "impacto": "Dólar al alza; oro, cripto y renta variable de duración larga a la baja por tipos reales y liquidez. Índices de EE. UU. con reacción mucho menor de la esperada.",
-    "importancia": 5
-   },
-   {
-    "id": 49,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Sorpresa parcial: la idea de una subida 'jumbo' de 50 pb en diciembre no estaba claramente descontada y Waller la refuerza.",
-    "impacto": "Más dólar y más presión sobre small caps, cripto y oro; riesgo de repricing en bonos y divisas.",
+    "novedad": "Sorpresa hawkish moderada: el mercado ya apostaba por subidas, pero las actas indican consenso casi total y un debate sobre 50 pb.",
+    "impacto": "Dólar al alza, oro y cripto a la baja, small caps y tecnológicas de larga duración presionadas por tipos más altos; EURUSD baja.",
     "importancia": 5
    },
    {
     "id": 34,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "Consecuencia directa de las apuestas por la Fed; el DXY ya está en máximos de 52 semanas.",
-    "impacto": "EUR/USD en mínimos con sobreventa y oro bajo presión; el movimiento ya está avanzado.",
+    "novedad": "Es lo nuevo del tono: la posibilidad de un alza de 50 pb en diciembre estaba menos descontada que una de 25 pb.",
+    "impacto": "Riesgo para acciones de crecimiento y financiación (RUT, NDX); apoya al dólar y a los rendimientos cortos.",
     "importancia": 4
    },
    {
-    "id": 4,
-    "categoria": "resultados",
-    "rumor": false,
-    "novedad": "Sorpresa de reacción: resultados buenos pero venta fuerte ('sell the news'), contrario a lo que descontaba la revisión anterior.",
-    "impacto": "NVDA, neoclouds (CoreWeave, Iren) y semis a la baja; debilita el rebote esperado en pares de IA como ASML.",
-    "importancia": 4
-   },
-   {
-    "id": 6,
-    "categoria": "cripto",
-    "rumor": false,
-    "novedad": "Continuación de la tendencia: ventas de mineros (MARA) y posible rotación de capital hacia la salida a bolsa de Anthropic.",
-    "impacto": "BTC, ETH y SOL presionados por oferta y rotación, además del factor Fed; el RSI de 21 ya indica sobreventa extrema.",
-    "importancia": 3
-   },
-   {
-    "id": 41,
+    "id": 51,
     "categoria": "macro",
     "rumor": false,
-    "novedad": "En parte esperada: el IPC de Reino Unido ya se conocía por la mañana, y se suma la caída de las materias primas.",
-    "impacto": "Bolsas europeas a la baja por temor a tipos más altos y energía débil; el cierre europeo fue anterior a las actas de la Fed.",
+    "novedad": "Reacción coherente con las actas: el dólar sube a máximos de 19 meses.",
+    "impacto": "Presiona a EURUSD (ya en sobreventa), oro y materias primas denominadas en dólares.",
+    "importancia": 4
+   },
+   {
+    "id": 9,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Esperada tras la caída del oro: tipos más altos y dólar fuerte refuerzan la tendencia.",
+    "impacto": "GC=F cerca de mínimos de 14 meses; mecanismo: mayor coste de oportunidad y dólar fuerte. Posible rebote técnico por sobreventa (RSI 30).",
     "importancia": 3
+   },
+   {
+    "id": 5,
+    "categoria": "cripto",
+    "rumor": false,
+    "novedad": "Continuación de la caída tras la sorpresa hawkish; el rebote técnico previo se ha agotado.",
+    "impacto": "BTC bajo 63.000 y acercándose a 60.000; restricción de liquidez y aversión al riesgo. Sobreventa extrema (RSI 21) sugiere rebote, pero sin catalizador.",
+    "importancia": 3
+   },
+   {
+    "id": 3,
+    "categoria": "resultados",
+    "rumor": false,
+    "novedad": "Resultados con subida del 7% y la compra de Applied Compute; parcialmente sorpresa positiva.",
+    "impacto": "Apoyo a ciberseguridad e IA aplicada; efecto limitado sobre el índice dado el contexto de tipos.",
+    "importancia": 2
    }
   ],
   "divergencias": [
-   "NVDA cae un 2,9% pese a unos resultados con beat y guía al alza, tras subir en Asia por la mañana; es una venta de 'buenas noticias'.",
-   "Las actas son hawkish y el dólar sube, pero el TNX baja 0,04: los bonos no confirman un repricing de tipos, y el oro cae igualmente un 3,6%.",
-   "Nasdaq 100 (+0,4%) y Russell (+0,5%) suben pese a hablar la Fed de una subida de 50 pb, y XLK sube un 0,3% con NVDA y SMH a la baja; el mercado de acciones de EE. UU. parece digerir el mensaje con calma.",
-   "El Brent cae un 4,6% mientras el RBNZ habla de costes de combustible al alza: el petróleo sigue una dinámica propia de oferta/demanda."
+   "NDX (+0,4%), XLK (+0,3%) y RUT (+0,5%) subieron mientras el S&P cedió y las actas apuntaban a más subidas de tipos: el mensaje de la Fed aún no se refleja en el cierre de EE. UU.",
+   "Los futuros del Dow suben tras el cierre (Anthropic, Palo Alto), mientras Asia abre a la baja y el dólar sigue firme: señales contrapuestas.",
+   "El TNX baja 4 pb pese a unas actas hawkish: el bono no confirma el endurecimiento, lo que sugiere cierta cautela por crecimiento o demanda de refugio.",
+   "El oro cae un 3% en un día de más tipos y dólar fuerte, pero con la inflación elevada: mecanismo claro (tipos reales), aunque la sobreventa invita a cautela."
   ],
-  "hipotesis": [
-   {
-    "ticker": "^N225",
-    "direccion": "bajista",
-    "horizonte_dias": 3,
-    "tesis": "Asia cerró antes del giro de Nvidia y de las actas hawkish; el rebote apoyado en el beat de Nvidia puede devolverse con dólar fuerte y semis débiles, en un índice de tendencia bajista.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 40,
-    "confluencia": [
-     "Noticia no descontada en Asia: Nvidia revirtió y las actas fueron hawkish tras su cierre",
-     "Tendencia bajista (-9,9% en un mes) y dólar en máximos"
-    ],
-    "contra": "Con vol 2,1%/día el movimiento es posible pero la asimetría apenas compensa; Asia puede haber descontado ya parte del miedo y un rebote por sobreventa o un yen débil lo anularía.",
-    "sesgos": "Sesgo de continuación de tendencia y de anclaje en la noticia del día; los datos del Nikkei son del 17-nov y no sé cómo abrirá.",
-    "ev_pct": -0.1,
-    "operable": false
-   },
-   {
-    "ticker": "^RUT",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "Las small caps son las más sensibles a una subida de tipos de 50 pb y al coste de financiación, y hoy subieron un 0,5% sin que el mensaje de la Fed se haya digerido.",
-    "objetivo_pct": 3.5,
-    "invalidacion_pct": 2.0,
-    "confianza": 38,
-    "confluencia": [
-     "Divergencia precio-noticia: Russell al alza con una Fed más hawkish",
-     "Tendencia bajista y sector más sensible a tipos"
-    ],
-    "contra": "El mercado ya ha visto las actas y el Russell resistió; el TNX bajó y un rebote de alivio o un dato blando pueden girarlo.",
-    "sesgos": "Sesgo narrativo (hawkish = malo para small caps) y exceso de confianza en la divergencia de un solo día.",
-    "ev_pct": -0.01,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
-    "ticker": "NVDA",
-    "motivo": "Cierra a la baja tras el beat en mínimos de 52 semanas: si no recupera, la hipótesis alcista abierta se debilita."
-   },
-   {
-    "ticker": "^TNX",
-    "motivo": "Si el rendimiento no sube pese a las actas, el mensaje hawkish no se confirma en bonos."
-   },
-   {
-    "ticker": "BTC-USD",
-    "motivo": "Cae con RSI 21 y rompe la zona de los 65.000 en medio de ventas de mineros."
+    "ticker": "^RUT",
+    "motivo": "Small caps más sensibles a una subida de 50 pb; el cierre positivo de hoy podría corregirse."
    },
    {
     "ticker": "GC=F",
-    "motivo": "Movimiento anómalo (-2,7σ) en mínimos de 52 semanas: vigilar posible rebote técnico frente a la hipótesis bajista abierta."
+    "motivo": "Mínimos de 52 semanas con RSI 30 tras caída anómala de -2,3σ: riesgo de rebote contra la hipótesis bajista."
    },
    {
-    "ticker": "^IBEX",
-    "motivo": "Cruza a la baja su media de 50 sesiones y cerró antes de las actas y de la caída de Nvidia."
+    "ticker": "BTC-USD",
+    "motivo": "Acercándose a 60.000 con RSI 21: ruptura o rebote técnico."
+   },
+   {
+    "ticker": "EURUSD=X",
+    "motivo": "En mínimos de 52 semanas y sobreventa (RSI 28) con el dólar en máximos: riesgo de rebote."
+   },
+   {
+    "ticker": "^N225",
+    "motivo": "Vulnerable si el dólar fuerte y los semis débiles pesan tras las actas hawkish."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Ninguna hipótesis nueva supera el EV de 1% con p>=55: son apuestas de continuación con probabilidad cercana al 40% y poca ventaja sobre el azar.",
+  "decision_motivo": "Revisión de actualización: solo observación; las decisiones se toman con el cierre de EE. UU.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 9294,
-   "tokens_salida": 6302,
-   "coste_usd": 0.0816
+   "tokens_entrada": 8898,
+   "tokens_salida": 1792,
+   "coste_usd": 0.0357
   }
  },
  "calidad": {
   "ok": 3,
-  "sin_contraste": 26,
+  "sin_contraste": 25,
   "dudoso": 0,
-  "sin_dato": 0,
+  "sin_dato": 1,
   "fuentes": {
-   "Yahoo": 29
+   "Yahoo": 28
   }
  }
 }
