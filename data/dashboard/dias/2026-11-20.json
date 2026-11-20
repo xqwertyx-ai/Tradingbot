@@ -12,5 +12,20 @@
    "El Nikkei 225 y el Kospi se hunden más de un 5% por el desplome de los valores tecnológicos"
   ],
   "coste_usd": 0.0376
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-20T21:53:21+00:00",
+  "hora_madrid": "22:53",
+  "clima": "risk-off",
+  "resumen": "Desde la apertura de Europa el sell-off se ha agravado. Europa cierra en mínimos del día (Euro Stoxx -2,8%) y Wall Street cae con más fuerza (S&P -3,7%, Nasdaq 100 -5,6%), con NVIDIA -14% y SMH -10,6%. Nasdaq borra las ganancias de 2026 y el S&P entra en corrección. Oro y cripto siguen cayendo (BTC por debajo de 59.000 $) mientras el mercado reprecia subidas de la Fed y la IA se desinfla tras la OPV de Anthropic.",
+  "titulares": [
+   "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+   "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+   "Fed's Cook says rate hikes needed to lower high inflation"
+  ],
+  "coste_usd": 0.0797,
+  "resumen_dia": "Asia abrió la jornada con fuertes caídas, según la revisión anterior (Nikkei -5,1%, Kospi superior al -5%), arrastrada por el sell-off tecnológico de EE. UU. y por unos tipos reales más altos. Europa empezó con caídas de alrededor del 1,4% y cerró cerca de mínimos (Euro Stoxx -2,8%, DAX -2,6%, IBEX -1,6%). En EE. UU. el movimiento fue anómalo: S&P -3,7%, Nasdaq 100 -5,6%, semiconductores -10,6% y NVIDIA -14% (-5σ, quinta semana de pérdidas). El motor es doble: repreciación de alzas de la Fed (Cook, Paulson, posible subida de 50 pb en diciembre) y miedo a que el ciclo de la IA haya tocado techo tras la OPV de Anthropic. Oro (-4,3%) y cripto (BTC -4,8%, ETH -7,8%) cayeron junto a las acciones, lo que indica liquidación forzada y no refugio. El bono a 10 años bajó 14 pb, lo que apunta a algo de huida a la calidad."
  }
 ]
