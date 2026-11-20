@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-20T08:52:11+00:00",
+  "hora_madrid": "09:52",
+  "clima": "risk-off",
+  "resumen": "Con la apertura de Europa, el sell-off tecnológico iniciado en EE. UU. (S&P -2,0%) se ha extendido a Asia (Nikkei -5,1%, Kospi >-5%) y a Europa (Euro Stoxx -1,4%, DAX -1,4%). El motor es la repreciación de subidas de la Fed (Goolsbee, Paulson, JPM prevén hasta tres alzas), la inflación japonesa que apoya a un BoJ más restrictivo, el repunte de los tipos reales y un dólar en máximos. Oro y cripto caen a la vez, lo que apunta a una dinámica de liquidez y tipos reales y no a un refugio.",
+  "titulares": [
+   "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+   "Fed’s Goolsbee Won’t Rule Out Larger Rate Increases as Inflation Risks Mount",
+   "El Nikkei 225 y el Kospi se hunden más de un 5% por el desplome de los valores tecnológicos"
+  ],
+  "coste_usd": 0.0376
+ }
+]
