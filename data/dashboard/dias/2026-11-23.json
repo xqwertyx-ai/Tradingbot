@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-23T08:51:53+00:00",
+  "hora_madrid": "09:51",
+  "clima": "risk-off",
+  "resumen": "Apertura europea con rebote tímido (Euro Stoxx +0,6%, DAX +0,5%, IBEX +0,4%) tras el desplome tecnológico del cierre de EE. UU. (Nasdaq 100 -5,6%, NVDA -14%, SMH -10,6%). Lo nuevo es que el mercado ha retirado las apuestas de una subida de 50 pb de la Fed en diciembre: el 10a cae 14 pb y el oro rebota un 2,6%. Los futuros del Nasdaq se dan como fuertes (+3% según Cinco Días), pero Europa lo refleja con poca convicción.",
+  "titulares": [
+   "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
+   "Market rout kills 50 basis points December Fed rate hike bets",
+   "Bessent Warns Fed Risks Overtightening as US Markets Swoon"
+  ],
+  "coste_usd": 0.0491
+ }
+]

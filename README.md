@@ -2,50 +2,55 @@
 
 # 📊 Radar de mercados
 
-**sábado 21 nov 2026 · revisión de actualización · 03:12 (Madrid)**
+**lunes 23 nov 2026 · revisión de apertura Europa · 09:51 (Madrid)**
 
 <sub>Proyecto de I+D · simulación (paper trading) · no es asesoramiento financiero</sub>
 
 </div>
 
 > **Clima:** 🔴 risk-off (aversión al riesgo)  
-> Con el cierre de EE. UU. del viernes, la venta se ha acelerado: S&P -3,7%, Nasdaq 100 -5,6%, Nvidia -14% según titulares y tecnológicas en mercado bajista, mientras la Fed apunta a subidas en diciembre. Oro y cripto caen a la vez (BTC bajo 59k, ETH -7,4%), lo que apunta a una liquidación generalizada de liquidez y no a un refugio. Europa y Asia cerraron antes de esta caída, así que el lunes puede abrir con gap bajista.  
-> **Decisión:** no operar hoy — Revisión de actualización, solo observación; las decisiones se toman con el cierre de EE. UU.
+> Apertura europea con rebote tímido (Euro Stoxx +0,6%, DAX +0,5%, IBEX +0,4%) tras el desplome tecnológico del cierre de EE. UU. (Nasdaq 100 -5,6%, NVDA -14%, SMH -10,6%). Lo nuevo es que el mercado ha retirado las apuestas de una subida de 50 pb de la Fed en diciembre: el 10a cae 14 pb y el oro rebota un 2,6%. Los futuros del Nasdaq se dan como fuertes (+3% según Cinco Días), pero Europa lo refleja con poca convicción.  
+> **Decisión:** no operar hoy — Revisión de apertura de Europa, solo observación: las decisiones se toman con el cierre de EE. UU.
 
 | Activo | Último | Día | 1 mes | Tendencia |
 |---|--:|--:|--:|---|
 | **S&P 500** | 6.910 | 🔴▼ -3.7% | 🔴▼ -9.8% | ↘️ bajista |
 | **Nasdaq 100** | 25.029 | 🔴▼ -5.6% | 🔴▼ -13.6% | ↘️ bajista |
-| **IBEX 35** | 19.186 | 🔴▼ -1.0% | 🔴▼ -0.7% | ➡️ lateral |
-| **Nikkei 225** | 59.444 | 🔵▲ +0.7% | 🔴▼ -7.2% | ↘️ bajista |
+| **IBEX 35** | 18.957 | 🔵▲ +0.4% | 🔴▼ -0.2% | ➡️ lateral |
+| **Nikkei 225** | 56.437 | 🔴▼ -5.1% | 🔴▼ -12.7% | ↘️ bajista |
 | **Bono EE. UU. 10a (%)** | 4.912 | ▼ -14 pb | ▼ -4 pb | ➡️ lateral |
-| **EUR/USD** | 1.097 | 🔴▼ -0.0% | 🔴▼ -2.4% | ↘️ bajista |
-| **Brent** | 89.87 | 🔴▼ -2.3% | 🔴▼ -20.6% | ↘️ bajista |
-| **Oro** | 3.539 | 🔴▼ -4.0% | 🔴▼ -12.8% | ↘️ bajista |
-| **Bitcoin** | 58.964 | 🔴▼ -4.7% | 🔴▼ -23.6% | ↘️ bajista |
+| **EUR/USD** | 1.1 | 🔵▲ +0.2% | 🔴▼ -2.0% | ↘️ bajista |
+| **Brent** | 89.40 | 🔴▼ -3.4% | 🔴▼ -23.4% | ↘️ bajista |
+| **Oro** | 3.608 | 🔵▲ +2.6% | 🔴▼ -10.0% | ↘️ bajista |
+| **Bitcoin** | 61.463 | 🔵▲ +0.5% | 🔴▼ -19.8% | ↘️ bajista |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/mapa-dark.png"><img alt="Cambio del día por activo" src="assets/mapa-light.png" width="100%"></picture>
 
+## 🕒 Hoy, sesión a sesión
+
+- **09:51 · apertura Europa** 🔴 Apertura europea con rebote tímido (Euro Stoxx +0,6%, DAX +0,5%, IBEX +0,4%) tras el desplome tecnológico del cierre de EE. UU. (Nasdaq 100 -5,6%, NVDA -14%, SMH -10,6%). Lo nuevo es que el mercado ha retirado las apuestas de una subida de 50 pb de la Fed en diciembre: el 10a cae 14 pb y el oro rebota un 2,6%. Los futuros del Nasdaq se dan como fuertes (+3% según Cinco Días), pero Europa lo refleja con poca convicción.
+- <sub>cierre EE. UU. · prevista ~22:15</sub>
+
 ## 📰 Noticias clave
 
-- **[sectorial]** [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5) <sub>Financial Times · 20/11 22:52 · ●●●●●</sub>  
-  Sorpresa por la magnitud: la tecnología entra en mercado bajista en la peor semana desde el Covid, y la tabla muestra el Nasdaq 100 a -3,6σ. **Impacto:** NDX, XLK, SMH, NVDA y ASML caen por la desinversión en IA y la compresión de múltiplos. Europa, que cerró antes, tiene riesgo de gap bajista el lunes.
-- **[resultados]** [Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis](https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html) <sub>CNBC · 20/11 23:59 · ●●●●●</sub>  
-  Caída de Nvidia del 14% en el día y racha semanal perdedora larga; sorpresa por el tamaño, aunque el activo ya estaba en mínimos de 52 semanas. **Impacto:** Arrastra a semiconductores (SMH, ASML) y a los índices de gran capitalización por su peso. Aumenta el riesgo de ventas forzadas.
-- **[macro]** [The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question.](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5) <sub>Barron's · 20/11 23:39 · ●●●●</sub>  
-  Parcialmente descontada: se espera subida de tipos en diciembre y solo se discute su tamaño (titulares 46, 51). **Impacto:** Tipos reales al alza presionan renta variable de duración larga, oro y cripto. Un salto de 50 pb sería negativo para índices y oro.
-- **[cripto]** [Bitcoin plunges below $59,000, on pace for its worst month since June 2022](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5) <sub>Yahoo Finance · 20/11 21:44 · ●●●●</sub>  
-  Bitcoin bajo 59k, mínimos de más de 2 años, con liquidaciones de más de 1.500 M$ y salidas récord de ETF (37). **Impacto:** BTC, ETH y SOL caen con la liquidez y el apalancamiento deshechos; con RSI 18 el rebote técnico es probable, pero la tendencia es bajista.
-- **[política/regulación]** [Bessent advocates lower Fed rate hike, cites energy shock](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjI4X25lWl9SZF8xUWd1V2xoNndJbENSOFZHME5hX1o1ajZuUkpWZ2k2ZmlYd2E3cWt6UkV4OUVOZ1BCcXBycXhnYm9KUXJxcjJ2YXlfdF9idEkzdmNvNEVxNlV6QjN3QksxbGhVOFBhT0RncGREVUE5OUVZYWUtZFNOWW9TMG5LZXAtc3I4bHdMMHExYjh4ckZ3aFVoYWZZUjB3?oc=5) <sub>Reuters · 20/11 16:46 · ●●●</sub>  
-  Nueva: Bessent defiende una subida menor citando el shock energético, y Trump pide de nuevo bajar tipos; contradice el tono de Cook y Paulson (27, 33). **Impacto:** Aumenta la incertidumbre sobre el tamaño de la subida. Un alivio retórico podría favorecer rebotes en índices y oro, pero la Fed domina.
-- **[macro]** [Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5) <sub>Yahoo Finance · 20/11 23:56 · ●●●</sub>  
-  Oro con su peor semana en ocho meses por la Fed agresiva y los tipos reales al alza; el movimiento (-2,9σ) ya está en gran parte descontado. **Impacto:** GC=F cae porque suben los tipos reales y se liquidan posiciones; el 10 años bajó 14 pb en el día, lo que no cuadra con la narrativa de tipos reales. Posible rebote técnico.
+- **[resultados]** [U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5) <sub>WSJ · 23/11 03:12 · ●●●●●</sub>  
+  Sorpresa negativa: los resultados de Nvidia no calmaron los nervios y el sector se desplomó, con NVDA a -14% y mínimos de 52 semanas. **Impacto:** Semiconductores y megacaps tecnológicas (SMH, XLK, NVDA, ASML, NDX) a la baja por temor a que la burbuja de la IA se desinfle. Contagio a Europa a través de ASML y a Asia a través del Nikkei.
+- **[macro]** [Market rout kills 50 basis points December Fed rate hike bets](https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets) <sub>CoinDesk · 23/11 05:45 · ●●●●</sub>  
+  Novedad: el desplome de las bolsas elimina las apuestas de una subida de 50 pb de la Fed en diciembre. Era una expectativa previa que ahora se revierte. **Impacto:** Menores expectativas de tipos presionan a la baja el 10a (-14 pb) y apoyan el rebote del oro y las valoraciones tecnológicas. Frena el dólar, aunque este sigue en máximos de 52 semanas.
+- **[política/regulación]** [Bessent Warns Fed Risks Overtightening as US Markets Swoon](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5) <sub>Bloomberg.com · 23/11 04:29 · ●●●</sub>  
+  Sorpresa moderada: Bessent, desde el Tesoro, avisa de que la Fed corre el riesgo de apretar en exceso. Señala una presión política a favor de una Fed menos dura. **Impacto:** Refuerza la narrativa de menos subidas de tipos, favorable a duración, oro y tecnología. Dólar algo más débil si se consolida.
+- **[macro]** [El BCE prepara tipos restrictivos para frenar la inflación indirecta](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2xFS290RzNIZkJYNGpBQnRjYUhwR01KeFRFZlNIUGVzenlnbWJqS1EyOFl6WExNcHlCcjVzYW1kVGZuZ21kQjFHcDdBOEVpR1ZOY0NTRFhOTHBxRjNoY2k3UXZ1NDBySDZwTG42LVQ3MkhsY2taQmJMTFlnQlZCR0NVQ3dhbDRndEFlaG4yZENwR0lQUURRSDhpTW51Q2ppMGh5aThBMUZGRzFw0gGsAUFVX3lxTFBwYVR6U0F0bnRBUFBJeW9udDVvWUk5dWp4NVIxRGV6X2R0ZWN4bHQwR0REQUJJU2wxUU1nM3ZDQUpRbmNMRC1kUXlfVllTRWhWM2xUYlJybU9hNmNkZGRBamJySDV2R2duQ1lsb2lDRVpNSzZTSHJFVUlOQ1pDMl9TYlVlRnQzVlhYN3h0WnRkLWdBSnRDalhGckhacUlhaERwOVBpUm00NW1fbFg?oc=5) <sub>Expansión · 22/11 23:54 · ●●●</sub>  
+  Parcialmente esperada: el BCE prepara tipos restrictivos contra la inflación indirecta. Se ve contrapunto con el giro menos duro de la Fed. **Impacto:** Apoyo al euro y presión sobre sectores sensibles a tipos en Europa. Los bancos (SAN, BBVA) pueden ganar con tipos altos, aunque el riesgo de crecimiento pesa.
+- **[política/regulación]** [Asia toma medidas de emergencia para frenar el desplome de las bolsas por la IA](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTdYOGlOM0ZGd0VYRVBwX1ZTY3IyX2pLRGhKSGVIRk1HMkRDUlZUV01rRjVlQnlFTGhfS1JncUJhSHV6UkU3a09PbGlHNXZQaVdUM2VnSzNCTDFZQWhSYWZmMkQ3eHJoazBVaW9MWklxQmRIZUZ0c2xtZFlUWjB2NkVaXzd5SklDWkE1SmZPNFBuS1loeXZDY3VTNzBsZVNmR1dPSWZjWUlVSHkzWjVtRUdWal9zUGJtQ1hlUjItbmJpSGlOQkZMN25WYkFwZVdwRlZlb3B30gHbAUFVX3lxTE16QnVVV29vVFpobG45amNaQjQyeTVHWndKdzlzVFNaakluZjh1Q2NJUUY3bDNLaFRsNXFIR1B3SzhOVzROM1RfYWxDMV8tcFdRalJZa3RYQXdQeklYWl9KOV9xc05ScW9SdXViNEZQNjRpamlZNFVqYlpvS0QtYUNwWDZxR1h6ajdYWmdjb1BhcEdkZTh2cEctN3duYXM3ZXJ5bzdUdkdpUEI0OG5jU3FveHNOdDJpLWh4SnVwTzFDYVF0cnNjeEJBVEtKLUtMN2RWOF9wS0xmMnpXWQ?oc=5) <sub>Bolsamania · 23/11 08:58 · ●●●</sub>  
+  Novedad: las autoridades asiáticas toman medidas de emergencia (Corea del Sur promete estabilizar el mercado tras el -5% del KOSPI). **Impacto:** Las medidas pueden limitar la caída en Asia a corto plazo. Indican estrés real en el mercado, con riesgo de contagio a Europa.
+- **[cripto]** [Binance Bitcoin open interest drops nearly 40% in largest deleveraging on record](https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMnVTQnM0cHRfMUFKQjQ4NDNSX01QR2E3d2oyR1JfUExVdGdHaTlocVdHUVB4X3ExZGNqMDkxREpaazNhYUhOdnQ4RFUwQnNLNm9TTk9WaExYUjhRLWM5OFRpSDFjRV9nc3liRnR3T0JVc1lfY1BfVVZKZm5NMEE?oc=5) <sub>Crypto Briefing · 23/11 08:52 · ●●●</sub>  
+  Novedad: desapalancamiento récord en Binance (interés abierto de BTC -40%). Los titulares de un 'flash crash' a 17.000 $ (id 36) y de un -70% en Kraken (id 25) parecen incidentes locales de un exchange. BTC cotiza en torno a 61.000 $. **Impacto:** BTC/ETH/SOL: la purga de apalancamiento puede aliviar la presión vendedora, pero siguen las salidas de ETF (1.780 M$) y la sobreventa. Dirección incierta a corto plazo.
 
-**Divergencias precio-noticia:** El 10 años cae 14 pb (-2,6σ) mientras los titulares hablan de Fed agresiva y tipos reales al alza: el movimiento es de refugio en bonos, no de endurecimiento. · El oro cae un 4% en vez de actuar como refugio: se está vendiendo para cubrir márgenes, igual que el cripto. · El dólar apenas se mueve (-0,1%) en un día de pánico en bolsa, y el euro está plano pese a mínimos de 52 semanas. · Europa y Asia no reflejan aún la caída de EE. UU. porque sus últimos datos son del 19: el contraste de precios no es homogéneo.
+**Divergencias precio-noticia:** Los futuros del Nasdaq suben un 3% según Cinco Días, pero Europa solo rebota un 0,4-0,6%: poca convicción tras caer entre un 5% y un 6% en cinco sesiones. · El oro sube un 2,6% con el dólar en máximos de 52 semanas, lo que encaja más con la caída del 10a (-14 pb) que con un movimiento de refugio puro. · El Brent baja un 3,4% pese a los ataques hutíes a una refinería saudí (id 32): el mercado pone más peso en el temor al crecimiento que en el riesgo geopolítico. · Asia mixta: el Nikkei cae un 5,1% mientras Hang Seng (-0,1%) y Shanghái (+0,1%) apenas se mueven, ambos en mínimos de 52 semanas. El shock es sobre todo de IA y semiconductores, no generalizado. · Bitcoin se mantiene (+0,5%) tras el castigo del fin de semana, con ETH (+0,1%) y SOL (+2,7%) estables y sin seguir a la renta variable de EE. UU.; eso sugiere que parte del dolor ya está descontado.
 
 ## 🎯 Hipótesis de hoy
 
-_Revisión de actualización: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-20._
+_Revisión de apertura Europa: solo observación. Las hipótesis se registran con precios de cierre de EE. UU. Estas son las registradas en el cierre del 2026-11-20._
 
 | Activo | Idea | Plazo | Objetivo / stop | Prob. | EV neto |
 |---|---|--:|--:|--:|--:|
@@ -57,21 +62,21 @@ _Revisión de actualización: solo observación. Las hipótesis se registran con
 
 ## 👀 Valores a vigilar
 
-- **Nasdaq 100** — Sobreventa de -3,6σ: vigilar si hay rebote o continuación tras el fin de semana.
-- **DAX** — Riesgo de gap bajista en la apertura del lunes al incorporar la caída de EE. UU.
-- **NVIDIA** — Caída del 14% con RSI 20: referencia del sentimiento sobre IA.
-- **Oro** — Mínimos de 52 semanas y RSI 22: ver si estabiliza o sigue la liquidación.
-- **Bitcoin** — Soporte de 59k perdido; seguimiento de liquidaciones y flujos de ETF.
+- **Nasdaq 100** — Si los futuros (+3%) se confirman en la apertura de EE. UU., la reversión de un -3,6σ puede ser el catalizador para las hipótesis abiertas de SMH y oro.
+- **NVIDIA** — -14% en un día, RSI 15 y mínimos de 52 semanas: foco del rebote técnico o de la continuación.
+- **Oro** — Rebota desde la sobreventa con el 10a a la baja; vigilar si resiste con el PCE y el PIB previos al Día de Acción de Gracias.
+- **Índice dólar** — En máximos de 52 semanas pero con -0,2%: un cambio de tendencia afectaría a EURUSD y al oro.
+- **Bitcoin** — Mantiene 61.000 $ tras el fin de semana; Hayes avisa de 55.000-50.000 $ y las salidas de ETF continúan.
 - **S&P 500** — movimiento anómalo hoy (-3.7σ), sobreventa (RSI 25)
 - **Russell 2000** — movimiento anómalo hoy (-2.4σ)
+- **Nikkei 225** — movimiento anómalo hoy (-3.0σ)
 - **Hang Seng** — en mínimos de 52 semanas
 - **Shanghái Compuesto** — en mínimos de 52 semanas
 - **Bono EE. UU. 10a (%)** — movimiento anómalo hoy (-2.6σ)
-- **EUR/USD** — en mínimos de 52 semanas, sobreventa (RSI 28)
-- **Índice dólar** — en máximos de 52 semanas
-- **Ethereum** — movimiento anómalo hoy (-2.9σ), sobreventa (RSI 20)
-- **Solana** — movimiento anómalo hoy (-2.1σ), sobreventa (RSI 24)
-- **Financieras (XLF)** — cruza a la baja su media de 50 sesiones
+- **EUR/USD** — en mínimos de 52 semanas
+- **Semiconductores (SMH)** — movimiento anómalo hoy (-3.6σ), sobreventa (RSI 26)
+- **Tecnología (XLK)** — movimiento anómalo hoy (-3.7σ), sobreventa (RSI 25)
+- **ASML** — movimiento anómalo hoy (-2.2σ), sobreventa (RSI 29)
 
 ## 🧪 Test en vivo: deriva tras resultados
 
@@ -124,33 +129,33 @@ Aún sin operaciones cerradas (cada una dura unos 2 meses). Abiertas: 30.
 |---|--:|--:|--:|--:|--:|--:|---|---|
 | S&P 500 | 6.910 | 🔴▼ -3.7% | 🔴▼ -8.6% | 🔴▼ -9.8% | 🔴▼ -9.7% | 25 | ↘️ bajista | movimiento anómalo hoy (-3.7σ), sobreventa (RSI 25) |
 | Nasdaq 100 | 25.029 | 🔴▼ -5.6% | 🔴▼ -10.4% | 🔴▼ -13.6% | 🔴▼ -13.8% | 27 | ↘️ bajista | movimiento anómalo hoy (-3.6σ), sobreventa (RSI 27) |
-| IBEX 35 | 19.186 | 🔴▼ -1.0% | 🔴▼ -3.9% | 🔴▼ -0.7% | 🔴▼ -4.5% | 44 | ➡️ lateral | — |
-| Euro Stoxx 50 | 6.114 | 🔴▼ -0.7% | 🔴▼ -4.5% | 🔴▼ -1.5% | 🔴▼ -5.2% | 41 | ↘️ bajista | — |
+| IBEX 35 | 18.957 | 🔵▲ +0.4% | 🔴▼ -5.0% | 🔴▼ -0.2% | 🔴▼ -5.5% | 41 | ➡️ lateral | — |
+| Euro Stoxx 50 | 5.980 | 🔵▲ +0.6% | 🔴▼ -5.8% | 🔴▼ -1.5% | 🔴▼ -7.6% | 36 | ↘️ bajista | — |
 | Russell 2000 | 2.582 | 🔴▼ -2.8% | 🔴▼ -7.5% | 🔴▼ -7.3% | 🔴▼ -13.8% | 30 | ↘️ bajista | movimiento anómalo hoy (-2.4σ) |
-| DAX | 25.464 | 🔴▼ -1.1% | 🔴▼ -4.9% | 🔴▼ -0.7% | 🔴▼ -2.5% | 42 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Nikkei 225 | 59.444 | 🔵▲ +0.7% | 🔴▼ -2.3% | 🔴▼ -7.2% | 🔴▼ -14.1% | 39 | ↘️ bajista | — |
-| Hang Seng | 22.842 | 🔴▼ -1.9% | 🔴▼ -4.9% | 🔴▼ -3.4% | 🔴▼ -11.1% | 35 | ↘️ bajista | en mínimos de 52 semanas |
-| Shanghái Compuesto | 3.578 | 🔴▼ -0.3% | 🔴▼ -2.1% | 🔴▼ -3.6% | 🔴▼ -8.9% | 34 | ↘️ bajista | en mínimos de 52 semanas |
+| DAX | 24.918 | 🔵▲ +0.5% | 🔴▼ -6.3% | 🔴▼ -1.0% | 🔴▼ -5.2% | 37 | ↘️ bajista | — |
+| Nikkei 225 | 56.437 | 🔴▼ -5.1% | 🔴▼ -7.7% | 🔴▼ -12.7% | 🔴▼ -16.3% | 31 | ↘️ bajista | movimiento anómalo hoy (-3.0σ) |
+| Hang Seng | 22.384 | 🔴▼ -0.1% | 🔴▼ -5.8% | 🔴▼ -3.1% | 🔴▼ -12.3% | 31 | ↘️ bajista | en mínimos de 52 semanas |
+| Shanghái Compuesto | 3.539 | 🔵▲ +0.1% | 🔴▼ -1.8% | 🔴▼ -4.1% | 🔴▼ -11.3% | 31 | ↘️ bajista | en mínimos de 52 semanas |
 | Bono EE. UU. 10a (%) | 4.912 | ▼ -14 pb | ▼ -24 pb | ▼ -4 pb | ▲ +21 pb | 41 | ➡️ lateral | movimiento anómalo hoy (-2.6σ) |
-| EUR/USD | 1.097 | 🔴▼ -0.0% | 🔴▼ -0.7% | 🔴▼ -2.4% | 🔴▼ -6.0% | 28 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 28) |
-| Índice dólar | 103.84 | 🔴▼ -0.1% | 🔵▲ +0.4% | 🔵▲ +2.2% | 🔵▲ +4.9% | 69 | ↗️ alcista | en máximos de 52 semanas |
-| Brent | 89.87 | 🔴▼ -2.3% | 🔴▼ -6.2% | 🔴▼ -20.6% | 🔴▼ -2.5% | 34 | ↘️ bajista | — |
-| Oro | 3.539 | 🔴▼ -4.0% | 🔴▼ -8.9% | 🔴▼ -12.8% | 🔴▼ -24.7% | 22 | ↘️ bajista | movimiento anómalo hoy (-2.9σ), en mínimos de 52 semanas, sobreventa (RSI 22) |
-| Bitcoin | 58.964 | 🔴▼ -4.7% | 🔴▼ -9.7% | 🔴▼ -23.6% | 🔴▼ -27.1% | 18 | ↘️ bajista | movimiento anómalo hoy (-2.3σ), en mínimos de 52 semanas, sobreventa (RSI 18) |
-| Ethereum | 1.624 | 🔴▼ -7.4% | 🔴▼ -11.5% | 🔴▼ -27.5% | 🔴▼ -37.8% | 20 | ↘️ bajista | movimiento anómalo hoy (-2.9σ), sobreventa (RSI 20) |
-| Solana | 68.69 | 🔴▼ -6.0% | 🔴▼ -5.5% | 🔴▼ -28.6% | 🔴▼ -39.0% | 24 | ↘️ bajista | movimiento anómalo hoy (-2.1σ), sobreventa (RSI 24) |
-| Semiconductores (SMH) | 447.48 | 🔴▼ -2.6% | 🔴▼ -10.8% | 🔴▼ -19.6% | 🔴▼ -20.2% | 33 | ↘️ bajista | — |
-| Financieras (XLF) | 55.58 | 🔴▼ -1.5% | 🔴▼ -4.5% | 🔴▼ -0.8% | 🔴▼ -3.3% | 42 | ➡️ lateral | cruza a la baja su media de 50 sesiones |
-| Energía (XLE) | 60.89 | 🔴▼ -0.7% | 🔴▼ -5.3% | 🔴▼ -10.7% | 🔴▼ -4.3% | 36 | ➡️ lateral | — |
-| Tecnología (XLK) | 160.69 | 🔴▼ -1.9% | 🔴▼ -7.5% | 🔴▼ -14.8% | 🔴▼ -12.3% | 32 | ↘️ bajista | — |
-| NVIDIA | 145.98 | 🔴▼ -3.3% | 🔴▼ -12.2% | 🔴▼ -34.2% | 🔴▼ -32.0% | 20 | ↘️ bajista | en mínimos de 52 semanas, sobreventa (RSI 20) |
-| Apple | 349.21 | 🔴▼ -0.9% | 🔴▼ -1.6% | 🔵▲ +1.5% | 🔵▲ +12.9% | 53 | ↗️ alcista | — |
-| Microsoft | 498.30 | 🔴▼ -2.0% | 🔴▼ -4.7% | 🔴▼ -6.5% | 🔵▲ +3.1% | 39 | ➡️ lateral | — |
-| ASML | 1.356 | 🔴▼ -2.8% | 🔴▼ -9.4% | 🔴▼ -19.1% | 🔴▼ -23.1% | 34 | ↘️ bajista | — |
-| Banco Santander | 10.56 | 🔴▼ -0.8% | 🔴▼ -4.7% | 🔴▼ -11.8% | 🔴▼ -16.9% | 38 | ↘️ bajista | — |
-| BBVA | 22.59 | 🔴▼ -0.8% | 🔴▼ -4.0% | 🔴▼ -2.0% | 🔴▼ -9.9% | 44 | ➡️ lateral | — |
-| Inditex | 58.44 | 🔴▼ -1.5% | 🔴▼ -2.1% | 🔵▲ +2.9% | 🔵▲ +0.0% | 53 | ↗️ alcista | — |
-| Iberdrola | 22.59 | 🔴▼ -0.7% | 🔴▼ -3.2% | 🔵▲ +4.9% | 🔵▲ +12.8% | 54 | ↗️ alcista | — |
+| EUR/USD | 1.1 | 🔵▲ +0.2% | 🔴▼ -0.3% | 🔴▼ -2.0% | 🔴▼ -5.8% | 32 | ↘️ bajista | en mínimos de 52 semanas |
+| Índice dólar | 103.61 | 🔴▼ -0.2% | 🔵▲ +0.1% | 🔵▲ +1.8% | 🔵▲ +4.7% | 65 | ↗️ alcista | en máximos de 52 semanas |
+| Brent | 89.40 | 🔴▼ -3.4% | 🔴▼ -3.3% | 🔴▼ -23.4% | 🔵▲ +0.9% | 34 | ↘️ bajista | — |
+| Oro | 3.608 | 🔵▲ +2.6% | 🔴▼ -6.4% | 🔴▼ -10.0% | 🔴▼ -23.1% | 30 | ↘️ bajista | sobreventa (RSI 30) |
+| Bitcoin | 61.463 | 🔵▲ +0.5% | 🔴▼ -2.4% | 🔴▼ -19.8% | 🔴▼ -29.0% | 28 | ↘️ bajista | sobreventa (RSI 28) |
+| Ethereum | 1.724 | 🔵▲ +0.1% | 🔴▼ -2.9% | 🔴▼ -23.4% | 🔴▼ -37.9% | 30 | ↘️ bajista | — |
+| Solana | 72.46 | 🔵▲ +2.7% | 🔴▼ -1.6% | 🔴▼ -21.1% | 🔴▼ -39.0% | 33 | ↘️ bajista | — |
+| Semiconductores (SMH) | 400.06 | 🔴▼ -10.6% | 🔴▼ -17.8% | 🔴▼ -23.6% | 🔴▼ -26.8% | 26 | ↘️ bajista | movimiento anómalo hoy (-3.6σ), sobreventa (RSI 26) |
+| Financieras (XLF) | 54.57 | 🔴▼ -1.8% | 🔴▼ -7.0% | 🔴▼ -3.7% | 🔴▼ -6.3% | 37 | ➡️ lateral | — |
+| Energía (XLE) | 60.51 | 🔴▼ -0.6% | 🔴▼ -6.9% | 🔴▼ -10.4% | 🔴▼ -4.1% | 35 | ➡️ lateral | — |
+| Tecnología (XLK) | 149.01 | 🔴▼ -7.3% | 🔴▼ -12.5% | 🔴▼ -18.3% | 🔴▼ -17.2% | 25 | ↘️ bajista | movimiento anómalo hoy (-3.7σ), sobreventa (RSI 25) |
+| NVIDIA | 125.53 | 🔴▼ -14.0% | 🔴▼ -22.9% | 🔴▼ -40.8% | 🔴▼ -39.8% | 15 | ↘️ bajista | movimiento anómalo hoy (-5.0σ), en mínimos de 52 semanas, sobreventa (RSI 15) |
+| Apple | 342.56 | 🔴▼ -1.9% | 🔴▼ -3.8% | 🔴▼ -1.6% | 🔵▲ +10.4% | 46 | ➡️ lateral | — |
+| Microsoft | 484.52 | 🔴▼ -2.8% | 🔴▼ -7.5% | 🔴▼ -7.0% | 🔴▼ -0.6% | 35 | ➡️ lateral | — |
+| ASML | 1.266 | 🔴▼ -6.6% | 🔴▼ -15.3% | 🔴▼ -18.9% | 🔴▼ -27.2% | 29 | ↘️ bajista | movimiento anómalo hoy (-2.2σ), sobreventa (RSI 29) |
+| Banco Santander | 10.37 | 🔵▲ +0.5% | 🔴▼ -5.9% | 🔴▼ -9.9% | 🔴▼ -18.4% | 36 | ↘️ bajista | — |
+| BBVA | 21.98 | 🔵▲ +0.7% | 🔴▼ -6.6% | 🔴▼ -1.1% | 🔴▼ -11.9% | 39 | ➡️ lateral | — |
+| Inditex | 58.52 | 🔵▲ +1.3% | 🔴▼ -3.0% | 🔵▲ +3.1% | 🔵▲ +0.4% | 53 | ↗️ alcista | — |
+| Iberdrola | 22.72 | 🔵▲ +0.2% | 🔴▼ -1.8% | 🔵▲ +3.7% | 🔵▲ +12.7% | 57 | ↗️ alcista | — |
 
 </details>
 
