@@ -12,5 +12,15 @@
    "Bessent Warns Fed Risks Overtightening as US Markets Swoon"
   ],
   "coste_usd": 0.0491
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-23T21:54:38+00:00",
+  "hora_madrid": "22:54",
+  "clima": null,
+  "resumen": null,
+  "titulares": [],
+  "coste_usd": null
  }
 ]
