@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-24T08:51:44+00:00",
+  "hora_madrid": "09:51",
+  "clima": "mixto",
+  "resumen": "Tras la subida del 23-nov en EE. UU. (S&P +4.7%, Nasdaq +6.9%, NVDA +31.5% por el regreso de Huang), Asia replica solo en Japón y Europa abre ligeramente a la baja, con toma de beneficios. El Brent cae (-3.8%) y los bonos avanzan, mientras el mercado sigue descontando una subida de la Fed en diciembre (Williams) y el BCE también habla de subir (Simkus). El dólar sigue firme y el cripto no ha participado en el rebote.",
+  "titulares": [
+   "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
+   "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "ECB’s Simkus Says It’s ‘Prudent’ to Hike as Inflation Broadens"
+  ],
+  "coste_usd": 0.0423
+ }
+]
