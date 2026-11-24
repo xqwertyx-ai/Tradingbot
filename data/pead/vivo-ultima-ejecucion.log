@@ -1,4 +1,4 @@
-Resultados: refrescando 44 empresas
+Resultados: refrescando 26 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -36,5 +36,5 @@ ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
    TPR 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.114796 0.084907       1
    SWK 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.114528 0.084453       1
   VRSK 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.112932 0.084907       1
-Precios: 0 de 500 sin dato en la última sesión
+Precios: 1 de 500 sin dato en la última sesión
 {"abiertas": 31, "cerradas": 0} pendientes: 0, abiertas: 31
