@@ -12,5 +12,20 @@
    "ECB’s Simkus Says It’s ‘Prudent’ to Hike as Inflation Broadens"
   ],
   "coste_usd": 0.0423
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-24T21:54:17+00:00",
+  "hora_madrid": "22:54",
+  "clima": "risk-off",
+  "resumen": "Desde la revisión de apertura, Wall Street cierra a la baja y devuelve parte del rebote del lunes: Nasdaq 100 -2,0%, semiconductores -7,3% y NVDA -5,9%. Se suman la noticia nueva de aranceles (WSJ), más voces que esperan subidas de la Fed y nuevas caídas de oro, plata y cripto. Los small caps (Russell) y las financieras aguantan, y el petróleo barato alivia algo a los bonos.",
+  "titulares": [
+   "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
+   "JPMorgan’s Bruce Kasman expects the Fed to hike rates at its next three meetings",
+   "Most Fed Regional Boards Wanted to Raise Rates in October"
+  ],
+  "coste_usd": 0.0785,
+  "resumen_dia": "Asia fue mixta: Japón replicó el rebote de EE. UU., mientras Hang Seng y Shanghái siguen cerca de mínimos de 52 semanas (último dato disponible del 23-nov). Europa abrió con toma de beneficios y cerró con caídas de entre el 0,9% y el 1,3% (IBEX, Euro Stoxx, DAX), por el miedo a la IA, la amenaza de nuevos aranceles y el tono de la Fed. En EE. UU. el mercado devolvió parte de la subida del lunes: Nasdaq 100 -2,0%, SMH -7,3%, NVDA -5,9%. Russell 2000 (+0,6%) y financieras (+0,8%) resistieron. El oro (-2,7%) y la plata cayeron con fuerza y el bitcoin quedó por debajo de 60.000 con salidas récord de ETF. El mercado sigue descontando subidas de la Fed y el Brent cae, lo que da un respiro a los bonos."
  }
 ]
