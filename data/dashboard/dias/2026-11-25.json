@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-25T08:17:05+00:00",
+  "hora_madrid": "09:17",
+  "clima": "risk-off",
+  "resumen": "Desde el cierre de EE. UU. la sesión asiática ha sido claramente risk-off (Nikkei -2,8%, Shanghái -2,0%, Hang Seng -1,1%) por dudas sobre la IA, amenazas arancelarias nuevas y un IPC australiano de octubre superior al esperado. Europa abre mixta (IBEX +0,3%, Euro Stoxx +0,1%) con los futuros del Nasdaq cayendo de nuevo y el mercado pendiente del PCE de EE. UU.; Brent, oro y cripto siguen cayendo.",
+  "titulares": [
+   "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+   "Australian inflation heats up in October, core hits two-year high",
+   "U.S. Treasury Yields Fall Ahead of PCE Inflation Data"
+  ],
+  "coste_usd": 0.0379
+ }
+]
