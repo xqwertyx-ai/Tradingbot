@@ -12,5 +12,15 @@
    "U.S. Treasury Yields Fall Ahead of PCE Inflation Data"
   ],
   "coste_usd": 0.0379
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-25T21:53:43+00:00",
+  "hora_madrid": "22:53",
+  "clima": null,
+  "resumen": null,
+  "titulares": [],
+  "coste_usd": null
  }
 ]
