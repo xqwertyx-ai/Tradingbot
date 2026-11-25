@@ -1,4 +1,4 @@
-Resultados: refrescando 26 empresas
+Resultados: refrescando 23 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -34,7 +34,7 @@ ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
    TXT 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.120520 0.084926       1
    ZBH 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.118348 0.084453       1
   DLTR 2026-11-24 antes_apertura 2026-11-24        NaT 0.116649 0.083732       1
-   TPR 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.114796 0.084907       1
+   TPR 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.114796 0.084908       1
    SWK 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.114528 0.084453       1
-Precios: 0 de 500 sin dato en la última sesión
+Precios: 1 de 500 sin dato en la última sesión
 {"abiertas": 31, "cerradas": 0} pendientes: 1, abiertas: 31
