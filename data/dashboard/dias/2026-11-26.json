@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-26T08:52:28+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa los mercados rebotan con fuerza (Euro Stoxx +2,0%, DAX +1,9%, IBEX +1,8%, bancos españoles +3%) tras comprobar que los aranceles de EE. UU. son menos agresivos de lo temido; Asia ya había subido. Persisten las señales de inflación alta en EE. UU. (apuestas de subida de la Fed), con oro y cripto frágiles y el Brent cayendo un 4,3%.",
+  "titulares": [
+   "European stocks rally as tech and banks rebound, tariff fears ease",
+   "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
+   "US economy roars ahead in third quarter, inflation remains high in October"
+  ],
+  "coste_usd": 0.0357
+ }
+]
