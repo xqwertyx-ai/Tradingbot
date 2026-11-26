@@ -12,5 +12,20 @@
    "US economy roars ahead in third quarter, inflation remains high in October"
   ],
   "coste_usd": 0.0357
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-26T21:53:16+00:00",
+  "hora_madrid": "22:53",
+  "clima": "mixto",
+  "resumen": "Desde la revisión de apertura, Europa cierra con fuerza (IBEX +2,3%, Euro Stoxx +2,0%, DAX +2,1%) por los aranceles de EE. UU. menos duros de lo temido y la continuidad en el BCE con De Cos. Wall Street ha estado cerrado por Acción de Gracias y los futuros del S&P terminaron al alza. Las actas del BCE son restrictivas (otra subida si no mejora la inflación) y las apuestas de subida de la Fed en diciembre siguen vivas. El Brent se queda en -3,0% (antes -4,3%) y el oro rebota +1,6%.",
+  "titulares": [
+   "US economy roars ahead in third quarter, inflation remains high in October",
+   "Hawkish Fed poised to raise rates despite stock market turmoil",
+   "ECB Saw Need for Another Rate Hike Unless Inflation Outlook Improved ‘Significantly’"
+  ],
+  "coste_usd": 0.0853,
+  "resumen_dia": "Asia llegó a la jornada tras caídas el día 25 (Nikkei -2,8%, Shanghái -2,0%, Hang Seng -1,1%) y rebotó el día 26 al conocerse unos aranceles de EE. UU. menos agresivos, según los titulares; la tabla aún no recoge ese dato. Europa abrió con subidas cercanas al 2% y cerró cerca de esos niveles, con los bancos españoles liderando (Santander +4,1%) y las actas del BCE como contrapeso restrictivo. EE. UU. no ha operado hoy por festivo: el último cierre (25-nov) es negativo para tecnología (NDX -0,6%, NVDA -3,9%, SMH -1,0%) y los futuros subieron algo. Los datos fuertes de PIB e inflación sostienen las apuestas de subida de la Fed en diciembre. El Brent cae un 3%, el oro rebota y las cripto siguen frágiles, con salidas récord de ETF de bitcoin."
  }
 ]
