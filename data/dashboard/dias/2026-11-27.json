@@ -1,0 +1,16 @@
+[
+ {
+  "id": "europa-apertura",
+  "etiqueta": "apertura Europa",
+  "hora": "2026-11-27T08:52:21+00:00",
+  "hora_madrid": "09:52",
+  "clima": "mixto",
+  "resumen": "En la apertura de Europa dominan las sorpresas a la baja de inflación en Francia y España (energía), el repunte de Asia liderado por China (+3,7%, +4,6σ) tras promesas de apoyo al mercado, y un Tokio con inflación alta que refuerza una subida del BoJ. Los precios de EE. UU. son de cierre del 25-nov, así que no reflejan aún lo ocurrido el 26-27; el oro (+4,7%) sube de forma anómala pese al sesgo restrictivo de la Fed.",
+  "titulares": [
+   "French Inflation Slows Much More Than Expected as Energy Eases",
+   "Spain's 12-month EU-harmonised inflation falls to 4.1% in November",
+   "China stocks surge most in two years as Beijing vows stronger market support"
+  ],
+  "coste_usd": 0.0347
+ }
+]
