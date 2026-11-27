@@ -12,5 +12,20 @@
    "China stocks surge most in two years as Beijing vows stronger market support"
   ],
   "coste_usd": 0.0347
+ },
+ {
+  "id": "usa-cierre",
+  "etiqueta": "cierre EE. UU.",
+  "hora": "2026-11-27T21:53:08+00:00",
+  "hora_madrid": "22:53",
+  "clima": "mixto",
+  "resumen": "En esta revisión abre EE. UU. y cierra con un rebote amplio de la renta variable (S&P +1,6%, NDX +2,6%, SMH +4,2%). El petróleo cae un 4% y el oro sube un 3,8% de forma anómala. El mercado da por descontada una subida de la Fed, el dólar marca máximos de 52 semanas y bitcoin cae mientras la bolsa rebota.",
+  "titulares": [
+   "EUR/USD Recovers as Markets Fully Price in Fed Hike",
+   "Euro-Zone Inflation Is Seen Weaker for First Time in Five Months",
+   "S&P Global mantiene el rating de Francia en 'A+' pero empeora su previsión"
+  ],
+  "coste_usd": 0.0766,
+  "resumen_dia": "Asia subió con fuerza, liderada por China tras la promesa de Pekín de apoyar el mercado (la revisión anterior citaba +3,7%) y reforzada por un comunicado del Consejo de Estado a mediodía. Europa abrió con alivio por la inflación a la baja en Francia y España, impulsada por la energía, y cerró con subidas (IBEX +1,7%, Santander +4,4%, Euro Stoxx +1,2%). Ya hay un BCE con sesgo de subida y una crisis de deuda francesa de fondo, con S&P manteniendo el rating de Francia pero empeorando la perspectiva. En EE. UU. hubo un rebote fuerte de tecnología y semiconductores tras la caída previa. El crudo cayó un 4% y el oro subió un 3,8% pese a la Fed restrictiva. El dólar subió y bitcoin y ethereum siguieron débiles. Cierre mixto con sesgo risk-on en bolsa, pero sin confirmación en dólar, oro y cripto."
  }
 ]
