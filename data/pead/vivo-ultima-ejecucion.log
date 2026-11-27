@@ -1,4 +1,4 @@
-Resultados: refrescando 42 empresas
+Resultados: refrescando 13 empresas
   resultados: 50/503 (fallos 0)
   resultados: 100/503 (fallos 0)
   resultados: 150/503 (fallos 0)
@@ -17,7 +17,7 @@ Precios...
   precios: 400/504
   precios: 500/504
   precios: 504/504
-  última sesión: 2026-11-25
+  última sesión: 2026-11-27
 Anuncios desde 2026-10-12 en los datos: 886 (con fecha pasada: 425)
 Eventos con reacción reciente: 422; señales de compra: 35
 ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
@@ -33,8 +33,8 @@ ticker    anuncio           hora   reaccion    entrada       ra    ra_hi  sig_ra
   FISV 2026-11-03 antes_apertura 2026-11-03 2026-11-04 0.121599 0.084596       1
    TXT 2026-10-29 antes_apertura 2026-10-29 2026-10-30 0.120520 0.084510       1
    ZBH 2026-11-04 antes_apertura 2026-11-04 2026-11-05 0.118348 0.083523       1
-   HPQ 2026-11-24    tras_cierre 2026-11-25        NaT 0.117783 0.083529       1
+   HPQ 2026-11-24    tras_cierre 2026-11-25 2026-11-27 0.117783 0.083529       1
   DLTR 2026-11-24 antes_apertura 2026-11-24 2026-11-25 0.116649 0.083525       1
    TPR 2026-11-05 antes_apertura 2026-11-05 2026-11-06 0.114796 0.084062       1
-Precios: 1 de 500 sin dato en la última sesión
-{"abiertas": 34, "cerradas": 0} pendientes: 1, abiertas: 34
+Precios: 0 de 500 sin dato en la última sesión
+{"abiertas": 35, "cerradas": 0} pendientes: 0, abiertas: 35
