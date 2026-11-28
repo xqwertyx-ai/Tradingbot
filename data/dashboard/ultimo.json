@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-27T21:53:08.743226+00:00",
- "modo": "cierre",
- "evento": "usa-cierre",
+ "generado": "2026-11-28T03:18:13.773605+00:00",
+ "modo": "actualización",
+ "evento": "manual",
  "activos": [
   {
    "ticker": "^GSPC",
@@ -162,6 +162,32 @@
    "flags": []
   },
   {
+   "ticker": "^N225",
+   "name": "Nikkei 225",
+   "group": "Índices",
+   "key": true,
+   "level": false,
+   "fuente": "Yahoo",
+   "calidad": "sin contraste",
+   "last": 58711.109375,
+   "date": "2026-11-27",
+   "chg_1d": 0.021077685577608696,
+   "chg_5d": -0.012332598093879765,
+   "chg_1m": -0.07203064722493213,
+   "chg_3m": -0.1040314235468317,
+   "vol20_ann": 0.40170364989145985,
+   "ma50": 63468.680546875,
+   "ma200": 62357.35126953125,
+   "dist_ma50": -0.074959352091167,
+   "dist_ma200": -0.05847332865007149,
+   "rsi14": 43.35440725568312,
+   "from_high": -0.18869592779447286,
+   "from_low": 0.19814922757466613,
+   "z_1d": 1.1060277693129965,
+   "trend": "bajista",
+   "flags": []
+  },
+  {
    "ticker": "^HSI",
    "name": "Hang Seng",
    "group": "Índices",
@@ -169,21 +195,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 22226.880859375,
-   "date": "2026-11-26",
-   "chg_1d": 0.011876125729409548,
-   "chg_5d": -0.02691307816076205,
-   "chg_1m": -0.03758197032902644,
-   "chg_3m": -0.13059897129482134,
-   "vol20_ann": 0.22435741219262792,
-   "ma50": 23850.4961328125,
-   "ma200": 25023.579501953125,
-   "dist_ma50": -0.06807469598939697,
-   "dist_ma200": -0.11176253350803944,
-   "rsi14": 32.63232000250105,
-   "from_high": -0.20527712176446622,
-   "from_low": 0.011876125729409548,
-   "z_1d": 1.054559890589866,
+   "last": 22694.76953125,
+   "date": "2026-11-27",
+   "chg_1d": 0.021050577219324573,
+   "chg_5d": 0.012671066633084482,
+   "chg_1m": -0.011493744400705497,
+   "chg_3m": -0.11295850531306295,
+   "vol20_ann": 0.23153629130366823,
+   "ma50": 23810.1159375,
+   "ma200": 25002.816748046876,
+   "dist_ma50": -0.046843384096814544,
+   "dist_ma200": -0.09231148794374022,
+   "rsi14": 41.244771070957114,
+   "from_high": -0.18854774644820527,
+   "from_low": 0.03317670225046743,
+   "z_1d": 1.8505499666488499,
    "trend": "bajista",
    "flags": []
   },
@@ -195,25 +221,24 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 3476.882080078125,
-   "date": "2026-11-26",
-   "chg_1d": 0.00011854248087073138,
-   "chg_5d": -0.02815697288895891,
-   "chg_1m": -0.055572086682820876,
-   "chg_3m": -0.10967952596792974,
-   "vol20_ann": 0.14833655420736908,
-   "ma50": 3723.7707958984374,
-   "ma200": 3946.827493896484,
-   "dist_ma50": -0.06630072830804978,
-   "dist_ma200": -0.1190691547946039,
-   "rsi14": 26.621195682499675,
-   "from_high": -0.1804777237605203,
-   "from_low": 0.00011854248087073138,
-   "z_1d": 0.014547516429523745,
+   "last": 3606.487060546875,
+   "date": "2026-11-27",
+   "chg_1d": 0.037276208247430054,
+   "chg_5d": 0.020571123560356508,
+   "chg_1m": -0.012309416101898063,
+   "chg_3m": -0.07097383417905057,
+   "vol20_ann": 0.19805459113752796,
+   "ma50": 3717.2124560546877,
+   "ma200": 3944.103740234375,
+   "dist_ma50": -0.029787212008143493,
+   "dist_ma200": -0.08560035483940831,
+   "rsi14": 48.00187461726431,
+   "from_high": -0.1499290407280096,
+   "from_low": 0.037399169542503996,
+   "z_1d": 4.608244472143232,
    "trend": "bajista",
    "flags": [
-    "en mínimos de 52 semanas",
-    "sobreventa (RSI 27)"
+    "movimiento anómalo hoy (+4.6σ)"
    ]
   },
   {
@@ -250,21 +275,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 1.0934937000274658,
+   "last": 1.0972130298614502,
    "date": "2026-11-27",
-   "chg_1d": -0.00320395584878419,
-   "chg_5d": -0.0031711339762537927,
-   "chg_1m": -0.019792248604098228,
-   "chg_3m": -0.058764365354027515,
-   "vol20_ann": 0.059062093055215946,
-   "ma50": 1.1186528396606445,
-   "ma200": 1.148441008925438,
-   "dist_ma50": -0.022490569675584937,
-   "dist_ma200": -0.047845129589533464,
-   "rsi14": 31.50977759080692,
-   "from_high": -0.09009298462503557,
-   "from_low": 0.0024603357872576836,
-   "z_1d": -1.0757866470580388,
+   "chg_1d": 0.0001864736208287976,
+   "chg_5d": 0.00021940713128598688,
+   "chg_1m": -0.016458241345365998,
+   "chg_3m": -0.05556291501493549,
+   "vol20_ann": 0.05869551214219964,
+   "ma50": 1.1187272262573242,
+   "ma200": 1.148459605574608,
+   "dist_ma50": -0.01923095808425912,
+   "dist_ma200": -0.044622009746278835,
+   "rsi14": 34.68255282778436,
+   "from_high": -0.08699809316992169,
+   "from_low": 0.0058700313659207914,
+   "z_1d": 0.06261192125737576,
    "trend": "bajista",
    "flags": [
     "en mínimos de 52 semanas"
@@ -360,21 +385,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 59728.640625,
-   "date": "2026-11-27",
-   "chg_1d": -0.012663426283521906,
-   "chg_5d": -0.023434021723462095,
-   "chg_1m": -0.21147113326684963,
-   "chg_3m": -0.289240243314024,
-   "vol20_ann": 0.3739617055791675,
-   "ma50": 74239.592890625,
-   "ma200": 71810.23958984375,
-   "dist_ma50": -0.19546109697831404,
-   "dist_ma200": -0.16824340141252603,
-   "rsi14": 26.71959891004245,
-   "from_high": -0.38379186382088626,
-   "from_low": 0.019976161805149495,
-   "z_1d": -0.6332345472013863,
+   "last": 59892.19921875,
+   "date": "2026-11-28",
+   "chg_1d": -0.009959742090056123,
+   "chg_5d": -0.020759831310962595,
+   "chg_1m": -0.20931185639021876,
+   "chg_3m": -0.2872939263531623,
+   "vol20_ann": 0.3739772002014285,
+   "ma50": 74242.8640625,
+   "ma200": 71811.0573828125,
+   "dist_ma50": -0.19329352423243196,
+   "dist_ma200": -0.16597524947342168,
+   "rsi14": 26.98709698262357,
+   "from_high": -0.3821044633517623,
+   "from_low": 0.022769224981168845,
+   "z_1d": -0.4980368370640713,
    "trend": "bajista",
    "flags": [
     "sobreventa (RSI 27)"
@@ -388,21 +413,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 1662.8599853515625,
-   "date": "2026-11-27",
-   "chg_1d": -0.014742679018581062,
-   "chg_5d": -0.03382518200514473,
-   "chg_1m": -0.2560068244324206,
-   "chg_3m": -0.381945707278315,
-   "vol20_ann": 0.5175146363641197,
-   "ma50": 2150.9964453125,
-   "ma200": 2106.244987182617,
-   "dist_ma50": -0.22693503795633663,
-   "dist_ma200": -0.21050970068972885,
-   "rsi14": 28.171270206258882,
-   "from_high": -0.5043226651676915,
-   "from_low": 0.0626548387866801,
-   "z_1d": -0.5457649378381124,
+   "last": 1662.4100341796875,
+   "date": "2026-11-28",
+   "chg_1d": -0.015009278545949134,
+   "chg_5d": -0.03408661802226132,
+   "chg_1m": -0.25620814060104724,
+   "chg_3m": -0.38211294580455435,
+   "vol20_ann": 0.517519294476602,
+   "ma50": 2150.9874462890625,
+   "ma200": 2106.2427374267577,
+   "dist_ma50": -0.22714098724856857,
+   "dist_ma200": -0.21072248481165579,
+   "rsi14": 28.149822499668446,
+   "from_high": -0.5044567898682943,
+   "from_low": 0.062367296363251334,
+   "z_1d": -0.5556342888765717,
    "trend": "bajista",
    "flags": [
     "sobreventa (RSI 28)"
@@ -416,21 +441,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "ok",
-   "last": 71.9000015258789,
-   "date": "2026-11-27",
-   "chg_1d": 0.01363600331666226,
-   "chg_5d": 0.01884579034392031,
-   "chg_1m": -0.2016382378273487,
-   "chg_3m": -0.4107027855884241,
-   "vol20_ann": 0.5602229376778303,
-   "ma50": 90.52617599487304,
-   "ma200": 87.75973045349122,
-   "dist_ma50": -0.20575457059015756,
-   "dist_ma200": -0.1807176121172941,
-   "rsi14": 34.98861434108683,
-   "from_high": -0.5100604704379226,
-   "from_low": 0.15613809358017372,
-   "z_1d": 0.5021740889140736,
+   "last": 71.69000244140625,
+   "date": "2026-11-28",
+   "chg_1d": 0.010675466068155837,
+   "chg_5d": 0.01587003681609822,
+   "chg_1m": -0.2039700213541389,
+   "chg_3m": -0.4124239521097375,
+   "vol20_ann": 0.5586364396041061,
+   "ma50": 90.52197601318359,
+   "ma200": 87.75868045806885,
+   "dist_ma50": -0.20803758823199636,
+   "dist_ma200": -0.1831007249971155,
+   "rsi14": 34.45407589535371,
+   "from_high": -0.5114914419326584,
+   "from_low": 0.15276134899014182,
+   "z_1d": 0.39314616768672683,
    "trend": "bajista",
    "flags": []
   },
@@ -652,25 +677,23 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 10.902000427246094,
-   "date": "2026-11-27",
-   "chg_1d": 0.04425295645901084,
-   "chg_5d": 0.05639542147600696,
-   "chg_1m": 0.03710048898488938,
-   "chg_3m": -0.13366173358958655,
-   "vol20_ann": 0.4032680799824139,
-   "ma50": 11.446040019989013,
-   "ma200": 11.295080018043517,
-   "dist_ma50": -0.04753081343353904,
-   "dist_ma200": -0.03480095671473704,
-   "rsi14": 50.023883694210205,
-   "from_high": -0.15827665921811074,
-   "from_low": 0.17974247594735582,
-   "z_1d": 2.0577270342299463,
-   "trend": "lateral",
-   "flags": [
-    "movimiento anómalo hoy (+2.1σ)"
-   ]
+   "last": 10.4399995803833,
+   "date": "2026-11-26",
+   "chg_1d": 0.041084932934669416,
+   "chg_5d": -0.011176362461289169,
+   "chg_1m": -0.018612517661756867,
+   "chg_3m": -0.17561592346989263,
+   "vol20_ann": 0.3995218627107811,
+   "ma50": 11.478480014801026,
+   "ma200": 11.292640013694763,
+   "dist_ma50": -0.09047194690225946,
+   "dist_ma200": -0.0755040833921432,
+   "rsi14": 41.901063160999705,
+   "from_high": -0.1939468922969444,
+   "from_low": 0.12974779592463936,
+   "z_1d": 1.9708655461473066,
+   "trend": "bajista",
+   "flags": []
   },
   {
    "ticker": "BBVA.MC",
@@ -680,21 +703,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 22.25,
-   "date": "2026-11-27",
-   "chg_1d": 0.01784077670445061,
-   "chg_5d": 0.019239582123765864,
-   "chg_1m": 0.01737536105096571,
-   "chg_3m": -0.1049879543954948,
-   "vol20_ann": 0.34315457035485125,
-   "ma50": 23.157800064086913,
-   "ma200": 21.66830002784729,
-   "dist_ma50": -0.0392006175705234,
-   "dist_ma200": 0.0268456672376296,
-   "rsi14": 46.21502778773479,
-   "from_high": -0.12436048273860734,
-   "from_low": 0.24336403636955084,
-   "z_1d": 0.9817371123344169,
+   "last": 21.860000610351562,
+   "date": "2026-11-26",
+   "chg_1d": 0.02725563463304015,
+   "chg_5d": -0.032315163227331856,
+   "chg_1m": -0.026280629511686526,
+   "chg_3m": -0.1266480219469297,
+   "vol20_ann": 0.366139821513498,
+   "ma50": 23.206000061035155,
+   "ma200": 21.65475003242493,
+   "dist_ma50": -0.058002216975929444,
+   "dist_ma200": 0.00947831665659038,
+   "rsi14": 42.21685256141653,
+   "from_high": -0.13970874688620272,
+   "from_low": 0.221570273884385,
+   "z_1d": 1.5260233822292797,
    "trend": "lateral",
    "flags": []
   },
@@ -706,21 +729,21 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 58.63999938964844,
-   "date": "2026-11-27",
-   "chg_1d": 0.00034118829969465025,
-   "chg_5d": 0.014884053799248509,
-   "chg_1m": 0.041933202941356607,
-   "chg_3m": 0.019826076341711962,
-   "vol20_ann": 0.2855171295411025,
-   "ma50": 56.30519996643066,
-   "ma200": 54.733499946594236,
-   "dist_ma50": 0.04146685252178828,
-   "dist_ma200": 0.07137309777130896,
-   "rsi14": 53.46882581202314,
-   "from_high": -0.02752901937670127,
-   "from_low": 0.22039542811105628,
-   "z_1d": 0.023522373542467945,
+   "last": 58.619998931884766,
+   "date": "2026-11-26",
+   "chg_1d": 0.020187954505651584,
+   "chg_5d": 0.003080087429939038,
+   "chg_1m": 0.02697962598859327,
+   "chg_3m": 0.010689636756633814,
+   "vol20_ann": 0.2859550116286876,
+   "ma50": 56.16720001220703,
+   "ma200": 54.725499954223636,
+   "dist_ma50": 0.043669595763090596,
+   "dist_ma200": 0.0711642466659741,
+   "rsi14": 53.36521104711352,
+   "from_high": -0.027860701930875753,
+   "from_low": 0.21997918548709716,
+   "z_1d": 1.4070757926572608,
    "trend": "alcista",
    "flags": []
   },
@@ -732,51 +755,141 @@
    "level": false,
    "fuente": "Yahoo",
    "calidad": "sin contraste",
-   "last": 23.209999084472656,
-   "date": "2026-11-27",
-   "chg_1d": 0.007815822512394766,
-   "chg_5d": 0.023819982636144266,
-   "chg_1m": 0.05022618478928331,
-   "chg_3m": 0.16691803904991986,
-   "vol20_ann": 0.1729895185480212,
-   "ma50": 21.858600006103515,
-   "ma200": 20.585049962997438,
-   "dist_ma50": 0.06182459434692955,
-   "dist_ma200": 0.12751725772799594,
-   "rsi14": 63.680764508735244,
-   "from_high": -0.020675175641050147,
-   "from_low": 0.31055902226568466,
-   "z_1d": 0.8308805148759322,
+   "last": 23.030000686645508,
+   "date": "2026-11-26",
+   "chg_1d": 0.013644427053692842,
+   "chg_5d": 0.019477668485416544,
+   "chg_1m": 0.045392644976456786,
+   "chg_3m": 0.14691238915079574,
+   "vol20_ann": 0.17186176313540416,
+   "ma50": 21.800200042724608,
+   "ma200": 20.569449968338013,
+   "dist_ma50": 0.056412355919243984,
+   "dist_ma200": 0.11962160981917136,
+   "rsi14": 60.93237392082465,
+   "from_high": -0.028270044503190372,
+   "from_low": 0.3003953629132141,
+   "z_1d": 1.4675142289740863,
    "trend": "alcista",
    "flags": []
   }
  ],
  "titulares": [
   {
-   "title": "Why Bitcoin price could crash again despite the recent recovery",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUUVGcG9JOTZCZXllREt3Si01QU5kZm4yUVhDVnVkcUJSR05JXzFtUGpHNnhXN0g2VWxCN1dCT0t2ZDBFelJQcUxadWV0bXdSZUFLbUtkR1g?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:39:32+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
-   "title": "HAEDAL, KNTQ and BULLA Surge Up to 76%: Top Crypto Gainers Today",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZjRxa0xVYXB5eEgyODQ3NVN5SU1xNHNwZjFkTXI3eHdJNENqUkIyVEZqTTFTN0hHV3BNbUo0MjI4YUJQaExWdkxCWFNYbVNsQnpiUXF2R1NWZw?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:31:06+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
    "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
    "source": "WSJ",
    "feed": "Google News · markets",
-   "published": "2026-11-27T21:01:15+00:00",
+   "published": "2026-11-28T03:01:15+00:00",
    "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Black Friday shoppers feel inflation squeeze",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBVDBwcy0zbHJrdHVPMEdVVWpOQkRkSTMzUVNiTlp1Z1QwdWVxbnJNMEFLc1FGS3FDbURaS05qa0p2VE45ME5XcUc1NGI4TVpDa04zNVo3QnpTVUXSAWBBVV95cUxQVUwtSnVsM0ZnR1VNbmVrVDE3RWwtMkdNZ3NOTlFyZnVsME8zbUIxYzBqcE9UWG40SU4yZzY0cmFLaHdEYktBdlRZQ0RLcllrelRFdXdhM0Y4eDFWclhDQ1M?oc=5",
+   "source": "FOX 9 Minneapolis-St. Paul",
+   "feed": "Google News · markets",
+   "published": "2026-11-28T01:18:14+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Outflows",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQlJYX2JOaFJRdVVJdnVXS042cEQ4UUF0SUhtSmQ3dWxLc254LUVCSGlJUDhrSE1fS3gwQnZIMEpvNjNyemlfRTFQSWxfX21vTmlxelV4QThlRXNEZlk4NFFUOWJ4R1pSMjFfOWxlWVl1UUEzdXc?oc=5",
+   "source": "BigGo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T01:05:00+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
+   "title": "Parade balloon re-inflation not open to the public",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNExnTV9YWTJpYVUyNm9HRVA2b0xMTWhhRmJRZnZjdGhyLXIzbk9hNTZoOU42TlEtY1EwSWdGZ3FXNE9PRkdubldDdWdOYUJMdzRPMUdmNzlWOTFILUh2bmMxUDduX0VLSjNucm0yMVVfeDZMZlo1TVRVTHFfalhUb3U4cFcxTUk5SF9weHJFN2Fubm1KODg2bmE0MVF0UzNFNGhHWDhTeDZVakFNTEZQN01mOTlnVEp4SU5zNXI1ZERDbnotY2IyQw?oc=5",
+   "source": "WPSD Local 6",
+   "feed": "Google News · markets",
+   "published": "2026-11-28T00:20:15+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Video: Black Friday Shoppers Flock to Stores Despite Rising Inflation",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ3Fsb3pDQlpHWjV6V0RuM3NNakdOR0JTb2tRWkpTSk9RQllvMHhmblUyVWN3aXFvZGwwTDFMaTNEWF94VWRQUFdlQW9TaTNqaU5aZ004WllodlhNTEVlN3MzZ0t4cXFtTXExNm1mVlNHSURvSTN1VUtacERVRi1mVTJqai1mZUo0WnVtbnJQSVZqcFhyM3FQbW9LelMybUFuVmpXSFBrc1JLYnd5Y1RnS09oV2lWX0E?oc=5",
+   "source": "The New York Times",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:56:31+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "How tariffs and inflation impact Black Friday shopping",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWSVU3by1BdTh4bzZKaDlROHhYakI4a2lZMEJxMFpCbkd0RnY5T3ZFYW9PZFB5LXU0UjgyRFZmcm9LZFpTQ2NUUlk5eDhMd2FXTk9Gbi1fU3JYZ2lMZFdLT3Z1Z0jSAWpBVV95cUxOZjg5aHBvN2lqQjZOSnViS3R1ZUhRTGU5WDdHWFJRaTYwLU5oN1ZwWUhLRWFsN1JBZ2xBb1Izblh4U0lpdWllSEtrSDVoX01weVFicVYxMXZDVWFic0lWc3RnTHNuWERINVlR?oc=5",
+   "source": "FOX 5 Atlanta",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:50:54+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Neither inflation nor bad weather deter Black Friday shoppers",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1RNODUxdFRVUl9Ham9Za000ZEpDTFBoMnY4T2JVbkhSZU5KWkJPekIzUU4wOHh3SVdKMWlrTXNrdm1DUnZGbXB6aUM0NGNGU2RnaHM1R1h1Q0FFVkl0SXZJVW9oNlUwS0ZkVElCVTNiZndBazBrOTVJZHE0UWh5OTRyVVVRYVl0OFlaM19lZXNqeUh3RFlQQXRUc3drVHZJemkwX1JkWi1zNFpOdGsyYVpTSEVhbUFI?oc=5",
+   "source": "WRAL",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:44:03+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "EUR/USD Recovers as Markets Fully Price in Fed Hike",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlQ3R1Frc241eVZyaUxwZmxwV3VSXzRCVk9fU1lXZW1WZmZ1OWFESXRFQTZNN2pLQm5jaXNxeTRhazlHdFdPX1RObW1obGV2Njh0VktCTGRmempITTJ0V2U2M1RtdnZTR3Z5LWozWHdMRnl1ODl6SGlKQ2pzaW9ONS1ocVAtMkFab1d5dHFFZWhIeTM2ZjllR1VIelJNYlE?oc=5",
+   "source": "FOREX.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:31:34+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "The Fed is fighting the wrong inflation battle",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmliMWpYM1hKcjFZem5ydWw2aTBJZ2pOblE3YWFKcWdwejRfR255RnNjUFV3Z29mVkRYLXdHMHZYR2I4bXBseHE0VXBNN19qV3dxb0RBZzY1OG1yUkpfNlNjMHZVazNLSmxPUUJoOE1EMVM5d1YwMjlrUkRSazFsbjUySHRVWEdB?oc=5",
+   "source": "Kitco",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:31:03+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Fewer fed cattle, fewer reports",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yOTlQUk1mS08xZkpHTXphOE1qcF9UUXpzQl9aLWhieUlpUXdDSEdVbGZPSlFYbzF2NmwtX0JSc1FKUVJ6cjFVLWFYUUpTUzhHanB5dEFyODRhVjNVVWtBaUdKZzhkd1py?oc=5",
+   "source": "Tri-State Livestock News",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T23:07:59+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Khosla warns AI and quantum computing could threaten crypto security by 2030",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUdrZG4zWEFydkpySk03aTJKX0V3X2tuVU9TQnJDTVZTb2R6aTExczVVVDNfcVZPbUJHQkc0ekJWc1RkcjRwRTMxR3pXTWNISEkzV0UtRWZCaWNFeTFVUVNiVzNQcU1JQ2NBcld5aGlzcmQ1VW9lOU9mUzNXdEMwUHR4TUR6eGRkclhwSV9Qa0VEUVZBWjcxT3FJSmk5MkJQUmdaUDBLYw?oc=5",
+   "source": "Crypto Briefing",
+   "feed": "Google News · crypto",
+   "published": "2026-11-27T22:09:52+00:00",
+   "category": "geopolítica",
+   "score": 3
+  },
+  {
+   "title": "Gold and silver bounce from 15-month lows, but Fed risks loom large",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHRKOGNNMzNLb2dYbFhxMi12UEpPOGRqSHI0XzRmVVZBZThlVjdOWGh0WHo1Sjh6U1NYdmI4eU9GVkNZeHZNQ3luTmkwRWxIQUJQbGZNa1hsTXpiSHJoVGtvNGFiNmNxZ0hNNmVOT1NBTUVrSXQ5clI4YUFkQjJpclhfWFg0eS1GSVFNMC12ZWtpQVUzM1NwelhzWDJqVnh4clJvcllB?oc=5",
+   "source": "Kitco",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T22:05:46+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
+   "title": "Slow and Steady Could Win the Fed’s Next Hiking Cycle",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0t1Vl9qTmp4cW5NQUVLUDhpd1hjd0JKNGk1SzFNR09oQm83V1VaVlBuRmNKMTFHbGl4YURlT2p0YjZDam91Ui1qc2pOOUpSSE9jU3VfVXFtM2xFUXJ2bmFLZ2ZFZ214cVMtUnp0SXVBX0J0WkVxbE9LQVdqWktYaGJMYXE0WE8wSXhGaGVUY2RJbXViUUV0bA?oc=5",
+   "source": "Dividend.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T22:02:21+00:00",
+   "category": "macro",
    "score": 3
   },
   {
@@ -789,21 +902,21 @@
    "score": 3
   },
   {
+   "title": "Inflation-Weary Shoppers Are Picky—Yet This Mall Brand Surged 30%",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3RmejIxNGh2Q2l0OHNXbzdTLUFvZkhPR1RVQkU4ZHdWTFpGWGpaS0hzencyMzdxZkFvOS1yTlVJc0NaWTJXbmxUSHczSmhUbl9KYUFReUVrbVJtQmZ5VWlTME5IcC1tT2pvdkpfOE9mY0JFNmNvY1BVbWQ1M1JqMTJzb19NVkVNelJz?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T20:39:42+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Black Friday shoppers pack outlets in Tulalip, WA amid stubborn inflation",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94UzVKbzBSbkNMUnVfdGZuSTB2SlRjTGZuZWVtajNIRlZFUkJMTUpFNHBnZzFMcl8yUmp6Qkc0OGlYX0xXdTBRalNVY1V1ZGU5cjBLdVNfOGktY0pVYlpFZHFuTzFHVzNHSURxMg?oc=5",
    "source": "FOX 13 Seattle",
    "feed": "Google News · markets",
    "published": "2026-11-27T20:18:34+00:00",
    "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bitcoin en caída libre, Anthropic se dispara: El mercado financiero juega a contracorriente",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajRRdmdRNUZHMnJOSG0tUGRRZWpralZTMG4wMk5yWHRfNDg4MUdUZ1N3eF9URld5NGVzS3JTeURLdWEybGFaLUZESU5abnp3SS1mcDdKaVlibkJTWWhPbExiTTZBZE9uc01LdmFLamlxZVhpdklWMk1vdWNSNk1WU1Y1QnVOSEdEcEpJSnZTMTFIWFdBaXktZWotNm5GdWpGc1FadnVPQ3VjMVBSZHkxbGo1ZkM3eHAxdXV4cDNR?oc=5",
-   "source": "Cointribune",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-27T20:10:00+00:00",
-   "category": "cripto",
    "score": 3
   },
   {
@@ -825,18 +938,9 @@
    "score": 3
   },
   {
-   "title": "EUR/USD Recovers as Markets Fully Price in Fed Hike",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1VbkJlTURvRVctZ21WVXJGWmxoWmQzdGNoZ0ktQUo4aFdXS3N5dVVveThMbHkxamVYanhhdEN0UWlJMTRjM2dod1hjTUQzbThHaUNqeTQ4eDEzSDl5RXBVeWREWFppa0MyZjlEUDVadjdGX1pNeGF0WkhoUlhFMFo2eC1IcjV2U3V1UEZOM2NRNkpsTVhFTERHdkExb0U?oc=5",
-   "source": "FOREX.com",
-   "feed": "Google News · markets",
-   "published": "2026-11-27T19:25:10+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "feed": "Google News · markets",
    "published": "2026-11-27T19:21:40+00:00",
    "category": "macro",
@@ -874,43 +978,16 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFBKdGtrRDNiUFNNQ25sNHV4aV9pUUN1ZEFQN0pqRTh2TGRFS3l5a19vNF81ZjNfeVR3SGlMWnJOSll2T3ZYTTdvX3ZwNXR2UFNpYUxXcFdyaWFRTmNoNXk1US1LNXY4Sl9RZThVNjJNWnd6emdyTUJ5VXJaVzRHRFR4dnJBaVJTZFBwUDJFQkVTY0FCdlhsR1V4eHVub1dwNEhJa2hqOGJDZFpfZnFBX242TXlyUXg1cmFxdFJ2Ny1mRXhDRGl0MzlHdlpuZHVzaHU2dHI1S05PbVNzU1lOMVU0b2g?oc=5",
    "source": "Human Resources Director",
    "feed": "Google News · markets",
-   "published": "2026-11-27T18:22:30+00:00",
+   "published": "2026-11-27T18:26:36+00:00",
    "category": "macro",
    "score": 3
   },
   {
-   "title": "Hernández de Cos aterriza en el BCE con una crisis de deuda en Francia como el primer problema a resolver",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdWlIbVdVcENrRUk2bEg5R0RUVE5DUGNHa0ZLelV0c0hIRVhSUHUzek81MEJPVjlSZ0czZ2t5TGRkS3JJbVRDOEtRdWFXZjVLS3ZzYi15eFpPQ2w3NGN2TUpiQXBSSWhrWW90MS04RFRXYmZsMklVYmk3a3dfU011akRYWWZfc25fd1QzWU5nM2tpMEthdm9HdjFsMWtfaGh5ZGExZ1U3Y3A5NDV5VEd3akpaVXFZNktuckZHTjI2QXVwTTBBdmJ0YnRIVmVzU0pxLXh0Znk3bk5FRlpaUXZlaTl4UDZIeW9NXzQzblNxUzFMV0s1dTNGVHBEeml2bFJLUTl2U9IB7wFBVV95cUxQRExiaFExbUNRSEM0V2p0NEFLWGprNlEtQVFiSVQ1b3U2MUF4M0ZCLXJsSVd0NDFlckljWEg2ZF9CLVdNR210bXdNYkZHeEdPR1RIMkVVTzEyOFNVM3FhRzR2a1RtUnNUU0dwOXFrTVRzMWVVbjUxX0lxN3pFQVN3MVMxakpXcXlwalZmNV9nUWI5RkN4M3Nac1hKYmV0ajJHcC1jOFhOTnp6VTZHZ1cxVVdZMnFCQW9mby13Zk9HZ04xeGs0VGQ2cG0tZWtCa3hFTmU2Z2dWeVYxTXlfb3ptQXVRXy1yV0hId21NSE1zOA?oc=5",
-   "source": "El Economista",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-27T18:15:09+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bitcoin and Gold Lock at Record 0.56 Correlation as Both Slide With Stocks",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5bWhaTU1OX2RFYVVkNDhkTThxR1VXX3N1Qmo5cGFTeHhnMGo0WGJMT1dBcmRYQS0xYjViTmdYd2dHbjNVNXpzV3ZuTERiRS0zZ3JtWXgwT0pxUUJHWTFiUS00S2U4eHZCQ0xzMUJwWDN2dzNEMFE?oc=5",
-   "source": "BigGo Finance",
+   "title": "Coinbase CEO issues bullish Bitcoin prediction as inflation fears grow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHJRZkViY1RVc0JfRkRyYVJfWThmZnB1UU0zZ2ptQUtuaThqUll1ci12NENEWXpmV3JVS0pOZi13NGVlYmRobmMwSGlkSW5LY0xtdDYybTNQX2t3U1I3STJ1enF6dXRONzVEZ3N6X3hlTDB4UjFqNjltNnltVUhfNHRLWVFxelllZmdpWndKbEgwMkg3NnBVY2dza0NpMUdZdnc?oc=5",
+   "source": "Yahoo Finance",
    "feed": "Google News · crypto",
-   "published": "2026-11-27T17:55:00+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
-   "title": "La leve tregua del IPC no enfría la última subida de tipos del BCE del año",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSkk0NnJLWUJpMXhFQ3RpYWFjV1djTTIzZzFwRlo1SlpfMnpWSWRqejR1cFMxOHdQSGJGZS1vWV9iSEN0YkE1QUpmR05WX1JpSnhwUUN3X0hsUjJaOW4tX2NZR3hIUzAzXzgtdVVEelNFRWpOdW5UdUx4N1JoN0ItOG9iSWpqOG93eWhNREtiSUhSeFp4MmhZRlVnaGhOeFdYY3ZBeHZqVmtJTFZ5NnVpa0t3WXhkV2lRSlFuRzlmWXJ2QUN0T2hiLUdscDJBVHd6SkVlQjU3VTdmM1cxdnRVWThvQUNhVnEx0gHTAUFVX3lxTE1IVzY5RGhfN2JLZHhRTmo2MGVDMUxQU2hhLXh4QmNPTzdHLW1uSm1YMm15eE52Sk1HQTJJWVg2MlpScjNDaUFYdHdCNjg0MExZejFncXpYUzcxTFpzYUVoVDFpSVVTQUxlR2xPYmxwdEd0MGtSNXNzQnRleHB5VTAzTGlPN3Z6RlBNOEJ1YVVtVFVrRy1RaXhfSTV5TDFKVHpjcWNzM19DamljdVZxOEV4Ulg4MVpMbjhwQkJIX3BEeXJrcHFmVTE3WF8zQUJlb3JhZ1k?oc=5",
-   "source": "El Economista",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-27T17:36:40+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Bitcoin Would Benefit 'Massively' if the Fed Does This Unexpected Move",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFZjelZmOEgtejdybEpZWUgwWV9tRnU2bHhHMTlWbUNpZlRBV1V2eGozQjctdktNd3E3d2F1OTQyN1Y5VVgwX1lRWXRHM183c3h1RElKc25CYXFsN21DVHpJQWNlMWJaTE5XYXpXRXM5QW1fendhU0R4Rkl4a2FpekJmOFFwc3NzWHlFTFVSUkU3TmhrU3ZGcE9wSWJWMDRfUzhQVGhUTHJtNXRzYWVkZV9xNldlOVFibDZsd29CdjFLOHUtOU1yaWp3?oc=5",
-   "source": "Benzinga",
-   "feed": "Google News · markets",
-   "published": "2026-11-27T17:31:03+00:00",
+   "published": "2026-11-27T18:14:46+00:00",
    "category": "macro",
    "score": 3
   },
@@ -924,36 +1001,18 @@
    "score": 3
   },
   {
-   "title": "Bitwise’s Matt Hougan Bets Gen Z Will Lift Bitcoin to $1.6M as Galaxy Warns of a $28K Slide",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdERmVVN2Z3Fna3daQk5zbWswSWZObjlVekNDcEY1OTQ3emRWbUZsM0ViME4zOFZsOGw2VF9kaXlTRnJXSDlIQkhMczgxdHBWZC1yQUVNdW81QmRWQVhuNHVRejhwQ0hVUUtUVFFzXzFtUWhNeGM1UGFpTTlBRDJCaHJITlN0aUhhdTIyQ2FaZnBPd1RIOENOV2RYNnhWdHRwSF9kVGhMckxoekQ2SzBDeVpvS3ktSHBNa3Fid0pB?oc=5",
-   "source": "CCN.com",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T16:19:20+00:00",
-   "category": "geopolítica",
-   "score": 3
-  },
-  {
    "title": "Euro-Zone Inflation Is Seen Weaker for First Time in Five Months",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQV91VXMzbTBWRWtyVHZlbmxqSFdtQnNteHFSTnVRdlJCVm9NZUdCMnROT0E2U3dLREktSk5GYkl2bUF2UXhrM1FDVFR0dTktMnVTUDVqWHZJTVdtUDZKUnY3YUFadGpZdU5xbHJhcEFUaDQzX3EwekliN3I5VXlzVXZ0VUtPT2c2SEVvbC1wX1MwN3dKQkU0TWwxTWRIVTU5bUxYVmJVeWRsZTAwSEVlUzF2ME5udw?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "feed": "Google News · markets",
    "published": "2026-11-27T16:18:45+00:00",
    "category": "macro",
    "score": 3
   },
   {
-   "title": "Signal House Publishes Record-Based Explainer on Bitcoin Latinum Lawsuit",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2JIN3dyME5fcVNwakxfWE9ZRGV4eThpbFJ0VUdGdWNBbktZb3RzNWJmNDJLY3RoVzRKWXlVeHZwUnJQNWVuV1JGb2M3UG84VkUxSDNXdXV4Q2NjSFYxOFUwZ3VqYjIxOVUwQ24yQk1CZDhuZ3l2TnZVMFpVNDczSVRwMjl0WWZWanl0QW42NENMdkFmdGllX1hxUmdLSDJsN3Vfc2NxamxqR0lVNkJpcXRiYjJmTFV0aVdyUW1DakpsUUVFQ1o4UzkwNA?oc=5",
-   "source": "markets.businessinsider.com",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T16:06:06+00:00",
-   "category": "cripto",
-   "score": 3
-  },
-  {
    "title": "The Big Pressures Facing the Fed",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmJVY0hNd3M0QlpLTWVBLW5iNXM3SWhZeGRHOWpyS0xxbWk3QmczdjVYN2lfdnRaNEpOTWFfRGtHdGNHbVM0UTNTS3FLNFZua0dScFRNanRvaDJmMzRFdm42OUczNUZnLWQwbDI4STFxSkljNkRETXJDT3ZaeU1aYnRvSmpTeUlKVk9LQ0lCWQ?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "feed": "Google News · markets",
    "published": "2026-11-27T15:53:26+00:00",
    "category": "macro",
@@ -969,15 +1028,6 @@
    "score": 3
   },
   {
-   "title": "AMD's Earnings & Why Stocks Surged",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVG5uV1ZnR011NFVDN1p0SGFOYlZPMFhqNmc5TEJNWXAxMHVfZm9oT2hsZ1hXYWdkWUYxeG8zTmkxSVh1ZzJXaE5FLW5SaS1TS0gxUFpHQTBCbXJ1RG1Lb3cyank3elhNLVJWcXpHZjZtM3djaUFubDUwdDFrbW02TFJFOXlOdw?oc=5",
-   "source": "The Motley Fool",
-   "feed": "Google News · markets",
-   "published": "2026-11-27T15:34:01+00:00",
-   "category": "resultados",
-   "score": 3
-  },
-  {
    "title": "La Fed se dirige hacia un gran error de política monetaria y empieza a cundir el temor a un \"accidente\" en los mercados",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZTNPSS0xSmZQbmw4THlNSTdHYUZOd3RPQ1podlBVcHlsekJ5VkI5S3FGTHpGM2VlQzVTODlQV3hiclhLTkN6UUV6TVV0VVdyd1huSHR6dEVhUUx2Q24xYmh1Vmd3LUdib2k5N09XN3hJV1VwVW1WRWhxVzhOMGpPR1hZQ0dsWlRSZFZ0X3NOTHY5bVhiTXc4YlYxZFJCc0VGMHZ0cVNhWnJfb3NpdG9SdEx3U0tKQnUyTUZFVjRhNnViMmltSXRKXzlBampJR3VENnpkUTg5M25OTThEb3EwaE9raTF5ZmZEQnhYZ3R5X0s1Rk53U1VYbDVZTlJnV0w5N0ZURkZyaUVjZnk1YzVjNnVWZXBEalRveTJXRnNObDdNd9IBjAJBVV95cUxOUEZLdEVPQnMwN29GOFZfczhwdXh0XzBKZmNtclpPdkdFMnFIaFBpd1ZQZWp1RUU5aTgyZVJ3bjFIMkZrZkVjZXVhTThpYkJWaUs3SDBYVzBRWVJLNlVrb0taUE84Ykh3am9jXzJJWjdQRE4zU3Qwb2d6akpRMkFGbTd1dGVENkcxY1Bxci1tdkltRnc2VHhuOE5nUWlvcUg3eE5aQ05KSHRsOS1CaUNEeWJQYUxqMmw5bjUteEJvOGgyZm43eDF5VXpyOGdXUHFPM18zNVpqdVhvVHRpa3Y5c0o0aEZPTnFRdUFwOVcteDZTaXRlYXlNaC1hRVlSeEtGQnk1N1JTWUxFTlox?oc=5",
    "source": "El Economista",
@@ -987,20 +1037,20 @@
    "score": 3
   },
   {
+   "title": "Signal House Publishes Record-Based Explainer on Bitcoin Latinum Lawsuit",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUxIT3R2dldFZlpscmRSQ1o3UlUzY0NHTlpzWUprd1VRRmt3ZG5vZndYX1dlNEFYY0RPVlpabzB6M3VnUXFFSnllWGJjWUo4cWpHQ0RpVjAya1JhWTdURnkxTzdpNjduTmQwUU95NWRfVjhXZndleUxBVlRTYzg3YzgzVXZIUVRTTlJtOWM0aVh1S1BKYTFzRkVmZ2xLYWRtN3c?oc=5",
+   "source": "Yahoo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-11-27T15:00:00+00:00",
+   "category": "cripto",
+   "score": 3
+  },
+  {
    "title": "Peter St. Onge: “Massively Bullish” For Bitcoin If Fed Abandons 2% Inflation Target",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGVhSTBZRE00VWk2dEozU2kyb2RXMTFYWFBIU1dpcTRkb2Jkc1F5YVF1d293SjBWU1N0Z3ZsTEFoanRhU01IYkxPamtoXzdUS2xrVkJBZWViUmVXaXkxNVdMQlM4WUxVNnBybGcxekNaQXRTa09CdkctdE9sdVB4MVJhRkVCQTZQRUQ0dEVib1ZaT3lobDJEdmFOM3JHRUk5ZkVZbXdPT0trRDJZWC02SVAtRQ?oc=5",
    "source": "Bitcoin Magazine",
    "feed": "Google News · crypto",
    "published": "2026-11-27T14:45:09+00:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Hawkish Fed Tempers U.S. Dollar Pullback Hopes Despite Seasonality",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUtqRHNrWTZqMW0zd216WlR5aHlxSnFSajdkTDlYZExXUGpWVThnNlhseE83OFFrWXdWUkJUajVEVzZvcGljNkt2SmtFMFcxMU1yZE9YWXBOM3VEZ1YxNEh4c0tXb2xMRzJiM3c1dWtiTFl2eWpkWEx4X2t1Si0ya1lFMGxBZWdLWGRIaElhMlNHb3pVRmlvOW5GMHZYRTc2QWh4UFN2OA?oc=5",
-   "source": "StoneX",
-   "feed": "Google News · markets",
-   "published": "2026-11-27T13:49:03+00:00",
    "category": "macro",
    "score": 3
   },
@@ -1032,6 +1082,15 @@
    "score": 3
   },
   {
+   "title": "High Inflation Puts Fed’s Credibility On the Line",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2h6dk0xd0JHNWIwS3FxcXRDV1VNc3VTRUdFT0NtaFFiUFNwVkt0bzZONVFyMUxaRmtwSEpzZzU3NEhqQXI5dG5pM2lDdGFlSXhqUHg1b1J1bDVLMGNBekg2U2ludnNGOUpPRzRTanBMdHF2UkNmWXdPRDlxVG9nbV9qUERpZlNOR29oNlZ6Zm8yQy1nMTVqUmNtV0s0N1dJSTlHZkx3?oc=5",
+   "source": "Bloomberg.com",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T11:00:10+00:00",
+   "category": "macro",
+   "score": 3
+  },
+  {
    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdV85UEt2bGozNGRyWUNlWmJwd25xQnlyVkI3V2pjVUxGTlhaZmNUeldzVUtpZTgxakUxZl9mQmlPeEpQemhfSjNDMDlMZnIwczNiM1VlZEZRUXJmVlEzNnJXcXdMQ0N2WlJ1V013X09BcklCb1FwNmVFRnA5UURTTUVR0gGHAUFVX3lxTE8xR1JkNjdzeHdhN1hWbnYtUXNSdVBsY3A0a3U2NUh1djBhM1VCdkZKaUdBMk1lU2NzS3dibXRKN2RzbXYtek5PcEpoQ2kzcU9Qazc5M0oxSUhxdVR1YVh2YVZIUksxN0lnRElaM3ktakZnc1BfZkZtS0VDSWt2MC1nd1VqZVYwMA?oc=5",
    "source": "CNBC",
@@ -1051,10 +1110,10 @@
   },
   {
    "title": "China stocks surge most in two years as Beijing vows stronger market support",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5",
-   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGNXdUhLb3NNTUhsbjNxMjUxeno3cGNlVU5LbThqU09QLTJxQ2lRemYxREtuMFlhVnlRMXVDOHZKdkZWRDVUc053Mng0VFFrRjREdnBEOUZlWTd6cGZLQmJZeHNqRVRIMXpqbTlPRGFTclFIWUNxcV9EVGNJeEU1UGNWc1RkZEhfV3VPOWp4WG5MNWswNTRJ?oc=5",
+   "source": "Yahoo Finance",
    "feed": "Google News · markets",
-   "published": "2026-11-27T06:24:00+00:00",
+   "published": "2026-11-27T10:16:28+00:00",
    "category": "geopolítica",
    "score": 3
   },
@@ -1068,29 +1127,11 @@
    "score": 3
   },
   {
-   "title": "La Fed se prepara para subir los tipos de interÃ©s",
-   "link": "https://www.expansion.com/mercados/2026/11/27/fed-prepara-subir-tipos-interes.html",
-   "source": "Expansión",
-   "feed": "Expansión",
-   "published": "2026-11-27T01:36:18+01:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "Los retos del nuevo BCE: combatir la inflaciÃ³n con un ojo en Francia",
-   "link": "https://www.expansion.com/mercados/2026/11/27/retos-nuevo-bce-combatir-inflacion-ojo-francia.html",
-   "source": "Expansión",
-   "feed": "Expansión",
-   "published": "2026-11-27T00:42:15+01:00",
-   "category": "macro",
-   "score": 3
-  },
-  {
-   "title": "JPMorgan vs TD Cowen: Can Saylor's Strategy Survive a Record Discount?",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82dUZudGpLQzZCSFdleW1EY0Z6ZHJndjROTUlaNUtwdjBvOGNfTHNHUXNfUTJUcTJSZk1BQmJXUWxyMTdvYVpfNmdLYkl5Tmdqc2xRSmtXem4?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:31:06+00:00",
+   "title": "Gold climbs above $3,650, silver surges as Wall Street rebounds sharply - Kitco PM Report",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzJJdW9tdmZOTkw3ejdzVXFQOWNvZTc2XzU0ZlFFWFJNTnVXcHVlZjRsQXdUenlibkxBTFhwNXY3d1lLVkxBOF9zWDNCSHdRTXg0VDlxWTJTOUpBbVB5dmFPV3kyMWtZODk0ZDdVQlJfZDY3alh0ZjRNbUNPcGhHYkZPWVNORkg5QWplSDFqLWQ5Zm1Qb19uQVJmV3ZDMUMyV09fN2U2U3B1SjYzTFdpUGI2YzVvSEVlVzEtMw?oc=5",
+   "source": "Kitco",
+   "feed": "Google News · markets",
+   "published": "2026-11-27T22:32:39+00:00",
    "category": "otras",
    "score": 2
   },
@@ -1131,314 +1172,250 @@
    "score": 2
   },
   {
-   "title": "Santander: las claves para dispararse un 50% en bolsa",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZzY0YkJGT2pnVnJwdXBIdkZfWG1aaXBYX1JkYkEybnJyZU9mZEo1ejdxX1NXQTNaT0Q4UjROeXhKMnpwMmwzUzhHU3pGV1plTks1NEJreDlrdmdFaXpDQkpTSVg0eXF1NVR5V1R4cWtWQ2ZyTnY3NkVRQnc5c0nSAYQBQVVfeXFMT09DeExDcm11ZUNWLWZMWFVZZ2hFUWlSLTE5RUZmNTlTaFFiTjZMSzBvUkdUdnZZNlMyMElCM3lQb3FVb0szMXhRUVRqeTlDYWcyTnRKUjRad1dYQ2EyOElJOWpkeloyejNlWlNhSUR0M2FTSUtNRHBfaXVHSGwtSzJ2WlBM?oc=5",
-   "source": "Finanzas.com",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-27T03:55:00+00:00",
-   "category": "otras",
-   "score": 2
-  },
-  {
-   "title": "Babylon’s Reported Bitcoin Stake Falls 31% in a Day",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0tad1RkTWpsbUVWOWluRE0zVlVteG9ZRldHQkE4Z2RVZlFod3otTXdoQVlJbDZzVnI4ako3dTdVMzFEcEplWk9TUjkxTHl6OV9QckhxdXhPenFjT2w2OXV5cXFrb3d6R3V6d0l1dHNhMGN2MklleXFOOEJ1TVY3X0dPczdBdTNTdmc?oc=5",
-   "source": "The Defiant",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:52:20+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Gold vs. Bitcoin: Mining CEO Explains Why the Rivalry Could Fade in 2027",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOEFacC1xUUN6THU0Uk1vZ1JnOGVNQ29aZVgwRklzR0R4Z0lVMUN0OWNpd25CdG5GV3lDSnVVWi0tcXJvcHVVaGJ6ZnVtc2NSRzMtZkp4bEo?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:45:00+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "What Happens When a Bitcoin Block Is Full, and Who Decides Who Gets In?",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13ZnktXy00QmJ6TTlxV09neGdNYkIyRFdNS3Z6WjBiVEJTVXh3c3BKalpFdzJ0TUJPSFNpRGw4WER4TnZyRmQtWnppZUZJbmZJQWUwXzFrcVU?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:39:32+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Why Is Hyperliquid (HYPE) Price Outperforming the Crypto Market Today?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWmVPVVRUTUhaVDR1Q2lsd1c0MzNCdFpVUVlZNFhmLXdVbEdWTkltWXExMEhnaGpxaDRWbnE4TU4yekkwTXVpQ1ZHUW9OUEhvNF9YV2ZWU1BNX3c?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:31:40+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Bitcoin (BTC) Has Never Been This Correlated With Gold",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14UWtNY2RRd2YtQW0tVWhHazdWc2J6Z2QxZU90ZWpBUGhodkNrcFlMUExQMEhud3JOMEdBbU9QbDhJUXVFVGFHemNRdzYxTnhXU0lCbmtSbG4?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:31:06+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Saylor Says STRC Beat Bitcoin by 45 Points, but Strategy's MSTR Lost Nearly Half",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcDh6UVAwQ2d3dV8zd1FoaGlTNE12UXZBZ291VVVIWFBtSWM2X3d2dFFKXzNDYmJQMV9LanVPbHVwMmNybHV4cE1jbGRWUWlQN2JKa0dhLWc?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:31:06+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Can a Crypto Wallet Keep Funds Safe Even If Its Provider Gets Hacked?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2c3T2UwcjZRLURnNU96UFNnX1JPdVR4ekNSMU00anFiUEVBMEpDSXNqczFrMmhyX0o5ZTBETGR5OEdFcW5wRkpWWDYzcm45ZWpLYXJKUF9BRFdWSElEeVlvZENDN2tocncybUZrVnN2ZDQzRTZ0VFpxd0dySzNEQ1ZlUGw5UWlwQ1JDd0NhTnNUR2F0TEFvblgyMFZYdw?oc=5",
-   "source": "unchainedcrypto.com",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:29:00+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "K33: AI Math Breakthroughs Don't Crack Bitcoin's Cryptography, but Keep Watching",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mdjB3dGJybWNTdEI1UlJLU1FWcGFZcl9VbW1CNTFLQnVhQUdFZmdDY29qVm95Ui1XdFNYTnEyVndWSGMzcnl5WDFqOHJiWUs5QVlkdC16LW5uUnZwVFNyNzBCOHA3WndlZndnalI4aHVVa25XaEE?oc=5",
-   "source": "BigGo Finance",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:25:00+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "S&P Global mantiene el rating de Francia en 'A+' pero empeora su previsión",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHgySUt6NXFHazR3YnpCUlVzNmVPMWxPQkJWc3hKMjhiVHNxUXBjN3M1WThGcHlRNlFCdGd4RG5HeWNKUmQ1Mkl5S0FWeDVmZFdPQ0JOMFVaeUlMUzhEVS16VVE0QWpWc0EtMTVYMW91TGxrd0h3WWhHLWdYaWx4eDVQTTFRcDdjcHJLbzBwcU1pQlZ2eFJGNnNNaS1kdzkySHA3M1FPWmxjaE5kLTFPdTlPaW14bWU1V1dZUHpENXFVdjRUdVU3WE9OT3R0bEVCU2U0NHh2X3dLRXJQU0Y4ZzltNNIBzgFBVV95cUxNWjJMWGNNWjJYdndtM1FVUnpSTnlnVkpXUW95M0VRdFNYcG1rM05uMHIxdUlidFRsa1R1TFNITHMxU1RnbnUwVjZJMWp6WTdMekNJM1AwNU9qUFZJV25PaXhoOG5QUU1meTlTT3RhX2stekJUYlZzaFZlcE05TlUzUGJfMGROdU1BNjNSczJoVXJ3bi1jNmtxZGZoLW82ZUJqNE80VjI3VFMyVXVCeXRBSDNyUXJRSjFnOVRsMjBhXzczMEdtNjdQRVEwZHBBdw?oc=5",
-   "source": "El Economista",
-   "feed": "Google News · mercados ES",
-   "published": "2026-11-27T21:22:34+00:00",
-   "category": "resultados",
-   "score": 1
-  },
-  {
-   "title": "‘Give It Up’: Saylor Fires Back at Infamous Bitcoin Critic",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZEVQSHlld3doVTIySGV5VmllR3d4Sy0tcDhWS0JDTG5YMXdUX3VtQktUR1g2QVVfZzRfUDlxNk1iZnR1WXRQWnV3RG5QcThsMDFyc2QzcUk?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:21:06+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVjhqazUxdVl3cE40WEN4R0lNRUxNdTVfLTNLRVREM2FKVWxhekw5NzR5NkE2WWpTN3JaZmZKNE5MUEZpZEtIQk9lTW85WmdXTVZtWW5KMWs?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:17:28+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "No Black Friday in Crypto: Bitcoin (BTC), Solana (SOL), XRP Rise as $170 Million in Shorts Get Wiped Out",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMeElvRlA5N0NWZXBPMUFJaHdGelVRc2hvUmhsejNNSEFNQzZlQmtBV1U3b1VsZ0cybzdrWnM3WWZ1Vjg1WVFKa0VHaEYyOV9ZZHNvcHFvZm9nYnc?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:17:28+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "Trading expert outlines Bitcoin path to $100,000",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43VmRXbmpkMWczbERFTV9PR01UVzJUOEQ4Nlc3MkhhVS1NVUx3dHdqMWd5WmY0dUpKMGNyVHp5S3B2enFpR2MxaWc3TmlPa2dJb19KZGlLcTM?oc=5",
-   "source": "Cryptonews.net",
-   "feed": "Google News · crypto",
-   "published": "2026-11-27T21:11:06+00:00",
-   "category": "cripto",
-   "score": 1
-  },
-  {
-   "title": "BTC price range on Dec 4, 2026 at 5pm EST Crypto Prediction Market",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3psSlVtT3Z4SGVGcFdrTHhwVGtLSkEwNlIyc3gxTXdGQlVEWXVMZnFuVHlMcUxKdjZJNUlyanpIYURSNmU2dmRma1U4aGplOXl5aVpCLTVuS0lqNTRmeTRZdW1VSUo0MW9TVVVETEhkazJpVk56amRnSXdGeTVGaXJ3SGpLQlkzcE9nQzJYbllOZU1QdklKcV9PWFVaeGd0dTUtUXhWTmRDZDdEN1NKa2x0NW0?oc=5",
+   "title": "XRP price at Nov 27, 2026 at 11pm EST Crypto Prediction Market",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkRKbTZfbmt4WjlqNGV3RDhLTVJ1R05Ia196MVhmenU5YmtmeERoQkc2YmZzN01IVDBXUXZ1U1RDMFFXZHZCNGlRSU9kQ2xCUE5TOGhWbUZ4bXAteXctbTJacHIwX1RaSF9BYmVPWHhMb185M0w2cnM0WFNHQ090b2pTczlBR1F0MjJ1X29oYlFsd0VLTENyVWNYSEFaYUJ1dXNUcFFlR3B1YWxmQW53?oc=5",
    "source": "Robinhood",
    "feed": "Google News · crypto",
-   "published": "2026-11-27T21:08:41+00:00",
+   "published": "2026-11-28T03:09:47+00:00",
    "category": "cripto",
    "score": 1
   },
   {
-   "title": "Kalshi Referral Code SBWIRE55 | $55 Bonus for NFL, NCAAF, NBA, Crypto & More",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1g4RlhOZTF4ZEVlal85UlFvT0E3THFFYVFxWGJ3MFI5SVRodmpuYUxYWG92V2dqMzU0cU81dEFWcjVoQXhTLWpqRm05T0xwSkNINDVnNXVyY0NfOVhjZ1JSOGllS1hXZ0FBa3V0cVRZcUlYLWk1MXVybXV3RXBCMmFKRmRxQkFhSnRRS0dlemxkYmMwWURGR1VWV2xCM2hNaGR2TmlEeS0ybXhVYkx4YzdYSlNySTFrUXMybzRfU3Y0dw?oc=5",
-   "source": "USA Today",
+   "title": "Crypto Fundraising Recap: $405.2M Across 36 Rounds",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFpaQkh3Zi1uSDA1OVFkMFVDZWlHT0VzemRsZFhiN3pCWnNWcl9BczQ3bGROazhyVjJ5aV9NRWlQNGU3WllkSFNDSWFjOVJGTUZGbW1ocFlQTlBNSElfRFl4ZTh5a0ltYXFiZHVnMEhYWkpNMFFaUzhrZkVkQ1JhamVWOEdXSGY2VVp2b2U1QQ?oc=5",
+   "source": "shattered.io",
    "feed": "Google News · crypto",
-   "published": "2026-11-27T21:02:00+00:00",
+   "published": "2026-11-28T02:35:07+00:00",
    "category": "cripto",
    "score": 1
   },
   {
-   "title": "Stacks: Bond 4 opens for Bitcoin staking - 27 Nov 2026",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEhYd3lrd0R4blhHNUpBSEV4U0dtOVB4RXVzTDdpQk5fZVZ0c1VhVXJ0ekhvZkJ5RkFfYTlVSU9QQnJCWnJaaEw3bHBwWXhaTzFNb2dFbFhLSnFCbC1SdWdrckpDdVNPczZIaEFjeC1rQU1kSUVDQ3FIRDZmbWQ5d09kN2d2RU5vQWtINnB2eVhRLV8yUWpmdDhlRWxQUDJiMlM2WTVjNVFyTVZ1ck9QQmVlcjVpUQ?oc=5",
+   "title": "Cruz Roja y el comercio se unen por el empleo en O Barco",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHRuRjJHNjdCM0RhS0toeWtweDQ2MnUzcDRhZV9MTnpqOU1hZVNueThlOWpSRktLNDdTS3lOX0ZSRkhVbFNwV2o3M2FDb2pneXBEczlkWnNVOWxKYmpRU09oSk0xRXI2S1FiM2I1Y3Z6d1MzTU1JclE5WFJOU1BqR25MM0hzRGNZN3lDM3dNbWNzbWZYb3VwVEl6bEZtMWhmeFE?oc=5",
+   "source": "La Región",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-28T02:30:00+00:00",
+   "category": "macro",
+   "score": 1
+  },
+  {
+   "title": "Binance, IWF Team to Flag Crypto Child Abuse Payments",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUU5OSGVxRk9oQmZLa0tucUhCa2dLQnJWWW1XcllVVE02YjVQT0N1elZfal93M2pFRkt2V3VDWkh3cHNCZEc4YU1ORFQ4ZDZjM2VfaFhDWGtvSTBtb0pnWEl5RC1KeV95OG96SGd1WFdheDRJdkZ5WU5OTTVoVUc0eW1aeHdCbFMzTlh4MHBQRmhKZw?oc=5",
+   "source": "Briefs Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T02:29:11+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "BTC price range on Nov 27, 2026 at 10pm EST Crypto Prediction Market",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXpMYThFUjZERDJidEdrSzZlNk9obVE3eVgzZ2YyQnpGR1ZrbExCWVB6b3JKbjVIVmNpc1RMT2l0aDhnVlZ0dExheFBlOW5wcl9PWjhrY0NkaUhDWm13R3VVc25QZnZSQW1LR2RlQ01tVHlzamNpNjVsWVV3UXpkcU0zMC1yYjNvem9XS2l4aWpnemxsMlpVWmx1M1kzTE5odDZGYm45Yi1laTdwTWZLUkhObUI2cnM?oc=5",
+   "source": "Robinhood",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T02:11:34+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Bitcoin Nears End of Seven-Week Slide as HYPE, SOL and FET Lead Altcoin Rebound",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VNkVkYzJDczhjU29LNXM3ajRNVGZnMkFPUWY2dmxNSHpFQWRuUTlDVV9oT2paS3FuMFdvMFpTVjNNRE5BdTZVbGF2T0tEVTJUTmxESmg2RXFWam1aUHBvaWtGalpEYXBEZDNLX0xScjNjcW5MZlE?oc=5",
+   "source": "BigGo Finance",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T02:05:00+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "CryptoStar USA shuts down its last Bitcoin miners in Utah",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2Q5QmlHUkk3azhTU1JqeF84QWlScUxEVmNkZTJYNjZFWGgwUjk1UEFXUmRJMU9zYjJub1JzTWtxRmozUlZWa0o0WWlKV1VNT3FCOVRHX0l6VGhIUUxzSVd1bzFRZmVhS3ZsVk9OazRhSWFWbFJxbTJDOWNPMHZhR3IxSlZKajd3MkpORTJmWkdfTk8yTWdLOEkxMzlfeXgxQ3QtTGtDRThkZDh6ckNGRTR1NDQ2cnZhRDQ2NC15QQ?oc=5",
    "source": "TradingView",
    "feed": "Google News · crypto",
-   "published": "2026-11-27T21:00:16+00:00",
+   "published": "2026-11-28T01:46:14+00:00",
    "category": "cripto",
    "score": 1
   },
   {
-   "title": "China’s Cabinet Stresses Market Support in Rare Midday Statement",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5",
-   "source": "Bloomberg",
+   "title": "‘The Altruists’: How Netflix turned a crypto scandal into television gold",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PSmFZUnlUNFBKOVp4MUxKRm5FdzNBOXdmdkVsdG5La3czWi1LTXE3cDRwR0Zsdmp0VXpsd09JczhEUTJXa2lLaE9WWEVQLXVlb3hZb3dWMEdZRkloejdZVHJnU3dMbjg?oc=5",
+   "source": "The Jerusalem Post",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T01:30:37+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kcUtPWmlxX1g5aVM3b2RxQWdKeU9qOXNiSTVNanlvbXBkWnJiM0VvemFqSEcxaEFsTVZEbE9XZjJ1Tk5VNHpEUFdwdXc3M092U0xjZQ?oc=5",
+   "source": "bloomingbit",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T01:09:24+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVZbnY2RURMam9FbFhlckQ4WFNfQnIzNF9RTE5iQ2FyUHMyWlZsT3dhRzkwMmR3Vm1sSllwOWNUQ1haNWozMjRXMXhVNmRTcGVTUUt5WWhLNk5DVjVOUmE1TTR1YUg1V0pvZjZkZUJxZHFJRktSaG01dTZOeWc0R3YxS1VEeWVzNkF3SUFvLUFvalF0OHU2dW9R?oc=5",
+   "source": "Yahoo Finance",
    "feed": "Google News · markets",
-   "published": "2026-11-27T20:58:41+00:00",
+   "published": "2026-11-28T01:09:00+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFJadW81Z1BFaFFYaEZ6b1dBSFpNdWdYQnBwQV93S0pUSXVFd0ZOWHB5MktJVmpSZnpDUEVQRHJsS1J0NmRfZFhXbFpEMlJWeXh0UjhZQWpSd1UxYkNnMDE4MWdoTDQ2WksweHpJbDEyQVpJWHN2d0F3OVZWX0gySzhrMEtRemxwT3VpWDBRRUlNSm95YkxieHc5eHo2VDFtVmVkRUNIa2VTSHlmanEw?oc=5",
+   "source": "CryptoSlate",
+   "feed": "Google News · crypto",
+   "published": "2026-11-28T00:50:00+00:00",
    "category": "geopolítica",
+   "score": 1
+  },
+  {
+   "title": "La bolsa china registra su mayor alza en más de dos años tras el aviso de Pekín",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRENhS0xxeTVUdjF4bmFwQXBPQTdRMHJBOFZtbEU2czd3N29TWlBkTXRhYzFCMVZJREdxdEVjdjZheVhXcFVXdXdvdHlOamJFQnlPNVVOeXlJV0E4MjNacmdsT3pDdnBnVUdxN2NNeXFvYV9zSi05VUI3SVpLZ242eEx4djM3Z1RVYm5IZDdVaXNfUQ?oc=5",
+   "source": "CriptoTendencia",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-28T00:24:36+00:00",
+   "category": "geopolítica",
+   "score": 1
+  },
+  {
+   "title": "El Nasdaq y los ETF tienen la llave del rebote del bitcoin",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmlUYzRWcXFwMXA3MU9wQjFWZV9JUnRtOGFTWlc3WDdBY1hHYkp2cnBQT0JuSTdqdGlVVDU3Y0U5ZVZDNGRpdm10WXd6Ui0zYnZXNk1lSExjd0JkSFBrNi1xYXlrUzNuazlXYlo2QWJsMDVSVWc0R01wYTMyRXBycmNqVEo5T3dPeE1QWU9adHgtanVlbjQ0bmJhOUnSAZwBQVVfeXFMTldDNkFnSGZ6ejhDYU96Z2hDZlp0aGpKVXgyckdlbTBmeTBhUXF3UkwzMGJqTDBhN0s0UHNWUl9iVjJIS1BnWmJuNk9PWlY0MkFGVE5jcVNSRFg1YldxWXFFN1hNSWQtVjB3VVZWaE9sQnoyTUFEU0xqaXd0ZjA3N1prZmhORXdfRXg5UnJuenVQYUl1UDg1eDNYVk1a?oc=5",
+   "source": "Expansión",
+   "feed": "Google News · mercados ES",
+   "published": "2026-11-27T23:36:00+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "VTB opens bitcoin trading to qualified investors as Sberbank eyes December 1",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFV6TzRDOUkxMDVVckJkbWZyNS1OWmF6a0NrSHc3WGE2dFVCdEd4SHh4dWp0RlM1RTJXTHBTNkFQanBfSFlyTEx6ZjZSM0szRUFIX3dWWXBFZlhCYWNUVW43Q3RiV0ZHQXF3cDA2M3dIZ29SMFh0ZmVuMWtPVXBUNGlqNnY1Tmp4WnItR1hqM1BfdktjV3MtOXZnOVhTbF9yVU91MzlIZw?oc=5",
+   "source": "Startup Fortune",
+   "feed": "Google News · crypto",
+   "published": "2026-11-27T23:33:47+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUtmZEF6VkZkSVFSXzR2aTVOWEJ2Tkg5MXJiUG81MHFjODNXY2FLcGxhdjJvQW5qMWI2c3lGS1NvbkRXQ21nRXdvRU9ZX0RSZ0Q0SzNlU1R1bWlXTks5NjQwVnZHNDlOMlZNUnd3a2o0OVlHdHJuclhrcEVFQTkzc1EwMVIyeV9ka25tSVh6TWNsaTcwYjdoYkd2bzB4a0ZtYU02NzcxM2ZxMmZIblByWkFBUlc5VllESzlSSmRCdFdwbEdwdnZmTGlZVVRCdTUzeDhiQ3F4SVVUeFByOEpTd3pXaUJZOUVqNnc?oc=5",
+   "source": "NewsCord",
+   "feed": "Google News · crypto",
+   "published": "2026-11-27T23:24:32+00:00",
+   "category": "cripto",
+   "score": 1
+  },
+  {
+   "title": "Bitcoin miners are in trouble as key metric hits an all-time low",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFlydjVlUGhtTFlUM1NvczRYWjllNWhJNFdjSFQtaVNhZ1BjVW9WUDZNTTZQTk9vV0FwME01bG53YU4ybGZWQWw3dW5mUEFhOEpsbDZlazd0U3BTbVlMYUJmaGJHRVIxYTgzNUtNS2VfdUl0OEROR3VxYXAtdWdsdDJjdEZvNEt1Vm9WVk8zX0VJWkl5OU8yeHJseC0?oc=5",
+   "source": "Blockspace Media",
+   "feed": "Google News · crypto",
+   "published": "2026-11-27T23:18:53+00:00",
+   "category": "cripto",
    "score": 1
   }
  ],
  "analisis": {
-  "resumen": "En esta revisión abre EE. UU. y cierra con un rebote amplio de la renta variable (S&P +1,6%, NDX +2,6%, SMH +4,2%). El petróleo cae un 4% y el oro sube un 3,8% de forma anómala. El mercado da por descontada una subida de la Fed, el dólar marca máximos de 52 semanas y bitcoin cae mientras la bolsa rebota.",
-  "resumen_dia": "Asia subió con fuerza, liderada por China tras la promesa de Pekín de apoyar el mercado (la revisión anterior citaba +3,7%) y reforzada por un comunicado del Consejo de Estado a mediodía. Europa abrió con alivio por la inflación a la baja en Francia y España, impulsada por la energía, y cerró con subidas (IBEX +1,7%, Santander +4,4%, Euro Stoxx +1,2%). Ya hay un BCE con sesgo de subida y una crisis de deuda francesa de fondo, con S&P manteniendo el rating de Francia pero empeorando la perspectiva. En EE. UU. hubo un rebote fuerte de tecnología y semiconductores tras la caída previa. El crudo cayó un 4% y el oro subió un 3,8% pese a la Fed restrictiva. El dólar subió y bitcoin y ethereum siguieron débiles. Cierre mixto con sesgo risk-on en bolsa, pero sin confirmación en dólar, oro y cripto.",
-  "clima": "mixto",
+  "resumen": "Desde la revisión anterior, las bolsas han rebotado con fuerza en todas las regiones: Asia (Shanghái +3,7% tras la promesa de apoyo de Pekín), Europa (IBEX +1,7%) y EE. UU. (Nasdaq 100 +2,6%, semiconductores +4,2%). El Brent baja un 4% y el oro rebota un 3,8%, mientras el dólar sube y el bitcoin cae por debajo de 60.000 $. El rebote ocurre dentro de tendencias bajistas de 1 mes en tecnología y cripto.",
+  "resumen_dia": "",
+  "clima": "risk-on",
   "noticias": [
    {
-    "id": 8,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Esperada: el mercado ya descuenta del todo la subida de la Fed, así que el posible movimiento adicional está limitado.",
-    "impacto": "Apoya al dólar (DX-Y.NYB en máximos) y presiona a EUR/USD y a la tecnología de larga duración; el rebote de bolsa choca con este sesgo."
-   },
-   {
-    "id": 20,
-    "categoria": "macro",
-    "rumor": false,
-    "novedad": "Sorpresa moderada: la inflación de la eurozona se ve más débil por primera vez en cinco meses, sobre todo por los carburantes.",
-    "impacto": "Aligera algo la presión sobre el BCE y ayuda a la renta variable europea (IBEX, Euro Stoxx), aunque el BCE sigue con sesgo de subida."
-   },
-   {
-    "id": 51,
+    "id": 37,
     "categoria": "política/regulación",
     "rumor": false,
-    "novedad": "Parcialmente esperada: se mantiene el rating A+ pero empeora la perspectiva, lo que añade riesgo de deuda francesa tras el cierre de EE. UU.",
-    "impacto": "Riesgo para bancos europeos y el Euro Stoxx, y presión sobre el euro. Lo que se vea en la apertura del lunes depende de la reacción de la prima de riesgo."
+    "novedad": "Sorpresa: Pekín promete más apoyo al mercado y las bolsas chinas suben lo máximo en dos años (Shanghái +4,6σ).",
+    "impacto": "000001.SS y ^HSI suben por el apoyo político y las compras de cobertura. Un movimiento de +4,6σ suele estar ya descontado a corto plazo, y su persistencia depende de medidas concretas.",
+    "importancia": 4
    },
    {
-    "id": 59,
-    "categoria": "política/regulación",
-    "rumor": false,
-    "novedad": "Nueva: el Consejo de Estado refuerza el apoyo al mercado en un comunicado inusual a mediodía, tras el repunte de China.",
-    "impacto": "Favorable a Shanghái y Hang Seng, aunque los rebotes por anuncios de apoyo suelen desvanecerse y el precio puede haberse movido ya."
-   },
-   {
-    "id": 32,
+    "id": 40,
     "categoria": "sectorial",
     "rumor": false,
-    "novedad": "Aviso de Goldman sobre unos 100.000 M$ de ventas automatizadas que coinciden con el rebote; la fuente es una opinión y no una cifra confirmada.",
-    "impacto": "Eleva el riesgo de que el rebote de índices (NDX, S&P) se frene o revierta en las próximas sesiones."
+    "novedad": "Rebote tras un desplome fuerte de la capitalización; es reversión de una venta masiva, no una noticia fundamental.",
+    "impacto": "^NDX, SMH, XLK y NVDA suben por el cierre de posiciones bajistas y el rebote técnico. Sigue siendo un rebote dentro de una tendencia bajista (SMH -22% en 1 mes).",
+    "importancia": 4
    },
    {
-    "id": 53,
+    "id": 7,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Esperada: el mercado ya da por descontada una subida de la Fed, y el EUR/USD apenas se mueve (+0,0%).",
+    "impacto": "Tipos altos por más tiempo apoyan al dólar (en máximos de 52 semanas) y presionan a la tecnología de larga duración, al oro y a la cripto. El bono a 10 años sube 9 pb hasta 4,94%.",
+    "importancia": 4
+   },
+   {
+    "id": 38,
+    "categoria": "geopolítica",
+    "rumor": false,
+    "novedad": "El conflicto con Irán sigue, con un ataque de drones en Kuwait, pero el Brent cae un 4%. El mercado no parece pagar prima de riesgo.",
+    "impacto": "BZ=F y XLE dependen de si hay desescalada o bloqueo. La caída del crudo (-21% en 1 mes) frena la inflación energética y ayuda a las bolsas importadoras.",
+    "importancia": 4
+   },
+   {
+    "id": 2,
     "categoria": "cripto",
     "rumor": false,
-    "novedad": "Divergencia: bitcoin cae bajo 59.000 $ mientras la tecnología rebota.",
-    "impacto": "BTC y ETH están desacoplados de las acciones, con debilidad propia (-21% y -26% a 1 mes). Están sobrevendidos pero sin catalizador de rebote claro."
+    "novedad": "Continuación de la tendencia: el BTC cae de nuevo bajo 60.000 $, con 228 M$ liquidados en una hora y salidas récord mensuales de los ETF de EE. UU.",
+    "impacto": "BTC-USD y ETH-USD siguen presionados por las salidas de los ETF y las liquidaciones. Están sobrevendidos (RSI 27-28), lo que permite rebotes técnicos pero no un cambio de tendencia.",
+    "importancia": 3
+   },
+   {
+    "id": 25,
+    "categoria": "macro",
+    "rumor": false,
+    "novedad": "Sorpresa moderada: la inflación de la eurozona se prevé más débil por primera vez en cinco meses, con caídas en Francia y España por el combustible.",
+    "impacto": "^IBEX, ^STOXX50E y las bolsas europeas se benefician de unas expectativas del BCE menos agresivas. Se contrapone al titular de Reuters (31) de que el BCE podría subir más.",
+    "importancia": 3
    }
   ],
   "divergencias": [
-   "El oro sube un 3,8% (+2,4σ) con dólar fuerte, Fed restrictiva y tendencia bajista, sin catalizador evidente que lo explique.",
-   "XLE sube un 1,3% mientras el Brent cae un 4%, lo que no cuadra con la correlación habitual energía-crudo.",
-   "Bitcoin cae un 1,3% y ETH un 1,5% en un día de fuerte rebote de tecnología y semiconductores, y las noticias subrayan una correlación récord con el oro.",
-   "NDX (+2,6%) y NVDA (+0,8%) suben, contra las hipótesis bajistas abiertas; la tesis de NVDA citaba una noticia de S&P que, según los titulares de hoy, se refiere a Francia y no a EE. UU.",
-   "El Shanghái aparece con último dato del 26-nov (+0,0%), por lo que el repunte de China citado en las noticias puede no estar en el precio de la tabla."
+   "El oro sube un 3,8% (+2,4σ) con el dólar en máximos, la Fed al alza y rendimientos subiendo; no hay un mecanismo claro más allá de un rebote desde mínimos de 15 meses.",
+   "El Brent cae un 4% pese al conflicto con Irán y el ataque de drones en Kuwait; el mercado parece descontar desescalada o debilidad de demanda.",
+   "EUR/USD queda plano (+0,0%), en mínimos de 52 semanas, aunque el titular habla de recuperación.",
+   "Las bolsas suben con fuerza (NDX +2,6%, SMH +4,2%) con el bono a 10 años subiendo 9 pb; el rebote contradice el sesgo restrictivo de la Fed y puede ser técnico.",
+   "El bitcoin cae mientras las bolsas rebotan: la correlación habitual con el Nasdaq no se cumple hoy, por las salidas de los ETF."
   ],
-  "hipotesis": [
-   {
-    "ticker": "GC=F",
-    "direccion": "bajista",
-    "horizonte_dias": 5,
-    "tesis": "El oro sube un 3,8% (+2,4σ) en tendencia bajista, con dólar en máximos y Fed restrictiva, sin razón nueva clara; se espera que revierta parte del salto.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 47,
-    "confluencia": [
-     "Movimiento anómalo +2,4σ sin catalizador claro",
-     "Tendencia bajista (-9,5% a 1 mes) y dólar en máximos de 52 semanas"
-    ],
-    "contra": "El oro puede estar reflejando una cobertura real ante el riesgo de deuda francesa y el rebote puede continuar; fadear movimientos de más de 2σ es arriesgado.",
-    "sesgos": "Sesgo de reversión a la media y de anclaje en la tendencia previa; no tengo la causa del salto.",
-    "ev_pct": 0.29,
-    "operable": false
-   },
-   {
-    "ticker": "ETH-USD",
-    "direccion": "alcista",
-    "horizonte_dias": 7,
-    "tesis": "ETH está sobrevendido (RSI 28, -26% a 1 mes) y el cierre de cortos podría provocar un rebote técnico, aunque sin noticia que lo respalde.",
-    "objetivo_pct": 8.0,
-    "invalidacion_pct": 5.0,
-    "confianza": 40,
-    "confluencia": [
-     "Sobreventa (RSI 28) tras caída de -26% a 1 mes",
-     "Liquidación de cortos (unos 170 M$) en cripto el mismo día"
-    ],
-    "contra": "Tendencia bajista fuerte y desacoplada del rebote de bolsa; la sobreventa puede prolongarse y hay titulares de riesgo de nuevas caídas en BTC.",
-    "sesgos": "Sesgo de reversión a la media y de buscar suelo; hay pocas señales independientes.",
-    "ev_pct": 0.0,
-    "operable": false
-   },
-   {
-    "ticker": "000001.SS",
-    "direccion": "alcista",
-    "horizonte_dias": 8,
-    "tesis": "Shanghái está en mínimos de 52 semanas y sobrevendido (RSI 27), con promesas de apoyo de Pekín que aún pueden no estar en el precio de la tabla.",
-    "objetivo_pct": 3.0,
-    "invalidacion_pct": 2.0,
-    "confianza": 42,
-    "confluencia": [
-     "Sobreventa en mínimos de 52 semanas",
-     "Apoyo político explícito de Pekín (Consejo de Estado)"
-    ],
-    "contra": "Si el repunte del día ya ocurrió, entraría tarde; los rebotes por anuncios de apoyo suelen desvanecerse y la tendencia es bajista.",
-    "sesgos": "Sesgo de narrativa política y posible incertidumbre sobre la fecha del precio de la tabla.",
-    "ev_pct": -0.0,
-    "operable": false
-   }
-  ],
+  "hipotesis": [],
   "vigilar": [
    {
     "ticker": "^NDX",
-    "motivo": "Rebote de +2,6% frente a una hipótesis bajista abierta y un aviso de ventas automatizadas."
+    "motivo": "El rebote de +2,6% choca con la tendencia bajista y la Fed restrictiva; vigilar si aguanta o se revierte."
    },
    {
-    "ticker": "XLE",
-    "motivo": "Divergencia con el Brent (-4%): la hipótesis bajista abierta tiene respaldo, pero conviene ver la apertura."
+    "ticker": "000001.SS",
+    "motivo": "Movimiento de +4,6σ tras el aviso de Pekín; ver si hay medidas concretas o si se diluye."
+   },
+   {
+    "ticker": "BZ=F",
+    "motivo": "Caída del 4% pese a la tensión con Irán; clave para XLE y para la inflación."
+   },
+   {
+    "ticker": "GC=F",
+    "motivo": "Rebote de +3,8% en contra del dólar y los tipos; comprobar si es sostenible."
    },
    {
     "ticker": "BTC-USD",
-    "motivo": "Sobreventa y desacople de la bolsa; riesgo de seguir cayendo."
-   },
-   {
-    "ticker": "^IBEX",
-    "motivo": "Cruza al alza su media de 50 sesiones y hay riesgo de gap por las elecciones."
-   },
-   {
-    "ticker": "EURUSD=X",
-    "motivo": "Mínimos de 52 semanas con dólar fuerte; sensible al BCE y a la deuda francesa."
+    "motivo": "Por debajo de 60.000 $ con RSI 27 y salidas récord de ETF; el rebote técnico depende del flujo."
    }
   ],
   "decision": "no operar hoy",
-  "decision_motivo": "Ninguna hipótesis supera el umbral: las probabilidades (40-47%) dan EV bajo el 1% y están por debajo del 55% exigido, y hay movimientos anómalos sin catalizador claro.",
+  "decision_motivo": "Revisión de actualización, solo observación: las decisiones se toman con los precios de cierre de EE. UU.",
   "modelo": "claude-sonnet-5-5",
   "uso": {
-   "tokens_entrada": 9063,
-   "tokens_salida": 5847,
-   "coste_usd": 0.0766
+   "tokens_entrada": 8691,
+   "tokens_salida": 2706,
+   "coste_usd": 0.0444
   }
  },
  "calidad": {
   "ok": 3,
-  "sin_contraste": 25,
+  "sin_contraste": 26,
   "dudoso": 0,
-  "sin_dato": 1,
+  "sin_dato": 0,
   "fuentes": {
-   "Yahoo": 28
+   "Yahoo": 29
   }
  }
 }
